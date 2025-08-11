@@ -1,0 +1,644 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Wiki of the New World Video Gallery - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Wiki of the New World Video Gallery">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'videoGallery',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span><a href="/accountSearch/all">Members</a></span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Wiki of the New World Video Gallery</h1>
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">All Videos</li>
+                      <li><a href="/videos/featured">Featured Videos</a></li>
+                      <li><a href="/videos/albums">Collections</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div><span class="controlsNode"></span>
+                  <ul class="WPC-toolsMenu"></ul>
+                  <div class="pageSectionHeaderContainer">
+                    Contributors to this site can add videos to the Video Gallery. (<span class="WPC-moreHelp">help</span>)
+                  </div>
+                  <div id="WPC-videoList" class="pageSection pageSectionOutOfPage">
+                    <table style="height:260px">
+                      <tr>
+                        <td>
+                          <div id="videoSpotlightPanel" class="panel spotlightPanel panelAnnouncement myWetpaint" style="height:250px;">
+                            <div class="panelHeader close">
+                              <h3>Video Spotlight</h3>
+                            </div>
+                            <div class="panelContent">
+                              <table>
+                                <tr>
+                                  <td>
+                                    <div class="videoThumbContainer">
+                                      <div class="imageContainer">
+                                        <a href="/video/6089900/Lorch" title="Lorch" rel="6089900"><img src="http://i.ytimg.com/vi/sEhLoM-zJj4/2.jpg" alt="Lorch"></a>
+                                      </div>
+                                      <ul class="videoThumbMeta">
+                                        <li class="videoDuration">00:36</li>
+                                        <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                                      </ul>
+                                    </div>
+                                  </td>
+                                  <td width="100%">
+                                    <b>Have you seen &quot;<a href="/video/6089900/Lorch" title="Lorch" rel="6089900">Lorch</a>&quot;?</b> This video was added on <span title="Mon Jun 08 12:31:24 UTC 2009">Jun 8, 2009</span> by <a href="/account/xBelmontx" id="WPC-action_accountMenu?account=xBelmontx&subject=Lorch&from=statusFirst&photoId=6089900" class="WPC-action" onclick="return false">xBelmontx</a>.
+                                    <div style="padding:10px 0">
+                                      <b>Description:</b> None
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table><br>
+                              <br>
+                              <br>
+                            </div>
+                          </div>
+                          <div class="clear"></div>
+                        </td>
+                        <td>
+                          <div style="margin-left:6px">
+                            <div class="ads adsinContent">
+                              <script type="text/javascript">
+
+                              if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.inContent);
+                              </script>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                    <div style="margin-bottom:1em;" class="message">
+                      <label for="sort">Ordered by</label> <select name="sort" id="sort">
+                        <option value="name">
+                          Name
+                        </option>
+                        <option value="updatedDate" selected="true">
+                          Last update
+                        </option>
+                        <option value="updatedBy">
+                          Updated by
+                        </option>
+                      </select>
+                    </div>
+                    <script src="http://static.wikifoundry.com/scripts/wpjsPage/sortDropdown/p.js" type="text/javascript"></script>
+                    <div class="pagingWrapper" style="clear:both;">
+                      <div class="pagingActionWrapper">
+                        <span class="pagingAction"></span>
+                        <form name="paginationForm" action="http://swordofthenewworldwiki.com/;jsessionid=CE74747934F1542AB466B84ED5617083" method="get">
+                          <span class="pagingAction"><input type="hidden" name="offset" value="0"> Showing&nbsp;21&nbsp;-&nbsp;40&nbsp;of&nbsp;44 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                            <option value="10">
+                              10
+                            </option>
+                            <option value="20" selected>
+                              20
+                            </option>
+                            <option value="50">
+                              50
+                            </option>
+                          </select> videos&nbsp;at a time</span>
+                        </form>
+                      </div>
+                      <div class="paging">
+                        <a href="?offset=0&maxResults=20">Previous</a> | <a href="?offset=0&maxResults=20">1</a>&nbsp;2&nbsp;<a href="?offset=40&maxResults=20">3</a> | <a href="?offset=40&maxResults=20">Next</a>
+                      </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                    <div class="cardReportList videoGalleryList">
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9658040/T.A+-+Team+Arena" title="T.A - Team Arena" rel="9658040"><img src="http://i.ytimg.com/vi/_Kl_LJmAuTo/2.jpg" alt="T.A - Team Arena"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">03:35</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9658040/T.A+-+Team+Arena" title="T.A - Team Arena" rel="mediaId=9658040&widgetId=d4b92b33e37d450ba55caee27b730642f4dfdb08">T.A - Team Arena</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657948/GE+4.0+New+Raid+Bosses" title="GE 4.0 New Raid Bosses" rel="9657948"><img src="http://i.ytimg.com/vi/rfSh200Jt-I/2.jpg" alt="GE 4.0 New Raid Bosses"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">01:04</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657948/GE+4.0+New+Raid+Bosses" title="GE 4.0 New Raid Bosses" rel="mediaId=9657948&widgetId=e5d528175c1f5e65b384fa84190d388d01590b57">GE 4.0 New Raid Bosses</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657931/Mufasa+Raid+-+JGE" title="Mufasa Raid - JGE" rel="9657931"><img src="http://i.ytimg.com/vi/ZuAPYQqJlmE/2.jpg" alt="Mufasa Raid - JGE"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">10:12</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657931/Mufasa+Raid+-+JGE" title="Mufasa Raid - JGE" rel="mediaId=9657931&widgetId=f2eb5ddab8ec5639d00a7b4862425f2adc4292e2">Mufasa Raid - JGE</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657924/Power+of+Darkness+-+Wizard+Expert+Stance" title="Power of Darkness - Wizard Expert Stance" rel="9657924"><img src="http://i.ytimg.com/vi/pzrdj0HuVfI/2.jpg" alt="Power of Darkness - Wizard Expert Stance"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">01:11</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657924/Power+of+Darkness+-+Wizard+Expert+Stance" title="Power of Darkness - Wizard Expert Stance" rel="mediaId=9657924&widgetId=0625b66a0089a1ac4f18db6643e1ddb3fecab155">Power of Darkness - Wizard...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657922/Ania+-+Gorgeous+Stance" title="Ania - Gorgeous Stance" rel="9657922"><img src="http://i.ytimg.com/vi/AdXRnZxRoFc/2.jpg" alt="Ania - Gorgeous Stance"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">02:03</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657922/Ania+-+Gorgeous+Stance" title="Ania - Gorgeous Stance" rel="mediaId=9657922&widgetId=e4715196081d0d71b0712a01c968a513dcb037d0">Ania - Gorgeous Stance</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657904/Emilia+Lunatic+-+Madness+Skills" title="Emilia Lunatic - Madness Skills" rel="9657904"><img src="http://i.ytimg.com/vi/gv2SMoAm1iM/2.jpg" alt="Emilia Lunatic - Madness Skills"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">02:15</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657904/Emilia+Lunatic+-+Madness+Skills" title="Emilia Lunatic - Madness Skills" rel="mediaId=9657904&widgetId=8e86d0b20edd8339727dd424297f50246ad2d5df">Emilia Lunatic - Madness...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657899/Elemental+Expert+Stance+-+Magic+of+Occultism" title="Elemental Expert Stance - Magic of Occultism" rel="9657899"><img src="http://i.ytimg.com/vi/lEQ3s1Q6scY/2.jpg" alt="Elemental Expert Stance - Magic of Occultism"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">01:30</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657899/Elemental+Expert+Stance+-+Magic+of+Occultism" title="Elemental Expert Stance - Magic of Occultism" rel="mediaId=9657899&widgetId=08231e5977466bce18692c4ff5a228264e6ce978">Elemental Expert Stance -...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657891/Nar+-+Semilunar+Stance" title="Nar - Semilunar Stance" rel="9657891"><img src="http://i.ytimg.com/vi/G2Tm1rhlzzs/2.jpg" alt="Nar - Semilunar Stance"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">01:55</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657891/Nar+-+Semilunar+Stance" title="Nar - Semilunar Stance" rel="mediaId=9657891&widgetId=9533c2e0d20e813970d54307f568c5519ad81430">Nar - Semilunar Stance</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657698/PvP+%28+grandice+%2C+Baek%2C+Scout+%29" title="PvP ( grandice , Baek, Scout )" rel="9657698"><img src="http://i.ytimg.com/vi/LqbviDzNwdI/2.jpg" alt="PvP ( grandice , Baek, Scout )"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">03:30</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657698/PvP+%28+grandice+%2C+Baek%2C+Scout+%29" title="PvP ( grandice , Baek, Scout )" rel="mediaId=9657698&widgetId=dbd436756a67f79fe12018c367ef80626e9c8f54">PvP ( grandice , Baek,...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/8829456/Vicent+Rio+-+Ministrel+Exclusive+Stance" title="Vicent Rio - Ministrel Exclusive Stance" rel="8829456"><img src="http://i.ytimg.com/vi/otsMnT6S7fA/2.jpg" alt="Vicent Rio - Ministrel Exclusive Stance"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">00:31</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/8829456/Vicent+Rio+-+Ministrel+Exclusive+Stance" title="Vicent Rio - Ministrel Exclusive Stance" rel="mediaId=8829456&widgetId=-1955311082">Vicent Rio - Ministrel...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6022551/Catherine+The+Summoner" title="Catherine The Summoner" rel="6022551"><img src="http://i.ytimg.com/vi/iOz2QCdZXSg/2.jpg" alt="Catherine The Summoner"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">00:44</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6022551/Catherine+The+Summoner" title="Catherine The Summoner" rel="mediaId=6022551&widgetId=24471090">Catherine The Summoner</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657705/Death+Chopping%3A+Catherine+Expert+Stance" title="Death Chopping: Catherine Expert Stance" rel="9657705"><img src="http://i.ytimg.com/vi/gWNibezw2rk/2.jpg" alt="Death Chopping: Catherine Expert Stance"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">01:47</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657705/Death+Chopping%3A+Catherine+Expert+Stance" title="Death Chopping: Catherine Expert Stance" rel="mediaId=9657705&widgetId=abcbe80c8aead825690c92958da8249e865957c6">Death Chopping: Catherine...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/9657688/Flores+world+pvp+v.s+Ceres" title="Flores world pvp v.s Ceres" rel="9657688"><img src="http://i.ytimg.com/vi/9rAAv-c5JYI/2.jpg" alt="Flores world pvp v.s Ceres"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">02:46</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/9657688/Flores+world+pvp+v.s+Ceres" title="Flores world pvp v.s Ceres" rel="mediaId=9657688&widgetId=2ef18359e6d9fffeb9dbd9516892f11226a2ca17">Flores world pvp v.s Ceres</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/8463320/-" title="[Untitled]" rel="8463320"><img src="http://i.ytimg.com/vi/sLkW7ZFQk3U/2.jpg" alt="[Untitled]"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">01:59</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/8463320/-" title="[Untitled]" rel="mediaId=8463320&widgetId=741f0f4b7daa41d0a01b5e8363a17c305db7a771">[Untitled]</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6967435/gertrude" title="gertrude" rel="6967435"><img src="http://i.ytimg.com/vi/-WtBtpZMA4U/2.jpg" alt="gertrude"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6967435/gertrude" title="gertrude" rel="mediaId=6967435&widgetId=707518a7a8405448cfdbcccf444a8fc230efbf28">gertrude</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6967345/irawain" title="irawain" rel="6967345"><img src="http://i.ytimg.com/vi/LAGwfmG5Ccg/2.jpg" alt="irawain"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">00:29</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6967345/irawain" title="irawain" rel="mediaId=6967345&widgetId=23e79085261c27599f057eb6c4fe03733df0960e">irawain</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6362557/-" title="[Untitled]" rel="6362557"><img src="http://i.ytimg.com/vi/kbnY1cCARyg/2.jpg" alt="[Untitled]"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6362557/-" title="[Untitled]" rel="mediaId=6362557&widgetId=e2587e754b4c9f65391d32db4f2aa662f6411402">[Untitled]</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6089900/Lorch" title="Lorch" rel="6089900"><img src="http://i.ytimg.com/vi/sEhLoM-zJj4/2.jpg" alt="Lorch"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">00:36</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6089900/Lorch" title="Lorch" rel="mediaId=6089900&widgetId=7857b4c6d64ed7be11bdb7b94ea4b7bc338ba6f5">Lorch</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6083056/Hellena-Forgotten+The+Magic+%28Granado+Espada%29" title="Hellena-Forgotten The Magic (Granado Espada)" rel="6083056"><img src="http://i.ytimg.com/vi/lUt4Zz8fU_Y/2.jpg" alt="Hellena-Forgotten The Magic (Granado Espada)"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">02:34</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6083056/Hellena-Forgotten+The+Magic+%28Granado+Espada%29" title="Hellena-Forgotten The Magic (Granado Espada)" rel="mediaId=6083056&widgetId=27c4fc8957e8f44016118f7acc37464f1fd08ffb">Hellena-Forgotten The...</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                      <div class="videosCard cardListItem bordered">
+                        <div class="videoThumbContainer">
+                          <div class="imageContainer">
+                            <a href="/video/6022552/-" title="[Untitled]" rel="6022552"><img src="http://i.ytimg.com/vi/BfGkmzgS9DU/2.jpg" alt="[Untitled]"></a>
+                          </div>
+                          <ul class="videoThumbMeta">
+                            <li class="videoDuration">02:14</li>
+                            <li class="videoType WPC-tool WPC-tool-video">Video</li>
+                          </ul>
+                        </div><span class="cardData1"></span>
+                        <div class="name">
+                          <span class="cardData1"><a href="/video/6022552/-" title="[Untitled]" rel="mediaId=6022552&widgetId=-1198107986">[Untitled]</a></span>
+                        </div><span class="cardData1"></span> <span class="cardData2"></span>
+                      </div>
+                    </div>
+                    <div class="pagingWrapper" style="clear:both;">
+                      <div class="paging">
+                        <a href="?offset=0&maxResults=20">Previous</a> | <a href="?offset=0&maxResults=20">1</a>&nbsp;2&nbsp;<a href="?offset=40&maxResults=20">3</a> | <a href="?offset=40&maxResults=20">Next</a>
+                      </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                  </div><br class="clear">
+                  <p></p>
+                  <p></p>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

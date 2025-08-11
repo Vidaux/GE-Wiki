@@ -1,0 +1,739 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Weapons - Wiki of the New World</title>
+  <meta name="keywords" content="Weapons - Wiki of the New World, SOTNW Weapons,Sword of the New World Weapons,weapon levels,weapon types,weapons">
+  <meta name="description" content="As this wiki is not an item database, your best source for a comprehensive list of weapons in the game would be one of the fan sites listed on the front page; we...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Weapons',"PAGE_URI" : '/page/Weapons',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Items & Equipment','Weapons']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Weapons">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DWeapons%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Weapons<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="/image/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Weapons">
+                    <div id="WPC-area?cellId=Weapons&version=53&savePath=%2Fpage%2FWeapons&saveType=page" class="WPC-editableContent">
+                      <div align="left">
+                        As this wiki is not an item database, your best source for a comprehensive list of weapons in the game would be one of the fan sites listed on the front page; we recommend www.portcoimbra.com . Here, instead, is a general guide to weaponry. To see a list of high end weapons sorted by series please see the <a href="/page/High+End+Equipment" target="_self">High End Equipment</a> page.
+                      </div><font color="#D91414"><br></font>
+                      <h3><font color="#D91414">Who uses what?</font></h3>Every stock and UPC class has preset weapons that it can equip. A character has to have the appropriate <a href="/page/Stances" target="_self">stance</a> to equip a given weapon or weapon combination. View the individual character pages to see all weapon combinations available to a given character.<br>
+                      <br>
+                      <div align="center"></div>
+                      <div align="center">
+                        <font color="#000000"><b>Vocations</b></font>
+                      </div>
+                      <div align="center">
+                        <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="100%">
+                          <tbody>
+                            <tr>
+                              <td width="8%">
+                                <div align="center"></div>
+                                <div align="center">
+                                  <font size="2"><br></font>
+                                </div><br>
+                                <div></div>
+                              </td>
+                              <td width="16%">
+                                <div align="center">
+                                  <a href="/page/Fighter" target="_self"><img align="bottom" alt="Fighter" height="47" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/5TDMXI4ppO6m95K4dpcYvg15958/GW48H47" title="Fighter" width="48"><br>
+                                  Fighter</a>
+                                </div>
+                              </td>
+                              <td width="21%">
+                                <div align="center">
+                                  <a href="/page/Elementalist" target="_self"><img align="bottom" alt="Elementalist" height="47" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/DpXnxg6L_Gn6ioLD638NHw16400/GW48H47" title="Elementalist" width="48"><br>
+                                  <font size="2">Elementalist</font></a>
+                                </div>
+                              </td>
+                              <td width="19%">
+                                <div align="center">
+                                  <a href="/page/Musketeer" rel="nofollow" target="_self"><img align="bottom" alt="Musketeer" height="47" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/OmoAQqT0BRnCVgnAxCUDlA15940/GW48H47" title="Musketeer" width="48"></a><a href="/page/Musketeer" target="_self"><br>
+                                  <font size="2">Musketeer</font></a>
+                                </div>
+                              </td>
+                              <td width="16%">
+                                <div align="center">
+                                  <a href="/page/Scout" rel="nofollow" target="_self"><img align="bottom" alt="Scout" height="47" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/rBczSdXekKV5wvtgGnLXYw16207/GW48H47" title="Scout" width="48"></a><a href="/page/Scout" target="_self"><br>
+                                  <font size="2">Scout</font></a>
+                                </div>
+                              </td>
+                              <td width="16%">
+                                <div align="center">
+                                  <a href="/page/Wizard" rel="nofollow" target="_self"><img align="bottom" alt="Wizard" height="47" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/BBGBAfwfHumdaroDQC_Hsg16854/GW48H47" title="Wizard" width="48"></a><a href="/page/Wizard" target="_self"><br>
+                                  <font size="2">Wizard</font></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="8%"><b>Can use</b>:</td>
+                              <td align="center" width="16%">Sword<br>
+                              Shield<br>
+                              Greatsword<br>
+                              Dagger<br>
+                              Rapier<br>
+                              Sabre<br>
+                              Pistol<br>
+                              Javelin<br>
+                              Blunt</td>
+                              <td align="center" width="21%">Bracelet of Fire<br>
+                              Bracelet of Ice<br>
+                              Bracelet of Lightning<br>
+                              Skullic Bracelet<br>
+                              Lord of Elements Bracelet</td>
+                              <td align="center" width="19%">Pistol<br>
+                              Rifle<br>
+                              Bayonet</td>
+                              <td align="center" width="16%">Dagger</td>
+                              <td align="center" width="16%">Rod<br>
+                              Staff<br>
+                              Special Rod</td>
+                            </tr>
+                          </tbody>
+                        </table><font color="#000000"><br></font> <font color="#000000"><b>UPC Specific</b></font><br>
+                        <div align="center">
+                          <font color="#FF0000"><b></b></font>
+                          <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                            <tbody>
+                              <tr>
+                                <td class="" width="100%">
+                                  <div align="center">
+                                    <a href="/page/UPC-Only+Weapons" target="_self"><font color="#000000" size="2">View Weapons</font></a>
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div><font color="#FF0000"><b></b></font><br>
+                        <div align="left">
+                          All weapons are not created equal. Weapons differ by level (higher levels have higher <b>Attack Rating</b> and <b>Attack</b>; view weapons of all levels on one of the SNW database websites). Weapons also differ by <i>type</i>.<br>
+                          <br>
+                          <div align="center">
+                            <b>Weapon types</b>
+                          </div>
+                          <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="center" bgcolor="#E66A6A" class="WPC-edit-custom-bgColor" colspan="3" rowspan="1" width="75%"><b><font color="#FFFFFF">Physical<br></font></b><font color="#FFFFFF">Physical damage is reduced by DEF.</font><b><font color="#FFFFFF"><br></font></b></td>
+                                <td align="center" bgcolor="#E66A6A" class="WPC-edit-custom-bgColor" colspan="1" rowspan="2" width="25%"><b><font color="#FFFFFF">Magic<br></font></b><font color="#FFFFFF">Magic damage comes in various forms, depending on which weapon you use. All magic damage ignores DEF and acts against the target&#39;s corresponding RES.</font><b><font color="#FFFFFF"><br></font></b><font color="#FFFFFF">All magic weapons attack at range</font><font color="#FFFFFF">.</font><b><font color="#FFFFFF"><br></font></b></td>
+                              </tr>
+                              <tr>
+                                <td align="center" bgcolor="#EDBDB2" class="WPC-edit-custom-bgColor" width="25%">
+                                  <b>Light Weapons<br></b>
+                                  <div align="center">
+                                    - Deal more damage to light armor (soft armor) monsters and players (in pvp, <b>coats</b> and <b>robes</b> count as light armor)<br>
+                                    - Damage penalty against hard armor
+                                  </div>
+                                </td>
+                                <td align="center" bgcolor="#EDBDB2" class="WPC-edit-custom-bgColor" width="25%"><b>Medium Weapons<br></b>- Deal more damage to medium armor (<b>leather</b> armor in pvp)<br>
+                                - Damage penalty on hard armor</td>
+                                <td align="center" bgcolor="#EDBDB2" class="WPC-edit-custom-bgColor" width="25%"><b>Heavy Weapons<br></b>- Deal more damage vs hard armor (<b>metal</b>)<br>
+                                - Penalized vs light armor.</td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="" width="25%">
+                                  <div align="center">
+                                    <div align="center">
+                                      <img align="bottom" alt="Sabres" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/z9hQq8AHPkudyhPJ1bR2uw1907/GW58H58" title="Sabres" width="58"><br>
+                                      <div align="center">
+                                        <font size="2">Sabre</font>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%">
+                                  <div align="center"></div><img align="bottom" alt="Swords" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/SY2qxc4ov4Zz1VIxNAmyyA1978/GW58H58" title="Swords" width="58">
+                                  <div align="center">
+                                    <font size="2">Swords</font>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%">
+                                  <div align="center">
+                                    <img align="bottom" alt="Pole-Arm" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/RInPPmA5k1XNegzyHqsaWQ1900/GW58H58" title="Pole-Arm" width="58"><font size="2"><br>
+                                    Polearm</font>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Rod" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/cTCCG1YsFeS2DUWr3S-WaA1789/GW58H58" title="Rod" width="58"><br></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Rod<br>
+                                    (Sonic/Mental damage)<br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="1"><img align="bottom" alt="Javaline" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/33Sxu1uDZrUEjA0y1R-xpA1916/GW58H58" title="Javaline" width="58"><br>
+                                    <font size="2">Javelin</font></font>
+                                  </div>
+                                </td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Pistols" height="57" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/09uNmNUbxFNRdcnJhTgKXA1805/GW57H57" title="Pistols" width="57"></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Pistol</font>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%"><img align="bottom" alt="Blunt" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/MResIHVhHGCvnYJ4yP0RoQ2047/GW58H58" title="Blunt" width="58"><br>
+                                <font size="2">Blunt</font></td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Staff" height="57" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/wCAMLwSZwrZf7RE97mOSHQ1942/GW57H57" title="Staff" width="57"></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Staff<br>
+                                    (Sonic/Mental damage)<br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="1"><img align="bottom" alt="Daggers" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/pNHtLhua_DaSjMpH3IOEQg1677/GW58H58" title="Daggers" width="58"><br>
+                                    <font size="2">Daggers</font></font>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%">
+                                  <div align="center"></div>
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Rifle" height="64" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/guBNwhdKELTRpGX55bVGyw2016/GW64H64" title="Rifle" width="64"><br></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Rifle</font>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%"><font size="1"><img align="bottom" alt="Great Swords" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/tp38bIfzZjSa6VuW9yapEQ2044/GW58H58" title="Great Swords" width="58"></font><font size="1"><font size="2"><br>
+                                Great Swords</font></font></td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Fire Bracelet" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/kEyP0xGPD8voNeG9U5v-1g1946/GW58H58" title="Fire Bracelet" width="58"><br></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Fire Bracelet<br>
+                                    (Fire damage)<br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <div align="center">
+                                      <div align="center">
+                                        <img align="bottom" alt="Rapier" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/zPjYRSor8cErRvRp-UJsOw1847/GW58H58" title="Rapier" width="58"><br>
+                                        <div align="center">
+                                          <font size="2">Rapier</font>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </td>
+                                <td class="" width="25%">
+                                  <div align="center"></div>
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Bayonet" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/HViE-5fIla2qvbK80VyZsQ1858/GW58H58" title="Bayonet" width="58"><br></font><font size="2">Bayonet</font>
+                                  </div>
+                                </td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Cannon" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/7hLTkI7pO5GTioinVXAwag2024/GW58H58" title="Cannon" width="58"><br></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Cannon</font>
+                                  </div>
+                                </td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Ice Bracelet" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/YL4i7TRk2pHsrXu4ZAtMug1844/GW58H58" title="Ice Bracelet" width="58"><br></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Bracelet of Ice<br>
+                                    (Ice damage)<br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <img align="bottom" alt="Gaiters" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/7TgkGfbiYbbONZNsV98V-g1777/GW58H58" title="Gaiters" width="58"><br>
+                                    <div align="center">
+                                      <font size="2">Gaiters</font>
+                                    </div>
+                                  </div>
+                                </td>
+                                <td class="" width="25%"><br></td>
+                                <td class="" width="25%"><br></td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="1"><img align="bottom" alt="Thunder Bracelet" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/e0XSinRYUPYtvO_YVSRkVA1917/GW58H58" title="Thunder Bracelet" width="58"><br></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Thunder Bracelet<br>
+                                    (Lightning damage)<br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="1"><img align="bottom" alt="Knuckles" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/CmAdLfl8pJ9uDAgTeqnSqA1978/GW58H58" title="Knuckles" width="58"><br>
+                                    <font size="2">Knuckles</font></font>
+                                  </div>
+                                </td>
+                                <td class="" width="25%"><br></td>
+                                <td class="" width="25%"><br></td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Special Bracer" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/e-BmHQYhMB0YUCj7TS1FyQ2220/GW58H58" title="Special Bracer" width="58"></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Skullic &amp;</font> <font size="1"><font size="2">Lord of Elements bracer<br>
+                                    (Sonic/Mental damage)</font><br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="" width="25%">
+                                  <div align="center"></div><img align="bottom" alt="Main-Gauche" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/Z22tJQvP4BxZICtYxFTcCQ2006/GW58H58" title="Main-Gauche" width="58"><br>
+                                  <div align="center">
+                                    <font size="2">Main Gauche</font>
+                                  </div>
+                                </td>
+                                <td align="center" class="" width="25%"><br></td>
+                                <td align="center" class="" width="25%"><br></td>
+                                <td align="center" class="" width="25%"><font size="1"><img align="bottom" alt="Special Rod/Staff" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/JCW0OZ5CjA53g9IttUayRg1977/GW58H58" title="Special Rod/Staff" width="58"><br></font><font size="2">Special Rod/Staff<br>
+                                (Sonic/Mental damage)<br></font></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="" width="25%"><font size="2"><img align="bottom" alt="Shotgun" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/oZH5ERAfGzGR3nVgMkyj1g2015/GW58H58" title="Shotgun" width="58"></font><font size="2"><br>
+                                Shotgun</font></td>
+                                <td class="" width="25%"><br></td>
+                                <td class="" width="25%"><br></td>
+                                <td class="" width="25%">
+                                  <div align="center">
+                                    <font size="2"><img align="bottom" alt="Instrument" height="58" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/PSe8CNrhJAl5sT_Z-GbElQ2014/GW58H58" title="Instrument" width="58"></font>
+                                  </div>
+                                  <div align="center">
+                                    <font size="2">Instrument<br>
+                                    (Sonic/Mental damage)<br></font>
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table><font color="#FFFFFF" size="2">*<font color="#333333">Note that a few specific skills using physical weapons can inflict magical damage, such as</font> <font color="#333333"><a href="/page/Roof+Guard" target="_self">Dread Worm</a>, which deals Sonic (Mental) Damage.</font></font><font color="#333333"><b><br></b></font><br>
+                          <font color="#D91414"><br></font>
+                          <h3><font color="#D91414">On weapon <i>levels</i></font></h3>
+                          <ul>
+                            <li>Weapon AR is equal to weapon level divided by 4<br></li>
+                            <li>Unique weapons have pre-determined, unchangeable enchantment stats and +3 AR over normal weapons of their level<br></li>
+                            <li>Elite weapons have +5 AR over normal weapons of their level</li>
+                            <li style="list-style: none; display: inline">
+                              <ul>
+                                <li>Level 100 weapons are special in that 25ar Lv100 weapons are a rarity, 30ars are considered &quot;normal&quot; and 32ars are considered &quot;elite&quot;</li>
+                              </ul>
+                            </li>
+                            <li>Ancestral weapons also have +5 AR over normal weapons of their level and builtin stats, but which need to be enchanted onto a weapon.</li>
+                            <li style="list-style: none; display: inline">
+                              <ul>
+                                <li>Level 100 Ancestral weapons have 29ar rather than 30ar.</li>
+                                <li>Ancestral weapons are available every 20 levels from 1-100, and can be exchanged for Polish at Ancestral Support Soldiers near city gates.<br></li>
+                              </ul>
+                            </li>
+                          </ul>See the Damage Calculation guide for more information on what AR, atk, def and weapon types mean. (Guide not up yet!!! lol)
+                        </div>
+                        <div align="center">
+                          <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="400">
+                            <tbody>
+                              <tr>
+                                <td></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div><br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">/image/bg/1.png?v=20111214172750</span> <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Weapons" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/8Be2qK74x2O_zNGmpwX-2w3317/GW050" class="imageSm" alt="Rosengarde"></a><br>
+                        <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Rosengarde</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Weapons"><a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Weapons&from=lastPageUpdate&pageName=Weapons" class="WPC-action" onclick="return false">Rosengarde</a></span> , <span id="WPC-lastRevisionDate?cellId=Weapons">Mar 30 2012, 1:15 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Rosengarde"><img src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/8Be2qK74x2O_zNGmpwX-2w3317/GW050" class="imageSm" alt="Rosengarde"></a> <span class="comment" id="latestEditNoteComment">Improved weapon type descriptions.</span> <span id="latestEditNoteAccount">- <a href="/account/Rosengarde">Rosengarde</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">24 words added</span><br>
+                        <span class="nowrap">26 words deleted</span><br></span><br>
+                        <a href="/page/Weapons/diff/52,53" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Weapons/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/SOTNW+Weapons" title="SOTNW Weapons" class="pageTag">SOTNW Weapons</a> <a href="/tag/Sword+of+the+New+World+Weapons" title="Sword of the New World Weapons" class="pageTag">Sword of the New World Weapons</a> <a href="/tag/weapon+levels" title="weapon levels" class="pageTag">weapon levels</a> <a href="/tag/weapon+types" title="weapon types" class="pageTag">weapon types</a> <a href="/tag/weapons" title="weapons" class="pageTag">weapons</a></span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Weapons/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FWeapons&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Weapons/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList"></div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="/js/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      <div id="firstToReplyDiv">
+                        There are no threads for this page. &nbsp;Be the first to start a new thread.
+                      </div>
+                    </div><span id="threadCounter" title="" style="display:none"></span>
+                  </div>
+                  <div id="relatedContent" class="pageSection">
+                    <div class="pageSectionHeader">
+                      <div class="pageSectionHeaderContainer">
+                        <h4>Related Content</h4>&nbsp; (<span class="WPC-tooltip-trigger"><a href="#tooltip" tabindex="-1" onclick="return false">what's this?</a><span class="WPC-tooltip-title">Related Content</span><span class="WPC-tooltip-content">Thanks to keyword tags, links to related pages and threads are added to the bottom of your pages. Up to 15 links are shown, determined by matching tags and by how recently the content was updated; keeping the most current at the top. Share your feedback on WikiFoundry Central.</span></span>)
+                      </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="tableList">
+                      <table style="border-bottom:0px;">
+                        <tr class="altRow">
+                          <td width="33%"><a href="/page/Items+%26+Equipment" class="WPC-tool WPC-tool-content WPC-indicate">Items &amp; Equipment</a></td>
+                          <td width="33%"><a href="/page/Equipment+Upgrade" class="WPC-tool WPC-tool-content WPC-indicate">Equipment Upgrade</a></td>
+                          <td width="33%"><a href="/thread/4204658/Upgrading+need+to+knows%21" class="WPC-tool WPC-tool-thread WPC-indicate">Upgrading need to knows!</a></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><a href="/page/Elite+Series" class="WPC-tool WPC-tool-content WPC-indicate">Elite Series</a></td>
+                          <td width="33%"></td>
+                          <td width="33%"></td>
+                        </tr>
+                      </table><br>
+                    </div>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="/js/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li>
+                                <a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a>
+                                <ul>
+                                  <li>
+                                    <a href="/page/Weapons" rel="1" class="current">Weapons</a>
+                                    <ul>
+                                      <li><a href="/page/UPC-Only+Weapons">UPC-Only Weapons</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="/page/Accessories" rel="4">Accessories</a></li>
+                                  <li><a href="/page/Costumes" rel="4">Costumes</a></li>
+                                  <li><a href="/page/Consumption+%2F+Misc+Items" rel="8">Consumption / Misc Items</a></li>
+                                  <li><a href="/page/Cash+Shop+Items" rel="5">Cash Shop Items</a></li>
+                                  <li><a href="/page/Bellem%27s+Box">Bellem&#039;s Box</a></li>
+                                  <li><a href="/page/Letizia+Shiny+Box">Letizia Shiny Box</a></li>
+                                  <li><a href="/page/Crescemento+Series">Crescemento Series</a></li>
+                                  <li><a href="/page/Guide+to+Pioneer+%2F+Ancestral+gear">Guide to Pioneer / Ancestral gear</a></li>
+                                  <li><a href="/page/High+End+Equipment" rel="21">High End Equipment</a></li>
+                                  <li><a href="/page/Artifacts">Artifacts</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script>
+</body>
+</html>

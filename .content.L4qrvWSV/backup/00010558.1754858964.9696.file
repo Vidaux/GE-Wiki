@@ -1,0 +1,174 @@
+.WPC-toolsMenu .btn_edit{
+	background:url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_edit2.png?v=20111214172750) no-repeat top;
+}
+.WPC-toolsMenu a.btn_editLock{
+	background:url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_editLock.png?v=20111214172750) no-repeat top;
+}
+.panel .open .panelControl{
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_panelOpen.png?v=20111214172750) no-repeat center left;
+}
+.panel .close .panelControl{
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_panelClose.png?v=20111214172750) no-repeat center left;
+}
+#navigationGrippy {
+	background: url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_navGrippy.png?v=20111214172750) 50% 4px no-repeat;
+}
+.vscrollerbasebeg {
+	background: url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) 50% -22px no-repeat;
+}
+.vscrollerbaseend {
+	background: url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) 50% 0px no-repeat;
+}
+.tableList .header {
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_headerTable.png?v=20111214172750) repeat-x top;
+}
+.tableList tr.header th span.orderBy div.notActive {
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat 50% 0px;
+}
+.tableList tr.header th span.orderBy div.asc {
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat  50% 100%;
+}
+.tableList tr.header th span.orderBy div.desc {
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat 50% 0%;
+}
+.treeList div.noKids{
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat 50% 0px;
+}
+a.expandToggleExpanded {
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat 205% 3px;
+}
+a.expandToggleCollapsed {
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat 0px 50%;
+}
+.treeList div.open{
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat 50% .6em;
+}
+.treeList div.close{
+	background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_arrows.png?v=20111214172750) no-repeat .3em 50%;
+}
+.dialogTitleGrip { 
+	background:url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_dialogGrippy.png?v=20111214172750);
+}
+	* html .dialogTitleGrip {
+		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../../../../../../skins/deepred/img/bg_dialogGrippy.png?v=20111214172750', sizingMethod='crop');
+}
+.dialogContent{
+	background:#FFF url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/bg_dialogGradient.png?v=20111214172750) no-repeat top right;
+}
+.toggleMin .control a, .toggleMax .control a{display:block; padding-left:10px; background:transparent url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_panelOpen.png?v=20111214172750) no-repeat center left;}
+.toggleMin .control a{background-image:url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_panelOpen.png?v=20111214172750);}
+.toggleMax .control a{background-image:url(/web/20160113222031im_/http://static.wikifoundry.com/skins/deepred/img/btn_panelClose.png?v=20111214172750);}
+#WPCAPI-linkColor 					{ color:#497FB1; }
+	
+#WPCAPI-hoverLinkColor 				{ color:#DE590A; }
+	
+#WPCAPI-borderBackgroundColor 		{ background-color:#8A131A; }
+#WPCAPI-borderBevelColor 			{ 	border-color:#B4676C #193161 #510B0F #89131A }
+	
+#WPCAPI-submitButtonBackgroundColor { background-color:#F2DEE0; }
+	
+#WPCAPI-alternativeBackgroundColor 	{ background-color:#F0F0F0; }
+#WPCAPI-selectedBackgroundColor 	{ background-color:#EEEEEE; }
+
+
+.button, input.submit, input.button, button {
+	background-color: #F2DEE0;
+}
+.dialogTitleDiv,
+.dialogBodyOuter{
+	border-color:#B4676C #193161 #510B0F #89131A;
+	background-color:#8A131A;
+}
+ 
+#siteHeader h1#WPC-title{
+	padding: 0;
+}
+#WPC-title span {
+	padding: 10px;
+	display: block;
+}
+
+a:link,a:visited {color:#497FB1;}
+a:link:hover, a:visited:hover {color:#DE590A;}
+#allcontent {
+	background: #FFF;
+}
+body.WPC-fixedWidth {
+	background: #DDD;
+}
+
+
+
+.panel{border:1px solid #8A131A; background-color:#FFF}
+.panel .panelHeader{
+	color:#FFFFFF;
+	background-color:#8A131A;
+}
+#pageAttributes {
+	border:1px solid #F9E6E7;
+	background-color:#F9E6E7;
+}
+#navigationGrippy {
+	border-color:#8A131A;
+}
+
+.vscrollerbarbeg {
+	background-color:#8A131A;
+}
+.vscrollerbase {
+	border-left:1px solid #8A131A;
+}
+
+.treeList .current{
+	background-color:#F9E6E7
+}
+.treeList li div.hover, .treeList li div.close:hover, .treeList li div.open:hover{
+	background-color:#F9E6E7
+}
+.treeList li a:hover{
+	background-color:#F9E6E7
+}
+
+
+
+.WPC-editableContent table td, 
+.WPC-editableContent table.wp-border-cols td, 
+.WPC-editableContent table.wp-border-rows td, 
+.WPC-editableContent table.wp-border-all td {
+	border-color: #8A131A;
+}
+
+
+.ads .affiliateAd a:hover{	color:#497FB1; }
+.ads .affiliateAd .adBody{ color:#666666; }
+
+
+html .WPC .gNavTooltip{
+	border-color:#8A131A;
+}
+#gNav, #gnJoin,
+#gnMain,
+#gnAccount,
+#gnMain li.subNav{
+	background-color:#8A131A;
+}
+/*
+     FILE ARCHIVED ON 22:20:31 Jan 13, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:41:21 Aug 10, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.623
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.019
+  esindex: 0.01
+  cdx.remote: 122.784
+  LoadShardBlock: 176.129 (3)
+  PetaboxLoader3.datanode: 129.799 (4)
+  PetaboxLoader3.resolve: 122.5 (2)
+  load_resource: 146.075
+*/

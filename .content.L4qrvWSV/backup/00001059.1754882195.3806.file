@@ -1,0 +1,851 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Bellem&#039;s Box - Wiki of the New World</title>
+  <meta name="keywords" content="Bellem&#039;s Box - Wiki of the New World, Bellem">
+  <meta name="description" content="This awesome guide, made by Fontessa (Orpesia), consists of 2 parts. First is an explanation detailing the mechanics and science of Bellem&#039;s Boxing, a handy way of...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Bellem\'s Box',"PAGE_URI" : '/page/Bellem%27s+Box',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Items & Equipment','Bellem\'s Box']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Bellem%27s+Box">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script> 
+                  <script type='text/javascript'>
+
+
+                  var abtest = "7521087570";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DBellem%27s+Box%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Bellem&#039;s Box<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="/image/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Bellem%27s+Box">
+                    <div id="WPC-area?cellId=Bellem%27s+Box&version=5&savePath=%2Fpage%2FBellem%2527s%2BBox&saveType=page" class="WPC-editableContent">
+                      This awesome guide, made by Fontessa (Orpesia), consists of 2 parts. First is an explanation detailing the mechanics and science of Bellem&#39;s Boxing, a handy way of making Vis. Second, is the list of all the possible drops from Bellem&#39;s Boxes.<br>
+                      <br>
+                      &quot;I hope this little guide helps clear up some confusion about the stange and mysterious bellem&#39;s box. Best of luck to all servers and happy &quot;boxing&quot;~&quot; -Fontessa<br>
+                      <br>
+                      <br>
+                      <b>The mechanics of &quot;Bellem&#39;s Boxing&quot;:</b><br>
+                      The general idea behind opening bellem&#39;s boxes is simply to collect certain items for utilization or to sell on the Market Manager as a way to earn vis. If you buy 10,000 bellems boxes from the Tool Merchant (100 million vis) The average amount of vis you will earn back is 40-60% of the total paid if you sell all the unused equipment that drops from the boxes to an npc, lets say it&#39;s 50 million vis.<br>
+                      <br>
+                      So, you have an initial of 100mil and spend it on 10k Bellems boxes. You&#39;ll have around 50mil in your pocket after opening them just from the npc. You can take that 50mil and open another 5k boxes and end up with roughly 25mil which can then be spend on another 2500 boxes. With only 100mil in your pocket, you can open about 17,500 (175 million vis worth) boxes and still have money left over to post on the Market Manager if you wish to sell your collected items in that fashion.<br>
+                      <br>
+                      Some people are intimidated by the &quot;Random Factor&quot; that ultimately reigns the productivity of the bellems boxing process, which is absolutely true. For example, you can open 10,000 boxes and only find one lvl 100 chip; other times you can open 5000 boxes and find 4 of them. That factor goes for all the item at different magnitudes due to their &quot;Drop Rate&quot;. Even with this factor, it is still very hard to lose vis from boxing.<br>
+                      <br>
+                      <b>&quot;Not everyone has 100+mil to blow on bellem&#39;s&quot;</b><br>
+                      When I first started boxing, I was clanless, lvl 65 and had 2.5mil to my name. I was particularly curious one day and decided to see what was new with the bellems when they were released. I lost a lot of my vis since working with such low amounts of boxes wasn&#39;t exactly productive, especially when the economy was more subtle when I started. It was always a moment of joy when a 92 chip dropped, because frankly, at the time, I&#39;ve never picked one up before, but I knew they were popular! After a few hours of struggling and a couple lucky drops, I managed to make my first 5 million; That process continued for about two weeks and the next thing I knew I was buying mercenary warrants and 92e weapons. I&#39;ve been opening boxes on a regular basis since. If you&#39;re in a clan, chances are someone can lend you 10 or 20mil to bellem box, and you won&#39;t have to go through the struggle and you&#39;ll be able to pay them back fairly quickly.<br>
+                      <br>
+                      <b>Bellem&#39;s Boxes destroy vis.</b><br>
+                      What I mean by this is that every time someone buys, say, 5000 bellems boxes (50 million vis) They only get back around 25 million vis from the npc after selling the equipment junk. That leaves about 25 million vis out of the picture and any profit the bellemer intends to get must come from vis that already exists in the community. So if 50 players were to buy 10,000 boxes (100mil x 50 = 5bil vis) That would remove roughly 2.5 billion existing vis from the economy.<br>
+                      If those 50 players bought 100,000 boxes every week (1bil x 50 = 50bil vis) That would destroy roughly 100billion existing vis every month. There are people that argue that they make so much vis that these factors don&#39;t even matter. It&#39;s true that you can probably sell a recipe or strong armor for over 300mil-700mil-1bil-2bil, and that&#39;s just fine, but that vis that you&#39;re making is most likely coming from another player that has <i>already existing</i> vis, because that type of money is certainly not being generated from a NPC. In essence, when you sell a +8 92e Metallic Armor +20def +3dr to someone, you&#39;re simply moving the vis, not generating it.<br>
+                      <br>
+                      <b>Tips and Tricks!</b><br>
+                      When opening boxes, put the them on one of the potion hotkeys on your three characters and click all three keys to quick-spam! (6 keys does not work~)<br>
+                      <br>
+                      Ctrl-shift click the ground about 4 times a second to bypass a small part of the looting animation to loot faster, and believe it or not, accelerando helps~<br>
+                      <br>
+                      Having your characters stand in the same spot (using shift-click) has been rumored to increase looting speed, I have yet to confirm it, but I still do it sometimes~<br>
+                      <br>
+                      When selling junk equips, Select the first item on the sell list, hold down the &quot;1&quot; key and scroll down gently with the mouse wheel. This will set the &quot;0&quot; to &quot;1&quot; on every item that the selected area passes over and is much faster than clicking the little &quot;up&quot; arrow for every item. People with faster systems can scroll faster than those that start lagging after holding it down for too long~<br>
+                      <br>
+                      On several occasions, I&#39;ve noticed looting speed is faster on ch2 (Orpesia) and turning off &quot;spell effects&quot; removes the drop glow, which also improves speed.<br>
+                      <br>
+                      Inventory space is important! Put away your polishes, CS items, Catherine parts, cabinet pieces, and just about any stack-able that isn&#39;t on the drop list in your Storage and with only bellems items (and ammo) in your inventory, you should have about 143-155 slots consumed, depending on what you keep and what you sell in the MM/broad. It&#39;s safe to spam approximately 80 boxes and then picking them up without your name disappearing from items or your inventory filling with equipments; if you&#39;re fast enough, 90 boxes is possible too.<br>
+                      <br>
+                      <b>Popular Items for the Market Manager</b><br>
+                      One of the hardest things for newer players to gather is the value of some of the oddities that fall out of the Bellem&#39;s Box. Here is a list of things you should generally never sell to a NPC:<br>
+                      <br>
+                      Enchantment chips: Lvl 40 and above enchantment chips are used by everyone; with that said they naturally remain in high demand. Even the surplus of level 32 and 36 chips are used by some players to achieve getting +2DR on low level shields.<br>
+                      <br>
+                      Missions: Trinity 3 is by far the most popular mission to drop from a bellems box. It&#39;s used by higher players to &quot;power level&quot; low level players to mid-level ranges, and provides valuable experience points even for level 60&#39;s. Catherine parts are also known to be dropped in the Trinity 3 mission.<br>
+                      Missions like Trinity 2, Highway 2, and Interchange 1 and Interchange 3 aren&#39;t always successful on the market manager, but some players use them to farm rings, Unique weapons and quest items.<br>
+                      <br>
+                      Spinelles: These small red gems are a blessing and a curse, but almost always fun. In general, Spinelles are popular due to their ability to harass other players by summoning a giant boss, but they hold value in other places too. The Vladimir and Fallen Champion are the weakest of the four spinelles that drop from the box, which makes them tasty treats to higher players that like to collect level 80 drops or Rough Stones. The Golden Spider is known to Drop level 92 chips occasionally. The Thoracotomy is often times the most expensive spinelle, as it has the most killing power and is very tough to some classes. The &quot;Thora&quot; is known to drop lvl 92 items and Barrow de la Muerte keys, which can easily be used by higher players.<br>
+                      <br>
+                      Sapphires, Rubies, and Emeralds: These seemingly useless gems are actually very valuable. It&#39;s safe to sell to a NPC the unpolished gems and pieces, but rubies, sapphires, emeralds, and their High Quality counterparts are often seen on the Market Manager and are used in recipes of useful high-end items and equipment.<br>
+                      <br>
+                      Diamond Coupons: These little tickets can be used by anyone, preferable level 70 and above, at Theuringen Lakeside by talking to Ivan Popovichi. It takes players to a small room infested with treasure mobs that drop ore and occasionally level 80 items. Players can use these coupons to level their characters or stances as well as farm for the drops in order to make level 84 chips.<br>
+                      <br>
+                      Mega Aidanium, Mega Ionium, and Mega Etretanium: These ores are most commonly used for some stances used by veteran characters. Aidanium, seemingly the most popular, sells very well.<br>
+                      <br>
+                      Key [Barrow De la Muerte, Skeleton Dungeon]: This key is used to enter a special area in the Skeleton Dungeon and is a required element for later quests. This key is semi-rare and is often sold for hefty amounts to higher players.<br>
+                      <br>
+                      <br>
+                      <font size="4"><b>Possible Drops</b></font><br>
+                      <br>
+                      <b>Equipment:</b><br>
+                      .30 Cal. Wheel-lock Rifle<br>
+                      .32 Cal. Match-lock Rifle<br>
+                      .32 Cal. Wheel-lock Rifle<br>
+                      .34 Cal. Match-lock Rifle<br>
+                      .34 Cal. Brown Bess<br>
+                      .36 Cal. Brown Bess<br>
+                      .36 Cal. Sniper Rifle<br>
+                      .38 Cal. Brown Bess<br>
+                      .38 Cal. Dreyse<br>
+                      .40 Cal. Finisher<br>
+                      Albaes<br>
+                      Alegrias<br>
+                      Amber Rod<br>
+                      Arm Guard<br>
+                      Armor Breaker<br>
+                      Arondight<br>
+                      Automatic Cannon<br>
+                      Assault Rifle<br>
+                      Aurora Bracelet<br>
+                      Balmoong<br>
+                      Baselard<br>
+                      Bastard Sword<br>
+                      Battle Sword<br>
+                      Beirhandler<br>
+                      Blade of the Night<br>
+                      Blazing Spinel<br>
+                      Bill Guisarme<br>
+                      Blind Star<br>
+                      Blizzard Bracelet<br>
+                      Blunderbuss<br>
+                      Bone Knife<br>
+                      Bowie Knife<br>
+                      Broinac<br>
+                      Buckshot<br>
+                      Bracelet of Ice<br>
+                      Bracelet of Fire<br>
+                      Bracelet of Lightning<br>
+                      Bracelet of Muspell<br>
+                      Bracelet of Snowslide<br>
+                      Bracelet of Syberia<br>
+                      Bracelet of Sylphide<br>
+                      Bracelet of the Elemental Lord<br>
+                      Bracelet of the Salamander<br>
+                      Bracelet of the Yeti<br>
+                      Bracelet of Thunder<br>
+                      Bracelet of Wind<br>
+                      Brandistock<br>
+                      Broom<br>
+                      Buckler<br>
+                      Butterfly<br>
+                      Camisa De Soldado<br>
+                      Cappezzolo di Pericolo<br>
+                      Cavalier&#39;s Sabre<br>
+                      Chain Boots<br>
+                      Chain Bracers<br>
+                      Chain Mail<br>
+                      Charging Sabre<br>
+                      Chassepot<br>
+                      Cinquedea<br>
+                      Claude Baudez Nique<br>
+                      Claymore<br>
+                      Cutlass<br>
+                      Coat<br>
+                      Corsair Rosso<br>
+                      Corsesca<br>
+                      Crimson Rod<br>
+                      Critial Saw Epee<br>
+                      Cross Guard<br>
+                      Crystal Rod<br>
+                      Dagger<br>
+                      Daemon Shooter<br>
+                      Dirk<br>
+                      Dual-Edged Blade<br>
+                      Dwarven Staff<br>
+                      Eared Dagger<br>
+                      Earthcracker<br>
+                      Elder Magicion&#39;s Rod<br>
+                      Elemental Protector<br>
+                      Elven rod<br>
+                      Esianan Tattoos<br>
+                      Executioner Sword<br>
+                      Falcata<br>
+                      Falchion<br>
+                      Familiar Staff<br>
+                      Field Plate Mail<br>
+                      Fire Blade<br>
+                      Firestorm Bracelet<br>
+                      Flamberge<br>
+                      Flamberge Sabre<br>
+                      Fleuret<br>
+                      Frozen Braker<br>
+                      Full Auto<br>
+                      Full Plate Mail<br>
+                      Gaiters<br>
+                      General&#39;s Sabre<br>
+                      Genocider<br>
+                      Glacial Sapphire<br>
+                      Golem Protector<br>
+                      Golden Blade<br>
+                      Golden Maiden<br>
+                      Golden Revolver<br>
+                      Gugnir<br>
+                      Guisarme<br>
+                      Hand Cannon<br>
+                      Handgun<br>
+                      Hard-Leather Armor<br>
+                      Hard-Leather Boots<br>
+                      Hard-Learher Gloves<br>
+                      Hellfire Bracelet<br>
+                      Hellfire Robe<br>
+                      Highlander Sword<br>
+                      High Quality Practice Epee<br>
+                      Ice Sword<br>
+                      Imperial Shooter<br>
+                      Inferno Bracelet<br>
+                      Iron Shield<br>
+                      Jambiya<br>
+                      Jewel Rod<br>
+                      Joust Lance<br>
+                      Jupiter Bracer<br>
+                      Justocorps<br>
+                      Karabela<br>
+                      Katzbalger<br>
+                      Kite Shield<br>
+                      Knight of the Templar<br>
+                      Knight Shield<br>
+                      Knight Sword<br>
+                      Knuckle<br>
+                      Kris<br>
+                      Kukuri<br>
+                      La Calabrone<br>
+                      Laeherin<br>
+                      Landsknecht<br>
+                      Laranja e Preto<br>
+                      Leather Armor<br>
+                      Leather Boots<br>
+                      Leather Gloves<br>
+                      Leather Tunic<br>
+                      Lever Action Revolver<br>
+                      Lion Knuckle<br>
+                      Long Coat<br>
+                      Long Spear<br>
+                      Longsword<br>
+                      Mage Rod<br>
+                      Magician&#39;s Staff<br>
+                      Magic Rod<br>
+                      Maine Gauche<br>
+                      Mantis Rod<br>
+                      Mechanical Cannon<br>
+                      Merveilleuse<br>
+                      Moonstone Rod<br>
+                      Muerte Balada<br>
+                      Muspellheim<br>
+                      Mustang Strider<br>
+                      Mystic Gaiters<br>
+                      Mystic Knife<br>
+                      Mystic Knuckle<br>
+                      Neume&#39;s Hate<br>
+                      Old Wood Pendant<br>
+                      Outlaw<br>
+                      Parain&#39;s Spear<br>
+                      Parrying Dagger<br>
+                      Partisan<br>
+                      Peacemaker<br>
+                      Penetrator<br>
+                      Pheonix Knuckle<br>
+                      Phrase D&#39; Armes<br>
+                      Pike<br>
+                      Plum Shooter<br>
+                      Poignard<br>
+                      Poleaxe<br>
+                      Practice Blade<br>
+                      Practice Epee<br>
+                      Precision Rifle<br>
+                      Psychic Slayer<br>
+                      Pugio<br>
+                      Rafael&#39;s Sabre<br>
+                      Ranseur<br>
+                      Recoiless Cannon<br>
+                      Redingote<br>
+                      Reinbrink<br>
+                      Reinforces Shield<br>
+                      Rescue Suit<br>
+                      Revolver<br>
+                      Ringmail<br>
+                      Robe<br>
+                      Robe of Fire<br>
+                      Robe of Ice<br>
+                      Robe of Inferno<br>
+                      Robe of Storm<br>
+                      Robe of Syberia<br>
+                      Robe of Sylph<br>
+                      Robe of Uranus<br>
+                      Robe of Wind<br>
+                      Rod of Revelation<br>
+                      Rod of the Abyss<br>
+                      Rod of the Archbishop<br>
+                      Rod of the Archmage<br>
+                      Rod of the Conjurer<br>
+                      Rod of the Sage<br>
+                      Rod of the Shadows<br>
+                      Rosa Matrimonio<br>
+                      Round Knife<br>
+                      Rune Staff<br>
+                      Sabre<br>
+                      Saw-Blade<br>
+                      Scale Armor<br>
+                      Schweizersabel Sword<br>
+                      Schweizer Sabre<br>
+                      Scrama Sax<br>
+                      Scratch Claw<br>
+                      Screaming blade<br>
+                      Semi-Auto Shotgun<br>
+                      Shadraehi<br>
+                      Shamsir<br>
+                      Sharktooth<br>
+                      Shiavona<br>
+                      Shimmering Falcon<br>
+                      Shoes<br>
+                      Shoulder Cannon<br>
+                      Shooting Rain<br>
+                      Short Musket<br>
+                      Shotel<br>
+                      Shotgun<br>
+                      Sickle Knife<br>
+                      Slayer<br>
+                      Slicer<br>
+                      Snaphance<br>
+                      Snapshooter<br>
+                      Soul Staff<br>
+                      Sosun Pattah<br>
+                      Sparkling Topaz<br>
+                      Spear<br>
+                      Spetun<br>
+                      Splint Mail<br>
+                      Split Dagger<br>
+                      Staff<br>
+                      Staff of Hypnosis<br>
+                      Staff of Power<br>
+                      Staff of the Lordmage<br>
+                      Staff of the Simurgh<br>
+                      Stars and Stripes<br>
+                      Sticky Rod<br>
+                      Stilletto<br>
+                      Striform<br>
+                      Studded-Leather Armor<br>
+                      Sunset Striped Suit<br>
+                      Talwar<br>
+                      Targa Dagger<br>
+                      Tempest Bracelet<br>
+                      Tempest Robe<br>
+                      Templar Guard<br>
+                      Templar Sword<br>
+                      Tessak<br>
+                      The 6-in-a-row<br>
+                      The Elementalist<br>
+                      The Gaiters of Wind<br>
+                      The Gaiters f Storm<br>
+                      The Gladiator&#39;s Armor<br>
+                      The Unforgiven<br>
+                      Towershield<br>
+                      Trident<br>
+                      Twin-Barreled Revolver<br>
+                      Two-Handed Sword<br>
+                      Unicorn Rod<br>
+                      Valkyrie&#39;s Spirit<br>
+                      Venom Greed<br>
+                      Veteran&#39;s Sword<br>
+                      Viper blade<br>
+                      Volkteau&#39;s Pen<br>
+                      Vortex Gaiters<br>
+                      Wallace Sword<br>
+                      Wallan Sword<br>
+                      Westwood<br>
+                      Wheel-lock Pistol<br>
+                      Wind Slicer<br>
+                      Winged Blade<br>
+                      Xiphos<br>
+                      Yatagan<br>
+                      Zephyr&#39;s Bracelet<br>
+                      Zweihander<br>
+                      <br>
+                      <b>Consumable:</b><br>
+                      Analeptic Remedy<br>
+                      Antidote<br>
+                      Avacado Sandwich<br>
+                      Bellem&#39;s Box<br>
+                      Buche de Noel - Burning Hands<br>
+                      Buche de Noel - Chilling Touch<br>
+                      Buche de Noel - Electric Charger<br>
+                      Chocolate<br>
+                      Emmenthal Cheese<br>
+                      Fallen Champion Spinelle<br>
+                      Golden Spider Spinelle<br>
+                      Healing Potion<br>
+                      Health-filler<br>
+                      Invisible Potion<br>
+                      Layered Cheesecake<br>
+                      Magical Resisitance Potion<br>
+                      Mission: Highway 1<br>
+                      Mission: Highway 2<br>
+                      Mission: Highway 3<br>
+                      Mission: Interchange 1<br>
+                      Mission: Interchange 2<br>
+                      Mission: Interchange 3<br>
+                      Mission: Spotlight 1<br>
+                      Mission: Spotlight 2<br>
+                      Mission: Spotlight 3<br>
+                      Mission: Trinity 2<br>
+                      Mission: Trinity 3<br>
+                      Mithridart<br>
+                      Nutrition<br>
+                      Painkiller<br>
+                      Sacretorte<br>
+                      Snow Spray<br>
+                      Soul Liquor<br>
+                      Soul Potion<br>
+                      Spiritual Resistance Potion<br>
+                      Stabelizer<br>
+                      Thoracotomy Spinelle<br>
+                      Tiramisu<br>
+                      Tofu<br>
+                      Vladimir Spinelle<br>
+                      Warp Scroll - Ancient Area: Skeleton Dungeon: Fl.1<br>
+                      Warp Scroll - Ancient Skeleton Nest (Hidden)<br>
+                      Warp Scroll - Bahamar, Ancient Mineral Cave Fl.1<br>
+                      Warp Scroll - Dr. Torsche&#39;s Mansion, Annex<br>
+                      Warp Scroll - Porto Bello, Hidden Deck<br>
+                      Warp Scroll - Prison de Joaquin, Laboratory Block<br>
+                      Warp Scroll - Tetra Grand Chapel<br>
+                      Water Spray<br>
+                      <br>
+                      <b>Misc:</b><br>
+                      Aidanium<br>
+                      Black Dye<br>
+                      Blue Dye<br>
+                      Bulk Coal<br>
+                      Bulk of Gold<br>
+                      Bulk of Silver<br>
+                      Chalcodony<br>
+                      Cobosse<br>
+                      Copper Piece<br>
+                      Diamond Coupon<br>
+                      Elemental Orb<br>
+                      Emerald<br>
+                      Etretanium<br>
+                      Golden Coupon<br>
+                      Green dye<br>
+                      High Quality Emerald<br>
+                      High Quality Ruby<br>
+                      High Quality Sapphire<br>
+                      Ionium<br>
+                      Iron Piece<br>
+                      Key [Al Quelt Moreza Hollow]<br>
+                      Key [Barrow De la Muerte, Skeleton Dungeon]<br>
+                      Key [Porto Bello, St.Catherine Saloon]<br>
+                      Key [Prison de Joaquin, the Corridor de Assize]<br>
+                      Key [The Tetra Treasure Chamber]<br>
+                      Lv 100 Enchantment Chip<br>
+                      Lv 32 Enchantment Chip<br>
+                      Lv 36 Enchantment Chip<br>
+                      Lv 40 Enchantment Chip<br>
+                      Lv 44 Enchantment Chip<br>
+                      Lv 48 Enchantment Chip<br>
+                      Lv 52 Enchantment Chip<br>
+                      Lv 56 Enchantment Chip<br>
+                      Lv 60 Enchantment Chip<br>
+                      Lv 64 Enchantment Chip<br>
+                      Lv 68 Enchantment Chip<br>
+                      Lv 72 Enchantment Chip<br>
+                      Lv 76 Enchantment Chip<br>
+                      Lv 80 Enchantment Chip<br>
+                      Lv 84 Enchantment Chip<br>
+                      Lv 88 Enchantment Chip<br>
+                      Lv 92 Enchantment Chip<br>
+                      Lv 96 Enchantment Chip<br>
+                      Magical Orb<br>
+                      Mega Aidanium<br>
+                      Mega Etretanium<br>
+                      Mega Ionium<br>
+                      Megaphone<br>
+                      Mege Talt<br>
+                      Microphone<br>
+                      Mustard Dye<br>
+                      Orange Dye<br>
+                      Piece of Emerald<br>
+                      Piece of Ruby<br>
+                      Pice of Sapphire<br>
+                      Pink dye<br>
+                      Platinum Coupon<br>
+                      Pure Aidanium<br>
+                      Pure Etretanium<br>
+                      Pure Gold Bar<br>
+                      Pure Ionium<br>
+                      Pure Quartz<br>
+                      Pure Talt<br>
+                      Quartz<br>
+                      Red Dye<br>
+                      Refined Aidanium<br>
+                      Refined Etretanium<br>
+                      Refined Ionium<br>
+                      Refined Quartz<br>
+                      Refined Talt<br>
+                      Resurrection Potion<br>
+                      Ruby<br>
+                      Sapphire<br>
+                      Silver Piece<br>
+                      Sky Blue Dye<br>
+                      Solvent<br>
+                      Steel Piece<br>
+                      Talt<br>
+                      Toolset Box<br>
+                      Unpolished Blue Gem<br>
+                      Unpolished Green Gem<br>
+                      Unpolished Red Gem<br>
+                      Violet Dye<br>
+                      Warp Scroll<br>
+                      Yellow Dye<br>
+                      <br>
+                      100000 boxes were opened in the making of the guide, with Fontessa&#39;s record currently tallying to at least 1780000 boxes opened. Guide used with permission. You can find the original thread from the official forums here.<br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">/image/bg/1.png?v=20111214172750</span> <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Bellem%27s+Box" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/RDmoXbioaM-1lXucoWBQ9w142181/GW050" class="imageSm" alt="Chrysocolla"></a><br>
+                        <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Chrysocolla</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Bellem%27s+Box"><a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Bellem%27s+Box&from=lastPageUpdate&pageName=Bellem%27s+Box" class="WPC-action" onclick="return false">Chrysocolla</a></span> , <span id="WPC-lastRevisionDate?cellId=Bellem%27s+Box">Jan 13 2010, 5:44 AM EST</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Chrysocolla"><img src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/RDmoXbioaM-1lXucoWBQ9w142181/GW050" class="imageSm" alt="Chrysocolla"></a> <span class="comment" id="latestEditNoteComment">proofread</span> <span id="latestEditNoteAccount">- <a href="/account/Chrysocolla">Chrysocolla</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">36 words added</span><br>
+                        <span class="nowrap">31 words deleted</span><br></span><br>
+                        <a href="/page/Bellem%27s+Box/diff/4,5" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Bellem%27s+Box/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Bellem" title="Bellem" class="pageTag">Bellem</a></span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Bellem%27s+Box/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FBellem%2527s%2BBox&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Bellem%27s+Box/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList"></div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="/js/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      <div id="firstToReplyDiv">
+                        There are no threads for this page. &nbsp;Be the first to start a new thread.
+                      </div>
+                    </div><span id="threadCounter" title="" style="display:none"></span>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li>
+                                <a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a>
+                                <ul>
+                                  <li><a href="/page/Weapons" rel="1">Weapons</a></li>
+                                  <li><a href="/page/Accessories" rel="4">Accessories</a></li>
+                                  <li><a href="/page/Costumes" rel="4">Costumes</a></li>
+                                  <li><a href="/page/Consumption+%2F+Misc+Items" rel="8">Consumption / Misc Items</a></li>
+                                  <li><a href="/page/Cash+Shop+Items" rel="5">Cash Shop Items</a></li>
+                                  <li><a href="/page/Bellem%27s+Box" class="current">Bellem&#039;s Box</a></li>
+                                  <li><a href="/page/Letizia+Shiny+Box">Letizia Shiny Box</a></li>
+                                  <li><a href="/page/Crescemento+Series">Crescemento Series</a></li>
+                                  <li><a href="/page/Guide+to+Pioneer+%2F+Ancestral+gear">Guide to Pioneer / Ancestral gear</a></li>
+                                  <li><a href="/page/High+End+Equipment" rel="21">High End Equipment</a></li>
+                                  <li><a href="/page/Artifacts">Artifacts</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script>
+</body>
+</html>

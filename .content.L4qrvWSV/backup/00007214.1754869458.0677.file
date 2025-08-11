@@ -1,0 +1,599 @@
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        wp_ads.noAdSense = '';
+        wp_ads.top = 'Top';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.tracking = 'Tracking';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","Search");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        
+        GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+      //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      //]]>
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join?from=joinButton" class="submit action secondary wetpaintAnnounce"><span><span>Join This Site</span></span></button></span> <span>Already a member?<br />
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <h1>Search Results</h1>
+                <div id="everythingSearch" class="searchForm">
+                  <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                    <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="Irawain" onfocus="if( this.value == 'Irawain' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                  </form>
+                </div><br />
+                <div class="tabNavigation">
+                  <ul>
+                    <li class="selected">All</li>
+                    <li><a href="/search/pages/Irawain">Pages</a></li>
+                    <li><a href="/search/threads/Irawain">Threads</a></li>
+                    <li><a href="/search/photos/Irawain">Photos</a></li>
+                  </ul>
+                  <div class="clear"></div>
+                </div>
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="100%" style="padding:0px;">
+                      <div id="contentWrapper">
+                        <div id="searchResults">
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="pagingActionWrapper">
+                              <span class="pagingAction"></span>
+                              <form name="paginationForm" action="" method="get" id="paginationForm">
+                                <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;15&nbsp;of&nbsp;15 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                  <option value="10">
+                                    10
+                                  </option>
+                                  <option value="20" selected="selected">
+                                    20
+                                  </option>
+                                  <option value="50">
+                                    50
+                                  </option>
+                                </select> items&nbsp;at a time</span>
+                              </form>
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                          <div class="ulList">
+                            <ul>
+                              <li class="selected">
+                                <span class="exactMatch">Looking for this page?</span><span class="resultLink"><a href="/page/Irawain" class="WPC-tool WPC-tool-content WPC-indicate">Irawain</a></span> <span class="resultContent">. Be warned that it doesn&#039;t take much to take him down as he has fairly low CON for a melee character. How to get: Talk to Irawain. Choose to lend</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Irawain" title="Irawain">Irawain</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Sep 6 2008, 9:51 PM EDT by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Irawain&pageName=Irawain" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Irawain&pageName=Irawain">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="selectedaltRow">
+                                <span class="resultLink"><a href="/photo/1308639/Irawain" class="WPC-tool WPC-tool-photo" title="Irawain"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/VbhGXt6xXTx9l-QhJzDjAw28214/GW073" alt="" />Irawain</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Albums: Uncategorized</span>
+                                </div>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/irawain" title="irawain">irawain&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Added: Aug 24 2008, 5:14 AM EDT by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Irawain&from=status&pageName=Irawain" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Irawain&from=status&pageName=Irawain">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/thread/1436426/Questions+about+Irawain+Quest%2C++Step+5" class="WPC-tool WPC-tool-thread WPC-indicate">Questions about Irawain Quest, Step 5</a></span> <span class="resultContent">The guide - " Head to Schivaliere and investigate the flipped boxes at 1 o&#39;clock PM or 10 o&#39;clock PM server time "<br />
+                                I have two questions<br />
+                                How can I check the server time?<br />
+                                Do i need to click on the box at exactly 1 pm or 10 pm??<br />
+                                I see a few flipped boxes in Schivaliere, do I just randomly click one of them?</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Thread location: <a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a></span>
+                                </div>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Posted: May 1 2008, 5:25 PM EDT by <a href="/account/raidanz" id="action_accountMenu?account=raidanz&subject=Questions+about+Irawain+Quest%2C++Step+5&from=threadFirstPost1436426&threadId=1436426" class="action" onclick="return false" name="action_accountMenu?account=raidanz&subject=Questions+about+Irawain+Quest%2C++Step+5&from=threadFirstPost1436426&threadId=1436426">raidanz</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+22" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 22</a></span> <span class="resultContent">. Talk to Alex, the Locksmith in Coimbra. He&#039;s between the two bridges, near Irawain. 2. Travel to Tetra Grand Corridor to kill the following monsters</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+22" title="Quests - Level 22">Quests - Level 22</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 15 2009, 7:03 AM EST by <a href="/account/Swiftburns" id="action_accountMenu?account=Swiftburns&subject=Quests+-+Level+22&pageName=Quests+-+Level+22" class="action" onclick="return false" name="action_accountMenu?account=Swiftburns&subject=Quests+-+Level+22&pageName=Quests+-+Level+22">Swiftburns</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Baek+Ho" class="WPC-tool WPC-tool-content WPC-indicate">Baek Ho</a></span> <span class="resultContent">will fight you but you don&#039;t have to beat him. His quest requires you to speak to Gertrude, Soso, Irawain, and Gracielo. Note</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Baek+Ho" title="Baek Ho">Baek Ho</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Sep 15 2008, 2:42 AM EDT by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Baek+Ho&pageName=Baek+Ho" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Baek+Ho&pageName=Baek+Ho">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Character" class="WPC-tool WPC-tool-content WPC-indicate">Character</a></span> <span class="resultContent">M&#039;Boma - lvl 44 Alejandro - lvl 44 Jose Cortasar - lvl 48 Irawain - lvl 1 ( Promo UPC) Calypso - lvl 1 ( Promo</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/character" title="character">character,&nbsp;</a> <a href="/tag/NPCs" title="NPCs">NPCs,&nbsp;</a> <a href="/tag/upcs" title="upcs">upcs&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 13 2009, 3:42 AM EST by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Character&pageName=Character" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Character&pageName=Character">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Port+Coimbra+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Port Coimbra UPCs Overview</a></span> <span class="resultContent">or Irawain for example) or a better AE (Wiz, Ele, Jose, etc). He&#039;s above average in AFK leveling and powerleveling mainly since he can auto heal</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Port+Coimbra+UPCs+Overview" title="Port Coimbra UPCs Overview">Port Coimbra UPCs Overview</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Apr 7 2008, 11:46 AM EDT by <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Port+Coimbra+UPCs+Overview&pageName=Port+Coimbra+UPCs+Overview" class="action" onclick="return false" name="action_accountMenu?account=Lothmak&subject=Port+Coimbra+UPCs+Overview&pageName=Port+Coimbra+UPCs+Overview">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Inherent+Skill+List" class="WPC-tool WPC-tool-content WPC-indicate">Inherent Skill List</a></span> <span class="resultContent">Skill: Increases attack speed, evasion, and adds lightning damage, but reduces defense. A gaiter stance. Irawain</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Inherent+Skill+List" title="Inherent Skill List">Inherent Skill List</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/personal+skill+inherent" title="personal skill inherent">personal skill inherent&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Sep 27 2008, 1:53 AM EDT by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Inherent+Skill+List&pageName=Inherent+Skill+List" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Inherent+Skill+List&pageName=Inherent+Skill+List">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Quests" class="WPC-tool WPC-tool-content WPC-indicate">Quests</a></span> <span class="resultContent">in Danger UPC Quest: Angie UPC Quest: Irawain&#039;s card Quest: Buffalo Horn Quest: Menedez&#039;s battle Pioneering</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/Granado+Espada" title="Granado Espada">Granado Espada,&nbsp;</a> <a href="/tag/Quests" title="Quests">Quests,&nbsp;</a> <a href="/tag/SOTNW" title="SOTNW">SOTNW,&nbsp;</a> <a href="/tag/SOTNW+Quests" title="SOTNW Quests">SOTNW Quests,&nbsp;</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki">SOTNW Wiki,&nbsp;</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World">Sword of the New World,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Quests" title="Sword of the New World Quests">Sword of the New World Quests,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki">Sword of the New World Wiki&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 1 2009, 12:48 AM EST by <a href="/account/Locuratotal" id="action_accountMenu?account=Locuratotal&subject=Quests&pageName=Quests" class="action" onclick="return false" name="action_accountMenu?account=Locuratotal&subject=Quests&pageName=Quests">Locuratotal</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Body" class="WPC-tool WPC-tool-content WPC-indicate">Body</a></span> <span class="resultContent">Here is my ongoing guide to costumes in SoTNW, I will try to keep it as up to date as possible. Any discrepancies are most likely an oversight so</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Costumes" title="Costumes">Costumes</a> &gt; <a href="/page/Body" title="Body">Body</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/musk+icon" title="musk icon">musk icon&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 28 2009, 5:39 PM EST by <a href="/account/physics152" id="action_accountMenu?account=physics152&subject=Body&pageName=Body" class="action" onclick="return false" name="action_accountMenu?account=physics152&subject=Body&pageName=Body">physics152</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Basic+Characters+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Basic Characters Overview</a></span> <span class="resultContent">(vet), Domination Lightning (vet), Domination Fire (vet) Notes: Elementalists are the proverbial glass cannons in SotNW. Although some melee characters</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Basic+Characters+Overview" title="Basic Characters Overview">Basic Characters Overview</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Apr 7 2008, 11:45 AM EDT by <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Basic+Characters+Overview&pageName=Basic+Characters+Overview" class="action" onclick="return false" name="action_accountMenu?account=Lothmak&subject=Basic+Characters+Overview&pageName=Basic+Characters+Overview">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/City+of+Auch+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">City of Auch UPCs Overview</a></span> <span class="resultContent">and Irawain, and they don&#039;t have access to as many stances as her. Tanking bosses with a shield may be more viable if she can keep aggro from doing</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/City+of+Auch+UPCs+Overview" title="City of Auch UPCs Overview">City of Auch UPCs Overview</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Apr 7 2008, 11:46 AM EDT by <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=City+of+Auch+UPCs+Overview&pageName=City+of+Auch+UPCs+Overview" class="action" onclick="return false" name="action_accountMenu?account=Lothmak&subject=City+of+Auch+UPCs+Overview&pageName=City+of+Auch+UPCs+Overview">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/thread/1794515/Portraits" class="WPC-tool WPC-tool-thread WPC-indicate">Portraits</a></span> <span class="resultContent">Added portraits for Irawain, Angie, Kurt, Eduardo, Garcia, and Baek Ho.</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Thread location: <a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a></span>
+                                </div>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/character" title="character">character,&nbsp;</a> <a href="/tag/NPCs" title="NPCs">NPCs,&nbsp;</a> <a href="/tag/upcs" title="upcs">upcs&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Posted: Aug 24 2008, 5:26 AM EDT by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Portraits&from=threadFirstPost1794515&threadId=1794515" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Portraits&from=threadFirstPost1794515&threadId=1794515">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/thread/1290761/About+Blue+Key+of+Ferruccio" class="WPC-tool WPC-tool-thread WPC-indicate">About Blue Key of Ferruccio</a></span> <span class="resultContent">hmm, the box you have to open is in Porto Bello Hold (the dungeon) in B6, once you open the box you&#39;ll get a blue key bone that you have to take to the Key researcher in port coimbra (the old man standing near nunez and irawain, in the middle of the 2 little bridges) and he will give you the Blue Key that opens the blue boxes.<br />
+                                <br />
+                                I&#39;ll verify this, and edit the info =P</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Reply to thread: <a href="/thread/1290761/About+Blue+Key+of+Ferruccio" class="WPC-tool WPC-tool-thread WPC-indicate">About Blue Key of Ferruccio</a> <span style="font-weight:normal">(4&nbsp;replies)</span></span>
+                                </div>
+                                <div>
+                                  Thread location: <a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a>
+                                </div>
+                                <div class="keywordTags">
+                                  Keyword tags: None
+                                </div>
+                                <div>
+                                  Posted: Mar 14 2008, 9:42 PM EDT by <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=About+Blue+Key+of+Ferruccio&from=threadFirstPost1290761&threadId=1290761" class="action" onclick="return false" name="action_accountMenu?account=Lothmak&subject=About+Blue+Key+of+Ferruccio&from=threadFirstPost1290761&threadId=1290761">Lothmak</a>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/thread/1263664/lol%3F" class="WPC-tool WPC-tool-thread WPC-indicate">lol?</a></span> <span class="resultContent">You can buy those items with Vis as they are tradeable. Irawain is also a VERY powerful character. He&#39;s one of my favorite hand to hand fighters when using his chapter of fire stance. With a ring I have around 44 block using Will of the Warrior. Low HP or not, he blocks well and does a lot of straight melee damage. Good for mini bosses/raid bosses/small group PvP. He will instakill most not blocking characters. Of course there&#39;s always a lucky evade too. His Will of the Warrior is a +1 AR skill with a ring. If Con is much of a worry you could technically spend vet/expert points on Con. His Str is already 8. He gets a bit glass cannonish with 10 str I think. DPS is DPS tho.</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Reply to thread: <a href="/thread/1263664/lol%3F" class="WPC-tool WPC-tool-thread WPC-indicate">lol?</a> <span style="font-weight:normal">(12&nbsp;replies)</span></span>
+                                </div>
+                                <div>
+                                  Thread location: <a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a>
+                                </div>
+                                <div class="keywordTags">
+                                  Keyword tags: None
+                                </div>
+                                <div>
+                                  Posted: Mar 28 2008, 9:06 AM EDT by Anonymous
+                                </div>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="pagingWrapper" style="clear:both;"></div>
+                          <div style="clear:both;"></div>
+                        </div>
+                      </div>
+                    </td>
+                    <td style="padding:0px;">
+                      <div class="innerColumn">
+                        <div id="tagCloud" class="panel">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                          </div>
+                          <div class="panelContent">
+                            Loading...
+                          </div>
+                        </div>
+                        <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl">
+                              &nbsp;&nbsp;
+                            </div>Top Wetpaint Sites
+                          </div>
+                          <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                          <form onsubmit="return false">
+                            <input type="hidden" name="containsField" id="containsField" value="Irawain" />
+                          </form>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Site pages
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader open">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent" style="display:none;">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <br />
+              <br />
+              <div id="googleAdUnitIframe_left"></div>
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+              google_color_bg = "FFFFFF";
+              google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+              //]]>
+              </script> 
+              <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Pregnancy</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090122154811" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b12';s_w.channel='search';s_w.pageType='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(10838/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='search';s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(global_inits['AB_TEST'] == 0) ? 'na' : (global_inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,850 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Quests - Level 84 - Threads - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Quests - Level 84 - Threads">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Quests - Level 84',"PAGE_URI" : '/page/Quests+-+Level+84',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'pageThreads',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Quests','Quests - Level 84']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","PThreadLst");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  </script>
+  <script language="JavaScript">
+                
+                GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in to Wetpaint</a> <span class="logo">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span class="alreadyMember">Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in</a></span><br>
+            <span class="signup-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="signup-button"><span class="signup-button"></span></span></button></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <div class="hierarchy">
+                    <h3><span class="WPC-tool WPC-tool-content">Location</span>: <a href="/page/Quests+-+Level+84">Quests - Level 84</a></h3>
+                    <h1>Page Threads</h1>
+                  </div>
+                </div>
+                <div id="threadList" class="pageSection pageSectionOutOfPage">
+                  <div class="pageSectionHeader pageLink">
+                    <span class="controlsNode" id="controlsNode_0"></span>
+                    <ul class="WPC-toolsMenu">
+                      <li><span class="controlsNode" id="controlsNode_0"><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_openThreadForm?from=addThread" onclick="return false;">Post a new thread</a></span></li>
+                    </ul><a name="replyToThread"></a>
+                    <div id="threadFormDiv" style="display:none">
+                      <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                        <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                        <table class="threadFormTable">
+                          <tr>
+                            <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                            <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                          </tr>
+                          <tr>
+                            <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                            <td>
+                            <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                            <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                          </tr>
+                          <tr id="quoteRow" style="display:none;">
+                            <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                            <td><span id="quoteContent">
+                            <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                          </tr>
+                          <tr id="tagRow" style="display:none;">
+                            <td class="labelCell">Keyword tags:</td>
+                            <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                          </tr>
+                        </table>
+                        <div id="threadNotification" style="display:none;"></div><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" style="display:none" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                      </form>
+                      <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                        Posting...
+                      </div>
+                      <div id="editLengthWarn" style="display:none;">
+                        Note: You can enter up to [REMCHARS] additional characters.<br>
+                        Did you know you can edit the content of this page by clicking EasyEdit?
+                      </div>
+                    </div><span style="display:none" id="threadFormPlacementDivId" class=""></span> 
+                    <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                  </div>
+                  <div class="tableList">
+                    <table>
+                      <tr class="header">
+                        <th><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?parentNodeId=threadList" href="#toggle"></a></th>
+                        <th>Started&nbsp;By</th>
+                        <th width="18"></th>
+                        <th>Thread Subject</th>
+                        <th>Replies</th>
+                        <th class="farRightCell">Last Post</th>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2663799/newie...need+help..i+do+this+quest.i+am+level+76+now"><b>newie...need help..i do this quest.i am level 76 now</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Apr 6 2009, 6:23 AM EDT</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA1" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB1" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Apr 6 2009, 6:23 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2663799&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Quest: Dinosaur Killer<br>
+                              NPC + Location: Marcelino, Ustiur Base Camp<br>
+                              Reward: Equipment Selected<br>
+                              1. Complete the above quest<br>
+                              2. Talk to Marcelino<br>
+                              3. Select the equipment you wish to make. You can only make only one of the following items.<br>
+                              Dragon Sword (Tyranno Teeth 1, Dragon Horn 2, Dragon Leather 3)<br>
+                              Dragon Slayer (Tyranno Teeth 1, Dragon Horn 3, Dragon Leather 3)<br>
+                              Dragon Lance (Tyranno Teeth 1, Dragon Horn 4, Bone Stick 2)<br>
+                              Dragon Hunter (Tyranno Teeth 1, Dragon Horn 4, Bone Stick 2)<br>
+                              Dragon Coat (Dragon Horn 10, Dragon Skin 10)<br>
+                              Dino Horn and Dino Skin can be obtained from any dinosaur type monsters.<br>
+                              Tyranno Teeth from Tyrannosaurus.<br>
+                              Bone Stick from any skeleton type monsters.<br>
+                              4. Talk to Marcelino to complete the quest<br>
+                              <br>
+                              i want to know Dragon Coat is a costume only (no DEF)or real DEF?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2663799&post=17687835"><span id="agreeCount?thread=2663799&post=17687835">0</span> &nbsp;out of <span id="totalCount?thread=2663799&post=17687835">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2663799&post=17687835" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2663799&post=17687835">Do you? <a id="WPC-action_rateThread?thread=2663799&post=17687835&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2663799&post=17687835&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2663799" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2663799/newie...need+help..i+do+this+quest.i+am+level+76+now?offset=0&WPC-action=openThreadForm?postId=17687835&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2168165/The+rex..."><b>The rex...</b></a></td>
+                        <td align="center">3</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Mar 5 2009, 10:28 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA2" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB2" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Dec 11 2008, 9:51 PM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2168165&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              What lvl should I be for the Rex?<br>
+                              I have an elite shotgun (84) and a 84E greatsword with 38% atk to dinosaurs, I have all 80 pio, except for my fighter. What should I give him? I dont have enough polishes for the armor, and I can&#39;t afford the Elite Metal (50M on Bristia :P). Should I save for a 84E and forget the 80pio metal, or do the quest and get the 80 pio? Pretty much what I&#39;m asking is what is better, buying a lvl 84E Ring Mail, or doing the quest and getting a lvl 80 pio metal? 84E Leather Armor=
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2168165&post=14010061"><span id="agreeCount?thread=2168165&post=14010061">2</span> &nbsp;out of <span id="totalCount?thread=2168165&post=14010061">8</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2168165&post=14010061" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2168165&post=14010061">Do you? <a id="WPC-action_rateThread?thread=2168165&post=14010061&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2168165&post=14010061&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2168165" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2168165/The+rex...?offset=0&WPC-action=openThreadForm?postId=16498997&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div><a href="#lastReply" onclick="document.getElementById('threadLastReply2168165').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2168165" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2168165/The+rex...?offset=0#post16498997"><b>RE: The rex...</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Anonymous, Mar 5 2009, 10:28 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          Before you kill the rex,you need to settle down those raptor to avoid problem. Go to rex and provoke those raptor then get away from the rex and kill those raptor.You should be able to settle these raptor because the rex movement is slow.If you have fighter in your team,equio him with a shield,then switch to High Guard stance because it is very effective to block its attack.Then show all of your powerful skill to the rex.
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2168165&post=16498997"><span id="agreeCount?thread=2168165&post=16498997">1</span> &nbsp;out of <span id="totalCount?thread=2168165&post=16498997">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2168165&post=16498997" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2168165&post=16498997">Do you? <a id="WPC-action_rateThread?thread=2168165&post=16498997&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2168165&post=16498997&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2457740/Help+and+correct.."><b>Help and correct..</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Feb 24 2009, 7:04 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA3" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB3" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Feb 24 2009, 7:04 AM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2457740&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              The base camp starting level is 78, you need to be level 75 to get in and talk to grandma but to start real quest with reward and some thing to do you need to be level 78. And i&#39;m now done with the materials and food supply quest and i&#39;m not sure if i should do the base defending quest.. i&#39;m afraid to fail &#39;cause then i will have to re pit the quests... What level are the monsters and how hard it is??
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2457740&post=16177178"><span id="agreeCount?thread=2457740&post=16177178">1</span> &nbsp;out of <span id="totalCount?thread=2457740&post=16177178">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2457740&post=16177178" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2457740&post=16177178">Do you? <a id="WPC-action_rateThread?thread=2457740&post=16177178&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2457740&post=16177178&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2457740" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2457740/Help+and+correct..?offset=0&WPC-action=openThreadForm?postId=16177178&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=4" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2338881/quest+lvl"><b>quest lvl</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 30 2009, 4:43 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA4" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB4" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 30 2009, 4:43 PM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2338881&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              you can start all these quest at lvl 78!!!!!!!!!!!
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2338881&post=15368974"><span id="agreeCount?thread=2338881&post=15368974">4</span> &nbsp;out of <span id="totalCount?thread=2338881&post=15368974">5</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2338881&post=15368974" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2338881&post=15368974">Do you? <a id="WPC-action_rateThread?thread=2338881&post=15368974&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2338881&post=15368974&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2338881" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2338881/quest+lvl?offset=0&WPC-action=openThreadForm?postId=15368974&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=5" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2332724/some+og+the+quest+start+lvl"><b>some og the quest start lvl</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 29 2009, 11:43 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA5" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB5" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 29 2009, 11:43 AM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2332724&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              you can start these quest at lvl 78<br>
+                              Quest: Supplying the Materials<br>
+                              Quest: Supplying the Food
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2332724&post=15333031"><span id="agreeCount?thread=2332724&post=15333031">4</span> &nbsp;out of <span id="totalCount?thread=2332724&post=15333031">4</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2332724&post=15333031" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2332724&post=15333031">Do you? <a id="WPC-action_rateThread?thread=2332724&post=15333031&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2332724&post=15333031&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2332724" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2332724/some+og+the+quest+start+lvl?offset=0&WPC-action=openThreadForm?postId=15333031&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=6" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2144389/Quest+Montoro"><b>Quest Montoro</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Dec 4 2008, 2:25 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA6" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB6" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Dec 4 2008, 2:25 PM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2144389&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Out of experience, (Server Opresia this instance is bugged in channel 2) it freezes and won&#39;t let you finish it. Therefor if you are to attempt this quest make sure it&#39;s on channel one.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2144389&post=13844632"><span id="agreeCount?thread=2144389&post=13844632">7</span> &nbsp;out of <span id="totalCount?thread=2144389&post=13844632">8</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2144389&post=13844632" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2144389&post=13844632">Do you? <a id="WPC-action_rateThread?thread=2144389&post=13844632&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2144389&post=13844632&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Instance" title="Instance" class="pageTag">Instance</a> <a href="/tag/Montoro" title="Montoro" class="pageTag">Montoro</a> <a href="/tag/Opresia" title="Opresia" class="pageTag">Opresia</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=2144389" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2144389/Quest+Montoro?offset=0&WPC-action=openThreadForm?postId=13844632&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=7" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2051759/Battle+with+Romina"><b>Battle with Romina</b></a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Nov 25 2008, 1:20 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA7" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB7" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Nov 7 2008, 7:49 AM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2051759&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              The time must have been changed since the quest was listed here. It is now 5 minutes not 10.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2051759&post=13220751"><span id="agreeCount?thread=2051759&post=13220751">4</span> &nbsp;out of <span id="totalCount?thread=2051759&post=13220751">7</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2051759&post=13220751" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2051759&post=13220751">Do you? <a id="WPC-action_rateThread?thread=2051759&post=13220751&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2051759&post=13220751&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/quests+romina" title="quests romina" class="pageTag">quests romina</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=2051759" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2051759/Battle+with+Romina?offset=0&WPC-action=openThreadForm?postId=13638973&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div><a href="#lastReply" onclick="document.getElementById('threadLastReply2051759').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2051759" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2051759/Battle+with+Romina?offset=0#post13638973"><b>RE: Battle with Romina</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Anonymous, Nov 25 2008, 1:20 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          yea..<br>
+                                          guess they want to make it harder..
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2051759&post=13638973"><span id="agreeCount?thread=2051759&post=13638973">1</span> &nbsp;out of <span id="totalCount?thread=2051759&post=13638973">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2051759&post=13638973" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2051759&post=13638973">Do you? <a id="WPC-action_rateThread?thread=2051759&post=13638973&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2051759&post=13638973&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=8" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2022875/lvl+84+quests+starting+with+%22The+Captain%2C+Romina%22"><b>lvl 84 quests starting with &#034;The Captain, Romina&#034;</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Oct 29 2008, 10:48 PM EDT</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA8" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB8" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Oct 29 2008, 10:48 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2022875&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Just wanted to let you know you can start this quest at lvl 80. I am up to the t-rex quest but because I am lvl 80 I cant beat him in the time. Anyways you might want to change the wiki to include these quests in a lvl 80 section.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2022875&post=13041180"><span id="agreeCount?thread=2022875&post=13041180">5</span> &nbsp;out of <span id="totalCount?thread=2022875&post=13041180">8</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2022875&post=13041180" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2022875&post=13041180">Do you? <a id="WPC-action_rateThread?thread=2022875&post=13041180&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2022875&post=13041180&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2022875" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2022875/lvl+84+quests+starting+with+%22The+Captain%2C+Romina%22?offset=0&WPC-action=openThreadForm?postId=13041180&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=9" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/1635231/Karjalainen+card+quest"><b>Karjalainen card quest</b></a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jul 7 2008, 11:32 AM EDT</span> by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Karjalainen+card+quest&from=threadFirstAccount1635231&threadId=1635231" class="WPC-action" onclick="return false">Lothmak</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA9" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB9" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jul 6 2008, 7:58 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=1635231&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              note : Andre does not need to be lvl84.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1635231&post=10659301"><span id="agreeCount?thread=1635231&post=10659301">25</span> &nbsp;out of <span id="totalCount?thread=1635231&post=10659301">28</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1635231&post=10659301" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1635231&post=10659301">Do you? <a id="WPC-action_rateThread?thread=1635231&post=10659301&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=1635231&post=10659301&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=1635231" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/1635231/Karjalainen+card+quest?offset=0&WPC-action=openThreadForm?postId=10670545&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div><a href="#lastReply" onclick="document.getElementById('threadLastReply1635231').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1635231" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Karjalainen+card+quest&from=threadImg1635231&threadId=1635231" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/pjy1XBw5E16VlPV1BO1LpQ6109/GW050" alt="Lothmak"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1635231/Karjalainen+card+quest?offset=0#post10670545"><b>RE: Karjalainen card quest</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Karjalainen+card+quest&from=threadLastAccount1635231&threadId=1635231" class="WPC-action" onclick="return false">Lothmak</a>, Jul 7 2008, 11:32 AM EDT</span>
+                                        <div style="margin-top:10px;">
+                                          there, edited thanks =P ; the quest is explained in the upc page so I didn&#39;t remember that it was posted here aswell lol
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1635231&post=10670545"><span id="agreeCount?thread=1635231&post=10670545">1</span> &nbsp;out of <span id="totalCount?thread=1635231&post=10670545">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1635231&post=10670545" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1635231&post=10670545">Do you? <a id="WPC-action_rateThread?thread=1635231&post=10670545&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=1635231&post=10670545&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+                <div class="ads adscontent">
+                  <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                  </script>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li>
+                              <a href="/page/Quests" rel="44">Quests</a>
+                              <ul>
+                                <li><a href="/page/Sword+of+the+New+World+Walkthrough">Sword of the New World Walkthrough</a></li>
+                                <li><a href="/page/Pioneering+Quests">Pioneering Quests</a></li>
+                                <li><a href="/page/Bernelli+Quests">Bernelli Quests</a></li>
+                                <li><a href="/page/Quests+-+Level+1">Quests - Level 1</a></li>
+                                <li><a href="/page/Quests+-+Level+4">Quests - Level 4</a></li>
+                                <li><a href="/page/Quests+-+Level+6">Quests - Level 6</a></li>
+                                <li><a href="/page/Quests+-+Level+8">Quests - Level 8</a></li>
+                                <li><a href="/page/Quests+-+Level+10">Quests - Level 10</a></li>
+                                <li><a href="/page/Quests+-+Level+12">Quests - Level 12</a></li>
+                                <li><a href="/page/Quests+-+Level+16">Quests - Level 16</a></li>
+                                <li><a href="/page/Quests+-+Level+17">Quests - Level 17</a></li>
+                                <li><a href="/page/Quests+-+Level+20">Quests - Level 20</a></li>
+                                <li><a href="/page/Quests+-+Level+22">Quests - Level 22</a></li>
+                                <li><a href="/page/Quests+-+Level+24">Quests - Level 24</a></li>
+                                <li><a href="/page/Quests+-+Level+25">Quests - Level 25</a></li>
+                                <li><a href="/page/Quests+-+Level+28">Quests - Level 28</a></li>
+                                <li><a href="/page/Quests+-+Level+29">Quests - Level 29</a></li>
+                                <li><a href="/page/Quests+-+Level+30">Quests - Level 30</a></li>
+                                <li><a href="/page/Quests+-+Level+31">Quests - Level 31</a></li>
+                                <li><a href="/page/Quests+-+Level+32">Quests - Level 32</a></li>
+                                <li><a href="/page/Quests+-+Level+35">Quests - Level 35</a></li>
+                                <li><a href="/page/Quests+-+Level+36">Quests - Level 36</a></li>
+                                <li><a href="/page/Quests+-+Level+38">Quests - Level 38</a></li>
+                                <li><a href="/page/Quests+-+Level+40">Quests - Level 40</a></li>
+                                <li><a href="/page/Quests+-+Level+41">Quests - Level 41</a></li>
+                                <li><a href="/page/Quests+-+Level+44">Quests - Level 44</a></li>
+                                <li><a href="/page/Quests+-+Level+46">Quests - Level 46</a></li>
+                                <li><a href="/page/Quests+-+Level+48">Quests - Level 48</a></li>
+                                <li><a href="/page/Quests+-+Level+50">Quests - Level 50</a></li>
+                                <li><a href="/page/Quests+-+Level+55">Quests - Level 55</a></li>
+                                <li><a href="/page/Quests+-+Level+57">Quests - Level 57</a></li>
+                                <li><a href="/page/Quests+-+Level+60">Quests - Level 60</a></li>
+                                <li><a href="/page/Quests+-+Level+65">Quests - Level 65</a></li>
+                                <li><a href="/page/Quests+-+Level+71">Quests - Level 71</a></li>
+                                <li><a href="/page/Quests+-+Level+72">Quests - Level 72</a></li>
+                                <li><a href="/page/Quests+-+Level+75">Quests - Level 75</a></li>
+                                <li><a href="/page/Quests+-+Level+78">Quests - Level 78</a></li>
+                                <li><a href="/page/Quests+-+Level+84" class="current">Quests - Level 84</a></li>
+                                <li><a href="/page/Quests+-+Level+100+-+Veteran">Quests - Level 100 - Veteran</a></li>
+                                <li><a href="/page/Elemental+Keys+%28Gates%29">Elemental Keys (Gates)</a></li>
+                                <li><a href="/page/Bahamar+Quests">Bahamar Quests</a></li>
+                                <li><a href="/page/Katovic+Snowfield+Quests">Katovic Snowfield Quests</a></li>
+                                <li><a href="/page/Garcia+Questline">Garcia Questline</a></li>
+                                <li><a href="/page/Caebolan+Quests">Caebolan Quests</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology" rel="1">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Fracture Game Community</span></li>
+            <li><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>StarCraft 2.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090421234033" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b13';s_w.channel='pageThreads';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(1399/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.sProp11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.sProp10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+</body>
+</html>

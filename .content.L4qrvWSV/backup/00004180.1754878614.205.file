@@ -1,0 +1,807 @@
+<html>
+<head>
+  <title>Raids - Page History - Wiki of the new world</title>
+  <meta name="description" content="Wiki of the new world - Raids - Page History" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+        //<![CDATA[
+                var inits = {"BUILD_DATE" : '20080513205753',"WIKI_NAME" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the new world',"WIKI_PPA_URL" : '',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Raids',"PAGE_URI" : '/page/Raids',"PAGE_VERSION" : '37',"PAGE_LATEST_VERSION" : '37',"UX" : 'wp',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"ACCOUNT_NAME" : '',"ACTION" : '',"SAVE_PATH" : '/page/Raids',"SAVE_TYPE" : 'page',"DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"BREADCRUMBS" : ['Wiki Of The New World','Raids']};
+        //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        wp_ads.noAdSense = '';
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","3000000144,3000000109,3000000172,3000000029");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        
+        GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;" name="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/1/ywnfECjxV_-a2O_NxK-_LQ26973" alt="Wiki of the new world" title="Wiki of the new world" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photo Gallery</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="#inviteOthers" id="action_informJoin?contentKey=Invite" class="action" name="action_informJoin?contentKey=Invite">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join" class="submit action secondary wetpaintAnnounce"><span><span>Join This Wiki</span></span></button></span> <span>Already a member?<br />
+            <a href="#signin" id="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;" name="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <h1><a href="/page/Raids">Raids</a> |</h1>
+                  <h2>Version Compare</h2>
+                  <p><a href="/page/Raids/history">Back to page history</a></p>
+                </div>
+                <div id="versionCompareSummary">
+                  <table>
+                    <tr class="header">
+                      <th>Version</th>
+                      <th>User</th>
+                      <th>Scope of changes</th>
+                    </tr>
+                    <tr>
+                      <td><a href="/page/Raids/revision/26">Apr 22 2008, 12:08 AM EDT</a></td>
+                      <td><a href="/account/Akiokrest" id="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus1&pageName=Raids" class="action" onclick="return false" name="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus1&pageName=Raids">Akiokrest</a></td>
+                      <td>316 words added, 321 words deleted</td>
+                    </tr>
+                    <tr class="altRow">
+                      <td><a href="/page/Raids/revision/25">Apr 22 2008, 12:05 AM EDT</a></td>
+                      <td><a href="/account/Akiokrest" id="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus2&pageName=Raids" class="action" onclick="return false" name="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus2&pageName=Raids">Akiokrest</a></td>
+                      <td></td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="versionCompareHead">
+                  <h2>Changes</h2>
+                  <div class="revisionsKey">
+                    Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                  </div>
+                </div>
+                <div id="versionCompareContent">
+                  <div align="center">
+                    <font color="#808080" size="5"><b><span class="diffAdd">FAQs:</span></b></font><br />
+                    <div style="margin-left: 2em">
+                      <span class="diffFormatting" title=""></span>
+                    </div>
+                  </div>
+                  <ul>
+                    <li>
+                      <span class="diffFormatting" title=""></span>
+                      <div align="center">
+                        <font color="#FF0000" size="2"><b><span class="diffAdd">What is a Raid?</span></b></font>
+                      </div>
+                    </li>
+                  </ul><span class="diffFormatting" title=""></span>
+                  <div style="margin-left: 2em">
+                    <span class="diffFormatting" title=""></span>
+                  </div>
+                  <div style="margin-left: 2em">
+                    <span class="diffFormatting" title=""></span>
+                  </div><span class="diffAdd"></span><font size="2"><span class="diffAdd">Raids are a kind of &quot;quest&quot; that you can do with a group of people to get special items. Usually the objective of a raid is to kill the specific boss; so the drop can be obtained. The Raids are a part of any serious clan because without the raids you can&#39;t get the end game gear, and therefor can&#39;t complete the game.</span></font><br />
+                  <ol></ol><span class="diffAdd"></span>
+                  <div style="margin-left: 2em">
+                    <span class="diffFormatting" title=""></span>
+                  </div><font size="2"><span class="diffAdd">The player that&#39;s tanking will be priority when selecting the items.</span></font> <span class="diffAdd"></span> <span class="diffAdd"></span><font size="2"><span class="diffAdd">If the raid is being completed by 2 or more clans, use the Fireworks first; then distribute the items to the members using the</span> <a href="/page/Raid+Point+System" target="_self"><font color="#497FB1"><span class="diffAdd">Raid point system</span></font></a><span class="diffAdd">.</span></font> <span class="diffFormatting" title=""></span> <span class="diffAdd"></span>
+                  <div style="margin-left: 2em">
+                    <span class="diffFormatting" title="Formatting Changed: Bold, Bold"></span>
+                  </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold"></span>
+                  <table align="bottom" cellpadding="3" class="wp-border-all" width="400">
+                    <tbody>
+                      <tr>
+                        <td width="25%">
+                          <ul>
+                            <li><span class="diffFormatting" title=""></span><font color="#0000FF"><b><font color="#FF0000" size="2"><span class="diffAdd">We killed the raid boss, and the boss dropped 4 items and about 20 people participated in the raid. Who should get items?</span></font></b></font></li>
+                          </ul><font color="#0000FF"><span class="diffAdd"></span></font>
+                          <div style="margin-left: 2em">
+                            <font color="#0000FF"><span class="diffAdd"></span></font>
+                          </div>
+                          <ol>
+                            <li style="list-style: none"><font color="#0000FF"><span class="diffAdd"></span></font></li>
+                            <li><font color="#0000FF"><span class="diffAdd"></span><font size="2"><span class="diffAdd">The best way to distribute the items among the players is by using Fireworks to get random numbers; the player with the highest number will get the bided item. Note that this way is sometimes unfair, since a player that didn&#39;t do much can get a drop. So the best way is doing it with the next method.</span></font> <span class="diffAdd"></span></font></li>
+                            <li><font color="#0000FF"><span class="diffAdd"></span><font size="2"><span class="diffAdd">For Clans: You can use a</span> <a href="/page/raid+point+system" target="_self"><font color="#497FB1"><span class="diffAdd">raid point system</span></font></a><span class="diffAdd">, and let the leader give items to the players that need them. See</span> <a href="/page/Raid+point+system" target="_self"><font color="#497FB1"><span class="diffFormatting" title="Formatting Changed: Link">Raid</span> <span class="diffAdd">point system</span></font></a><span class="diffAdd">.</span></font> <span class="diffFormatting" title=""></span></font></li>
+                            <li><font color="#0000FF"><span class="diffFormatting" title=""></span></font></li>
+                          </ol>
+                        </td>
+                        <td width="25%">
+                          <ul></ul><br />
+                          <div style="margin-left: 2em">
+                            <span class="diffFormatting" title=""></span>
+                            <div align="center">
+                              <ul>
+                                <li><span class="diffFormatting" title=""></span><font color="#FFA500"><span class="diffRemove">Bosses</span><b><font color="#FF0000" size="2"><span class="diffAdd">Can I solo a raid boss?</span></font></b></font></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                        <td width="25%">
+                          <ul>
+                            <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold"></span></li>
+                          </ul>
+                          <div align="center">
+                            <font size="2"><span class="diffAdd">Yes, 2 of the high level</span> <a href="/page/bosses" target="_self"><font color="#497FB1"><span class="diffAdd">bosses</span></font></a> <span class="diffAdd">can be soloed if you have the right equipment. Also the low level dungeon</span> <a href="/page/bosses" target="_self"><font color="#497FB1"><span class="diffAdd">bosses</span></font></a> <span class="diffAdd">count as raid</span> <a href="/page/bosses" target="_self"><font color="#497FB1"><span class="diffAdd">bosses</span></font></a> <span class="diffAdd">if you are near their level, so you can solo those with enought level.</span></font> <b><font size="2"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold"></span><font color="#FF0000"><span class="diffRemove">Gates</span><br /></font></font></b>
+                          </div>
+                        </td>
+                        <td width="25%">
+                          <div style="margin-left: 2em">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold"></span>
+                            <div align="center">
+                              <ul>
+                                <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold"></span><font color="#808080"><span class="diffRemove">FAQ</span><b><font color="#FF0000" size="2"><span class="diffAdd">The boss didn&#39;t spawn, what happened?</span></font></b></font></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table><br />
+                  <div align="center">
+                    <span class="diffAdd"></span>
+                    <div style="margin-left: 2em">
+                      <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                    </div>
+                  </div>
+                  <ul>
+                    <li>
+                      <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                      <div align="center">
+                        <font size="2"><span class="diffAdd">The spawn time of each raid boss is different; some of them only spawn 2 times a day. Check their guides for more info.</span></font>
+                      </div>
+                    </li>
+                  </ul><b><font color="#FF0000" size="2"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font></b>
+                </div><b><font color="#FF0000" size="2"><br /></font></b> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                <div align="center">
+                  <div style="margin-left: 2em">
+                    <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  </div>
+                </div>
+                <ul>
+                  <li>
+                    <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                    <div align="center">
+                      <b><font color="#FF0000" size="2"><span class="diffAdd">I have more questions, were do I ask them?</span></font></b> <span class="diffAdd"></span>
+                      <ol>
+                        <li style="list-style: none"><span class="diffAdd"></span></li>
+                        <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font size="2"><span class="diffAdd">Just start a new Thread with the question, and we will answer it at soon as possible.</span></font></li>
+                      </ol>
+                    </div>
+                  </li>
+                </ul><span class="diffAdd"></span><br />
+                <span class="diffAdd"></span><br />
+                <div align="center">
+                  <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font size="2"><font color="#0000FF" size="6"><b><u><i><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Raid List</span></i></u></b></font></font>
+                </div><font size="2"><span class="diffRemove"></span><br /></font>
+                <div align="center">
+                  <font size="2"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  <table align="bottom" cellpadding="3" class="wp-border-all" width="600">
+                    <tbody>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font>
+                          <div align="center">
+                            <font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Hill Giant</span></font></font>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Sool</span></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Gerero" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Gerero</span></font></a>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Diablo" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Diablo</span></font></a>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font>
+                          <div align="center">
+                            <font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Gryffon</span></font></font>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Decarabia" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Decarabia</span></font></a>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Queen+Eater" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Queen Eater</span></font></a>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Hell Breaker</span></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="20%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                        <td width="46%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Vergo the Cursed one</span></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table><font size="2"><br /></font>
+                  <div align="center">
+                    <font size="2"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font>
+                  </div><font size="2"><br /></font>
+                  <div align="center">
+                    <font size="2"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font>
+                  </div>
+                </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                <ul></ul><br />
+                <div align="center">
+                  <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><b><font color="#FFA500"><font size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Dungeon</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Bosses" target="_self"><img align="bottom" alt="Raids - Wiki of the new world" height="26" src="http://image.wetpaint.com/image/0/1de99ocX-lNvylLtJrRvdQ71046/GW21H26" title="Raids - Wiki of the new world" width="21" /></a><font size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">osses spawnable with keys</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></font></b><b><a href="/page/Keys" target="_self"><font color="#FFA500"><img align="bottom" alt="Raids - Wiki of the new world" height="21" src="http://image.wetpaint.com/image/1/CUvSta0lFTwMyIfjcKnJmQ2796/GW40H21" title="Raids - Wiki of the new world" width="40" /></font></a></b>
+                </div><br />
+                <div align="center">
+                  <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  <table align="bottom" cellpadding="3" class="wp-border-all" width="600">
+                    <tbody>
+                      <tr>
+                        <td width="11%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Al+Quelt+Moreza,+Hollow" target="_self"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW85H88" title="Place Holder" width="85" /></a> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></td>
+                        <td width="55%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div>
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#FFA500" size="4"><u><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Dios Latem</span></u></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="11%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/The+Tetra+Ruins,+Antiquities+Chamber" target="_self"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW85H88" title="Place Holder" width="85" /></a></td>
+                        <td width="55%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#FFA500" size="4"><u><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Treasure Golem</span></u></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="11%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Porto+Bello,+St.+Cathrine's+Saloon" target="_self"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW85H88" title="Place Holder" width="85" /></a>
+                          </div>
+                        </td>
+                        <td width="55%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#FFA500" size="4"><u><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Chimera</span></u></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="11%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW85H88" title="Place Holder" width="85" /></td>
+                        <td width="55%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#FFA500" size="4"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Skeleton Warrior</span></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="11%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW85H88" title="Place Holder" width="85" /></td>
+                        <td width="55%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#FFA500" size="4"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Corrido of Azasie</span></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="11%"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW85H88" title="Place Holder" width="85" /></td>
+                        <td width="55%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#FFA500" size="4"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Nest of Skeleton 4th Room</span></font>
+                          </div>
+                        </td>
+                        <td width="33%">
+                          <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">##</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                          <div align="center">
+                            <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">suggested Lvl</span>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table><br />
+                  <div align="center">
+                    <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  </div><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  <div align="center">
+                    <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  </div><b><font color="#FF0000"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">The Gates Raids:</span> <span class="diffRemove"></span> <span class="diffAdd"></span><br /></font></b> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                  <ol>
+                    <li style="list-style: none"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></li>
+                    <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Gate+of+Flame" target="_self"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Gate of Flame - Whirpool of Flame</span></a> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></li>
+                    <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Gate of Ice - Ice Wizard Tower</span></li>
+                    <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Gate+of+Lightning" target="_self"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Gate of Lighting - Silence Maze</span></a></li>
+                  </ol><font color="#FF0000" size="1"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Note: The first 3 gates, require you to start the</span> <a href="/page/Elemental+Keys+%28Gates%29" target="_self"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Elemental Keys</span></a> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">quest.</span></font> <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                  <ol>
+                    <li style="list-style: none"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></li>
+                    <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><a href="/page/Gate+of+Hell" target="_self"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold">Gate of Hell</span></a></li>
+                  </ol><br />
+                  <div align="center">
+                    <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span>
+                    <div align="center">
+                      <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><br />
+                      <br />
+                      <div align="left">
+                        <span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><span class="diffRemove">Raids Faqs:</span><br />
+                        <br />
+                        <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">What is a Raid?</span> <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">Raids are a kind of &quot;quest&quot; that you can do with a group of people to get special items. Usually the objective of a raid is to kill the specific boss; so the drop can be obtained. The Raids are a part of any serious clan because without the raids you can&#39;t get the end game gear, and therefor can&#39;t complete the game.</span><br />
+                        <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">We killed the raid boss, and the boss dropped 4 items and about 20 people participated in the raid. Who should get items?</span> <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">The best way to distribute the items among the players is by using Fireworks to get random numbers; the player with the highest number will get the bided item. Note that this way is sometimes unfair, since a player that didn&#39;t do much can get a drop. So the best way is doing it with the next method.</span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">For Clans: You can use a</span> <span class="diffRemove">raid point system</span><span class="diffRemove">, and let the leader give items to the players that need them. See</span> <span class="diffRemove">Raid point system</span><span class="diffRemove">.</span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">The player that&#39;s tanking will be priority when selecting the items.</span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">If the raid is being completed by 2 or more clans, use the Fireworks first; then distribute the items to the members using the</span> <span class="diffRemove">Raid point system</span><span class="diffRemove">.</span> <span class="diffRemove"></span><br />
+                        <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">Can I solo a raid boss?</span> <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">Yes, 2 of the high level</span> <span class="diffRemove">bosses</span> <span class="diffRemove">can be soloed if you have the right equipment. Also the low level dungeon</span> <span class="diffRemove">bosses</span> <span class="diffRemove">count as raid</span> <span class="diffRemove">bosses</span> <span class="diffRemove">if you are near their level, so you can solo those with enought level.</span> <span class="diffRemove"></span><br />
+                        <span class="diffRemove"></span>
+                        <ul>
+                          <li style="list-style: none"><span class="diffRemove"></span></li>
+                          <li>
+                            <span class="diffRemove"></span><span class="diffRemove">The boss didn&#39;t spawn, what happened?</span> <span class="diffRemove"></span>
+                            <ol>
+                              <li style="list-style: none"><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span></li>
+                              <li><span class="diffFormatting" title="Formatting Changed: Bold, Bold, Bold, Bold, Bold, Bold, Bold, Bold"></span><span class="diffRemove">The spawn time of each raid boss is different; some of them only spawn 2 times a day. Check their guides for more info.</span></li>
+                            </ol><span class="diffRemove"></span><br />
+                            <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">I have more questions, were do I ask them?</span> <span class="diffRemove"></span> <span class="diffRemove"></span> <span class="diffRemove"></span><span class="diffRemove">Just start a new Thread with the question, and we will answer it at soon as possible.</span><br />
+                          </li>
+                        </ul><span class="diffRemove"></span>
+                        <ol></ol>
+                      </div>
+                    </div>
+                  </div><br />
+                </div>
+              </div>
+            </div><br class="clear" />
+            <br class="clear" />
+          </div>
+        </div>
+      </div>
+      <div id="leftColumn">
+        <div id="siteSearch">
+          <form method="get" action="/pageSearch" onsubmit="if(this.contains.value=='Search this wiki') this.contains.value = '';">
+            <input type="text" class="text" name="contains" maxlength="99" value="Search this wiki" onfocus="if(this.value=='Search this wiki') this.value = '';" /><input type="submit" name="submit" class="submit" title="submit" value=" " />
+          </form>
+        </div><noscript><br />
+        <div class="browserWarning small">
+          JavaScript must be enabled in order for you to contribute to this wiki.<br />
+          To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+        </div></noscript>
+        <div id="drillDownSiteNavigation" class="panel">
+          <div class="panelHeader close">
+            <div title="expand | collapse this panel" class="panelControl"></div>Wiki pages
+          </div>
+          <div class="panelContent">
+            <div id="leftDrillDownSiteNavigation">
+              <div id="treeNavScroller">
+                <div id="leftNavTree" class="treeList">
+                  <ul id="rootUl">
+                    <li>
+                      <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                      <ul>
+                        <li><a href="/page/Sword+of+the+New+World+Maps+and+Area+Info" rel="4">Sword of the New World Maps and Area Info</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Classes" rel="6">Sword of the New World Classes</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Crafting" rel="3">Sword of the New World Crafting</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Items" rel="7">Sword of the New World Items</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Guides" rel="5">Sword of the New World Guides</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Monsters" rel="6">Sword of the New World Monsters</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Quests" rel="38">Sword of the New World Quests</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+UPCs" rel="2">Sword of the New World UPCs</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Terminology">Sword of the New World Terminology</a></li>
+                        <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Character+Attributes">Sword of the New World Character Attributes</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                        <li><a href="/page/Sword+of+the+New+World+Instruction+Manual">Sword of the New World Instruction Manual</a></li>
+                        <li>
+                          <a href="/page/Raids" rel="10" class="current">Raids</a>
+                          <ul>
+                            <li><a href="/page/Raid+Point+System">Raid Point System</a></li>
+                            <li><a href="/page/Gerero">Gerero</a></li>
+                            <li><a href="/page/Gate+of+Hell">Gate of Hell</a></li>
+                            <li><a href="/page/Gate+of+Lightning">Gate of Lightning</a></li>
+                            <li><a href="/page/Gate+of+Flame">Gate of Flame</a></li>
+                            <li><a href="/page/Diablo">Diablo</a></li>
+                            <li><a href="/page/Decarabia">Decarabia</a></li>
+                            <li><a href="/page/Queen+Eater">Queen Eater</a></li>
+                            <li><a href="/page/Vergo+the+Cursed">Vergo the Cursed</a></li>
+                            <li><a href="/page/Hell+Breaker">Hell Breaker</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="panelBase">
+              <div id="navigationGrippy" title="drag to resize"></div>
+            </div>
+          </div>
+        </div>
+        <div id="newNavItem" style="display:none;">
+          <a id="newNavItemLink" name="newNavItemLink">new page</a>
+        </div>
+        <div id="uncategorizedItem" style="display:none;">
+          <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+        </div>
+        <script type="text/javascript">
+        //<![CDATA[
+        wetpaintLoad('scroller');
+        //]]>
+        </script>
+        <div id="topContributors" class="panel">
+          <div class="panelHeader open">
+            <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+          </div>
+          <div class="panelContent" style="display:none;">
+            <div id="tcLoading" style="width:140px; margin:auto">
+              Loading...
+            </div>
+          </div>
+        </div>
+        <div class="ads adsleft">
+          <script type="text/javascript">
+          //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+          //]]>
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  <div id="footer">
+    <div id="createdWithContent">
+      <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint wiki" width="123" height="77" />
+      <div style="text-align:center;padding-bottom:.5em">
+        start a wiki
+      </div>
+    </div>
+    <ul>
+      <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+      <li><span>Help</span></li>
+      <li><span><a href="/sitemap">Sitemap</a></span></li>
+      <li><span>Feedback</span></li>
+      <li><span><a href="/privacy">Privacy</a></span></li>
+      <li><span><a href="/terms">Terms of Use</a></span></li>
+    </ul>
+    <div id="promotedFooter">
+      <ul>
+        <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+        <li class="first"><span>Kerrydale Street</span></li>
+        <li><span>Pregnancy</span></li>
+        <li><span>Ideas Grande</span></li>
+        <li><span>Free Rider</span></li>
+        <li><span>Xbox 360.</span></li>
+        <li class="first promotedViewMore"><span>View more Wikis.</span></li>
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20080513205753" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='web15.wetpaint.com';s_w.channel='pageDiff';s_w.pageType='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(396/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='pageDiff';s_w.eVar11='registered';s_w.eVar12=(inits['SITES_COUNT']) ? inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(inits['AB_TEST'] == 0) ? 'na' : (inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script>
+</body>
+</html>

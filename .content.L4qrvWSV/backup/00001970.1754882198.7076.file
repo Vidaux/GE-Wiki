@@ -1,0 +1,1406 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Experience - Wiki of the New World</title>
+  <meta name="description" content="Per level: The following chart shows experience per level. Column one is character level, column two is experience needed to reach next level, column three is...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Experience',"PAGE_URI" : '/page/Experience',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','The Barracks','Experience']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Experience">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DExperience%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Experience<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="/image/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Experience">
+                    <div id="WPC-area?cellId=Experience&version=2&savePath=%2Fpage%2FExperience&saveType=page" class="WPC-editableContent">
+                      <font size="2"><b>Per level:</b> The following chart shows experience per level. Column one is character level, column two is experience needed to reach next level, column three is experience gained overall for the character level.</font><br>
+                      <br>
+                      <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                        <tbody>
+                          <tr>
+                            <td class="" width="4%"><font size="2"><b>Level<br></b></font></td>
+                            <td class="" width="7%"><font size="2"><b>&Delta; Exp</b></font></td>
+                            <td class="" width="9%"><font size="2"><b>&sum; Exp</b></font></td>
+                            <td class="" width="1%"><font size="2"><b>Level<br></b></font></td>
+                            <td class="" width="9%"><font size="2"><b>&Delta; Exp</b></font></td>
+                            <td class="" width="10%"><font size="2"><b>&sum; Exp</b></font></td>
+                            <td class="" width="1%"><font size="2"><b>Level<br></b></font></td>
+                            <td class="" width="12%"><font size="2"><b>&Delta; Exp</b></font></td>
+                            <td class="" width="12%"><font size="2"><b>&sum; Exp</b></font></td>
+                            <td class="" width="2%"><font size="2"><b>Level<br></b></font></td>
+                            <td class="" width="14%"><font size="2"><b>&Delta; Exp</b></font></td>
+                            <td class="" width="15%"><font size="2"><b>&sum; Exp</b></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">1<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">0<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">0<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">41<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">423,402<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">4,070457<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">81<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">3,990,480<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">79,544,953<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">121<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000<br></font></td>
+                            <td align="right" class="" width="15%"><font size="2">4,807,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">2<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">121<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">121<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">42<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">460,845<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">4,531302<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">82<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,138,400<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">83,683,353<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">122<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">5,327,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">3<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">180<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">301<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">43<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">500,607<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">5,031909<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">83<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,289,487<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">87,972,840<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">123<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">5,847,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">4<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">289<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">590<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">44<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">542,772<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">5,574,681<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">84<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,443,763<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">92,416,603<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">124<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">6,367,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">5<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">468<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,058<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">45<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">587,425<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">6,162,106<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">85<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,601,249<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">97,017,852<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">125<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">6,887,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">6<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">741<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,799<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">46<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">634,654<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">6,796,760<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">86<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,761,967<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">101,779,819<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">126<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">7,407,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">7<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">1,136<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,935<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">47<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">684,544<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">7,481,304<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">87<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,925,941<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">106,705,760<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">127<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">7,927,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">8<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">1,683<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">4,618<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">48<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">737,187<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">8,218,491<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">88<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">5,093,188<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">111,798,948<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">128<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">8,447,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">9<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">2,414<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">7,032<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">49<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">792,670<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">9,011,161<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">89<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">5,263,733<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">117,062,681<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">129<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">8,967,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">10<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">3,367<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">10,399<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">50<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">851,083<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">9,862,244<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">90<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">5,437,596<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">122,500,277<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">130<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">520,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">9,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">11<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">4,579<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">14,978<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">51<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">912,519<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">10,774,763<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">91<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">5,614,797<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">128,115,074<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">131<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000<br></font></td>
+                            <td align="right" class="" width="15%"><font size="2">10,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">12<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">6,089<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">21,067<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">52<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">972,953<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">11,747,716<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">92<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">5,795,359<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">133,910,433<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">132<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">11,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">13<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">7,942<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">29,009<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">53<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,039,439<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">12,787,155<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">93<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">5,979,301<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">139,889,734<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">133<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">12,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">14<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">10,180<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">39,189<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">54<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,108,368<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">13,895,523<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">94<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">6,166,645<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">146,056,379<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">134<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">13,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">15<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">12,851<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">52,040<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">55<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,179,770<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">15,075,293<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">95<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">6,357,410<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">152,413,789<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">135<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">14,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">16<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">16,002<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">68,042<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">56<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,253,673<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">16,328,966<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">96<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">6,551,618<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">158,965,407<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">136<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">15,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">17<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">19,684<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">87,726<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">57<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,330,104<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">17,659,070<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">97<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">6,749,289<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">165,714,696<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">137<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">16,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">18<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">23,948<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">111,674<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">58<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,409,089<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">19,068,159<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">98<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">6,950,442<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">172,665,138<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">138<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">17,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">19<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">28,847<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">140,521<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">59<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,490,659<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">20,558,818<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">99<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">7,155,099<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">179,820,237<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">139<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">18,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">20<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">34,435<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">174,956<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">60<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,574,838<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">22,133,656<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">100<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">7,363,278<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">187,183,515<br></font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">140<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,000,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">19,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">21<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">40,772<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">215,728<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">61<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,661,653<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">23,795,309<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">101<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">327,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">141<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000<br></font></td>
+                            <td align="right" class="" width="15%"><font size="2">21,387,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">22<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">47,912<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">263,640<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">62<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,751,131<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">25,546,440<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">102<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">467,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">142<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">23,287,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">23<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">55,915<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">319,555<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">63<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,843,297<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">27,389,737<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">103<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">607,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">143<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">25,187,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">24<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">64,844<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">384,399<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">64<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,938,179<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">29,327,916<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">104<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">747,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">144<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">27,087,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">25<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">74,759<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">459,158<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">65<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,035,800<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">31,363,716<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">105<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">887,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">145<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">28,987,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">26<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">85,725<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">544,883<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">66<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,136,187<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">33,499,903<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">106<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">1,027,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">146<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">30,887,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">27<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">97,806<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">642,689<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">67<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,239,365<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">35,739,268<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">107<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">1,167,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">147<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">32,787,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">28<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">111,069<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">753,758<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">68<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,345,358<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">38,084,626<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">108<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">1,307,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">148<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">34,687,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">29<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">125,581<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">879,339<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">69<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,454,192<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">40,538,818<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">109<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">1,447,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">149<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">36,587,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">30<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">141,410<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,020,749<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">70<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,565,891<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">43,104,709<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">110<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">140,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">1,587,183,515</font></td>
+                            <td class="" width="2%"><font color="#0000FF" size="2">150<br></font></td>
+                            <td align="right" class="" width="14%"><font size="2">1,900,000,000</font></td>
+                            <td align="right" class="" width="15%"><font size="2">38,487,183,515</font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">31<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">158,629<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,179,378<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">71<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,680,479<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">45,785,188<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">111<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">1,857,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">32<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">177,305<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,356,683<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">72<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,797,981<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">48,583,169<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">112<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">2,127,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">33<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">197,514<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,554,197<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">73<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,918,419<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">51,501,588<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">113<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">2,397,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">34<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">219,328<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">1,773,525<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">74<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,041,819<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">54,543,407<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">114<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">2,667,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">35<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">242,822<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,016,347<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">75<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,168,203<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">57,711,610<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">115<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">2,937,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">36<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">268,073<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,284,420<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">76<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,297,595<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">61,009,205<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">116<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">3,207,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">37<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">295,156<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,579,576<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">77<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,430,019<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">64,439,224<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">117<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">3,477,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">38<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">324,150<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">2,903,726<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">78<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,565,496<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">68,004,720<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">118<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">3,747,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">39<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">355,137<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,258,863<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">79<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,704,050<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">71,708,770<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">119<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,017,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                          <tr>
+                            <td class="" width="4%"><font color="#0000FF" size="2">40<br></font></td>
+                            <td align="right" class="" width="7%"><font size="2">388,192<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,647,055<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">80<br></font></td>
+                            <td align="right" class="" width="9%"><font size="2">3,845,703<br></font></td>
+                            <td align="right" class="" width="10%"><font size="2">75,554,473<br></font></td>
+                            <td class="" width="1%"><font color="#0000FF" size="2">120<br></font></td>
+                            <td align="right" class="" width="12%"><font size="2">270,000,000</font></td>
+                            <td align="right" class="" width="12%"><font size="2">4,287,183,515</font></td>
+                            <td class="" width="2%"><font size="2"><br></font></td>
+                            <td class="" width="14%"><font size="2"><br></font></td>
+                            <td class="" width="15%"><font size="2"><br></font></td>
+                          </tr>
+                        </tbody>
+                      </table><br>
+                      <font size="2"><b>Per Kill:</b> The following chart represents the experience gained per kill based off the characters levels versus the monsters level. Here is an example of how experience is calculated:<br>
+                      You are level 50 fighting a level 50 Corlien Dynamiter in El Lago de Tres Hermanas.<br>
+                      Base EXP before bonus applied is 674.<br>
+                      Using the chart below you will gain 200% of the base EXP. Giving you 1,348 EXP for the kill.<br>
+                      This will be the EXP gained before the team penalty gets applied.</font><br>
+                      <br>
+                      <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" class="" width="9%"><b><font size="2">PC<br></font></b></td>
+                            <td align="center" class="" colspan="10" rowspan="1" width="90%"><b><font size="2">Monster<br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><b><font size="2">Level<br></font></b></td>
+                            <td align="center" class="" width="9%"><b><font size="2">Level Diff.<br>
+                            (White)<br></font></b></td>
+                            <td align="center" class="" width="9%"><b><font size="2">EXP.<br></font></b></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">Level Diff.<br>
+                            (Brown)</font></b></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">EXP.</font></b></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">Level Diff.<br>
+                            (Yellow)</font></b></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">EXP.</font></b></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">Level Diff.<br>
+                            (Orange)</font></b></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">EXP.</font></b></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">Level Diff.<br>
+                            (Red)</font></b></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><b><font size="2">EXP.</font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">1-9<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">80%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+25<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+26~+35<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%<br></font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+36 and up<br></font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%<br></font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">10<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-12 and below<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-11~-6<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">80%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+25</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+26~+35</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+36 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">11-19<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-12 and below<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-11~-6</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">80%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+24</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+25~+34</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+35 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">20<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-13 and below<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-12~-7</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-6~+24</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+25~+34</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+35 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">21-29<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-13 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-12~-7</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-6~+23</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+24~+33</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+34 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">30<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-14 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-13~-7</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-6~+23</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+24~+33</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+34 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">31-39<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-14 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-13~-7</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-6~+22</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+23~+32</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+33 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">40<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-15 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-14~-8</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-7~+22</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+23~+32</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+33 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">41-49<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-15 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-14~-8</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-7~+21</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+22~+31</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+32 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">50-59<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-16 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-15~-8</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-7~+20</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+21~+30</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+31 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">60-69<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-17 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-16~-9</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-8~+19</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+20~+29</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+30 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">70<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-18 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-17~-9</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-8~+19</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+20~+29</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+30 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">71-76<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-18 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-17~-9</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-8~+18</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">200%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+19~+28</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+29 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">77<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-18 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-17~-9</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">90%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-8~+18</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">190%<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+19~+28</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">170%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+29 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">140%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">78<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-18 and below<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-17~-9<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">80%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-8~+18<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">180%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+19~+28<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">160%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+29 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">79<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-18 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-17~-9<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">70%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-8~+18</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">170%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+19~+28<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+29 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">120%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">80<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-19 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-18~-10<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">60%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-9~+18</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">160%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+19~+28<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">140%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+29 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">110%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">81-89<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-19 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-18~-10<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%<br></font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-9~+17</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+18~+27<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+28 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">90<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-20 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-19~-10<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-9~+17</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+18~+27<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+28 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">91-100<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-20 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-19~-10<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-9~+16</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+17~+26<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+27 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">101-105<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6<br></font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+15</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+16~+25<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+26 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">106-109<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+14</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+15~+24<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+25 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">110-114<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+13</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+14~+23<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+24 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">115-119<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+12</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+13~+22<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+23 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">120-125<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+11</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%</font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+12~+21<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+22 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%</font></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="9%"><font size="2">126-200<br></font></td>
+                            <td align="center" class="" width="9%"><font size="2">-11 and below</font></td>
+                            <td align="center" class="" width="9%"><font size="2">0%</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-10~-6</font></td>
+                            <td align="center" bgcolor="#D99352" class="WPC-edit-custom-bgColor" width="9%"><font size="2">50%</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">-5~+10</font></td>
+                            <td align="center" bgcolor="#FFFF00" class="WPC-edit-custom-bgColor" width="9%"><font size="2">150%<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+11~+20<br></font></td>
+                            <td align="center" bgcolor="#FF9008" class="WPC-edit-custom-bgColor" width="9%"><font size="2">130%<br></font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">+21 and up</font></td>
+                            <td align="center" bgcolor="#F00202" class="WPC-edit-custom-bgColor" width="9%"><font size="2">100%<br></font></td>
+                          </tr>
+                        </tbody>
+                      </table><br>
+                      <font size="2"><b>Team Penalty:</b> Before reading any further understand that this penalty is based off of hearsay since I have found no concrete proof it even exists. If you have the proof of its existence please post a link to it. Links coming from sources not considered as part of the game developer team will be ignored as more hearsay.<br>
+                      <br>
+                      <i>EXP/kill</i><br>
+                      Solo Character - 100%<br>
+                      2-character team - 47~48% each character<br></font>
+                      <table cellpadding="0" cellspacing="0" class="center" width="100%">
+                        <tbody></tbody>
+                      </table>
+                      <table cellpadding="0" cellspacing="0" class="center" width="100%">
+                        <tbody>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                          </tr>
+                          <tr class="even">
+                            <td></td>
+                          </tr>
+                        </tbody>
+                      </table><font size="2">3-character team - 30% each character</font><br>
+                      <br>
+                      <b>Reference Source of this page:</b> http://wordwood.merseine.us/SOTNW-Experience/<br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">/image/bg/1.png?v=20111214172750</span> <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Experience" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/ZuGcaG718-TjurRgYAmlaQ37809/GW050" class="imageSm" alt="Fabrisio"></a><br>
+                        <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Fabrisio</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Experience"><a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Experience&from=lastPageUpdate&pageName=Experience" class="WPC-action" onclick="return false">Fabrisio</a></span> , <span id="WPC-lastRevisionDate?cellId=Experience">Apr 3 2010, 12:48 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Fabrisio"><img src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/ZuGcaG718-TjurRgYAmlaQ37809/GW050" class="imageSm" alt="Fabrisio"></a> <span class="comment" id="latestEditNoteComment">New page</span> <span id="latestEditNoteAccount">- <a href="/account/Fabrisio">Fabrisio</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">1080 words added</span><br></span><br>
+                        <a href="/page/Experience/diff/1,2" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Experience/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Experience/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FExperience&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Experience/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList"></div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="/js/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      <div id="firstToReplyDiv">
+                        There are no threads for this page. &nbsp;Be the first to start a new thread.
+                      </div>
+                    </div><span id="threadCounter" title="" style="display:none"></span>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li>
+                                <a href="/page/The+Barracks" rel="4">The Barracks</a>
+                                <ul>
+                                  <li><a href="/page/Family+Level">Family Level</a></li>
+                                  <li><a href="/page/Family+Reputation">Family Reputation</a></li>
+                                  <li><a href="/page/Experience" class="current">Experience</a></li>
+                                  <li><a href="/page/Family+Attribute">Family Attribute</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script>
+</body>
+</html>

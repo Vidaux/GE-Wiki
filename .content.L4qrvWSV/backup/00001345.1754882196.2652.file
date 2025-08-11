@@ -1,0 +1,1242 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Character Status List - Wiki of the New World</title>
+  <meta name="keywords" content="Character Status List - Wiki of the New World, Apocalypse,Armor Crasher,Axon,Bleed,Debuff,Debuffs,Status Ailment,Whole Cancellation">
+  <meta name="description" content="Credit for info found on this page: Book of Wind Ailments: Name Description Stance Skill Apocalypse...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Character Status List',"PAGE_URI" : '/page/Character+Status+List',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Game Characters','Character Status List']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Character+Status+List">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script> 
+                  <script type='text/javascript'>
+
+
+                  var abtest = "7521087570";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DCharacter+Status+List%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Character Status List<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="/image/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Character+Status+List">
+                    <div id="WPC-area?cellId=Character+Status+List&version=12&savePath=%2Fpage%2FCharacter%2BStatus%2BList&saveType=page" class="WPC-editableContent">
+                      <font size="3"><b>Credit for info found on this page:</b></font> Book of Wind<br>
+                      <br>
+                      <b><font size="3">Ailments:</font></b><br>
+                      <table align="bottom" cellpadding="5" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" width="15%"><b>Name<br></b></td>
+                            <td align="center" width="50%"><b>Description<br></b></td>
+                            <td align="center" width="18%"><b>Stance<br></b></td>
+                            <td align="center" width="15%"><b>Skill<br></b></td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Apocalypse</td>
+                            <td width="50%">Prevents usage of skills</td>
+                            <td width="18%"><a href="/page/Psychokinesis" target="_self">Psychokinesis</a></td>
+                            <td width="15%">Apocalypse</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Armor Crasher</td>
+                            <td width="50%">Reduces DEF of target to 0 for 20 sec</td>
+                            <td width="18%"><a href="/page/Crusader" target="_self">Crusader</a><br>
+                            <a href="/page/Schiavona" target="_self">Schiavona</a><br>
+                            <a href="/page/Tail+Guard" target="_self">Tail Guard</a></td>
+                            <td width="15%">Temple Breaker<br>
+                            Turning Bash<br>
+                            Armor Crasher</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Axon</td>
+                            <td width="50%">
+                              <table>
+                                <tbody>
+                                  <tr>
+                                    <td>Reduces movement speed, prevents item usage</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                            <td width="18%"><a href="/page/Magic+of+Occultism" target="_self">Magic of Occultism</a><br>
+                            <a href="/page/Occultism+Assistance+%28E%29" target="_self">Occultism Assistance (E)</a></td>
+                            <td width="15%">Tenseness<br>
+                            Tenseness</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Bleed</td>
+                            <td width="50%">Depletes HP for duration of effect</td>
+                            <td width="18%"><a href="/page/Sect+of+Moonlight" target="_self">Secret of Moonlight</a></td>
+                            <td width="15%">Piercing Dimension</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Blind</td>
+                            <td width="50%">Reduces accuracy to 0, prevents consumption of items</td>
+                            <td width="18%"><a href="/page/Gigantic+Marksmanship" target="_self">Gigantic Marksmanship</a></td>
+                            <td width="15%">Gloom Shot</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Burn</td>
+                            <td width="50%">Prevents usage of skills and normal attacks, reduces maximum HP by 25%</td>
+                            <td width="18%"><a href="/page/Domination+Fire" target="_self">Domination Fire</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Elemental+Lord" target="_self">Elemental Lord</a><br>
+                            <a href="/page/Evocation+Fire" target="_self">Evocation Fire</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Flame+Guard" target="_self">Flame Guard</a><br>
+                            <br>
+                            <a href="/page/Forgotten+Magic" target="_self">Forgotten Magic</a><br>
+                            <a href="/page/Gigantic+Marksmanship" target="_self">Gigantic Marksmanship</a><br>
+                            <a href="/page/Magic+of+Occultism" target="_self">Magic of Occultism</a><br>
+                            <a href="/page/Possession+Fire" target="_self">Possession Fire</a></td>
+                            <td width="15%">Fire Wall<br>
+                            Blazing Pillar<br>
+                            Volcanic Eruption<br>
+                            Hell Breath<br>
+                            Hell Breath<br>
+                            Infernal Flame<br>
+                            Meteor Strikes<br>
+                            Fireball<br>
+                            Hell Breath<br>
+                            Firestorm<br>
+                            Blazing Shot<br>
+                            Breath of Fire<br>
+                            Fireball</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Confusion</td>
+                            <td width="50%">Prevents usage of skills, halts regeneration</td>
+                            <td width="18%"><a href="/page/Anathema" target="_self">Anathema</a><br>
+                            <a href="/page/Forgotten+Magic" target="_self">Forgotten Magic</a><br>
+                            <a href="/page/Occultism+Assistance+%28H%29" target="_self">Occultism Assistance (H)</a></td>
+                            <td width="15%">Confusion<br>
+                            Cyclone<br>
+                            Cyclone</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Corrosion</td>
+                            <td width="50%">Reduces movement speed and proportionally increases damage received based on mHP</td>
+                            <td width="18%"><a href="/page/Duel+Blaster" target="_self">Duel Blaster</a><br>
+                            <a href="/page/Superior+Blaster" target="_self">Superior Blaster</a></td>
+                            <td width="15%">Expoison<br>
+                            Pollute Shot</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Curse</td>
+                            <td width="50%">Target takes triple damage for duration of effect</td>
+                            <td width="18%"><a href="/page/Anathema" target="_self">Anathema</a></td>
+                            <td width="15%">Curse</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Dance of Death</td>
+                            <td width="50%"><br></td>
+                            <td width="18%"><a href="/page/Prelude" target="_self">Prelude</a></td>
+                            <td width="15%">Totentanz</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Dark Bleed</td>
+                            <td width="50%">Depletes HP for duration of debuff</td>
+                            <td width="18%"><a href="/page/Madness" target="_self">Madness</a></td>
+                            <td width="15%">Spell Bead</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Darkness</td>
+                            <td width="50%">Limits vision radius</td>
+                            <td width="18%"><a href="/page/Demolition+Burst" target="_self">Demolition Burst</a><br>
+                            <a href="/page/Standing+Shot" target="_self">Standing Shot</a><br>
+                            <a href="/page/Tested+Burst" target="_self">Tested Burst</a></td>
+                            <td width="15%">Starlight Flare<br>
+                            Blind Flash<br>
+                            Starlight Flare</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Dispel (SPBurn)</td>
+                            <td width="50%">Reduces maximum SP to 1, prevents usage of skills</td>
+                            <td width="18%"><a href="/page/ESP" target="_self">ESP</a></td>
+                            <td width="15%">Dispel Magic</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Dyna</td>
+                            <td width="50%">Reduces movement speed</td>
+                            <td width="18%"><a href="/page/Magic+of+Occultism" target="_self">Magic of Occultism</a></td>
+                            <td width="15%">Electric Blaster</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Enervation (Lethargy)</td>
+                            <td width="50%">Reduces maximum HP by 30%, reduces ATK, attack speed, and movement speed by 50%, halts regeneration</td>
+                            <td width="18%"><a href="/page/Anathema" target="_self">Anathema</a><br>
+                            <a href="/page/Martial+Elements:+Earth" target="_self">Martial Elements: Earth</a><br>
+                            <a href="/page/Master+Martial+Arts" target="_self">Master Martial Arts</a><br>
+                            <a href="/page/Minstrel" target="_self">Minstrel</a></td>
+                            <td width="15%">Enervation<br>
+                            Atomic Phoenix Bomber<br>
+                            Double Kick<br>
+                            Rhythm and Blues</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Entangle</td>
+                            <td width="50%">Prevents movement, prevents items and skills usage, depletes hitpoints over time</td>
+                            <td width="18%"><a href="/page/Duel+Blaster" target="_self">Duel Blaster</a></td>
+                            <td width="15%">Wire Prisoner</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Expose Weakness</td>
+                            <td width="50%">Receives 20% more damage from ranged attacks, (reduces movement speed by 50% at skill lvl11)</td>
+                            <td width="18%"><a href="/page/Flintlock" target="_self">Flintlock</a></td>
+                            <td width="15%">Check Targets</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Fear</td>
+                            <td width="50%">Prevents usage of skills and normal attacks</td>
+                            <td width="18%"><a href="/page/Defending+Shot" target="_self">Defending Shot</a><br>
+                            <a href="/page/Hack+and+Slash" target="_self">Hack and Slash</a><br>
+                            <a href="/page/Hunting+Blaster" target="_self">Hunting Blaster</a><br>
+                            <a href="/page/Martial+Elements:+Earth" target="_self">Martial Elements: Earth</a><br>
+                            <a href="/page/Roof+Guard" target="_self">Roof Guard</a><br>
+                            <a href="/page/Shotgun+Blaster" target="_self">Shotgun Blaster</a><br>
+                            <a href="/page/Standing+Shot" target="_self">Standing Shot</a><br>
+                            <a href="/page/Targan+Shot" target="_self">Targan Shot</a></td>
+                            <td width="15%">Covering Fire<br>
+                            Violent Shootingstar<br>
+                            Menace Shot<br>
+                            Lionheart<br>
+                            Dread Worm<br>
+                            Menace Shot<br>
+                            Covering Fire<br>
+                            Covering Fire</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Freeze</td>
+                            <td width="50%">Prevents all actions, reduces evasion rate and block rate to 0, reduces lightning resistance to minimum, effect will be lifted if knocked back</td>
+                            <td width="18%"><a href="/page/Domination+Ice" target="_self">Domination Ice</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Elemental+Lord" target="_self">Elemental Lord</a><br>
+                            <a href="/page/Epee+Glacier" target="_self">Epee Glacier</a><br>
+                            <a href="/page/Evocation+Ice" target="_self">Evocation Ice</a><br>
+                            <br>
+                            <a href="/page/Forgotten+Magic" target="_self">Forgotten Magic</a><br>
+                            <a href="/page/Martial+Elements:+Ice" target="_self">Martial Elements: Ice</a><br>
+                            <br>
+                            <a href="/page/Occultism+Assistance+%28E%29" target="_self">Occultism Assistance (E)</a><br>
+                            <a href="/page/Possession+Ice" target="_self">Possession Ice</a><br>
+                            <br>
+                            <a href="/page/Sabre+Glacier" target="_self">Sabre Glacier</a></td>
+                            <td width="15%">Frozen Field<br>
+                            Glacial Lance<br>
+                            Frozen Strike<br>
+                            Absolute Zero<br>
+                            Absolute Zero<br>
+                            Ice Wave<br>
+                            Absolute Zero<br>
+                            Frozen Ball<br>
+                            Frost Ignition<br>
+                            Enhanced Frostbite<br>
+                            Absolute Zero<br>
+                            Freezing Spear<br>
+                            Frost Cloud<br>
+                            Frost Cloud</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Furious</td>
+                            <td width="50%">Increase physical ability</td>
+                            <td width="18%"><a href="/page/Cruz" target="_self">Cruz</a></td>
+                            <td width="15%">Wolf&#39;d Rage</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Glacial Spirit</td>
+                            <td width="50%">Prevents all actions, reduces lightning RES to minimum for 10s duration</td>
+                            <td width="18%"><a href="/page/Magic+of+Occultism" target="_self">Magic of Occultism</a></td>
+                            <td width="15%">Ice Vrille</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Hail Break</td>
+                            <td width="50%">Reduces DEF and prevents movement</td>
+                            <td width="18%"><a href="/page/Madness" target="_self">Madness</a></td>
+                            <td width="15%">Spell Hail</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Heat Wave</td>
+                            <td width="50%">Limit attack and skill usage, increase resistance against fire-based attacks, reduce mHP by 25% for 15s duration</td>
+                            <td width="18%"><a href="/page/Demolition+Burst" target="_self">Demolition Burst</a><br>
+                            <a href="/page/Tested+Burst" target="_self">Tested Burst</a></td>
+                            <td width="15%">Blazing Burster<br>
+                            Blazing Burster</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Magical Piercing</td>
+                            <td width="50%">Reduces elemental resistances</td>
+                            <td width="18%"><a href="/page/Illusionist" target="_self">Illusionist</a></td>
+                            <td width="15%">Magical Piercing</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Moon&#39;s Curse</td>
+                            <td width="50%">Reduces movement speed and SP</td>
+                            <td width="18%"><a href="/page/Sect+of+Moonlight" target="_self">Secret of Moonlight</a></td>
+                            <td width="15%">Double Slicer<br>
+                            Moon Decision<br>
+                            Asura</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Mortal Wound</td>
+                            <td width="50%">Reduces ATK, attack speed, and movement speed by 15%, reduces DEF by 50</td>
+                            <td width="18%"><a href="/page/Arnis" target="_self">Arnis</a><br>
+                            <a href="/page/Bloody+Feast" target="_self">Bloody Feast</a><br>
+                            <a href="/page/Close+Encounters" target="_self">Close Encounters</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Defender" target="_self">Defender</a><br>
+                            <a href="/page/Gigantic+Blaster" target="_self">Gigantic Blaster</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Gorgeous" target="_self">Gorgeous</a><br>
+                            <a href="/page/Outrage+Shot" target="_self">Outrage Shot</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Raid+Assault" target="_self">Raid Assault</a><br>
+                            <br>
+                            <a href="/page/Rapiere" target="_self">Rapiere</a><br>
+                            <a href="/page/Sight+Shot" target="_self">Sight Shot</a><br>
+                            <br>
+                            <a href="/page/Superior+Blaster" target="_self">Superior Blaster</a><br>
+                            <a href="/page/Croisement" target="_self" title="Croisement">Croisement</a></td>
+                            <td width="15%">Lado Patada<br>
+                            Phantastorm<br>
+                            Glint<br>
+                            Incising Attack<br>
+                            Shooting Star<br>
+                            Tremendous<br>
+                            Blow Back<br>
+                            Slug Bullet<br>
+                            Steel Baton<br>
+                            Repulsive Force<br>
+                            Sapping Shot<br>
+                            Dancing Revolvers<br>
+                            Desperados<br>
+                            Belladonna<br>
+                            Feral Tooth<br>
+                            Punto<br>
+                            Clincher<br>
+                            Exceed Shot<br>
+                            Executer<br>
+                            Attacher Bullet</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Panic</td>
+                            <td width="50%">Reduces maximum SP to 1, prevents all actions</td>
+                            <td width="18%"><a href="/page/Incantation" target="_self">Incantation</a><br>
+                            <a href="/page/Magic+of+Occultism" target="_self">Magic of Occultism</a></td>
+                            <td width="15%">Howling of Heaven<br>
+                            Abyss Flare</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Paralysis</td>
+                            <td width="50%">Prevents all actions, reduces evasion rate and block rate to 0 for 15s duration</td>
+                            <td width="18%"><a href="/page/Arnis" target="_self">Arnis</a></td>
+                            <td width="15%">Asesinato<br>
+                            Intoxication<br>
+                            Asalto</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Petrify</td>
+                            <td width="50%">Prevents all actions, increases DEF</td>
+                            <td width="18%"><a href="/page/Anathema" target="_self">Anathema</a></td>
+                            <td width="15%">Stone Disease</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Poison</td>
+                            <td width="50%">Reduces ATK and attack speed by half, reduces mHP by 25% for 15s duration</td>
+                            <td width="18%"><a href="/page/Aiming+Shot" target="_self">Aiming Shot</a><br>
+                            <a href="/page/Arbalest" target="_self">Arbalest</a><br>
+                            <a href="/page/Dobalada+Corte" target="_self">Dobalada Corte</a><br>
+                            <a href="/page/Escrima" target="_self">Escrima</a><br>
+                            <a href="/page/Hunting+Blaster" target="_self">Hunting Blaster</a><br>
+                            <a href="/page/Install+Traps" target="_self">Install Traps</a></td>
+                            <td width="15%">Serpent Sting<br>
+                            Poison Bolt<br>
+                            Dagger Venenosa<br>
+                            Dagger Venenosa<br>
+                            Critical Disease<br>
+                            Critical Disease</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Premonition of Death<br>
+                            (Apathy)</td>
+                            <td width="50%">Reduces DEF, evasion, and block to 0, reduces ATK and attack speed to minimum, reduces all resistances by 75</td>
+                            <td width="18%"><a href="/page/Minstrel" target="_self">Minstrel</a></td>
+                            <td width="15%">Requiem</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Provoke</td>
+                            <td width="50%">Decreases DEF and increases ATK of target</td>
+                            <td width="18%"><a href="/page/Crusader" target="_self">Crusader</a></td>
+                            <td width="15%">Defiance Aura</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Reverse</td>
+                            <td width="50%">Prevents all actions, landbound target is raised into the air</td>
+                            <td width="18%"><a href="/page/Levitation" target="_self">Levitation</a></td>
+                            <td width="15%">Reverse</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Ritardi</td>
+                            <td width="50%">Reduces attack speed and movement speed</td>
+                            <td width="18%"><a href="/page/Illusionist" target="_self">Illusionist</a></td>
+                            <td width="15%">Ritardi</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Rolls of Thunder</td>
+                            <td width="50%">Reduces DEF and movement speed</td>
+                            <td width="18%"><a href="/page/Combatant" target="_self">Combatant</a></td>
+                            <td width="15%">Rolling Thunder</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Shock</td>
+                            <td width="50%">Reduces movement speed by 50%, reduces DEF to 0</td>
+                            <td width="18%"><a href="/page/Cauchemar" target="_self">Cauchemar</a><br>
+                            <a href="/page/Domination+Lightning" target="_self">Domination Lightning</a><br>
+                            <br>
+                            <br>
+                            <a href="/page/Elemental+Lord" target="_self">Elemental Lord</a><br>
+                            <a href="/page/Evocation+Lightning" target="_self">Evocation Lightning</a><br>
+                            <br>
+                            <a href="/page/Forgotten+Magic" target="_self">Forgotten Magic</a><br>
+                            <a href="/page/Occultism+Assistance+%28E%29" target="_self">Occultism Assistance (E)</a><br>
+                            <a href="/page/Occultism+Assistance+%28H%29" target="_self">Occultism Assistance (H)</a><br>
+                            <a href="/page/Possession+Lightning" target="_self">Possession Lightning</a><br>
+                            <br>
+                            <a href="/page/Rapida+Espada" target="_self">Rapida Espada</a></td>
+                            <td width="15%">Death Crest<br>
+                            Charged Bolt<br>
+                            Lightning Blast<br>
+                            Frenzied Thunder<br>
+                            Chain Lightning<br>
+                            Thunderstorm<br>
+                            Chain Lightning<br>
+                            Lightning Spear<br>
+                            Chain Lightning<br>
+                            Lightning Sphere<br>
+                            Lightning<br>
+                            Shockwave<br>
+                            Saltos de Attaques<br>
+                            Rapida</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Silence</td>
+                            <td width="50%">Skills, movement, attacks, and item usage disabled; airborne targets brought to ground</td>
+                            <td width="18%"><a href="/page/Semilunar" target="_self">Semilunar</a></td>
+                            <td width="15%">Occult Science</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Sleep</td>
+                            <td width="50%">Prevents all actions, effect will be lifted if attacked</td>
+                            <td width="18%"><a href="/page/Illusionist" target="_self">Illusionist</a><br>
+                            <a href="/page/Minstrel" target="_self">Minstrel</a><br>
+                            <a href="/page/Power+of+Darkness" target="_self">Power of Darkness</a></td>
+                            <td width="15%">Sandman<br>
+                            Berceuse<br>
+                            Deep Sleep</td>
+                          </tr>
+                          <tr>
+                            <td width="15%">Slow</td>
+                            <td width="50%"><br></td>
+                            <td width="18%"><a href="/page/Equites" target="_self">Equites</a><br>
+                            <a href="/page/Gorgeous" target="_self">Gorgeous</a><br>
+                            <a href="/page/Tronada+Cruz" target="_self">Tronada Cruz</a><br>
+                            <a href="/page/Croisement" target="_self" title="Croisement">Croisement</a></td>
+                            <td width="15%">Valentia<br>
+                            Turning Force<br>
+                            Rueda Ventana<br>
+                            Arme Piste</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Stun</td>
+                            <td width="50%">Prevents all actions, reduces evasion rate and block rate to 0</td>
+                            <td width="18%"><a href="/page/Blandir+Cruz" target="_self">Blandir Cruz</a><br>
+                            <a href="/page/Close+Encounters" target="_self">Close Encounters</a><br>
+                            <a href="/page/Combatant" target="_self">Combatant</a><br>
+                            <a href="/page/Defender" target="_self">Defender</a><br>
+                            <a href="/page/Defending+Guard" target="_self">Defending Guard</a><br>
+                            <a href="/page/Escrima" target="_self">Escrima</a><br>
+                            <a href="/page/Gigantic+Marksmanship" target="_self">Gigantic Marksmanship</a><br>
+                            <a href="/page/Hanging+Guard" target="_self">Hanging Guard</a><br>
+                            <a href="/page/High+Guard" target="_self">High Guard</a><br>
+                            <a href="/page/Levitation" target="_self">Levitation</a><br>
+                            <a href="/page/Martial+Elements:+Mind" target="_self">Martial Elements: Mind</a><br>
+                            <a href="/page/Master+Martial+Arts" target="_self">Master Martial Arts</a><br>
+                            <a href="/page/Minstrel" target="_self">Minstrel</a><br>
+                            <a href="/page/Sabre+Garde" target="_self">Sabre Garde</a><br>
+                            <a href="/page/Sabre+Glacier" target="_self">Sabre Glacier</a><br>
+                            <a href="/page/Semilunar" target="_self">Semilunar</a><br>
+                            <a href="/page/Targan+Shot" target="_self">Targan Shot</a><br>
+                            <a href="/page/Tronada+Cruz" target="_self">Tronada Cruz</a></td>
+                            <td width="15%">Tierra Choque<br>
+                            Bayonet Assault<br>
+                            Battlesmash<br>
+                            Dull Attack<br>
+                            Stunning Skewer<br>
+                            Ligera Ventaja<br>
+                            Roar Shot<br>
+                            Volition<br>
+                            Stunning Skewer<br>
+                            Hole of Darkness<br>
+                            Breath of Hyunmoo<br>
+                            Elemental Kick<br>
+                            Rhapsody in Black<br>
+                            Tete<br>
+                            Tete<br>
+                            Merciless<br>
+                            Bayonet Assault<br>
+                            Tornado Choque</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="15%">Web</td>
+                            <td width="50%">Prevents all actions, airborne target is brought down to ground</td>
+                            <td width="18%"><a href="/page/Demolition+Burst" target="_self">Demolition Burst</a><br>
+                            <a href="/page/Psychokinesis" target="_self">Psychokinesis</a><br>
+                            <a href="/page/Sagitta" target="_self">Sagitta</a><br>
+                            <a href="/page/Tested+Burst" target="_self">Tested Burst</a></td>
+                            <td width="15%">Fallen Angel<br>
+                            Web<br>
+                            Hold Shot<br>
+                            Fallen Angel</td>
+                          </tr>
+                        </tbody>
+                      </table><b><font size="3"><br>
+                      Offensive Buffs (AR improves by 1 at skill lvl11):</font></b><br>
+                      <table align="bottom" cellpadding="5" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="left" width="16%">Allegretto</td>
+                            <td width="84%">increases attack speed and critical rate, reduces DEF by 20</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Blessedness</td>
+                            <td width="84%">increases accuracy and adds holy ATK</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Cat&#39;s Eye</td>
+                            <td width="84%">increases penetration and accuracy</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Concentration</td>
+                            <td width="84%">increases accuracy and critical rates</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Elemental Penetration</td>
+                            <td width="84%">attacks ignore some elemental resistances on enemies</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Enchanted Arm</td>
+                            <td width="84%">increases atk, reduces elemental resistances</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Enhanced Frostbite</td>
+                            <td width="84%">adds ice ATK, attacks gain chance to [Freeze] enemies</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Fury</td>
+                            <td width="84%">increases attack and movement speed, reduces DEF by 20</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Highlander Soul</td>
+                            <td width="84%">increases ATK and block rate, reduces DEF by 20</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Intensify</td>
+                            <td width="84%">increases ATK</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Soul of Grim</td>
+                            <td width="84%">increases ATK, attack speed, critical rate, reduces DEF</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Spirits of Hwoarang</td>
+                            <td width="84%">increases ATK, reduces cooldown time</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Violent Wind Attack</td>
+                            <td width="84%">reduces DEF by 20, adds lightning ATK, increases attack and movement speed</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Westraid</td>
+                            <td width="84%">increases attack speed, reduces accuracy</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Will of Warrior</td>
+                            <td width="84%">increases atk by 15%, reduces DEF by 20, adds fire ATK, increases block rate</td>
+                          </tr>
+                        </tbody>
+                      </table><b><font size="3"><br>
+                      Defensive Buffs (DR improves by 1 at skill lvl11):</font></b><br>
+                      <table align="bottom" cellpadding="5" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="left" width="16%">Complete Protection</td>
+                            <td width="84%">increases block rate, reduces elemental resistances, prevents usage of skills</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Earth Mental Attack</td>
+                            <td width="84%">increases all resistances by 15, increases DEF, adds mental ATK, reduces movement speed</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Energy Shield</td>
+                            <td width="84%">absorbs damage by consuming SP</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Fortify</td>
+                            <td width="84%">increases maximum HP</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Guardian</td>
+                            <td width="84%">increases block rate, prevents usage of skills</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Protection Field</td>
+                            <td width="84%">increases DEF, prevents usage of items (hp/sp pots, regen pots, heal still works, as do pets)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Invulnerable</td>
+                            <td width="84%">negates all damage</td>
+                          </tr>
+                        </tbody>
+                      </table><font size="3"><b><br>
+                      Other Buffs:</b></font><br>
+                      <table align="bottom" cellpadding="5" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="left" width="16%">Acceleration</td>
+                            <td width="84%">increases attack and movement speed</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Anti-magic Shell</td>
+                            <td width="84%">increases elemental resistances</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Burning Hands</td>
+                            <td width="84%">adds fire ATK, increases fire resistance</td>
+                          </tr>
+                          <tr>
+                            <td width="16%">Camouflage</td>
+                            <td width="84%">invisibility, movement not possible, skill/item usage possible, changing stance cancels status, (using skills does not cancel status)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Chilling Touch</td>
+                            <td width="84%">adds ice ATK, increases ice resistance</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Consolidation</td>
+                            <td width="84%">increases penetration, (improves ATK at skill lvl11)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Daga Venenosa</td>
+                            <td width="84%">attacks gain chance to [Poison] enemies</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Divine Bless</td>
+                            <td width="84%">improves regeneration rate</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Electric Charger</td>
+                            <td width="84%">adds lightning ATK, increases lightning resistance</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Endurance Melody</td>
+                            <td width="84%">reduces physical damage taken from Human enemies by 20%, increases DEF, reduces ATK, (improves immunity at skill lvl11)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Evasion</td>
+                            <td width="84%">increases evasion rate, (improves attack speed at skill lvl11)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Ice Plasma</td>
+                            <td width="84%">adds ice ATK, increases ice resistance, increases ice resistance cap to 85, reduces lightning resistance</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Ignore Harm</td>
+                            <td width="84%">gains chance to negate debuff attacks, increases mental and telekinesis resistances</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Intoxication</td>
+                            <td width="84%">attacks gain chance to [Paralyze] enemies</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Invisible</td>
+                            <td width="84%">disappears from view (can still be seen by Undead type)</td>
+                          </tr>
+                          <tr>
+                            <td width="16%">Invisibility</td>
+                            <td width="84%">changing stances and using skills will cancel status, mSP -20%, AR -2, ATK -20%, penetration -20, elemental ATK -20, depletes HP for duration of status</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Lava Plasma</td>
+                            <td width="84%">adds fire ATK, increases fire resistance, increases fire resistance cap to 85, reduces ice resistance</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Lightning Plasma</td>
+                            <td width="84%">adds lightning ATK, increases lightning resistance, increases lightning resistance cap to 85, reduces fire resistance</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Magic Barrier</td>
+                            <td width="84%">gains chance to negate magical attacks, increases elemental resistances</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Meditation</td>
+                            <td width="84%">improves regeneration rate</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Prompt Action</td>
+                            <td width="84%">improves skill casting speed, (improves attack speed at skill lvl11)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Rhythm of Spellbreak</td>
+                            <td width="84%">reduces magical damage taken from Human enemies by 20%, increases mental res, reduces ATK</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Ropera</td>
+                            <td width="84%">increases elemental resistance and DEF, grants chance to ignore magical attacks, (improves accuracy at lvl11)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Shining Ballade</td>
+                            <td width="84%">increases ATK, attack speed, and movement speed, reduces DEF, (improves penetration at skill lvl11)</td>
+                          </tr>
+                          <tr>
+                            <td align="left" width="16%">Spiritual Shield</td>
+                            <td width="84%">increases mental and telekinesis resistances</td>
+                          </tr>
+                        </tbody>
+                      </table><br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">/image/bg/1.png?v=20111214172750</span> <a href="/account/clexe" id="WPC-action_accountMenu?account=clexe&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Character+Status+List" class="avatarMissing" src="/image/bg/1.png" alt="No user avatar"></a><br>
+                        <a href="/account/clexe" id="WPC-action_accountMenu?account=clexe&from=pageLastUpdateLink" class="WPC-action" onclick="return false">clexe</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Character+Status+List"><a href="/account/clexe" id="WPC-action_accountMenu?account=clexe&subject=Character+Status+List&from=lastPageUpdate&pageName=Character+Status+List" class="WPC-action" onclick="return false">clexe</a></span> , <span id="WPC-lastRevisionDate?cellId=Character+Status+List">Jun 20 2012, 6:17 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/clexe"><img class="avatarMissing" src="/image/bg/1.png" alt="clexe"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/clexe">clexe</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">7 words added</span><br></span><br>
+                        <a href="/page/Character+Status+List/diff/11,12" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Character+Status+List/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Apocalypse" title="Apocalypse" class="pageTag">Apocalypse</a> <a href="/tag/Armor+Crasher" title="Armor Crasher" class="pageTag">Armor Crasher</a> <a href="/tag/Axon" title="Axon" class="pageTag">Axon</a> <a href="/tag/Bleed" title="Bleed" class="pageTag">Bleed</a> <a href="/tag/Debuff" title="Debuff" class="pageTag">Debuff</a> <a href="/tag/Debuffs" title="Debuffs" class="pageTag">Debuffs</a> <a href="/tag/Status+Ailment" title="Status Ailment" class="pageTag">Status Ailment</a> <a href="/tag/Whole+Cancellation" title="Whole Cancellation" class="pageTag">Whole Cancellation</a></span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Character+Status+List/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FCharacter%2BStatus%2BList&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Character+Status+List/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?parentNodeId=contentThreadList" href="#toggle"></a></th>
+                          <th>Started&nbsp;By</th>
+                          <th width="16"></th>
+                          <th>Thread Subject</th>
+                          <th>Replies</th>
+                          <th class="farRightCell">Last Post</th>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/4200177/%3E.%3C"><b>&gt;.&lt;</b></a></td>
+                          <td align="center">1</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Aug 27 2010, 6:54 AM EDT</span> by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=%3E.%3C&from=threadFirstAccount4200177&threadId=4200177" class="WPC-action" onclick="return false">Chrysocolla</a></td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA1" style="">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB1">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Aug 27 2010, 6:52 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=4200177&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                is there anything that grants resistance to these statuses? eg. freeze, stun etc
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4200177&post=33649809"><span id="agreeCount?thread=4200177&post=33649809">2</span> &nbsp;out of <span id="totalCount?thread=4200177&post=33649809">5</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4200177&post=33649809" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4200177&post=33649809">Do you? <a id="WPC-action_rateThread?thread=4200177&post=33649809&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4200177&post=33649809&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread1" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div><a href="#lastReply" onclick="document.getElementById('threadLastReply4200177').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                                <div style="margin-top:10px;">
+                                  <div id="threadLastReply4200177" style="display:none;padding-top:10px;">
+                                    <table>
+                                      <tr>
+                                        <td><a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=%3E.%3C&from=threadImg4200177&threadId=4200177" class="WPC-action" onclick="return false"><img class="imageSm" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/RDmoXbioaM-1lXucoWBQ9w142181/GW090" alt="Chrysocolla"></a></td>
+                                        <td width="100%">
+                                          <b>Last Reply:</b><br>
+                                          <a href="/thread/4200177/%3E.%3C?offset=0#post33649824"><b>RE: &gt;.&lt;</b></a><br>
+                                          <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=%3E.%3C&from=threadFirstAccount4200177&threadId=4200177" class="WPC-action" onclick="return false">Chrysocolla</a>, Aug 27 2010, 6:54 AM EDT</span>
+                                          <div style="margin-top:10px;">
+                                            I always thought that was what Mental resistance was for.
+                                          </div>
+                                          <div style="margin-top:10px;">
+                                            <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4200177&post=33649824"><span id="agreeCount?thread=4200177&post=33649824">0</span> &nbsp;out of <span id="totalCount?thread=4200177&post=33649824">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4200177&post=33649824" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4200177&post=33649824">Do you? <a id="WPC-action_rateThread?thread=4200177&post=33649824&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4200177&post=33649824&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="/js/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      Showing 1 of 1 threads for this page
+                    </div><span id="threadCounter" title="2" style="display:none"></span>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li>
+                                <a href="/page/Game+Characters" rel="119">Game Characters</a>
+                                <ul>
+                                  <li><a href="/page/Character+Status+List" class="current">Character Status List</a></li>
+                                  <li><a href="/page/Inherent+Skill+List">Inherent Skill List</a></li>
+                                  <li><a href="/page/Character+Attributes">Character Attributes</a></li>
+                                  <li><a href="/page/Points+at+Vet+and+Expert">Points at Vet and Expert</a></li>
+                                  <li><a href="/page/Character+Promotion">Character Promotion</a></li>
+                                  <li><a href="/page/Character+Trading">Character Trading</a></li>
+                                  <li><a href="/page/Character+Comparison">Character Comparison</a></li>
+                                  <li><a href="/page/Revised+Character+Combination+Buff" rel="1">Revised Character Combination Buff</a></li>
+                                  <li><a href="/page/Class+Guides" rel="7">Class Guides</a></li>
+                                  <li><a href="/page/Adelina+Esperanza">Adelina Esperanza</a></li>
+                                  <li><a href="/page/Adriana">Adriana</a></li>
+                                  <li><a href="/page/Alejandro">Alejandro</a></li>
+                                  <li><a href="/page/Andre+de+Lou-Oshiba">Andre de Lou-Oshiba</a></li>
+                                  <li><a href="/page/Andre+Janzur">Andre Janzur</a></li>
+                                  <li><a href="/page/Angie+Shirley">Angie Shirley</a></li>
+                                  <li><a href="/page/Ania">Ania</a></li>
+                                  <li><a href="/page/Asoka">Asoka</a></li>
+                                  <li><a href="/page/Auch+Infantry">Auch Infantry</a></li>
+                                  <li><a href="/page/Baek+Ho">Baek Ho</a></li>
+                                  <li><a href="/page/Barrel">Barrel</a></li>
+                                  <li><a href="/page/Battlefield+Claude">Battlefield Claude</a></li>
+                                  <li><a href="/page/Battlesmith+Idge">Battlesmith Idge</a></li>
+                                  <li><a href="/page/Beatrice">Beatrice</a></li>
+                                  <li><a href="/page/Brunie+Etienne">Brunie Etienne</a></li>
+                                  <li><a href="/page/Cadet+Adriana">Cadet Adriana</a></li>
+                                  <li><a href="/page/Cadet+Elisa">Cadet Elisa</a></li>
+                                  <li><a href="/page/Calypso">Calypso</a></li>
+                                  <li><a href="/page/Captain+Adelina">Captain Adelina</a></li>
+                                  <li><a href="/page/Catherines">Catherines</a></li>
+                                  <li><a href="/page/Catherine+of+Combat">Catherine of Combat</a></li>
+                                  <li><a href="/page/Catherine+Torsche">Catherine Torsche</a></li>
+                                  <li><a href="/page/Cherlyn">Cherlyn</a></li>
+                                  <li><a href="/page/Claire">Claire</a></li>
+                                  <li><a href="/page/Claude+Baudez">Claude Baudez</a></li>
+                                  <li><a href="/page/Coimbran+Trooper">Coimbran Trooper</a></li>
+                                  <li><a href="/page/Cruz">Cruz</a></li>
+                                  <li><a href="/page/Daria">Daria</a></li>
+                                  <li><a href="/page/Eduardo+Gygax">Eduardo Gygax</a></li>
+                                  <li><a href="/page/Elementalist">Elementalist</a></li>
+                                  <li><a href="/page/Elisa">Elisa</a></li>
+                                  <li><a href="/page/Emilia+Giannino">Emilia Giannino</a></li>
+                                  <li><a href="/page/Emilia+the+Sage">Emilia the Sage</a></li>
+                                  <li><a href="/page/Eva+Sharon">Eva Sharon</a></li>
+                                  <li><a href="/page/Fighter">Fighter</a></li>
+                                  <li><a href="/page/Friede+Beckerath">Friede Beckerath</a></li>
+                                  <li><a href="/page/Garcia+Gygax">Garcia Gygax</a></li>
+                                  <li><a href="/page/Gertrude+Peterson">Gertrude Peterson</a></li>
+                                  <li><a href="/page/Grace+Bernelli">Grace Bernelli</a></li>
+                                  <li><a href="/page/Gracielo">Gracielo</a></li>
+                                  <li><a href="/page/Grandice">Grandice</a></li>
+                                  <li><a href="/page/Grenmah">Grenmah</a></li>
+                                  <li><a href="/page/Hellena">Hellena</a></li>
+                                  <li><a href="/page/Heyran">Heyran</a></li>
+                                  <li><a href="/page/Idge+Imbrulia">Idge Imbrulia</a></li>
+                                  <li><a href="/page/Illusion">Illusion</a></li>
+                                  <li><a href="/page/Irawain">Irawain</a></li>
+                                  <li><a href="/page/Iron+Chef+Panfilo">Iron Chef Panfilo</a></li>
+                                  <li><a href="/page/Ion">Ion</a></li>
+                                  <li><a href="/page/J.D">J.D</a></li>
+                                  <li><a href="/page/Jack+Shirley">Jack Shirley</a></li>
+                                  <li><a href="/page/Jose+Cortasar">Jose Cortasar</a></li>
+                                  <li><a href="/page/Kano">Kano</a></li>
+                                  <li><a href="/page/Kess+Kielce">Kess Kielce</a></li>
+                                  <li><a href="/page/Kurt+Lyndon">Kurt Lyndon</a></li>
+                                  <li><a href="/page/Lionel">Lionel</a></li>
+                                  <li><a href="/page/Lisa+Lynway">Lisa Lynway</a></li>
+                                  <li><a href="/page/Liung">Liung</a></li>
+                                  <li><a href="/page/Lorch+Feurholden">Lorch Feurholden</a></li>
+                                  <li><a href="/page/Ludin">Ludin</a></li>
+                                  <li><a href="/page/Marchetti">Marchetti</a></li>
+                                  <li><a href="/page/Mary">Mary</a></li>
+                                  <li><a href="/page/M%27Boma">M&#039;Boma</a></li>
+                                  <li><a href="/page/Mia+Karjalain">Mia Karjalain</a></li>
+                                  <li><a href="/page/Mifuyu">Mifuyu</a></li>
+                                  <li><a href="/page/Montoro">Montoro</a></li>
+                                  <li><a href="/page/Musketeer">Musketeer</a></li>
+                                  <li><a href="/page/Najib+Sharif">Najib Sharif</a></li>
+                                  <li><a href="/page/Nar">Nar</a></li>
+                                  <li><a href="/page/Natalie">Natalie</a></li>
+                                  <li><a href="/page/Nena">Nena</a></li>
+                                  <li><a href="/page/Olivia">Olivia</a></li>
+                                  <li><a href="/page/Panfilo+de+Narvaez">Panfilo de Narvaez</a></li>
+                                  <li><a href="/page/Queen+of+Pioneer%2C+Grandice">Queen of Pioneer, Grandice</a></li>
+                                  <li><a href="/page/Rachel+Sheffield">Rachel Sheffield</a></li>
+                                  <li><a href="/page/Rascel">Rascel</a></li>
+                                  <li><a href="/page/Ralph">Ralph</a></li>
+                                  <li><a href="/page/Ramiro">Ramiro</a></li>
+                                  <li><a href="/page/Raven">Raven</a></li>
+                                  <li><a href="/page/Reboldeaux+Soldier">Reboldeaux Soldier</a></li>
+                                  <li><a href="/page/Reckless+Emilia">Reckless Emilia</a></li>
+                                  <li><a href="/page/Rescue+Knight">Rescue Knight</a></li>
+                                  <li><a href="/page/Romina">Romina</a></li>
+                                  <li><a href="/page/Rosablanca">Rosablanca</a></li>
+                                  <li><a href="/page/Rose%2C+The+Spirit">Rose, The Spirit</a></li>
+                                  <li><a href="/page/Roth">Roth</a></li>
+                                  <li><a href="/page/Scout">Scout</a></li>
+                                  <li><a href="/page/Selane">Selane</a></li>
+                                  <li><a href="/page/Selva+Norte">Selva Norte</a></li>
+                                  <li><a href="/page/Sierra+Rose">Sierra Rose</a></li>
+                                  <li><a href="/page/Sirius+Rigel">Sirius Rigel</a></li>
+                                  <li><a href="/page/Sir+Lyndon">Sir Lyndon</a></li>
+                                  <li><a href="/page/Sniper+Bernelli">Sniper Bernelli</a></li>
+                                  <li><a href="/page/Snowflake+Cherlyn">Snowflake Cherlyn</a></li>
+                                  <li><a href="/page/Soho">Soho</a></li>
+                                  <li><a href="/page/Soho+the+Fighter">Soho the Fighter</a></li>
+                                  <li><a href="/page/Sorang">Sorang</a></li>
+                                  <li><a href="/page/Soso">Soso</a></li>
+                                  <li><a href="/page/Spy+Olivia">Spy Olivia</a></li>
+                                  <li><a href="/page/Tiburon">Tiburon</a></li>
+                                  <li><a href="/page/Tora">Tora</a></li>
+                                  <li><a href="/page/Valeria">Valeria</a></li>
+                                  <li><a href="/page/Valeria+Vendetta">Valeria Vendetta</a></li>
+                                  <li><a href="/page/Veil">Veil</a></li>
+                                  <li><a href="/page/Veronif">Veronif</a></li>
+                                  <li><a href="/page/Viki">Viki</a></li>
+                                  <li><a href="/page/Vincent">Vincent</a></li>
+                                  <li><a href="/page/Vincent+Rio" rel="1">Vincent Rio</a></li>
+                                  <li><a href="/page/Wizard">Wizard</a></li>
+                                  <li><a href="/page/Yeganeh">Yeganeh</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script>
+</body>
+</html>

@@ -1,0 +1,693 @@
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090925121211" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Leaderboard' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Search");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnCategory">
+            <li class="gn first"><a href="/">Home</a></li>
+            <li class="gn"><a href="/forum">Discussions</a></li>
+            <li class="gn"><a href="/photos">Photos</a></li>
+            <li class="gn"><a href="/videos">Videos</a></li>
+            <li class="gn"><a href="/news">News</a></li>
+            <li class="gn"><a href="/whatsnew">Updates</a></li>
+            <li class="gn"><a href="/droplets">Droplets</a></li>
+            <li class="gn"><a href="/accountSearch/all">Members</a></li>
+            <li class="gn"><a href="#invite" id="WPC-action_invite?from=gNav" class="WPC-action" name="WPC-action_invite?from=gNav">Invite</a></li>
+          </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png" class="signup-button" /></div>
+            </div>
+          </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+          <div class="clear"></div>
+        </div>
+        <div id="adsTop">
+          <div class="ads adstop">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            //]]>
+            </script>
+          </div>
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            //]]>
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="swamps" onfocus="if( this.value == 'swamps' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                    </form>
+                  </div><br />
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">All</li>
+                      <li><a href="/search/pages/swamps">Pages</a></li>
+                      <li><a href="/search/threads/swamps">Threads</a></li>
+                      <li><a href="/search/photos/swamps">Photos</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction"></span>
+                                <form name="paginationForm" action="http://swordofthenewworldwiki.com/search/everything/;jsessionid=75AA440ED46F673825EB6FAB5D831BA3" method="get" id="paginationForm">
+                                  <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;19&nbsp;of&nbsp;19 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                    <option value="10">
+                                      10
+                                    </option>
+                                    <option value="20" selected="selected">
+                                      20
+                                    </option>
+                                    <option value="50">
+                                      50
+                                    </option>
+                                  </select> items&nbsp;at a time</span>
+                                </form>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Bahamar%2C+Swamp+of+Shadow" class="WPC-tool WPC-tool-content WPC-indicate">Bahamar, Swamp of Shadow</a></span> <span class="resultContent">or delete line&gt; Tombstone: E8 and I6 Connected Zones : Lvl 105-107 - Bahama Marshlands Lvl 109-111 - Bahamar, Swamp of Eternity</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Bahamar%2C+Swamp+of+Shadow" title="Bahamar, Swamp of Shadow">Bahamar, Swamp of Shadow</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 21 2009, 8:49 PM EST by <a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Bahamar%2C+Swamp+of+Shadow&pageName=Bahamar%2C+Swamp+of+Shadow" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Bahamar%2C+Swamp+of+Shadow&pageName=Bahamar%2C+Swamp+of+Shadow">Reuper</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Bahamar%2C+Swamp+of+Eternity" class="WPC-tool WPC-tool-content WPC-indicate">Bahamar, Swamp of Eternity</a></span> <span class="resultContent">- Bahamar, Swamp of Shadow (aka Swamp of Darkness) Lvl 111-113 - Bahamar, Swamp of Evil (aka Swamp of Peril) Exploration Memorial Quests : Loch Hunt</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Bahamar%2C+Swamp+of+Eternity" title="Bahamar, Swamp of Eternity">Bahamar, Swamp of Eternity</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 12 2009, 4:33 PM EDT by <a href="/account/hyorinmaru" id="WPC-action_accountMenu?account=hyorinmaru&subject=Bahamar%2C+Swamp+of+Eternity&pageName=Bahamar%2C+Swamp+of+Eternity" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=hyorinmaru&subject=Bahamar%2C+Swamp+of+Eternity&pageName=Bahamar%2C+Swamp+of+Eternity">hyorinmaru</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Bahamar%2C+Swamp+of+Evil" class="WPC-tool WPC-tool-content WPC-indicate">Bahamar, Swamp of Evil</a></span> <span class="resultContent">objects&gt; Connected Zones : Lvl 109-111 - Bahamar, Swamp of Eternity Exploration Memorial Quests : &lt;The name of the creature (state</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Bahamar%2C+Swamp+of+Evil" title="Bahamar, Swamp of Evil">Bahamar, Swamp of Evil</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 29 2008, 11:16 AM EDT by <a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Bahamar%2C+Swamp+of+Evil&pageName=Bahamar%2C+Swamp+of+Evil" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=WeazerDevil&subject=Bahamar%2C+Swamp+of+Evil&pageName=Bahamar%2C+Swamp+of+Evil">WeazerDevil</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Quest%3A+Swamp+Monkey+Pigment" class="WPC-tool WPC-tool-content WPC-indicate">Quest: Swamp Monkey Pigment</a></span> <span class="resultContent">Prerequisite: Level 50 Location: City of Reboldeaux NPC: Najib Sharif Reward: Exp Card, Polish: Disciple Difficulty: Easy Walkthrough</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+50" title="Quests - Level 50">Quests - Level 50</a> &gt; <a href="/page/Quest%3A+Swamp+Monkey+Pigment" title="Quest: Swamp Monkey Pigment">Quest: Swamp Monkey Pigment</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 29 2009, 6:44 AM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Quest%3A+Swamp+Monkey+Pigment&pageName=Quest%3A+Swamp+Monkey+Pigment" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Quest%3A+Swamp+Monkey+Pigment&pageName=Quest%3A+Swamp+Monkey+Pigment">Seksiboi</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Bahamar%2C+Marshland" class="WPC-tool WPC-tool-content WPC-indicate">Bahamar, Marshland</a></span> <span class="resultContent">, Hedge Stone Location, Channel 1 Only objects&gt; Connected Zones: Lvl 0 - New Opoluto Lvl 107-109 - Bahama, Swamp of Shadow (aka Swamp</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Bahamar%2C+Marshland" title="Bahamar, Marshland">Bahamar, Marshland</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 23 2009, 3:16 PM EDT by <a href="/account/myrikhan" id="WPC-action_accountMenu?account=myrikhan&subject=Bahamar%2C+Marshland&pageName=Bahamar%2C+Marshland" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=myrikhan&subject=Bahamar%2C+Marshland&pageName=Bahamar%2C+Marshland">myrikhan</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Bahamar+Quests" class="WPC-tool WPC-tool-content WPC-indicate">Bahamar Quests</a></span> <span class="resultContent">to the Igorne, he will ask you to collect 6 Seal of the Pioneer Lv 9 from the Bahamas Swamp. [For extra info, these are also ingredients needed</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Bahamar+Quests" title="Bahamar Quests">Bahamar Quests</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 3 2009, 3:31 PM EST by <a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Bahamar+Quests&pageName=Bahamar+Quests" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Bahamar+Quests&pageName=Bahamar+Quests">Reuper</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Zones" class="WPC-tool WPC-tool-content WPC-indicate">Zones</a></span> <span class="resultContent">- Ferruccio Wall Lvl 104-105 - Deprimida Valley Lvl 105-107 - Bahamar, Marshland Lvl 105-108 - Katovic Snowfield Lvl 107-109 - Bahamar, Swamp</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 23 2009, 12:30 PM EDT by <a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Zones&pageName=Zones" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=WeazerDevil&subject=Zones&pageName=Zones">WeazerDevil</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Maps+and+Area+Info" class="WPC-tool WPC-tool-content WPC-indicate">Maps and Area Info</a></span> <span class="resultContent">Snowfield Lvl 107-109 - Bahamar, Swamp of Shadow Lvl 108-110 - The Frozen Plain Lvl 109-111 - Bahamar, Swamp of Eternity Lvl 110-112</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Area+Guides" title="Area Guides">Area Guides,&nbsp;</a> <a href="/tag/Area+Help" title="Area Help">Area Help,&nbsp;</a> <a href="/tag/Area+Info" title="Area Info">Area Info,&nbsp;</a> <a href="/tag/Granado+Espada+Maps" title="Granado Espada Maps">Granado Espada Maps,&nbsp;</a> <a href="/tag/Guides" title="Guides">Guides,&nbsp;</a> <a href="/tag/Information" title="Information">Information,&nbsp;</a> <a href="/tag/Maps" title="Maps">Maps,&nbsp;</a> <a href="/tag/Monsters" title="Monsters">Monsters,&nbsp;</a> <a href="/tag/SOTNW+Area+Info" title="SOTNW Area Info">SOTNW Area Info,&nbsp;</a> <a href="/tag/SOTNW+Area+Information" title="SOTNW Area Information">SOTNW Area Information,&nbsp;</a> <a href="/tag/SOTNW+Areas" title="SOTNW Areas">SOTNW Areas,&nbsp;</a> <a href="/tag/SOTNW+Maps" title="SOTNW Maps">SOTNW Maps,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Areas" title="Sword of the New World Areas">Sword of the New World Areas,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Maps" title="Sword of the New World Maps">Sword of the New World Maps&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Monday, 2:13 PM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Maps+and+Area+Info&pageName=Maps+and+Area+Info" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Rosengarde&subject=Maps+and+Area+Info&pageName=Maps+and+Area+Info">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Najib+Sharif" class="WPC-tool WPC-tool-content WPC-indicate">Najib Sharif</a></span> <span class="resultContent">on Thueringenwald. But in order to fight the leader of the Swamp Monkeys, you need to get 20 pcs of the following Pigments. Pigment Aster, Pigment</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Najib+Sharif" title="Najib Sharif">Najib Sharif</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Tuesday, 12:41 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Najib+Sharif&pageName=Najib+Sharif" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Rosengarde&subject=Najib+Sharif&pageName=Najib+Sharif">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Expert+Stances" class="WPC-tool WPC-tool-content WPC-indicate">Expert Stances</a></span> <span class="resultContent">Dreamblade Antelope Pisces Dios Lantem Sagittarius King of Coventry Scorpio Swamp Angler Taurus Treasure Golem Virgo Gulfaxi</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Expert+Stances" title="Expert Stances">Expert Stances</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/constellation" title="constellation">constellation,&nbsp;</a> <a href="/tag/constellation+stance+symbol" title="constellation stance symbol">constellation stance symbol,&nbsp;</a> <a href="/tag/el+dorado" title="el dorado">el dorado,&nbsp;</a> <a href="/tag/errac" title="errac">errac,&nbsp;</a> <a href="/tag/espada" title="espada">espada,&nbsp;</a> <a href="/tag/expert" title="expert">expert,&nbsp;</a> <a href="/tag/granado" title="granado">granado,&nbsp;</a> <a href="/tag/granado+espada+expert+stance" title="granado espada expert stance">granado espada expert stance,&nbsp;</a> <a href="/tag/new" title="new">new,&nbsp;</a> <a href="/tag/of" title="of">of,&nbsp;</a> <a href="/tag/stance" title="stance">stance,&nbsp;</a> <a href="/tag/stances" title="stances">stances,&nbsp;</a> <a href="/tag/sword" title="sword">sword,&nbsp;</a> <a href="/tag/sword+of+the+new+world+expert" title="sword of the new world expert">sword of the new world expert,&nbsp;</a> <a href="/tag/zeia" title="zeia">zeia&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 25 2009, 2:37 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Expert+Stances&pageName=Expert+Stances" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Rosengarde&subject=Expert+Stances&pageName=Expert+Stances">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Caebolan+Quests" class="WPC-tool WPC-tool-content WPC-indicate">Caebolan Quests</a></span> <span class="resultContent">automatically and you will have a Stone Leaf in your quest inventory. 2. Go to Lenora in Bahamar, Deep Swamp and talk to her. 3. Go to Igorne in New</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Caebolan+Quests" title="Caebolan Quests">Caebolan Quests</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Caebolan" title="Caebolan">Caebolan&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 29 2009, 4:46 AM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Caebolan+Quests&pageName=Caebolan+Quests" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Caebolan+Quests&pageName=Caebolan+Quests">Seksiboi</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Thueringenwald" class="WPC-tool WPC-tool-content WPC-indicate">Thueringenwald</a></span> <span class="resultContent">Joaquin&#039;s Secret ): G5 * When clicked it says &#034;You can find peace here&#034; * Fallen Stone ( Quest: Swamp Monkey Pigment ): F7 * Used to summon Sunflora</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Thueringenwald" title="Thueringenwald">Thueringenwald</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 24 2009, 10:06 PM EDT by <a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Thueringenwald&pageName=Thueringenwald" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Thueringenwald&pageName=Thueringenwald">whodisnoob</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Bosses+Part+2" class="WPC-tool WPC-tool-content WPC-indicate">Bosses Part 2</a></span> <span class="resultContent">the Golden Bat Drops: --------Swamp Spider Crab Quote: Race: Armor: Element: Size: Attack Rating: 54</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Monsters" title="Monsters">Monsters</a> &gt; <a href="/page/Bosses" title="Bosses">Bosses</a> &gt; <a href="/page/Bosses+Part+2" title="Bosses Part 2">Bosses Part 2</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/boss" title="boss">boss,&nbsp;</a> <a href="/tag/Bosses" title="Bosses">Bosses,&nbsp;</a> <a href="/tag/elites" title="elites">elites,&nbsp;</a> <a href="/tag/midboss" title="midboss">midboss,&nbsp;</a> <a href="/tag/mobs" title="mobs">mobs,&nbsp;</a> <a href="/tag/raids" title="raids">raids&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Aug 13 2009, 3:17 PM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Bosses+Part+2&pageName=Bosses+Part+2" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Bosses+Part+2&pageName=Bosses+Part+2">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Quests+-+Level+50" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 50</a></span> <span class="resultContent">soloed this with my scout and barely had to kill any wolves myself. Quest: Swamp Monkey Pigment NPC + Location: Najib Sharif, Cite de Reboldoeux</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+50" title="Quests - Level 50">Quests - Level 50</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 16 2009, 11:54 PM EDT by <a href="/account/docsaintly" id="WPC-action_accountMenu?account=docsaintly&subject=Quests+-+Level+50&pageName=Quests+-+Level+50" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=docsaintly&subject=Quests+-+Level+50&pageName=Quests+-+Level+50">docsaintly</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Quests" class="WPC-tool WPC-tool-content WPC-indicate">Quests</a></span> <span class="resultContent">Quest: Forgettable Quest - Level 50 Quest: Protectors of the Cows Quest: Swamp Monkey Pigment Quest: Old</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Granado+Espada" title="Granado Espada">Granado Espada,&nbsp;</a> <a href="/tag/Quests" title="Quests">Quests,&nbsp;</a> <a href="/tag/SOTNW" title="SOTNW">SOTNW,&nbsp;</a> <a href="/tag/SOTNW+Quests" title="SOTNW Quests">SOTNW Quests,&nbsp;</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki">SOTNW Wiki,&nbsp;</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World">Sword of the New World,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Quests" title="Sword of the New World Quests">Sword of the New World Quests,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki">Sword of the New World Wiki&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 21 2009, 7:45 AM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Quests&pageName=Quests" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Quests&pageName=Quests">Seksiboi</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Garcia+Gygax" class="WPC-tool WPC-tool-content WPC-indicate">Garcia Gygax</a></span> <span class="resultContent">: - The Pioneering quest (finishing the Bahamas Swamp section) - The Katovic Snowfield quest series, at least until the soup portion. Start</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Garcia+Gygax" title="Garcia Gygax">Garcia Gygax</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Auch" title="Auch">Auch,&nbsp;</a> <a href="/tag/Pistol+user" title="Pistol user">Pistol user,&nbsp;</a> <a href="/tag/Rapier+user" title="Rapier user">Rapier user,&nbsp;</a> <a href="/tag/Rapiere" title="Rapiere">Rapiere,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Tuesday, 12:12 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Garcia+Gygax&pageName=Garcia+Gygax" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Rosengarde&subject=Garcia+Gygax&pageName=Garcia+Gygax">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Sword+of+the+New+World+Walkthrough" class="WPC-tool WPC-tool-content WPC-indicate">Sword of the New World Walkthrough</a></span> <span class="resultContent">. Talk to Panfilo to complete the quest Quest: Swamp Monkey Pigment NPC + Location: Najib Sharif, Cite de Reboldoeux Reward: EXP Card Difficulty</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Sword+of+the+New+World+Walkthrough" title="Sword of the New World Walkthrough">Sword of the New World Walkthrough</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 21 2008, 8:43 AM EST by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Sword+of+the+New+World+Walkthrough&pageName=Sword+of+the+New+World+Walkthrough" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Sword+of+the+New+World+Walkthrough&pageName=Sword+of+the+New+World+Walkthrough">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/1826575/Expidition+Boxes" class="WPC-tool WPC-tool-thread WPC-indicate">Expidition Boxes</a></span> <span class="resultContent">Bahama Marshland might be called the swamp for you guys. any of the mobs drop it</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/1826575/Expidition+Boxes" class="WPC-tool WPC-tool-thread WPC-indicate">Expidition Boxes</a> <span style="font-weight:normal">(3&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/page/How+to+get+the+veteran+stance+books" class="WPC-tool WPC-tool-content">How to get the veteran stance books</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: None
+                                  </div>
+                                  <div>
+                                    Posted: Sep 3 2008, 7:30 PM EDT by <a href="/account/Addice" id="WPC-action_accountMenu?account=Addice&subject=Expidition+Boxes&from=threadFirstPost1826575&threadId=1826575" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Addice&subject=Expidition+Boxes&from=threadFirstPost1826575&threadId=1826575">Addice</a>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/2566783/Raid+Assault%3A+i+can%27t+get%21" class="WPC-tool WPC-tool-thread WPC-indicate">Raid Assault: i can&#039;t get!</a></span> <span class="resultContent">You have to finish doing the Swamp Angler quest in Bahamur...I think.</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/2566783/Raid+Assault%3A+i+can%27t+get%21" class="WPC-tool WPC-tool-thread WPC-indicate">Raid Assault: i can&#039;t get!</a> <span style="font-weight:normal">(4&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/page/How+to+get+the+veteran+stance+books" class="WPC-tool WPC-tool-content">How to get the veteran stance books</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: <a href="/tag/Raid+Assault+Lisa" title="Raid Assault Lisa">Raid Assault Lisa&nbsp;</a>
+                                  </div><a href="/tag/Raid+Assault+Lisa" title="Raid Assault Lisa"></a>
+                                  <div>
+                                    Posted: Jun 3 2009, 6:33 PM EDT by Anonymous
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;"></div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top Wetpaint Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="swamps" />
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <div id="siteSearch" class="searchForm">
+                <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                  <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                </form>
+              </div><noscript><br />
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br />
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="5">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="9">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li><a href="/page/Quests" rel="46">Quests</a></li>
+                              <li><a href="/page/Raids" rel="16">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink" name="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              //<![CDATA[
+              wetpaintLoad('scroller');
+              //]]>
+              </script>
+              <div class="ads adsleft">
+                <br />
+                <br />
+                <div id="googleAdUnitIframe_left"></div>
+                <script type="text/javascript">
+                //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+                google_color_bg = "FFFFFF";
+                google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+                //]]>
+                </script> 
+                <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Last Chaos DE Guide</span></li>
+              <li><span>Warrior Cat Clans 2</span></li>
+              <li><span>Last Chaos - Guides &amp; Information</span></li>
+              <li><span>Free Rider</span></li>
+              <li><span>Warriors Fansite.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b10';s_w.channel='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(582/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

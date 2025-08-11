@@ -1,0 +1,642 @@
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Search");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+      //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      //]]>
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="WPC-action_join?from=joinButton&treatment=JOIN" class="submit WPC-action secondary wetpaintAnnounce"><span><span>Join This Site</span></span></button></span> <span>Already a member?<br />
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <h1>Search Results</h1>
+                <div id="everythingSearch" class="searchForm">
+                  <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                    <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="key" onfocus="if( this.value == 'key' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                  </form>
+                </div><br />
+                <div class="tabNavigation">
+                  <ul>
+                    <li class="selected">All</li>
+                    <li><a href="/search/pages/key">Pages</a></li>
+                    <li><a href="/search/threads/key">Threads</a></li>
+                    <li><a href="/search/photos/key">Photos</a></li>
+                  </ul>
+                  <div class="clear"></div>
+                </div>
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="100%" style="padding:0px;">
+                      <div id="contentWrapper">
+                        <div id="searchResults">
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="pagingActionWrapper">
+                              <span class="pagingAction"></span>
+                              <form name="paginationForm" action="http://swordofthenewworldwiki.com/search/everything/;jsessionid=25F79B2E45D0BC171701C212AF69271C" method="get" id="paginationForm">
+                                <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;61 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                  <option value="10">
+                                    10
+                                  </option>
+                                  <option value="20" selected="selected">
+                                    20
+                                  </option>
+                                  <option value="50">
+                                    50
+                                  </option>
+                                </select> items&nbsp;at a time</span>
+                              </form>
+                            </div>
+                            <div class="paging">
+                              1&nbsp;<a href="?offset=20&maxResults=20">2</a>&nbsp;<a href="?offset=40&maxResults=20">3</a>&nbsp;<a href="?offset=60&maxResults=20">4</a> | <a href="?offset=20&maxResults=20">Next</a>
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                          <div class="ulList">
+                            <ul>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Keys" class="WPC-tool WPC-tool-content WPC-indicate">Keys</a></span> <span class="resultContent">The keys are used to summon a dungeon boss at the last room of the dungeon. You have to click a sacred box (only appears in channel 1) and select</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Consumption+%2F+Misc+Items" title="Consumption / Misc Items">Consumption / Misc Items</a> &gt; <a href="/page/Keys" title="Keys">Keys</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Mar 23 2008, 6:20 PM EDT by <a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Keys&pageName=Keys" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Keys&pageName=Keys">pycajika</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Elemental+Keys+%28Gates%29" class="WPC-tool WPC-tool-content WPC-indicate">Elemental Keys (Gates)</a></span> <span class="resultContent">The Elemental Keys are the price of the 3 Elemental Gates. The Gates can be found in Ice Wiz tower, Topolo durga and Rio Albi and to enter you need 3</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Elemental+Keys+%28Gates%29" title="Elemental Keys (Gates)">Elemental Keys (Gates)</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Mar 31 2008, 10:35 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Elemental+Keys+%28Gates%29&pageName=Elemental+Keys+%28Gates%29" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Elemental+Keys+%28Gates%29&pageName=Elemental+Keys+%28Gates%29">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Queen+Eater" class="WPC-tool WPC-tool-content WPC-indicate">Queen Eater</a></span> <span class="resultContent">Lvl 105(legs), 110(torso), 120(eggs) Type Insect Location Ustuir Zona Uno: all channels Key: leaves of rafflesia (red,green,yellow). Location</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Queen+Eater" title="Queen Eater">Queen Eater</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jul 23 2008, 8:17 PM EDT by <a href="/account/roflzors" id="WPC-action_accountMenu?account=roflzors&subject=Queen+Eater&pageName=Queen+Eater" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=roflzors&subject=Queen+Eater&pageName=Queen+Eater">roflzors</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+22" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 22</a></span> <span class="resultContent">Level 22 Quest: Box Researcher, Yellow and Blue Key NPC + Location: Box Researcher, Coimbra Reward: Yellow Key / Blue Key Difficulty: easy 1</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+22" title="Quests - Level 22">Quests - Level 22</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 15 2009, 7:03 AM EST by <a href="/account/Swiftburns" id="WPC-action_accountMenu?account=Swiftburns&subject=Quests+-+Level+22&pageName=Quests+-+Level+22" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Swiftburns&subject=Quests+-+Level+22&pageName=Quests+-+Level+22">Swiftburns</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Ferruccio%27s+Boxes" class="WPC-tool WPC-tool-content WPC-indicate">Ferruccio&#039;s Boxes</a></span> <span class="resultContent">, but will need keys to access the Yellow and Blue Boxes. The level of the weapon you&#039;ll get is dependent on the level of the zone you are in. Furthermore</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Non-Quest+Help" title="Non-Quest Help">Non-Quest Help</a> &gt; <a href="/page/Ferruccio%27s+Boxes" title="Ferruccio&#039;s Boxes">Ferruccio&#039;s Boxes</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Nov 3 2008, 1:00 AM EST by <a href="/account/spoonypirate" id="WPC-action_accountMenu?account=spoonypirate&subject=Ferruccio%27s+Boxes&pageName=Ferruccio%27s+Boxes" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=spoonypirate&subject=Ferruccio%27s+Boxes&pageName=Ferruccio%27s+Boxes">spoonypirate</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+100+-+Veteran" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 100 - Veteran</a></span> <span class="resultContent">(D8) Reward: 3x Polish: Veteran and Key Chain of Mine Requirements: Complete Investigate Celemantis 1. Talk to the Investigator and select</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+100+-+Veteran" title="Quests - Level 100 - Veteran">Quests - Level 100 - Veteran</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 23 2009, 5:04 AM EST by <a href="/account/TehCommunism" id="WPC-action_accountMenu?account=TehCommunism&subject=Quests+-+Level+100+-+Veteran&pageName=Quests+-+Level+100+-+Veteran" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=TehCommunism&subject=Quests+-+Level+100+-+Veteran&pageName=Quests+-+Level+100+-+Veteran">TehCommunism</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Hell+Breaker" class="WPC-tool WPC-tool-content WPC-indicate">Hell Breaker</a></span> <span class="resultContent">. Instructions: In total 12 Capybara Keys are needed to get to Hell Breaker&#039;s map and to summon him. 4 Keys are needed to open each Marker</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Hell+Breaker" title="Hell Breaker">Hell Breaker</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Dec 25 2008, 8:20 AM EST by <a href="/account/Edyn" id="WPC-action_accountMenu?account=Edyn&subject=Hell+Breaker&pageName=Hell+Breaker" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Edyn&subject=Hell+Breaker&pageName=Hell+Breaker">Edyn</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Treasure+Chest+of+the+Quay" class="WPC-tool WPC-tool-content WPC-indicate">Treasure Chest of the Quay</a></span> <span class="resultContent">maybe it was because of a great storm. The legend tells us that Vergo the Cursed will guard the key to this chest with his life. Many have fought Vergo</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Vergo+the+Cursed" title="Vergo the Cursed">Vergo the Cursed</a> &gt; <a href="/page/Treasure+Chest+of+the+Quay" title="Treasure Chest of the Quay">Treasure Chest of the Quay</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/Chest" title="Chest">Chest,&nbsp;</a> <a href="/tag/Cursed" title="Cursed">Cursed,&nbsp;</a> <a href="/tag/Quay" title="Quay">Quay,&nbsp;</a> <a href="/tag/Treasure" title="Treasure">Treasure,&nbsp;</a> <a href="/tag/Vergo" title="Vergo">Vergo&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 16 2009, 6:21 AM EST by <a href="/account/Swiftburns" id="WPC-action_accountMenu?account=Swiftburns&subject=Treasure+Chest+of+the+Quay&pageName=Treasure+Chest+of+the+Quay" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Swiftburns&subject=Treasure+Chest+of+the+Quay&pageName=Treasure+Chest+of+the+Quay">Swiftburns</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Gate+of+Flame" class="WPC-tool WPC-tool-content WPC-indicate">Gate of Flame</a></span> <span class="resultContent">the Elemental keys quest to get it. Once inside you will have to fight some strong fire type monsters, so fire resistance is required. Your job here is to find</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Gate+of+Flame" title="Gate of Flame">Gate of Flame</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 8 2008, 12:19 AM EDT by <a href="/account/roflzors" id="WPC-action_accountMenu?account=roflzors&subject=Gate+of+Flame&pageName=Gate+of+Flame" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=roflzors&subject=Gate+of+Flame&pageName=Gate+of+Flame">roflzors</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Prison+de+Joaquin+%28Dungeon%29" class="WPC-tool WPC-tool-content WPC-indicate">Prison de Joaquin (Dungeon)</a></span> <span class="resultContent">a chance to drop an Inmate&#039;s Locker Key. Lockers are spread throughout all the zones of the dungeon. Opening one will yield treasure but will consume</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/Prison+de+Joaquin+%28Dungeon%29" title="Prison de Joaquin (Dungeon)">Prison de Joaquin (Dungeon)</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/Prison+de+Joaquin" title="Prison de Joaquin">Prison de Joaquin&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Yesterday, 7:12 AM EST by <a href="/account/akathos" id="WPC-action_accountMenu?account=akathos&subject=Prison+de+Joaquin+%28Dungeon%29&pageName=Prison+de+Joaquin+%28Dungeon%29" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=akathos&subject=Prison+de+Joaquin+%28Dungeon%29&pageName=Prison+de+Joaquin+%28Dungeon%29">akathos</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Grenmah" class="WPC-tool WPC-tool-content WPC-indicate">Grenmah</a></span> <span class="resultContent">. 1. You&#039;ll need to get the Key to the Skeleton Nest Raid Room (Key of Sea Cave of Revenent). This key supposedly has a low chance of dropping by all</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Grenmah" title="Grenmah">Grenmah</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/Grand+Ma" title="Grand Ma">Grand Ma,&nbsp;</a> <a href="/tag/Grand+mah" title="Grand mah">Grand mah,&nbsp;</a> <a href="/tag/Grandice" title="Grandice">Grandice&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 24 2008, 4:53 AM EDT by <a href="/account/mooferz" id="WPC-action_accountMenu?account=mooferz&subject=Grenmah&pageName=Grenmah" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=mooferz&subject=Grenmah&pageName=Grenmah">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Command+Shortcut+List" class="WPC-tool WPC-tool-content WPC-indicate">Command Shortcut List</a></span> <span class="resultContent">Basic Interface Commands Key/Button Effect Left mouse button Point and click to move Middle mouse wheel Scroll to zoom in/zoom out Right</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Game+Feature+Explanations" title="Game Feature Explanations">Game Feature Explanations</a> &gt; <a href="/page/Command+Shortcut+List" title="Command Shortcut List">Command Shortcut List</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/shortcuts+commands" title="shortcuts commands">shortcuts commands&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Nov 23 2008, 4:01 PM EST by <a href="/account/Montageleim" id="WPC-action_accountMenu?account=Montageleim&subject=Command+Shortcut+List&pageName=Command+Shortcut+List" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Montageleim&subject=Command+Shortcut+List&pageName=Command+Shortcut+List">Montageleim</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/finalzanmato%27s+Guide+to+Golden+Bat" class="WPC-tool WPC-tool-content WPC-indicate">finalzanmato&#039;s Guide to Golden Bat</a></span> <span class="resultContent">aggro and kite him. Have DPS stay on him and beat him down. What does Golden Bat drop? All Golden Bat will drop is capybara keys. What do I</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Hell+Breaker" title="Hell Breaker">Hell Breaker</a> &gt; <a href="/page/finalzanmato%27s+Guide+to+Golden+Bat" title="finalzanmato&#039;s Guide to Golden Bat">finalzanmato&#039;s Guide to Golden Bat</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: May 22 2008, 5:26 PM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=finalzanmato%27s+Guide+to+Golden+Bat&pageName=finalzanmato%27s+Guide+to+Golden+Bat" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=finalzanmato%27s+Guide+to+Golden+Bat&pageName=finalzanmato%27s+Guide+to+Golden+Bat">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Gate+of+Lightning" class="WPC-tool WPC-tool-content WPC-indicate">Gate of Lightning</a></span> <span class="resultContent">Elemental keys quest. Once you enter the Gate, you will be warped to a square room with 4 warps, each warp will take you to another square room with 4</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Gate+of+Lightning" title="Gate of Lightning">Gate of Lightning</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 15 2008, 10:25 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Gate+of+Lightning&pageName=Gate+of+Lightning" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Gate+of+Lightning&pageName=Gate+of+Lightning">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Corridor+of+Assize" class="WPC-tool WPC-tool-content WPC-indicate">Corridor of Assize</a></span> <span class="resultContent">Need: key of Corridor Assize Cost How to Enter: Gate Appear. Notice will be broad in the channel. ——– Dr. Fran Mothein</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Corridor+of+Assize" title="Corridor of Assize">Corridor of Assize</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 12 2009, 7:02 AM EST by <a href="/account/masterxl" id="WPC-action_accountMenu?account=masterxl&subject=Corridor+of+Assize&pageName=Corridor+of+Assize" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=masterxl&subject=Corridor+of+Assize&pageName=Corridor+of+Assize">masterxl</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Raids" class="WPC-tool WPC-tool-content WPC-indicate">Raids</a></span> <span class="resultContent">Dungeon osses spawnable with keys Dios Latem 20</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 12 2009, 6:59 AM EST by <a href="/account/masterxl" id="WPC-action_accountMenu?account=masterxl&subject=Raids&pageName=Raids" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=masterxl&subject=Raids&pageName=Raids">masterxl</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Types+of+Situations" class="WPC-tool WPC-tool-content WPC-indicate">Types of Situations</a></span> <span class="resultContent">AoE. Versatility is the key to this situation. PvEP - Player vs Enemy powerleveling. Fairly self explanitory. Only difference from</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/Types+of+Situations" title="Types of Situations">Types of Situations</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jun 19 2008, 10:18 AM EDT by <a href="/account/valure" id="WPC-action_accountMenu?account=valure&subject=Types+of+Situations&pageName=Types+of+Situations" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=valure&subject=Types+of+Situations&pageName=Types+of+Situations">valure</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Brunie+Etienne" class="WPC-tool WPC-tool-content WPC-indicate">Brunie Etienne</a></span> <span class="resultContent">to make a key. Travel to Tetra Catacombs and search for barrels (spawns a lot of Forsaken monsters). Return to Brunie when finished. [Rewards: 3x Lvl 30</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Brunie+Etienne" title="Brunie Etienne">Brunie Etienne</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 18 2009, 9:23 PM EST by <a href="/account/Doodlechama" id="WPC-action_accountMenu?account=Doodlechama&subject=Brunie+Etienne&pageName=Brunie+Etienne" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Doodlechama&subject=Brunie+Etienne&pageName=Brunie+Etienne">Doodlechama</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/The+Tetra+Ruins%2C+Catacombs" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins, Catacombs</a></span> <span class="resultContent">Quest: Box researcher yellow and blue key to obtain yellow key) Secret Mechanism ( Quest: Search The Hideout ): H7 Vouchers Map: (note</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)">The Tetra Ruins (Dungeon)</a> &gt; <a href="/page/The+Tetra+Ruins%2C+Catacombs" title="The Tetra Ruins, Catacombs">The Tetra Ruins, Catacombs</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 23 2008, 1:11 AM EDT by <a href="/account/Elleran" id="WPC-action_accountMenu?account=Elleran&subject=The+Tetra+Ruins%2C+Catacombs&pageName=The+Tetra+Ruins%2C+Catacombs" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Elleran&subject=The+Tetra+Ruins%2C+Catacombs&pageName=The+Tetra+Ruins%2C+Catacombs">Elleran</a></span>
+                                </div>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="paging">
+                              1&nbsp;<a href="?offset=20&maxResults=20">2</a>&nbsp;<a href="?offset=40&maxResults=20">3</a>&nbsp;<a href="?offset=60&maxResults=20">4</a> | <a href="?offset=20&maxResults=20">Next</a>
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                        </div>
+                      </div>
+                    </td>
+                    <td style="padding:0px;">
+                      <div class="innerColumn">
+                        <div id="tagCloud" class="panel">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                          </div>
+                          <div class="panelContent">
+                            Loading...
+                          </div>
+                        </div>
+                        <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl">
+                              &nbsp;&nbsp;
+                            </div>Top Wetpaint Sites
+                          </div>
+                          <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                          <form onsubmit="return false">
+                            <input type="hidden" name="containsField" id="containsField" value="key" />
+                          </form>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <br />
+              <br />
+              <div id="googleAdUnitIframe_left"></div>
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+              google_color_bg = "FFFFFF";
+              google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+              //]]>
+              </script> 
+              <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>GunZ Wiki</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090219174656" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b16';s_w.channel='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(4510/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.sProp10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

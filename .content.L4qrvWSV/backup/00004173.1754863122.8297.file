@@ -1,0 +1,1136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Raids - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Raids">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Raids',"PAGE_URI" : '/page/Raids',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Raids']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+        wp_ads.noAdSense = '';
+        wp_ads.top = 'Top';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.tracking = 'Tracking';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","Page");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  </script>
+  <script language="JavaScript">
+        
+        GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join?from=joinButton" class="submit action secondary wetpaintAnnounce"><span><span>Join This Site</span></span></button></span> <span>Already a member?<br>
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="pageControls">
+                  <ul class="WPC-toolsMenu">
+                    <li><a href="#edit" id="WPC-action_informJoin?contentKey=AuthenticateToEdit&from=pageControls&nextAction=confirmJoinBeforeEdit%3FcellId%3DRaids" class="WPC-action btn_edit"><span class="WPC-access">EasyEdit</span></a></li>
+                    <li><a href="#mail" id="WPC-action_sendToFriend" title="Email page" class="WPC-tool WPC-tool-mail WPC-action">Email page</a></li>
+                    <li><a href="#AddToDo" title="Add a To-Do" id="WPC-action_informJoin?contentKey=AddToDo&from=pageControlsToDo&nextAction=toDo&view=add" class="WPC-tool WPC-tool-todo WPC-action">Add a To-Do</a></li>
+                  </ul>
+                </div>
+                <div id="editMessage"></div>
+                <div id="contentTitle">
+                  <h1>Raids</h1>
+                </div>
+                <div id="WPC-areaContainer?cellId=Raids">
+                  <div id="WPC-area?cellId=Raids&version=54&savePath=%2Fpage%2FRaids&saveType=page" class="WPC-editableContent">
+                    <font color="#808080" size="5"><b>FAQs:</b></font><br>
+                    <ul>
+                      <li><font color="#FF0000" size="2"><b>What is a Raid?</b></font></li>
+                    </ul>
+                    <div style="margin-left: 2em">
+                      <ol>
+                        <li><font size="2">Raids are a kind of &quot;quest&quot; that you can do with a group of people to get special items. Usually the objective of a raid is to kill the specific boss; so the drop can be obtained. The Raids are a part of any serious clan because without the raids you can&#39;t get the end game gear, and therefor can&#39;t complete the game.</font></li>
+                      </ol>
+                    </div><br>
+                    <ol></ol>
+                    <ul>
+                      <li><b><font color="#FF0000" size="2">We killed the raid boss, and the boss dropped 4 items and about 20 people participated in the raid. Who should get items?</font></b></li>
+                    </ul>
+                    <div style="margin-left: 2em">
+                      <ol>
+                        <li><font size="2">The best way to distribute the items among the players is by using Fireworks to get random numbers(fireworks produce a random number from 1 to 13); the player with the highest number will get the bided item. Note that this way is sometimes unfair, since a player that didn&#39;t do much can get a drop. So the best way is doing it with the next method.</font></li>
+                        <li><font size="2">For Clans: You can use a <a href="/page/raid+point+system" target="_self"><font color="#497FB1">raid point system</font></a>, and let the leader give items to the players that need them. See <a href="/page/Raid+point+system" target="_self"><font color="#497FB1">Raid point system</font></a>.</font></li>
+                        <li><font size="2">The player that&#39;s tanking will be priority when selecting the items.</font></li>
+                        <li><font size="2">If the raid is being completed by 2 or more clans, use the Fireworks first; then distribute the items to the members using the <a href="/page/Raid+Point+System" target="_self"><font color="#497FB1">Raid point system</font></a>.</font></li>
+                      </ol>
+                    </div>
+                    <ul></ul><br>
+                    <ul>
+                      <li>
+                        <b><font color="#FF0000" size="2">Can I solo a raid boss?</font></b>
+                        <ol>
+                          <li><font size="2">Yes, 2 of the high level <a href="/page/bosses" target="_self"><font color="#497FB1">bosses</font></a> can be soloed if you have the right equipment. Also the low level dungeon <a href="/page/bosses" target="_self"><font color="#497FB1">bosses</font></a> count as raid <a href="/page/bosses" target="_self"><font color="#497FB1">bosses</font></a> if you are near their level, so you can solo those with enought level.</font></li>
+                        </ol>
+                      </li>
+                    </ul><b><font size="2"><br></font></b>
+                    <ul>
+                      <li>
+                        <b><font color="#FF0000" size="2">The boss didn&#39;t spawn, what happened?</font></b>
+                        <ol>
+                          <li><font size="2">The spawn time of each raid boss is different; some of them only spawn 2 times a day. Check their guides for more info.</font></li>
+                        </ol>
+                      </li>
+                    </ul><b><font color="#FF0000" size="2"><br></font></b>
+                    <ul>
+                      <li>
+                        <b><font color="#FF0000" size="2">I have more questions, were do I ask them?</font></b>
+                        <ol>
+                          <li><font size="2">Just start a new Thread with the question, and we will answer it at soon as possible.</font></li>
+                        </ol>
+                      </li>
+                      <li>
+                        <b><font color="#FF0000" size="2">Is there a guide of all the raid bosses available?</font></b>
+                        <ul>
+                          <li><font size="2">Not yet, but thanks to KUSABIREIKA on the Iah forums, we&#39;ll have most of the information ready soon. On the mean time you can check here, for the guide created by Kusa on Iah (Note: you&#39;ll have to register in the forums there to see it..)</font><br></li>
+                        </ul>
+                      </li>
+                    </ul><br>
+                    <br>
+                    <div align="center">
+                      <font size="2"><font color="#0000FF" size="6"><b><u><i>Raid List</i></u></b></font><br></font>
+                      <div align="center">
+                        <font size="2"></font>
+                        <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="600">
+                          <tbody>
+                            <tr>
+                              <td width="20%"><font size="2"><img align="bottom" alt="Decarabia" height="112" src="http://image.wetpaint.com/image/1/Qqg59fn3zcPE1LvOkAj__g10537/GW112H112" title="Decarabia" width="112"></font></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <font color="#0000FF"></font>
+                                <div align="center">
+                                  <font color="#0000FF"><br>
+                                  <br>
+                                  <font color="#0000FF"></font></font>
+                                  <div align="center">
+                                    <a href="/page/Decarabia" target="_self"><font color="#0000FF"><font color="#0000FF"><font color="#0000FF" size="5">Decarabia</font></font></font></a>
+                                  </div>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">70-80</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl<br>
+                                  DONT TRY IT AT A HIGHER<br>
+                                  LEVEL!
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/ccS5A9B7ft8K-Agf8GYnog1756/GW118H124" title="Place Holder" width="118"></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#0000FF" size="5">Hill Giant</font>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">92+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/ccS5A9B7ft8K-Agf8GYnog1756/GW118H124" title="Place Holder" width="118"></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#0000FF" size="5">Sool</font>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">92+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><a href="/page/Gerero" target="_self"><img align="bottom" alt="Gerero" height="112" src="http://image.wetpaint.com/image/1/TtKAlA6I19TuqnAPwpd65g18894/GW112H112" title="Gerero" width="112"></a></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/Gerero" target="_self"><font color="#0000FF" size="5">Gerero</font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">92+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/ccS5A9B7ft8K-Agf8GYnog1756/GW118H124" title="Place Holder" width="118"></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/Diablo" target="_self"><font color="#0000FF" size="5">Diablo</font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">Vet</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="20%"><font size="2"><img align="bottom" alt="Raids - Wiki of the New World" height="72" src="http://image.wetpaint.com/image/1/8mylVAVFMurWLc9uS43Yog27999/GW98H72" title="Raids - Wiki of the New World" width="98"><br></font></td>
+                              <td width="46%">
+                                <br>
+                                <div align="center">
+                                  <font size="2"><font color="#0000FF" size="5"><font color="#0000FF" size="5">Gryffon</font></font></font>
+                                </div>
+                                <div align="center"></div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">Vet - Expert</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/ccS5A9B7ft8K-Agf8GYnog1756/GW118H124" title="Place Holder" width="118"></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/Queen+Eater" target="_self"><font color="#0000FF" size="5">Queen Eater</font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">Vet - Expert</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/ccS5A9B7ft8K-Agf8GYnog1756/GW118H124" title="Place Holder" width="118"></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/Hell+Breaker" target="_self"><font color="#0000FF" size="5">Hell Breaker</font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">Vet - Expert</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="20%"><a href="/page/Vergo+the+Cursed" target="_self"><img align="bottom" alt="Vergo The Cursed One" height="107" src="http://image.wetpaint.com/image/1/JqQsT5oc2_n9zgCcIondTw2974/GW111H107" title="Vergo The Cursed One" width="111"></a></td>
+                              <td width="46%">
+                                <br>
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/Vergo+the+Cursed" target="_self"><font color="#0000FF" size="5">Vergo the Cursed one</font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">Vet - Expert</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table><font size="2"><br></font>
+                        <div align="center"></div><font size="2"><br></font>
+                        <div align="center"></div>
+                      </div>
+                      <ul></ul><br>
+                      <div align="center">
+                        <b><font color="#FFA500"><font size="5">Dungeon</font> <a href="/page/Bosses" target="_self"><img align="bottom" alt="Raids - Wiki of the new world" height="26" src="http://image.wetpaint.com/image/4/S8wro8dRMDT-7iwoGj8h2g1718/GW21H26" title="Raids - Wiki of the new world" width="21"></a><font size="5">osses spawnable with keys</font></font></b> <b><a href="/page/Keys" target="_self"><font color="#FFA500"><img align="bottom" alt="Raids - Wiki of the new world" height="21" src="http://image.wetpaint.com/image/1/eJbAR6-m1aLIqZWTX1r0sg1043/GW40H21" title="Raids - Wiki of the new world" width="40"></font></a></b>
+                      </div><br>
+                      <div align="center">
+                        <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="600">
+                          <tbody>
+                            <tr>
+                              <td width="11%"><a href="/page/Al+Quelt+Moreza,+Hollow" target="_self"><img align="bottom" alt="Dios Latem" height="83" src="http://image.wetpaint.com/image/1/bPjcSseLEKnCq14qQy6luQ13857/GW83H83" title="Dios Latem" width="83"><br></a></td>
+                              <td width="55%">
+                                <div></div><br>
+                                <div align="center">
+                                  <a href="/page/Al+Quelt+Moreza,+Hollow" target="_self"><font color="#FFA500" size="4"><u>Dios Latem</u></font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">20+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="11%"><a href="/page/The+Tetra+Ruins,+Antiquities+Chamber" target="_self"><img align="bottom" alt="Treasure Golem" height="83" src="http://image.wetpaint.com/image/1/jYp3WcVsNWR6ve39vXBFCg12918/GW83H83" title="Treasure Golem" width="83"><br></a></td>
+                              <td width="55%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/The+Tetra+Ruins%2C+Antiquities+Chamber" target="_self"><font color="#FFA500" size="4"><u>Treasure Golem</u></font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">40+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="11%">
+                                <div align="center">
+                                  <a href="/page/Porto+Bello,+St.+Cathrine%27s+Saloon" target="_self"><img align="bottom" alt="Chimera" height="83" src="http://image.wetpaint.com/image/1/kXa416SZ_Sy87yvzSFbrIA15281/GW83H83" title="Chimera" width="83"><br></a>
+                                </div>
+                              </td>
+                              <td width="55%">
+                                <div align="center"></div>
+                                <div align="center"></div>
+                                <div align="center">
+                                  <font color="#FFA500" size="4"><u><br>
+                                  <a href="/page/Porto+Bello%2C+St.+Cathrine%27s+Saloon" target="_self"><font color="#FFFF00">Chimera</font></a></u></font>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">50+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="11%"><img align="bottom" alt="Skeleton Warrior" height="83" src="http://image.wetpaint.com/image/1/vdzb41kpOJ1f2yQiwZxTjQ9955/GW83H83" title="Skeleton Warrior" width="83"></td>
+                              <td width="55%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#FFA500" size="4">Skeleton Warrior</font>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">60+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="11%"><img align="bottom" alt="Crysalis" height="83" src="http://image.wetpaint.com/image/1/eO60P4jys4HdruTU1Yo_GA16245/GW83H83" title="Crysalis" width="83"></td>
+                              <td width="55%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <a href="/page/Corridor+of+Assize" target="_self"><font color="#FFA500" size="4">Corridor of Assize</font></a>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">84+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td width="11%"><img align="bottom" alt="Necromancer" height="54" src="http://image.wetpaint.com/image/2/XKEY-pHtmJ70hO1plaALfg3231/GW81H54" title="Necromancer" width="81"></td>
+                              <td width="55%">
+                                <br>
+                                <br>
+                                <div align="center">
+                                  <font color="#FFA500" size="4">Nest of Skeleton 4th Room</font>
+                                </div>
+                              </td>
+                              <td width="33%">
+                                <br>
+                                <div align="center">
+                                  <font color="#808080" size="5">92+</font>
+                                </div>
+                                <div align="center">
+                                  suggested Lvl
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table><br>
+                        <div align="center">
+                          <br>
+                          <font color="#FF0000" size="5">G<font color="#0000FF">a</font><font color="#CFCF04">t</font>e<font color="#0000FF">s</font></font><br>
+                          <font color="#FF0000" size="1">Note: The first 3 gates, require you to start the</font> <a href="/page/Elemental+Keys+%28Gates%29" target="_self"><font color="#497FB1" size="1">Elemental Keys</font></a> <font color="#FF0000" size="1">quest.</font><br>
+                          <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="400">
+                            <tbody>
+                              <tr>
+                                <td width="21%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                                <td width="45%">
+                                  <br>
+                                  <div align="center">
+                                    <a href="/page/Gate+of+Flame" target="_self"><font color="#FF0000" size="4">Gate of Flame</font></a>
+                                  </div>
+                                  <div align="center">
+                                    <font color="#808080">Whirlpool of Flame</font>
+                                  </div>
+                                </td>
+                                <td width="33%">
+                                  <br>
+                                  <div align="center">
+                                    <font color="#808080" size="5">##</font>
+                                  </div>
+                                  <div align="center">
+                                    suggested Lvl
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="21%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                                <td width="45%">
+                                  <br>
+                                  <div align="center">
+                                    <a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" target="_self"><font color="#0000FF" size="4">Gate of Ice</font></a>
+                                  </div>
+                                  <div align="center">
+                                    <font color="#808080">Ice Wizard Tower</font>
+                                  </div>
+                                </td>
+                                <td width="33%">
+                                  <br>
+                                  <div align="center">
+                                    <font color="#808080" size="5">##</font>
+                                  </div>
+                                  <div align="center">
+                                    suggested Lvl
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="21%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                                <td width="45%">
+                                  <br>
+                                  <div align="center">
+                                    <a href="/page/Gate+of+Lightning" target="_self"><font color="#CFCF04" size="4">Gate of Lightning</font></a>
+                                  </div>
+                                  <div align="center">
+                                    Silece Maze
+                                  </div>
+                                </td>
+                                <td width="33%">
+                                  <br>
+                                  <div align="center">
+                                    <font color="#808080" size="5">##</font>
+                                  </div>
+                                  <div align="center">
+                                    suggested Lvl
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#F59B00" width="21%"><br></td>
+                                <td bgcolor="#F59B00" width="45%"><br></td>
+                                <td bgcolor="#F59B00" width="33%"><br></td>
+                              </tr>
+                              <tr>
+                                <td width="21%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                                <td width="45%">
+                                  <br>
+                                  <br>
+                                  <div align="center">
+                                    <a href="/page/Gate+of+Hell" target="_self"><font color="#FF0000" size="4">Gate of Hell</font></a>
+                                  </div>
+                                </td>
+                                <td width="33%">
+                                  <br>
+                                  <div align="center">
+                                    <font color="#808080" size="5">##</font>
+                                  </div>
+                                  <div align="center">
+                                    suggested Lvl
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
+                    </div><br>
+                    <div align="center">
+                      <font color="#0000FF"><b>Special Raids</b></font><br>
+                      <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="400">
+                        <tbody>
+                          <tr>
+                            <td width="25%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                            <td width="41%">
+                              <br>
+                              <br>
+                              <div align="center">
+                                <a href="/page/Secret+Temple" target="_self"><font size="4">Secret Temple</font></a>
+                              </div>
+                            </td>
+                            <td align="center" width="33%">
+                              <br>
+                              <br>
+                              <div align="center">
+                                Expert
+                              </div>
+                              <div align="center">
+                                Suggested Level
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="25%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                            <td width="41%">
+                              <br>
+                              <br>
+                              <div align="center">
+                                <a href="/page/Battle+Colosseum" target="_self"><font size="4">Battle Colosseum</font></a>
+                              </div>
+                            </td>
+                            <td align="center" width="33%">
+                              <div align="center">
+                                <br>
+                                lvl 99 and below
+                              </div>
+                              <div align="center">
+                                Suggested Level
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="25%"><img align="bottom" alt="Place Holder" height="88" src="http://image.wetpaint.com/image/1/0phUNt2gOwpYLclidMC7sQ1311/GW85H88" title="Place Holder" width="85"></td>
+                            <td width="41%">
+                              <br>
+                              <br>
+                              <div align="center">
+                                <font size="4"><b><a href="/page/Poison+Yard" target="_self">Poison Yard</a></b><br></font>
+                              </div>
+                            </td>
+                            <td align="center" width="33%">
+                              <div align="center">
+                                <font color="#808080" size="5"><br>
+                                Veteran+</font>
+                              </div>
+                              <div align="center">
+                                Suggested Level
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div><br>
+                  </div>
+                </div><br class="clear">
+                <br class="clear">
+                <div id="pageAttributes">
+                  <table cellpadding="0" cellspacing="0">
+                    <tr id="usedToBe_pageUpdate">
+                      <td rowspan="2" style="padding-right:4px;text-align:center;"><a href="/account/masterxl" id="action_accountMenu?account=masterxl&from=pageLastUpdateAvatar" class="action" onclick="return false"><img class="avatarAnonymous" src="http://static.wetpaint.com/img/bg/1.png" alt="No user avatar"></a><br>
+                      <a href="/account/masterxl" id="action_accountMenu?account=masterxl&from=pageLastUpdateLink" class="action" onclick="return false">masterxl</a></td>
+                      <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Raids"><a href="/account/masterxl" id="action_accountMenu?account=masterxl&subject=Raids&from=lastPageUpdate&pageName=Raids" class="action" onclick="return false">masterxl</a></span> , <span id="WPC-lastRevisionDate?cellId=Raids">Jan 12 2009, 6:59 AM EST</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/masterxl"><img class="avatarMissing" src="http://static.wetpaint.com/img/bg/1.png" alt="masterxl"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/masterxl">masterxl</a></span> <span id="latestEditNoteScope"><br>
+                      <br></span><br>
+                      <a href="/page/Raids/diff/53,54" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Raids/history" style="white-space: nowrap">complete history</a>)</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="WPC-tagModule">
+                          <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                        </div>
+                        <div id="moreInfo">
+                          <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Raids/links">links to this page</a>
+                        </div>
+                        <div id="bkmrkLinks">
+                          <span>Bookmark:</span> <img class="sprite-delicioussmall" src="http://static.wetpaint.com/img/bg/1.png">Del.icio.us &nbsp;&nbsp; <img class="sprite-stumbleupon" src="http://static.wetpaint.com/img/bg/1.png">StumbleUpon &nbsp;&nbsp; Facebook
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="threadList" class="pageSection pageSectionOutOfPage">
+                  <div class="pageSectionHeader pageLink">
+                    <span class="controlsNode" id="controlsNode_0"></span>
+                    <ul class="WPC-toolsMenu">
+                      <li><span class="controlsNode" id="controlsNode_0"><a href="#addThread" class="WPC-tool WPC-tool-addThread action" id="action_openThreadForm?from=addThread" onclick="return false;">Post a new thread</a></span></li>
+                    </ul>
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Raids/thread">Threads</a></h4>
+                    </div><a name="replyToThread"></a>
+                    <div id="threadFormDiv">
+                      <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                        <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                        <table class="threadFormTable">
+                          <tr>
+                            <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                            <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                          </tr>
+                          <tr>
+                            <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                            <td>
+                            <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                            <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                          </tr>
+                          <tr id="quoteRow" style="display:none;">
+                            <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                            <td><span id="quoteContent">
+                            <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                          </tr>
+                          <tr id="tagRow" style="display:none;">
+                            <td class="labelCell">Keyword tags:</td>
+                            <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                          </tr>
+                        </table>
+                        <div id="threadNotification" style="display:none;"></div><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" style="display:none" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                      </form>
+                      <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                        Posting...
+                      </div>
+                      <div id="editLengthWarn" style="display:none;">
+                        Note: You can enter up to [REMCHARS] additional characters.<br>
+                        Did you know you can edit the content of this page by clicking EasyEdit?
+                      </div>
+                    </div>
+                    <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                  </div>
+                  <div class="tableList">
+                    <table>
+                      <tr class="header">
+                        <th><a class="expandToggle expandToggleExpanded action" id="action_expandToggle" href="#toggle"></a></th>
+                        <th>Started&nbsp;By</th>
+                        <th>Thread Subject</th>
+                        <th>Replies</th>
+                        <th class="farRightCell">Last Post</th>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=1" href="#toggle"></a></td>
+                        <td><a href="/account/AFteRall8" id="action_accountMenu?account=AFteRall8&subject=how+to+find+raids&from=threadAccount2069075&threadId=2069075" class="action" onclick="return false">AFteRall8</a></td>
+                        <td><a href="/thread/2069075/how+to+find+raids"><b>how to find raids</b></a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 4 2009, 1:31 AM EST</span> by <a href="/account/AFteRall8" id="action_accountMenu?account=AFteRall8&subject=how+to+find+raids&from=threadFirstAccount2069075&threadId=2069075" class="action" onclick="return false">AFteRall8</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA1">
+                            <a href="/account/AFteRall8" id="action_accountMenu?account=AFteRall8&subject=how+to+find+raids&from=threadImg2069075&threadId=2069075" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/UtZiPNHP_ajPDsLFJCyW1g2637/GW050" alt="AFteRall8"></a>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB1">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Nov 11 2008, 9:22 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2069075" onclick="application.toggleWatchThread(this.id, 2069075, '/wiki/sotnw/page/Raids', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              do you want to know how to find raids<br>
+                              maybe do dilos lantemn those need keys<br>
+                              eaither its low lvl for a special room key it increases the lvl by alot<br>
+                              it gives better stuff and elites
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2069075&post=13336705"><span id="agreeCount?thread=2069075&post=13336705">4</span> &nbsp;out of <span id="totalCount?thread=2069075&post=13336705">6</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2069075&post=13336705" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2069075&post=13336705">Do you? <a id="action_rateThread?thread=2069075&post=13336705&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2069075&post=13336705&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/AlaE" title="AlaE" class="pageTag">AlaE</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=2069075" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2069075/how+to+find+raids?offset=0&action=openThreadForm?postId=14580530&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply2069075').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2069075" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/AFteRall8" id="action_accountMenu?account=AFteRall8&subject=how+to+find+raids&from=threadImg2069075&threadId=2069075" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/UtZiPNHP_ajPDsLFJCyW1g2637/GW050" alt="AFteRall8"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2069075/how+to+find+raids?offset=0#post14580530"><b>RE: how to find raids</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/AFteRall8" id="action_accountMenu?account=AFteRall8&subject=how+to+find+raids&from=threadLastAccount2069075&threadId=2069075" class="action" onclick="return false">AFteRall8</a>, Jan 4 2009, 1:31 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          those are special boss room keys
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2069075&post=14580530"><span id="agreeCount?thread=2069075&post=14580530">3</span> &nbsp;out of <span id="totalCount?thread=2069075&post=14580530">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2069075&post=14580530" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2069075&post=14580530">Do you? <a id="action_rateThread?thread=2069075&post=14580530&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2069075&post=14580530&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=2" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/1821829/raids"><b>raids</b></a></td>
+                        <td align="center">5</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Nov 2 2008, 3:14 AM EST</span> by <a href="/account/D%60Arwin" id="action_accountMenu?account=D%60Arwin&subject=raids&from=threadFirstAccount1821829&threadId=1821829" class="action" onclick="return false">D`Arwin</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA2">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB2">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Sep 2 2008, 5:23 AM EDT&nbsp; <a href="#watch" rel='watch' id="wc1821829" onclick="application.toggleWatchThread(this.id, 1821829, '/wiki/sotnw/page/Raids', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              hey does anyone know how to actually get people to go into the raid with you because me and some friends tried to do dios lantem together and we couldn&#39;t get in together we all ended up ihn seperate missions
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1821829&post=11822424"><span id="agreeCount?thread=1821829&post=11822424">2</span> &nbsp;out of <span id="totalCount?thread=1821829&post=11822424">7</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1821829&post=11822424" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1821829&post=11822424">Do you? <a id="action_rateThread?thread=1821829&post=11822424&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1821829&post=11822424&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/raid" title="raid" class="pageTag">raid</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1821829" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1821829/raids?offset=0&action=openThreadForm?postId=13101238&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1821829').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1821829" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/D%60Arwin" id="action_accountMenu?account=D%60Arwin&subject=raids&from=threadImg1821829&threadId=1821829" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/yubArWoBDluf4r_8Lu_QlQ33486/GW050" alt="D`Arwin"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1821829/raids?offset=0#post13101238"><b>RE: raids</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/D%60Arwin" id="action_accountMenu?account=D%60Arwin&subject=raids&from=threadLastAccount1821829&threadId=1821829" class="action" onclick="return false">D`Arwin</a>, Nov 2 2008, 3:14 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          U cant do squad at dios lantem because that is a dungeon quest!It can be done only by yourself!
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1821829&post=13101238"><span id="agreeCount?thread=1821829&post=13101238">2</span> &nbsp;out of <span id="totalCount?thread=1821829&post=13101238">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1821829&post=13101238" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1821829&post=13101238">Do you? <a id="action_rateThread?thread=1821829&post=13101238&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1821829&post=13101238&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=3" href="#toggle"></a></td>
+                        <td><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Info+coming+soon%7E&from=threadAccount1256397&threadId=1256397" class="action" onclick="return false">Lothmak</a></td>
+                        <td><a href="/thread/1256397/Info+coming+soon%7E"><b>Info coming soon~</b></a></td>
+                        <td align="center">4</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Aug 21 2008, 12:02 PM EDT</span> by <a href="/account/Addice" id="action_accountMenu?account=Addice&subject=Info+coming+soon%7E&from=threadFirstAccount1256397&threadId=1256397" class="action" onclick="return false">Addice</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA3">
+                            <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Info+coming+soon%7E&from=threadImg1256397&threadId=1256397" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/pjy1XBw5E16VlPV1BO1LpQ6109/GW050" alt="Lothmak"></a>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB3">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Mar 1 2008, 9:25 PM EST&nbsp; <a href="#watch" rel='watch' id="wc1256397" onclick="application.toggleWatchThread(this.id, 1256397, '/wiki/sotnw/page/Raids', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              I&#39;ll be adding pages for each raid bosses soon, if someone knows any links that have the information translated; plz post it here =P
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1256397&post=9007581"><span id="agreeCount?thread=1256397&post=9007581">40</span> &nbsp;out of <span id="totalCount?thread=1256397&post=9007581">44</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1256397&post=9007581" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1256397&post=9007581">Do you? <a id="action_rateThread?thread=1256397&post=9007581&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1256397&post=9007581&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=1256397" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1256397/Info+coming+soon%7E?offset=0&action=openThreadForm?postId=11590260&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1256397').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1256397" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <a href="/account/Addice" id="action_accountMenu?account=Addice&subject=Info+coming+soon%7E&from=threadImg1256397&threadId=1256397" class="action" onclick="return false"></a>
+                                        <div title="no profile image available" class="avatarMissing"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1256397/Info+coming+soon%7E?offset=0#post11590260"><b>RE: Info coming soon~</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Addice" id="action_accountMenu?account=Addice&subject=Info+coming+soon%7E&from=threadLastAccount1256397&threadId=1256397" class="action" onclick="return false">Addice</a>, Aug 21 2008, 12:02 PM EDT</span>
+                                        <div style="margin-top:10px;">
+                                          you can go to the SGE forums. they have some guides there. i know Arconis did a guide for Hellbreaker in the Capybara Plantation.<br>
+                                          <br>
+                                          here is a link to the site http://forum.iahgames.com/ge/index.php you might have to register to see some of the stuff here. i will try to find more or ask around in broadcasts to see if people know good sites that are translated.
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1256397&post=11590260"><span id="agreeCount?thread=1256397&post=11590260">1</span> &nbsp;out of <span id="totalCount?thread=1256397&post=11590260">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1256397&post=11590260" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1256397&post=11590260">Do you? <a id="action_rateThread?thread=1256397&post=11590260&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1256397&post=11590260&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+                <div class="ads adscontent">
+                  <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                  </script>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Site pages
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li>
+                              <a href="/page/Raids" rel="15" class="current">Raids</a>
+                              <ul>
+                                <li><a href="/page/Raid+Point+System">Raid Point System</a></li>
+                                <li><a href="/page/Battle+Colosseum">Battle Colosseum</a></li>
+                                <li><a href="/page/Decarabia">Decarabia</a></li>
+                                <li><a href="/page/Diablo">Diablo</a></li>
+                                <li><a href="/page/Gate+of+Flame">Gate of Flame</a></li>
+                                <li><a href="/page/Gate+of+Hell">Gate of Hell</a></li>
+                                <li><a href="/page/Gate+of+Lightning">Gate of Lightning</a></li>
+                                <li><a href="/page/Gerero">Gerero</a></li>
+                                <li><a href="/page/Hell+Breaker" rel="1">Hell Breaker</a></li>
+                                <li><a href="/page/Ice+Wizard%27s+Tower+%28Gate%29">Ice Wizard&#039;s Tower (Gate)</a></li>
+                                <li><a href="/page/Queen+Eater">Queen Eater</a></li>
+                                <li><a href="/page/Poison+Yard">Poison Yard</a></li>
+                                <li><a href="/page/Secret+Temple">Secret Temple</a></li>
+                                <li><a href="/page/Vergo+the+Cursed" rel="1">Vergo the Cursed</a></li>
+                                <li><a href="/page/Corridor+of+Assize">Corridor of Assize</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader open">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent" style="display:none;">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>GunZ Wiki</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090122154811" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b14';s_w.channel='page';s_w.pageType='page';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(87/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='page';s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(global_inits['AB_TEST'] == 0) ? 'na' : (global_inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+</body>
+</html>

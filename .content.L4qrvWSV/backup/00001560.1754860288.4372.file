@@ -1,0 +1,527 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Crescemento Series - Wiki of the New World</title>
+  <meta name="keywords" content="Crescemento Series - Wiki of the New World, armor,weapon">
+  <meta name="description" content="Note: This feature is implemented starting version 19.45.02. Crescemento series is introduced as a replacement for Pioneer equipment making low level grinding...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Crescemento Series',"PAGE_URI" : '/page/Crescemento+Series',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Items & Equipment','Crescemento Series']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Crescemento+Series">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script> 
+                  <script type='text/javascript'>
+
+
+                  var abtest = "7521087570";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DCrescemento+Series%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Crescemento Series<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Crescemento+Series">
+                    <div id="WPC-area?cellId=Crescemento+Series&version=12&savePath=%2Fpage%2FCrescemento%2BSeries&saveType=page" class="WPC-editableContent">
+                      <br>
+                      <b>Note: This feature is implemented starting version 19.45.02.</b><br>
+                      <br>
+                      <font size="2"><b>Crescemento series</b> is introduced as a replacement for Pioneer equipment making low level grinding significantly easier.<br>
+                      <br>
+                      This series has the following mechanics:<br>
+                      <br></font>
+                      <ul>
+                        <li><font size="2">Weapons and armors costs 1 shiny crystal.</font><br></li>
+                        <li><font size="2">The weapon&#39;s Base ATK and Attack Rating (AR) and armor&#39;s Base DEF and Def Rating adjust according to equipped character&#39;s level.</font></li>
+                        <li><font size="2">Both weapon and armor can be enhanced a maximum of 6 times and socketed up to 2 slots.</font></li>
+                        <li><font size="2">For both enhancement to +5 and +6, only 1 shiny crystal is required which results to 100% chance of success.</font></li>
+                        <li><font size="2">For 2nd slot socketing, only 1 shiny crystal is needed to prevent the item from breaking and a maximum of 8 shiny crystal for 100% success rate.</font></li>
+                        <li><font size="2">For enchantment, it needs Enchantment Chip Beginner or higher grade with 100% success rate.<br></font></li>
+                        <li><font size="2">Enchantment option does not include additional AR/DR for weapon and armor respectively.</font></li>
+                      </ul><br>
+                      <table align="bottom" cellpadding="3" class="WPC-edit-style-none WPC-edit-border-none WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="800">
+                        <tbody>
+                          <tr>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Sword" height="64" src="http://image.wikifoundry.com/image/3/C2w7f7nsG50r8Bh8ZUMrBw10464/GW64H64" title="Cresemento Sword" width="64"><br>
+                            Cresemento Sword</font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Dagger" height="64" src="http://image.wikifoundry.com/image/3/YV0vj3Jl695-V6zOBcpsKg10321/GW64H64" title="Cresemento Dagger" width="64"><br>
+                            Cresemento Dagger</font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Sabre" height="64" src="http://image.wikifoundry.com/image/3/SNzD_-8_HH7ZfefPfNhcfg10127/GW64H64" title="Cresemento Sabre" width="64"><br>
+                            Cresemento Sabre</font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Rapier" height="64" src="http://image.wikifoundry.com/image/3/AXX1WH7kZajua-QWqgiDZQ10718/GW64H64" title="Cresemento Rapier" width="64"><br>
+                            Cresemento Rapier<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Javelin" height="64" src="http://image.wikifoundry.com/image/3/X28fU3Esqv2EE5HsPw9FwQ9777/GW64H64" title="Cresemento Javelin" width="64"><br>
+                            Cresemento Javelin<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Mace" height="64" src="http://image.wikifoundry.com/image/3/D6efnGKpeg2u2jFznpAC6w10462/GW64H64" title="Cresemento Mace" width="64"><br>
+                            Cresemento Mace<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Main-gauche" height="64" src="http://image.wikifoundry.com/image/3/sDxh-NKmHIVOmY28jFgVvw9635/GW64H64" title="Cresemento Main-gauche" width="64"><br>
+                            Cresemento Main-gauche<br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Slayer" height="64" src="http://image.wikifoundry.com/image/3/raWpJ8T9kfjVzEpiwf0_1Q9569/GW64H64" title="Cresemento Slayer" width="64"><br>
+                            Cresemento Slayer</font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Polearm" height="64" src="http://image.wikifoundry.com/image/3/DfIcivI4ChbCUb_Vd8Ldxw10051/GW64H64" title="Cresemento Polearm" width="64"><br>
+                            Cresemento Polearm</font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Knuckle" height="64" src="http://image.wikifoundry.com/image/3/8vRLiYUq4O8cLXEawSFLlQ10220/GW64H64" title="Cresemento Knuckle" width="64"><br>
+                            Cresemento Knuckle<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Gaiters" height="64" src="http://image.wikifoundry.com/image/3/bv_pW_PXTsKPvLSMRxUgJw10315/GW64H64" title="Cresemento Gaiters" width="64"><br>
+                            Cresemento Gaiters<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Tonfa" height="64" src="http://image.wikifoundry.com/image/3/66viOzqRCpd0tdjcwvE3NA10810/GW64H64" title="Cresemento Tonfa" width="64"><br>
+                            Cresemento Tonfa<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Crescent" height="64" src="http://image.wikifoundry.com/image/3/2aI8hMBCVq5MhhK4lkeHjA10843/GW64H64" title="Cresemento Crescent" width="64"><br>
+                            Cresemento Crescent<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Shield" height="64" src="http://image.wikifoundry.com/image/3/2tjpt9AK43XrIpz_7lFB0A10181/GW64H64" title="Cresemento Shield" width="64"><br>
+                            Cresemento Shield<br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class=""><b><font size="1"><img align="bottom" alt="Cresemento Rifle" height="64" src="http://image.wikifoundry.com/image/3/hM6p1Ai2W4_zkdKryOqQYw9953/GW64H64" title="Cresemento Rifle" width="64"><br>
+                            Cresemento Rifle<br></font></b></td>
+                            <td align="center" class=""><b><font size="1"><img align="bottom" alt="Cresemento Pistol" height="64" src="http://image.wikifoundry.com/image/3/1uYfIkqmFUfucbwkC-VTOA9861/GW64H64" title="Cresemento Pistol" width="64"><br>
+                            Cresemento Pistol<br></font></b></td>
+                            <td align="center" class=""><b><font size="1"><img align="bottom" alt="Cresemento Shotgun" height="64" src="http://image.wikifoundry.com/image/3/vrdd5IeZLqZCIVzG7nRQfw10001/GW64H64" title="Cresemento Shotgun" width="64"><br>
+                            Cresemento Shotgun<br></font></b></td>
+                            <td align="center" class=""><b><font size="1"><img align="bottom" alt="Cresemento Cannon" height="64" src="http://image.wikifoundry.com/image/3/630LUPshW2spK7K803pM3A10316/GW64H64" title="Cresemento Cannon" width="64"><br>
+                            Cresemento Cannon<br></font></b></td>
+                            <td align="center" class=""><b><font size="1"><img align="bottom" alt="Cresemento Crossbow" src="http://image.wikifoundry.com/image/3/axhkbwauoenPA2b6q0yeUA10512" title="Cresemento Crossbow"><br>
+                            Cresemento Crossbow<br></font></b></td>
+                            <td align="center" class=""><b><font size="1"><br></font></b></td>
+                            <td align="center" class=""><b><font size="1"><br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Fire Bracelet" height="64" src="http://image.wikifoundry.com/image/3/Auoc31AIp5UM3UATO9JFLg10708/GW64H64" title="Cresemento Fire Bracelet" width="64"><br>
+                            Cresemento Fire Bracelet<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Lightning Bracelet" height="64" src="http://image.wikifoundry.com/image/3/3fuy1dqUoxpgM1bfgBG-Xg10500/GW64H64" title="Cresemento Lightning Bracelet" width="64"><br>
+                            Cresemento Lightning Bracelet<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Ice Bracelet" height="64" src="http://image.wikifoundry.com/image/3/gX20icKn141wDfpJQsf8IQ10639/GW64H64" title="Cresemento Ice Bracelet" width="64"><br>
+                            Cresemento Ice Bracelet<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Elemental Bracelet" height="64" src="http://image.wikifoundry.com/image/3/e0qD7m_M_9WvZYj8FI27nA10901/GW64H64" title="Cresemento Elemental Bracelet" width="64"><br>
+                            Cresemento Elemental Bracelet<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Rod" height="64" src="http://image.wikifoundry.com/image/3/vcPDkQ-Kvt7ro1wj5K5lTQ10844/GW64H64" title="Cresemento Rod" width="64"><br>
+                            Cresemento Rod<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Staff" height="64" src="http://image.wikifoundry.com/image/3/V-NMmLbnASiiFAvU6KC0XA10363/GW64H64" title="Cresemento Staff" width="64"><br>
+                            Cresemento Staff<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Lute" height="64" src="http://image.wikifoundry.com/image/3/_bZXAmoFV2eKLoJ5_ENwDw9775/GW64H64" title="Cresemento Lute" width="64"><br>
+                            Cresemento Lute<br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Rosario" height="64" src="http://image.wikifoundry.com/image/3/-iGbxpr6b3BelTdJ7GSkdg10964/GW64H64" title="Cresemento Rosario" width="64"><br>
+                            Cresemento Rosario<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Hammer" height="64" src="http://image.wikifoundry.com/image/3/e-t5-ii1Ft2rgqQ93V6w0w10314/GW64H64" title="Cresemento Hammer" width="64"><br>
+                            Cresemento Hammer<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Controller" height="64" src="http://image.wikifoundry.com/image/3/MKQIk_e1VNRx8rzfzqyH8g10391/GW64H64" title="Cresemento Controller" width="64"><br>
+                            Cresemento Controller<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Pendant" height="64" src="http://image.wikifoundry.com/image/3/sOgTCZb9Z3nCjkioY6i-TA9710/GW64H64" title="Cresemento Pendant" width="64"><br>
+                            Cresemento Pendant<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Diary" height="64" src="http://image.wikifoundry.com/image/3/Ha0J4sJxc7Nbnfd-YTIwqQ10164/GW64H64" title="Cresemento Diary" width="64"><br>
+                            Cresemento Diary<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Cube" height="64" src="http://image.wikifoundry.com/image/3/RSjeY3Kb4qmdN66gkbtZ7A9772/GW64H64" title="Cresemento Cube" width="64"><br>
+                            Cresemento Cube<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Encyclopedia" height="64" src="http://image.wikifoundry.com/image/3/GAx0LxPdQ9riSClKouYpSA9919/GW64H64" title="Cresemento Encyclopedia" width="64"><br>
+                            Cresemento Encyclopedia<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Leather Armor" height="64" src="http://image.wikifoundry.com/image/3/d0L0ZoQvi0bGkDK7kN5HYw10285/GW64H64" title="Cresemento Leather Armor" width="64"><br>
+                            Cresemento Leather Armor<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Coat" height="64" src="http://image.wikifoundry.com/image/3/_nRaOWpN03qXiE4lm_twjw10233/GW64H64" title="Cresemento Coat" width="64"><br>
+                            Cresemento Coat<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Robe" height="64" src="http://image.wikifoundry.com/image/3/_nRaOWpN03qXiE4lm_twjw10233/GW64H64" title="Cresemento Robe" width="64"><br>
+                            Cresemento Robe<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><img align="bottom" alt="Cresemento Metal Armor" height="64" src="http://image.wikifoundry.com/image/3/S436N3yazsc55njAVUZHug10961/GW64H64" title="Cresemento Metal Armor" width="64"><br>
+                            Cresemento Metal Armor<br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                            <td align="center" class="" width="12%"><b><font size="1"><br></font></b></td>
+                          </tr>
+                        </tbody>
+                      </table><br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png?v=20111214172750</span> <a href="/account/recilow" id="WPC-action_accountMenu?account=recilow&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Crescemento+Series" src="http://image.wikifoundry.com/image/1/gHNNcsYG1Y1hMgl_JQh3mw63361/GW050" class="imageSm" alt="recilow"></a><br>
+                        <a href="/account/recilow" id="WPC-action_accountMenu?account=recilow&from=pageLastUpdateLink" class="WPC-action" onclick="return false">recilow</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Crescemento+Series"><a href="/account/recilow" id="WPC-action_accountMenu?account=recilow&subject=Crescemento+Series&from=lastPageUpdate&pageName=Crescemento+Series" class="WPC-action" onclick="return false">recilow</a></span> , <span id="WPC-lastRevisionDate?cellId=Crescemento+Series">Jan 30 2014, 2:56 AM EST</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/recilow"><img src="http://image.wikifoundry.com/image/1/gHNNcsYG1Y1hMgl_JQh3mw63361/GW050" class="imageSm" alt="recilow"></a> <span class="comment" id="latestEditNoteComment">Moved from: Items &amp; Equipment</span> <span id="latestEditNoteAccount">- <a href="/account/recilow">recilow</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        No content added or deleted.</span></span><br class="clear"></span></span> - <a href="/page/Crescemento+Series/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/armor" title="armor" class="pageTag">armor</a> <a href="/tag/weapon" title="weapon" class="pageTag">weapon</a></span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Crescemento+Series/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FCrescemento%2BSeries&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Crescemento+Series/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList"></div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="http://static.wikifoundry.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      <div id="firstToReplyDiv">
+                        There are no threads for this page. &nbsp;Be the first to start a new thread.
+                      </div>
+                    </div><span id="threadCounter" title="" style="display:none"></span>
+                  </div>
+                  <div id="relatedContent" class="pageSection">
+                    <div class="pageSectionHeader">
+                      <div class="pageSectionHeaderContainer">
+                        <h4>Related Content</h4>&nbsp; (<span class="WPC-tooltip-trigger"><a href="#tooltip" tabindex="-1" onclick="return false">what's this?</a><span class="WPC-tooltip-title">Related Content</span><span class="WPC-tooltip-content">Thanks to keyword tags, links to related pages and threads are added to the bottom of your pages. Up to 15 links are shown, determined by matching tags and by how recently the content was updated; keeping the most current at the top. Share your feedback on WikiFoundry Central.</span></span>)
+                      </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="tableList">
+                      <table style="border-bottom:0px;">
+                        <tr class="altRow">
+                          <td width="33%"><a href="/page/Items+%26+Equipment" class="WPC-tool WPC-tool-content WPC-indicate">Items &amp; Equipment</a></td>
+                          <td width="33%"><a href="/photo/11747364/Male+Fighter+Black+Samurai+Armor" class="WPC-tool WPC-tool-photo WPC-indicate">Male Fighter Black Samurai Armor</a></td>
+                          <td width="33%"><a href="/photo/11747290/Male+Plate+Mail" class="WPC-tool WPC-tool-photo WPC-indicate">Male Plate Mail</a></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><a href="/photo/11110576/Crystal+Shooter" class="WPC-tool WPC-tool-photo WPC-indicate">Crystal Shooter</a></td>
+                          <td width="33%"><a href="/page/Belts" class="WPC-tool WPC-tool-content WPC-indicate">Belts</a></td>
+                          <td width="33%"><a href="/photo/10981541/Grim-wraith" class="WPC-tool WPC-tool-photo WPC-indicate">Grim-wraith</a></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td width="33%"><a href="/photo/10813899/Capybara+Sickle" class="WPC-tool WPC-tool-photo WPC-indicate">Capybara Sickle</a></td>
+                          <td width="33%"><a href="/photo/10795772/Flowerpot+Shovel" class="WPC-tool WPC-tool-photo WPC-indicate">Flowerpot Shovel</a></td>
+                          <td width="33%"><a href="/photo/10746541/Le+Noir+for+Wizard" class="WPC-tool WPC-tool-photo WPC-indicate">Le Noir for Wizard</a></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><a href="/photo/10746540/Le+Noir+for+Wizard" class="WPC-tool WPC-tool-photo WPC-indicate">Le Noir for Wizard</a></td>
+                          <td width="33%"><a href="/photo/10665704/El+Diablo" class="WPC-tool WPC-tool-photo WPC-indicate">El Diablo</a></td>
+                          <td width="33%"><a href="/photo/10665699/Pickaxe" class="WPC-tool WPC-tool-photo WPC-indicate">Pickaxe</a></td>
+                        </tr>
+                      </table><br>
+                    </div>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li>
+                                <a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a>
+                                <ul>
+                                  <li><a href="/page/Weapons" rel="1">Weapons</a></li>
+                                  <li><a href="/page/Accessories" rel="4">Accessories</a></li>
+                                  <li><a href="/page/Costumes" rel="4">Costumes</a></li>
+                                  <li><a href="/page/Consumption+%2F+Misc+Items" rel="8">Consumption / Misc Items</a></li>
+                                  <li><a href="/page/Cash+Shop+Items" rel="5">Cash Shop Items</a></li>
+                                  <li><a href="/page/Bellem%27s+Box">Bellem&#039;s Box</a></li>
+                                  <li><a href="/page/Letizia+Shiny+Box">Letizia Shiny Box</a></li>
+                                  <li><a href="/page/Crescemento+Series" class="current">Crescemento Series</a></li>
+                                  <li><a href="/page/Guide+to+Pioneer+%2F+Ancestral+gear">Guide to Pioneer / Ancestral gear</a></li>
+                                  <li><a href="/page/High+End+Equipment" rel="21">High End Equipment</a></li>
+                                  <li><a href="/page/Artifacts">Artifacts</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

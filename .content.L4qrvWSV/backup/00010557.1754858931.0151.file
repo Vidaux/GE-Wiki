@@ -1,0 +1,1468 @@
+
+
+#A { display: none; }
+
+.WPC div, .WPC span, .WPC h1, .WPC h2, .WPC h3, .WPC h4, .WPC h5, .WPC h6, .WPC p, .WPC a, .WPC i, .WPC em, .WPC img, .WPC b, .WPC strong, 
+.WPC ol, .WPC ul, .WPC li, .WPC form, .WPC label, .WPC table, .WPC tbody, .WPC tfoot, .WPC thead, .WPC input, .WPC textarea,
+.WPC select, .WPC tr, .WPC th, .WPC td {
+	outline: 0;
+	border: 0 none;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	color:inherit;
+	letter-spacing:normal;
+	text-decoration:none;	
+	vertical-align: baseline;
+	text-align: inherit;
+	word-spacing:inherit;
+	background: transparent none;
+	margin: 0;
+	padding: 0;
+	position:static;
+	line-height: inherit;	
+	
+	*line-height: normal;	
+}
+.WPC i, .WPC em{
+	font-style:italic;
+}
+.WPC b, .WPC strong{
+	font-weight:bold;
+}
+
+
+
+
+.WPC {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-align: left;
+}
+.WPC {
+	color:#333333;
+}
+
+
+
+
+
+#WPC-controlElement {
+	z-index: 1000;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.WPC #WPC-overlay {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:block;
+	filter:alpha(opacity=50);
+	opacity:.50;
+	background-color:#EEEEEE;
+}
+
+.WPC .WPC-layers {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.WPC .WPC-layers .WPC-layer {
+	position: absolute;
+}
+.WPC .WPC-outline {
+	border-style:outset;
+	border-width:1px;
+	position:absolute;
+	z-index:20;
+}
+
+
+.WPC-fieldData {
+	display: none;
+	overflow: hidden;
+	width: 0px;
+}
+.WPC-fieldLoading {
+	display: block;
+	overflow: visible;
+}
+
+
+.WPC .WPC-throbberActive, 
+.WPC .WPC-dialog .WPC-throbberActive, 
+.WPC .WPC-dialog input.WPC-throbberActive, .WPC .WPC-dialog button.WPC-throbberActive
+ {
+	background-image:url(/web/20160111172823im_/http://static.wikifoundry.com/img/throbber.gif?v=rel-55-44-0);
+	background-repeat:no-repeat;
+	background-position:right;
+}
+
+* html .WPC .WPC-throbberActive, 
+* html .WPC input.WPC-throbberActive,
+* html .WPC button.WPC-throbberActive {
+	background-image:url(/web/20160111172823im_/http://static.wikifoundry.com/img/throbber.gif?v=rel-55-44-0);
+}
+.WPC .WPC-formButtons input.WPC-throbberActive {
+	padding-right:20px;
+}
+.WPC .WPC-dialog .WPC-throbberInactive {
+	background-image:none;
+	background-color:transparent;
+}
+
+
+.WPC-close,
+.WPC .WPC-close {
+	cursor: pointer;
+	float: right;
+	height: 16px;
+	position: relative;
+	width: 16px;
+	background-repeat: no-repeat;
+	background-image: url(/web/20160111172823im_/http://static.wikifoundry.com/img/btn/btn_close.png?v=rel-55-44-0);
+}
+* html .WPC-close,
+* html .WPC .WPC-close {
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/btn/btn_close.png?v=rel-55-44-0', sizingMethod='crop');
+}
+
+
+.WPC-moreHelp,
+.WPC .WPC-moreHelp {
+	background: url(/web/20160111172823im_/http://static.wikifoundry.com/img/icon/icon_moreHelp.png?v=rel-55-44-0) 2px 0.3em no-repeat;
+	padding-left: 15px;
+}
+.WPC-title, .WPC .WPC-title {
+	font-weight:bold;
+}
+
+.WPC .WPC-altBg, .WPC tr.WPC-altBg td {
+	background-color:#F1F1F1;
+}
+.WPC .WPC-selectedBg, .WPC tr.WPC-selectedBg td {
+	background-color:#E2F0CA;
+}
+.WPC .WPC-nowrap,
+.WPC-nowrap {
+	white-space:nowrap;
+}
+.WPC-clear, 
+.WPC .WPC-clear{
+	clear:both;
+	float:none
+}
+.WPC-access {
+	display:none
+}
+
+.WPC .WPC-intro,
+.WPC .WPC-message {
+	margin-bottom: 0.5em;
+}
+
+
+
+.WPC .WPC-response {
+	margin:0.5em 0;
+}
+.WPC .WPC-error {
+	color:#FF0000
+}
+
+
+.WPC-content .WPC-metaData {
+	margin: 1.5em 0 0 0;
+	font-size: 8pt;
+	text-align:left;
+	clear: both;
+	width:auto;
+	position:relative;
+	z-index:auto;
+}
+
+.WPC-content .WPC-metaData .WPC-title { font-size: 8pt; }
+
+.WPC-content .WPC-metaData .WPC-subPages {
+	padding: 1.5em 0;
+	margin: 1.5em 0 0 0;
+	border-top: dotted 1px Silver;
+}
+
+html .WPC-normal a,
+html .WPC .WPC-normal a{
+	font-style:normal;
+}
+html .WPC-normal,
+html .WPC .WPC-normal {
+	font-size: 1em; 
+	font-weight:normal 
+}
+
+
+#flashUpgrade_ControlObject {
+	width: 240px;
+	height: 180px;
+}
+
+.WPC input, .WPC select, .WPC button {
+	vertical-align:middle;
+}
+.WPC table {
+	border-spacing:0;
+	border-collapse:collapse;
+}
+
+.WPC ul, .WPC ol {
+	margin-left:2em;
+	list-style-position:outside;
+	list-style-image:none
+}
+
+.WPC ul li,
+.WPC ol li {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom:0.5em;
+	font-size: 13px;
+}
+.WPC p {
+	font-family: Arial, Helvetica, sans-serif;
+	margin:0 0 0.5em 0;
+	font-size: 13px;
+}
+
+.WPC h3 {
+	font-weight:bold;
+	font-size:1.2em;
+}
+.WPC h4 {
+	font-weight:bold;
+}
+.WPC h5 {
+	font-weight:bold;
+}
+
+
+
+.WPC a:link, .WPC a:visited {
+ 	text-decoration:underline;
+	color:#469B26;
+}
+.WPC a:link:hover, .WPC a:visited:hover {
+	color:#9BB313;
+} 
+
+
+.WPC .WPC-proto {
+	display: table;
+	position: fixed;
+	width:395px;
+}
+
+.WPC .WPC-proto-title {
+	cursor: move;
+	padding: 4px 23px 3px 5px;
+	position: relative;
+	width: 66%;
+	border-width: 2px 1px 0 2px;
+	-moz-border-radius-topright: 6px;
+	-webkit-border-top-right-radius: 6px;
+}
+
+.WPC .WPC-proto .WPC-close {
+	position:relative;
+	margin-right: -17px;
+}
+
+.WPC .WPC-proto-control-grab {
+	width: 12px;
+	height: 41px;
+	position: absolute;
+	top: -2px;
+	left: -12px;
+	margin-left: 0px;
+	-moz-border-radius-topleft: 6px;
+	-webkit-border-top-left-radius: 6px;
+	cursor: move;
+	border-width: 2px 0 2px 1px;
+}
+
+.WPC .WPC-proto .WPC-proto-content-container {
+	margin-top: -1px;
+	padding: 3px;
+	width: auto !important;
+	border-width: 1px 1px 2px 2px;
+	-moz-border-radius: 0 6px 6px;
+	-webkit-border-radius: 6px;
+	-webkit-border-top-left-radius: 0;
+	-moz-box-shadow: 2px 4px 7px #333;
+	-webkit-box-shadow: 2px 4px 7px #333;
+}
+
+.WPC .WPC-proto .WPC-proto-content-container .WPC-proto-content {
+	padding: 10px 8px 8px 8px;
+	height:auto;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	
+	_width:100%;
+}
+
+
+.WPC .WPC-proto-tabs {
+	margin:0 10px 1em 0;
+	text-align:right;
+	white-space:nowrap;
+}
+.WPC .WPC-proto-tabs .WPC-selected  {
+	font-weight:bold;
+}
+.WPC .WPC-lightbox .WPC-proto-tabs {
+	text-align:left;
+}
+
+
+.WPC .WPC-proto-subWindow {
+	position:relative;
+	overflow:auto;
+	border:3px solid;
+	margin:5px 0;
+	height:30em;
+	width:37em;
+}
+
+
+.WPC .WPC-proto-subWindow {
+	border-color:#666666 #999999 #CCCCCC #DDDDDD;
+	/*
+	background-color:#FFFFFF;
+	color:#333333;
+	*/
+}
+
+
+.WPC .WPC-proto-title {
+	color: #FFFFFF;
+	background-color: #469B26;
+}
+
+.WPC .WPC-proto-content-container {
+	background-color: #469B26;
+}
+
+.WPC .WPC-proto-content {
+	background: #FFF url(/web/20160111172823im_/http://static.wikifoundry.com/img/bg/bg_dialogContent.png?v=rel-55-44-0) no-repeat right 0;
+}
+* html .WPC .WPC-proto-content {
+	background-image: none;
+}
+
+.WPC .WPC-proto-control-grab {
+	background-image: url(/web/20160111172823im_/http://static.wikifoundry.com/img/bg/bg_dialogGrippy.png?v=rel-55-44-0);
+	background-color: #469B26;
+}
+
+.WPC .WPC-proto-title,
+.WPC .WPC-proto-content-container,
+.WPC .WPC-proto-control-grab {
+	border-style: solid;
+	border-color: #96DE7A #255214 #255214 #96DE7A;
+}
+
+
+
+.WPC .WPC-lightbox .WPC-proto-title {
+	cursor: default;
+	width: auto;
+	-moz-border-radius-topleft: 6px;
+	-webkit-border-top-left-radius: 6px;
+}
+.WPC .WPC-lightbox .WPC-proto-content-container {
+	-moz-border-radius-topright: 0;
+	-webkit-border-top-right-radius: 0;
+}
+.WPC .WPC-lightbox .WPC-proto-content-container .WPC-proto-content {
+	overflow:auto;
+	width:auto;
+	position:relative;
+}
+* html .WPC .WPC-lightbox .WPC-proto-title {
+	width: 100%;
+	padding-right: 0px;
+	padding-left: 0px;
+	text-indent: 5px;
+}
+* html .WPC .WPC-lightbox .WPC-close {
+	margin-right: 5px;
+}
+* html .WPC .WPC-lightbox .WPC-proto-content-container .WPC-proto-content {
+	overflow:scroll;
+}
+
+
+.WPC-selectListMultiple a {
+	border-bottom: dotted 1px;
+	display:block;
+	padding:5px;
+	text-decoration:none;
+	cursor:pointer;
+}
+.WPC-selectListMultiple a:link, .WPC-selectListMultiple a:visited {
+	text-decoration:none;
+}
+
+
+* html .WPC-selectListMultiple a {
+	width:100%;
+	
+}
+
+.WPC-selectListMultiple a {
+	border-color: LightGrey;
+}
+
+.WPC-thread-list,
+.WPC-post-list { list-style: none; margin: 0; padding: 0; border-top: dotted 1px #CCCCCC; }
+
+.WPC-thread-list .WPC-thread-list-item,
+.WPC-post-list .WPC-post-list-item { list-style: none; margin: 0; padding: 0; border-bottom: dotted 1px #CCCCCC; }
+
+.WPC-thread { margin: 0; padding: 1em; }
+
+.WPC-thread .WPC-thread-content { margin: 0.5em 0.25em 1em 0.25em; }
+
+.WPC-thread .WPC-thread-title { font-weight: bold; }
+
+a.WPC-tool,
+a.WPC-tool:link,
+a.WPC-tool:visited,
+.WPC a.WPC-tool,
+.WPC a.WPC-tool:link,
+.WPC a.WPC-tool:visited {
+	white-space:nowrap;
+	text-decoration:none;
+	position:static;	
+}
+a.WPC-tool:hover,
+a.WPC-tool:link:hover, 
+a.WPC-tool:visited:hover,
+.WPC a.WPC-tool:hover,
+.WPC a.WPC-tool:link:hover, 
+.WPC a.WPC-tool:visited:hover{
+ 	text-decoration:underline;
+}
+
+a.WPC-indicate,
+a.WPC-indicate:link,
+a.WPC-indicate:visited,
+a.WPC-indicate:hover,
+a.WPC-indicate:link:hover,
+a.WPC-indicate:visited:hover  {
+	white-space:normal;
+	display:block;
+	text-decoration:underline;
+}
+
+
+.WPC-tool, 
+.WPC .WPC-tool{	
+	background-image:url(/web/20160111172823im_/http://static.wikifoundry.com/img/sprite/tools.png?v=rel-55-44-0);
+  background-position:0 -300px; 
+  background-repeat:no-repeat;
+	padding-left:18px;
+}
+
+.WPC-tool-moveContent,
+.WPC .WPC-tool-moveContent		{background-position: -420px -96px;}
+.WPC-tool-deleteContent,
+.WPC .WPC-tool-deleteContent	{background-position: -420px -192px;}
+.WPC-tool-undeleteContent,
+.WPC .WPC-tool-undeleteContent	{background-position: -420px -288px;}
+.WPC-tool-addContent,
+.WPC .WPC-tool-addContent 		{background-position: -420px -384px;}
+.WPC-tool-editContent,
+.WPC .WPC-tool-editContent		{background-position: -420px -480px;}
+.WPC-tool-protectContent,
+.WPC .WPC-tool-protectContent 	{background-position: -420px -572px;}
+.WPC-moreToolsMenu .WPC-tool-protectContent {background-position:-420px -578px;}
+.WPC-tool-unprotectContent,
+.WPC .WPC-tool-unprotectContent	{background-position: -420px -672px;}
+.WPC-tool-attachment,
+.WPC .WPC-tool-attachment 		{background-position: -420px -768px;}
+.WPC-tool-renameContent,
+.WPC .WPC-tool-renameContent	{background-position: -420px -864px;}
+.WPC-tool-tags,
+.WPC .WPC-tool-tags 			{background-position: -420px -1056px;}
+.WPC-tool-moveThread,
+.WPC .WPC-tool-moveThread  		{background-position: -420px -1152px;}
+.WPC-tool-deleteThread,
+.WPC .WPC-tool-deleteThread  	{background-position: -420px -1248px;}
+.WPC-tool-replyThread,
+.WPC .WPC-tool-replyThread		{background-position: -420px -1344px;}
+.WPC-tool-quoteThread,
+.WPC .WPC-tool-quoteThread		{background-position: -420px -1440px;}
+.WPC-tool-addThread,
+.WPC .WPC-tool-addThread 		{background-position: -420px -1536px;}
+.WPC-tool-watch,
+.WPC-tool-unwatch,
+.WPC .WPC-tool-watch,
+.WPC .WPC-tool-unwatch			{background-position: -420px -1632px;} 
+.WPC-tool-editLink,
+.WPC .WPC-tool-editLink	 		{background-position: -420px -1728px;}
+.WPC-tool-anchor,
+.WPC .WPC-tool-anchor			{background-position: -420px -1824px;}	
+.WPC-tool-friend,
+.WPC .WPC-tool-friend			{background-position: -420px -1920px;}
+.WPC-tool-message,
+.WPC .WPC-tool-message 			{background-position: -420px -2016px;} 
+.WPC-tool-compliment,
+.WPC .WPC-tool-compliment 		{background-position: -420px -2112px;}
+.WPC-tool-invite,
+.WPC .WPC-tool-invite 			{background-position: -420px -2208px;}
+.WPC-tool-news,
+.WPC .WPC-tool-news,
+.WPC-tool-addNewsFeed,
+.WPC .WPC-tool-addNewsFeed		{background-position: -420px -2304px;}
+
+.WPC-tool-movePhoto,
+.WPC .WPC-tool-movePhoto 		{background-position: -840px -96px;}
+.WPC-tool-delete,
+.WPC .WPC-tool-delete 			{background-position: -840px -192px;}
+.WPC-tool-undelete,
+.WPC .WPC-tool-undelete 		{background-position: -840px -288px;}
+.WPC-tool-addPhoto,
+.WPC .WPC-tool-addPhoto 		{background-position: -840px -384px;}
+.WPC-tool-originalSize,
+.WPC .WPC-tool-originalSize 	{background-position: -840px -480px;}
+.WPC-tool-editRSS,
+.WPC .WPC-tool-editRSS 			{background-position: -840px -576px;}
+.WPC-tool-addAlbum,
+.WPC .WPC-tool-addAlbum 		{background-position: -840px -672px;}
+.WPC-tool-alert,
+.WPC .WPC-tool-alert 	 		{background-position: -840px -768px;}
+.WPC-tool-edit,
+.WPC .WPC-tool-edit 			{background-position: -840px -864px;}
+.WPC-tool-slideshow,
+.WPC .WPC-tool-slideshow		{background-position: -840px -960px;}	
+.WPC-tool-addColumn,
+.WPC .WPC-tool-addColumn 		{background-position: -840px -1056px;}
+.WPC-tool-removeColumn,
+.WPC .WPC-tool-removeColumn 	{background-position: -840px -1152px;}
+.WPC-tool-addRow,
+.WPC .WPC-tool-addRow 			{background-position: -840px -1248px;}
+.WPC-tool-removeRow,
+.WPC .WPC-tool-removeRow 		{background-position: -840px -1344px;}
+.WPC-tool-mergeCells,
+.WPC .WPC-tool-mergeCells 		{background-position: -840px -1440px;}
+.WPC-tool-splitCell,
+.WPC .WPC-tool-splitCell 		{background-position: -840px -1536px;}
+.WPC-tool-editCell,
+.WPC .WPC-tool-editCell 		{background-position: -840px -1632px;}
+.WPC-tool-deleteTable,
+.WPC .WPC-tool-deleteTable		{background-position: -840px -1728px;}
+.WPC-tool-selectTable,
+.WPC .WPC-tool-selectTable  	{background-position: -840px -1824px;}
+.WPC-tool-editTable,
+.WPC .WPC-tool-editTable		{background-position: -840px -1920px;}
+.WPC-tool-report,
+.WPC .WPC-tool-report			{background-position: -840px -1920px;}
+.WPC-tool-unreport,
+.WPC .WPC-tool-unreport			{background-position: -1260px -2400px;}
+.WPC-tool-moreToolsOpen,
+.WPC .WPC-tool-moreToolsOpen	{background-position: -840px -2016px; padding-left:9px}
+.WPC-tool-moreTools,
+.WPC .WPC-tool-moreTools  		{background-position: -840px -2112px; padding-left:9px}
+.WPC-tool-separator,
+.WPC .WPC-tool-separator 		{background-position: -840px -2208px;}
+.WPC-tool-deleteNewsFeed,
+.WPC .WPC-tool-deleteNewsFeed	{background-position: -840px -2304px;}
+
+.WPC-tool-thread,
+.WPC .WPC-tool-thread			{background-position: -1260px -96px;}
+.WPC-tool-photo,
+.WPC .WPC-tool-photo			{background-position: -1260px -192px;}
+.WPC-tool-editPhoto,
+.WPC .WPC-tool-editPhoto		{background-position: -1260px -192px;}
+.WPC-tool-album,
+.WPC .WPC-tool-album			{background-position: -1260px -288px;}
+.WPC-tool-editWidget,
+.WPC .WPC-tool-editWidget		{background-position: -1260px -384px;}
+.WPC-tool-editModule,
+.WPC .WPC-tool-editModule		{background-position: -1260px -960px;}
+.WPC-tool-feature,
+.WPC-tool-unfeature,
+.WPC .WPC-tool-feature,
+.WPC .WPC-tool-unfeature		{background-position: -1260px -1055px;}
+.WPC-tool-feature-protectContent,
+.WPC .WPC-tool-feature-protectContent		{background-position: -1260px -1148px;}
+.WPC-tool-featuredInline,
+.WPC .WPC-tool-featuredInline	{background-position: -1260px -1056px;}
+.WPC-tool-feature-protectContentInline,
+.WPC .WPC-tool-feature-protectContentInline		{background-position: -1260px -1152px;}
+.WPC-tool-editVideo,
+.WPC .WPC-tool-editVideo		{background-position: -1260px -1536px;}
+.WPC-tool-video,
+.WPC .WPC-tool-video			{background-position: -1260px -1632px;}
+.WPC-tool-addVideo,
+.WPC .WPC-tool-addVideo			{background-position: -1260px -1728px;}
+.WPC-tool-videoCollection,
+.WPC .WPC-tool-videoCollection	{background-position: -1260px -1824px;}
+
+.WPC-tool-summary,
+.WPC .WPC-tool-summary			{
+	background-position: -1260px -576px; 
+	padding-left: 14px; 
+	text-decoration:none; 
+	border:none
+}
+.WPC-tool-addForum,
+.WPC .WPC-tool-deleteForum {background-position: -1260px -2304px;}
+.WPC-tool-deleteForum,
+.WPC .WPC-tool-deleteForum {background-position: -420px -2400px;}
+.WPC-tool-selectForum,
+.WPC .WPC-tool-selectForum {background-position: -840px -2400px;}
+
+.WPC-tool-content,
+.WPC .WPC-tool-content,
+.WPC-tool-page,
+.WPC .WPC-tool-page	 			{background-position: -1260px -768px;}
+.WPC-tool-profile,
+.WPC .WPC-tool-profile			{background-position: -1260px -864px;}
+
+.WPC-tool-flagged, 
+.WPC-tool-questionable,
+.WPC-tool-locked,
+.WPC-tool-featured,
+.WPC .WPC-tool-flagged, 
+.WPC .WPC-tool-locked,
+.WPC WPC-tool-questionable,
+.WPC .WPC-tool-featured {
+	background-position: -1260px -2112px; 
+	vertical-align:middle !important; 
+	margin:0px 0px 0px 0.4em;
+	padding:0; 
+	width:23px; 
+	height:23px; 
+}
+img.WPC-tool-locked,
+.WPC img.WPC-tool-locked		{
+	background-position: -1260px -2208px; 
+}
+img.WPC-tool-featured,
+.WPC img.WPC-tool-featured		{
+	background-position: -1260px -2016px; 
+}
+
+img.WPC-tool-questionable,
+.WPC img.WPC-tool-questionable {
+	background-position: -420px -2496px;	
+}	
+
+div.WPC-toolsMenu a.WPC-easyEdit,
+div.WPC-toolsMenu a.WPC-easyEditLocked {
+	display:block;
+	text-decoration:none;
+	border:none 0;
+	margin:-10px 0 0 0;
+	padding: 0;
+	width:101px;
+	height:39px;
+	
+	z-index:auto;
+	cursor:pointer;
+	background:url(/web/20160111172823im_/http://static.wikifoundry.com/img/btn/btn_edit.png?v=rel-55-44-0) no-repeat top;
+ }
+ 
+div#threadList li.threadModify-locked, div#threadList span.threadModify-locked, div#firstToReplyDiv.threadModify-locked {
+  display:none;
+}
+ 
+div.WPC-toolsMenu a.WPC-easyEdit:link,
+div.WPC-toolsMenu a.WPC-easyEdit:visited {
+	background-position: 0 0;
+	text-decoration:none;
+	border:none 0;
+}
+
+div.WPC-toolsMenu a.WPC-easyEdit:hover,
+div.WPC-toolsMenu a.WPC-easyEdit:link:hover,
+div.WPC-toolsMenu a.WPC-easyEdit:visited:hover {
+	background-position: 0 -39px;
+	text-decoration:none;
+	border:none 0;
+}
+
+div.WPC-toolsMenu a.WPC-easyEditLocked,
+div.WPC-toolsMenu a.WPC-easyEditLocked:link,
+div.WPC-toolsMenu a.WPC-easyEditLocked:visited,
+div.WPC-toolsMenu a.WPC-easyEditLocked:hover,
+div.WPC-toolsMenu a.WPC-easyEditLocked:link:hover,
+div.WPC-toolsMenu a.WPC-easyEditLocked:visited:hover{
+	background-position: 0 -78px;
+	text-decoration:none;
+	border:none 0;
+}
+
+* html .WPC-easyEditContainer{
+	width:101px; 
+	height: 39px;
+	position:relative;
+	top: -10px;
+}
+* html div.WPC-toolsMenu a.WPC-easyEdit,
+* html div.WPC-toolsMenu a.WPC-easyEditLocked {
+	position:absolute;
+	background:none;
+	height:117px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/btn/btn_edit.png?v=rel-55-44-0', sizingMethod='crop');
+}
+ 
+* html div.WPC-toolsMenu a.WPC-easyEdit:link,
+* html div.WPC-toolsMenu a.WPC-easyEdit:visited {
+	margin-top:0;  
+	clip:rect(0 101px 39px 0);
+}
+
+* html div.WPC-toolsMenu a.WPC-easyEdit:hover,
+* html div.WPC-toolsMenu a.WPC-easyEdit:link:hover,
+* html div.WPC-toolsMenu a.WPC-easyEdit:visited:hover {
+	margin-top:-39px;
+	clip:rect(39px 101px 78px 0);
+}
+* html div.WPC-toolsMenu a.WPC-easyEditLocked,
+* html div.WPC-toolsMenu a.WPC-easyEditLocked:link,
+* html div.WPC-toolsMenu a.WPC-easyEditLocked:visited{
+	_margin-top:-78px;
+	_clip:rect(78px 101px 117px 0);
+}
+
+.WPC .WPC-tooltip ul.WPC-moreToolsMenu {
+	list-style:none outside none;
+	padding:0;
+	margin:0;
+}
+
+.WPC .WPC-tooltip ul.WPC-moreToolsMenu li {
+	list-style:none outside none;
+	padding:0 0 3px 0;
+	margin:0 0 0 0px;
+}
+
+.WPC .WPC-tooltip ul.WPC-moreToolsSeparated{	
+	padding:6px 0;
+	margin:6px 0;
+	border-bottom: solid 1px #CCC;
+}
+.WPC .WPC-tooltip ul.WPC-moreToolsSeparatedLast{	
+	padding:6px 0 0 0;
+	margin:6px 0 0 0;
+}
+
+
+div.WPC-toolsMenu,
+ul.WPC-toolsMenu {
+	display:inline;
+	width:auto;
+	position:relative;
+	z-index:auto;
+	padding:0;
+	margin:0;
+	list-style:none outside none;
+	text-align:left;
+	font-size:12px;
+}
+
+ul.WPC-toolsMenu li, 
+div.WPC-toolsMenu div {
+	font-size:inherit;	
+	float:left;	
+	display:inline;
+	padding:0;
+	margin:15px 15px 0 0;
+	height:2.5em;	
+}
+.WPC-toolsMenu .WPC-submit {
+	margin-top:-10px;
+	position:relative;
+	z-index:1;
+}
+/****************************
+ * TOOLTIP
+ ****************************/
+.WPC-tooltip-trigger a,
+.WPC .WPC-tooltip-trigger a{
+	font-style:italic;
+}
+.WPC-tooltip-trigger,
+.WPC .WPC-tooltip-trigger {
+	font-size: 8pt; 
+	font-weight:normal 
+}
+.WPC-toolsMenu .WPC-tooltip-trigger		{font-size:1em;}                                                     
+.WPC-toolsMenu .WPC-tooltip-trigger a.WPC-tool	{font-style:normal;}
+
+.WPC-tooltip-trigger,
+.WPC .WPC-tooltip-trigger {
+	font-size: 8pt; 
+	font-weight:normal 
+}
+
+.WPC-tooltip-trigger .WPC-tooltip-title,
+.WPC-tooltip-trigger .WPC-tooltip-content,
+.WPC .WPC-tooltip-trigger .WPC-tooltip-title,
+.WPC .WPC-tooltip-trigger .WPC-tooltip-content {
+	display: none;
+}
+
+.WPC .WPC-tooltip {
+	position: absolute;
+	display: block;
+	width: 200px;
+	border-width: 3px;
+	border-style: solid;
+	padding: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-box-shadow: 2px 4px 7px #333;
+	-webkit-box-shadow: 2px 4px 7px #333;
+}
+
+.WPC .WPC-tooltip .WPC-tooltip-title {
+	font-weight: bold;
+	margin: 0px 0px 5px 0px;
+}
+/****************************
+ * TOOLTIP (colors, etc)
+ ****************************/
+.WPC .WPC-tooltip, .WPC .WPC-tooltip .WPC-arrow-s3, .WPC .WPC-tooltip .WPC-arrow-s4 {
+	background-color: #FFF;
+}
+.WPC .WPC-tooltip {
+	color: #333;
+	border-color: #469B26;
+}
+.WPC .WPC-tooltip .WPC-arrow-s1, .WPC .WPC-tooltip .WPC-arrow-s2 {
+	background-color: #469B26;
+}
+.WPC .WPC-tooltip .WPC-tooltip-title {
+	color: inherit;
+}
+.WPC .WPC-tooltip .WPC-tooltip-control-close {
+	background-image: url(/web/20160111172823im_/http://static.wikifoundry.com/img/btn/btn_close.png);
+}
+/****************************
+ * AUTO SUGGEST
+ ****************************/
+.WPC #WPC-suggestContainer {
+	overflow: auto;
+	width: 150px;
+	height: 150px;
+	border: 1px solid #CCCCCC;
+}
+.WPC #WPC-suggestList {
+	width: 130px;
+	overflow: hidden;
+}
+.WPC #WPC-suggestList a.selected {
+	background-color: #CCCCCC;
+	color: #000000;
+}
+.WPC #WPC-suggestShowMore {
+	font-style: italic;
+}
+
+/****************************
+ * TOOLTIPS WITH ARROWS
+ ****************************/
+.WPC .WPC-arrowTooltip {
+	border-width: 5px;
+}
+.WPC .WPC-arrowTooltip .WPC-tooltip-title {
+	font-size: 110%;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow {
+	position: absolute;
+	left: 15px;
+	top: -3px;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow-topRight {
+	left: auto;
+	right: 37px;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow-bottomRight {
+	top: auto;
+	left: auto;
+	right: 37px;
+	bottom: 11px;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow-bottomLeft {
+	top: auto;
+	bottom: 11px;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow div {
+	width: 1px;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow .WPC-arrow-l {
+	height: 14px;
+	position: absolute;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow .WPC-arrow-l div {
+	position: absolute;
+	overflow: hidden;
+	left: 0;
+	bottom: 0;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow-bottomRight .WPC-arrow-l div, .WPC .WPC-arrowTooltip .WPC-arrow-bottomLeft .WPC-arrow-l div {
+	bottom: auto;
+	top: 0;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow .WPC-arrow-s1 {
+	height: 14px;
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+.WPC .WPC-arrowTooltip .WPC-arrow .WPC-arrow-s2 {
+	height: 13px;
+}
+.WPC .WPC-arrowTooltip .WPC-arrow .WPC-arrow-s3 {
+	height: 12px;
+	opacity: .4;
+	filter: alpha(opacity=40);
+}
+.WPC .WPC-arrowTooltip .WPC-arrow .WPC-arrow-s4 {
+	height: 11px;
+}
+.WPC .WPC table.WPC-formLayout {
+	border-collapse:collapse;
+}
+.WPC .WPC-formLabel {
+	font-weight:bold;
+}
+.WPC .WPC-formLabel .WPC-tip {
+	font-weight:normal;
+}
+.WPC table.WPC-formLayout td.WPC-formLabel {
+	padding-right:5px;
+	padding-bottom:5px;
+	vertical-align:top;
+	white-space:nowrap;
+	text-align:right;
+}
+
+.WPC table.WPC-formLayout td.WPC-formInput {
+	vertical-align:top;
+	padding-bottom:5px;
+	width:100%;
+}
+.WPC table.WPC-formLayout td.WPC-formAction {
+	padding-left: 5px;
+	padding-bottom:5px;
+	vertical-align:top;
+	white-space:nowrap;
+}
+
+.WPC .WPC-formRow, .WPC .WPC-formRow td {
+	padding-bottom: 5px;
+}
+.WPC table.WPC-formSpaced .WPC-formRow td, .WPC div.WPC-formSpaced {
+	padding-bottom:12px;
+}
+
+.WPC input.WPC-text,
+.WPC input.WPC-file,
+.WPC select.WPC-select,
+.WPC textarea.WPC-textarea {
+	height:auto;
+	background-color: #FFFFFF;
+	color: #333333;
+	border: 1px solid #7F9DB9;
+	font-size:13px;
+}
+.WPC input.WPC-text,
+.WPC input.WPC-file,
+.WPC select.WPC-select option,
+.WPC textarea.WPC-textarea {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.WPC input.WPC-char,
+.WPC input.WPC-shortText,
+.WPC input.WPC-medSmallText,
+.WPC input.WPC-mediumText,
+.WPC input.WPC-text{
+	line-height: 1.5em; 
+	height:1.5em;
+	vertical-align:middle;
+}
+
+.WPC input.WPC-text{
+  width: 98%;
+}
+/* CHAR-895 */
+#webTextField {
+	width: 320px;
+	}
+
+.WPC input#pagename.WPC-text{
+	width: 98%;
+  max-width:98%;
+}
+
+.WPC input#pagename.WPC-throbberActive {
+  *width:90%;
+}
+* html .WPC input#pagename.WPC-throbberActive {
+  *width:90%;
+}
+
+
+.WPC input.WPC-char, .WPC select.WPC-char{
+	width:2em
+}
+
+.WPC input.WPC-shortText, .WPC select.WPC-shortText{
+	width:3em
+}
+.WPC input.WPC-medSmallText{
+	width:12em
+}
+.WPC input.WPC-mediumText{
+	width:16em
+}
+
+.WPC textarea.WPC-personalNote {
+	width: 23em;
+	height: 6em;
+}
+
+
+
+.WPC .WPC-formButtons{
+	padding-top:5px;
+	text-align:right;
+}
+.WPC .WPC-note{
+	font-style:italic;
+	font-size:90%;
+}
+.WPC .WPC-required{
+	font-weight:bold;
+	color:#FF9A00;
+}
+.WPC .WPC-form-heading{
+	font-weight:bold;
+	padding:0.7em 0 0.3em 0;
+}
+
+.WPC button,
+.WPC .WPC-button,
+.WPC .WPC-submit,
+.WPC .WPC-cancel{
+	cursor:pointer; 
+	border-style: solid;
+	border-width: 1px;
+	margin:0;
+	padding:0.3em;
+	font-size:13px;
+	font-weight:normal;
+	vertical-align:middle;
+	background:transparent url(/web/20160111172823im_/http://static.wikifoundry.com/img/bg/bg_button.png?v=rel-55-44-0) repeat-x top left;
+	overflow:visible; 
+	width:auto;
+	line-height: 1.1em;
+	white-space: nowrap;
+}
+* html .WPC button,
+* html .WPC .WPC-button,
+* html .WPC .WPC-submit,
+* html .WPC .WPC-cancel{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/bg/bg_button.png?v=rel-55-44-0', sizingMethod='scale');
+}
+.WPC button:active,
+.WPC .WPC-button:active,
+.WPC .WPC-submit:active,
+.WPC .WPC-cancel:active {
+	outline: solid 1px #000000
+}
+
+.WPC .WPC-proto-content input.WPC-secondary,
+.WPC .WPC-proto-content button.WPC-secondary {
+	font-size:90% !important;
+}
+
+.WPC .WPC-submit {
+	font-weight:bold;
+}
+
+
+.WPC .WPC-formButtons .WPC-submit,
+.WPC .WPC-formButtons .WPC-secondary,
+.WPC .WPC-toolbar .WPC-submit {
+	margin-right:3px;
+}
+
+.WPC .WPC-proto-content .WPC-submit,
+.WPC .WPC-proto-content button.WPC-submit {
+	border-color: #DDDDDD #999999 #999999 #DDDDDD;
+	background-color: #9ABF3F;
+	color:#333;
+}
+.WPC .WPC-proto-content .WPC-cancel,
+.WPC .WPC-proto-content button.WPC-cancel,
+.WPC .WPC-dialog .WPC-proto-content button.WPC-cancel {
+	border-color: #DDDDDD #999999 #999999 #DDDDDD;
+	background-color: #CCCCCC;
+}
+.WPC button, .WPC .WPC-button {
+	border-color: #DDDDDD #999999 #999999 #DDDDDD;
+	background-color: #C2CCAC;
+	color:#333;
+}
+html .WPC .WPC-proto-content button:disabled,
+html .WPC .WPC-proto-content .WPC-button:disabled,
+html .WPC .WPC-proto-content .WPC-submit:disabled,
+html .WPC .WPC-proto-content .WPC-cancel:disabled,
+html .WPC .WPC-proto-content input.WPC-throbberActive,
+html .WPC .WPC-proto-content button.WPC-throbberActive {
+	color:#777;
+	cursor:default;
+	background-color: #efefef;
+	border-color: #EEEEEE #AAAAAA #AAAAAA #EEEEEE;
+}
+
+
+.WPC-editableContent {
+	border:0px;
+	margin:0px;
+	padding:1px 0px 0px 1px;
+}
+.WPC-editableContent p {
+	margin:0px;
+	display:block;
+}
+
+.WPC-editableContent td, .WPC-editableContent p, 
+.WPC-editableContent div, .WPC-editableContent span{
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+
+.WPC-editableContent ul, 
+.WPC-editableContent ol {
+	margin: 0.1em 0 0.8em 0; 
+	padding: 0 0 0 40px;
+	list-style-position: outside;
+	list-style-image: none;
+}
+.WPC-editableContent li { margin: 0; padding: 0; }
+.WPC-editableContent ul { list-style-type: disc; }
+.WPC-editableContent ul ul { list-style-type: circle; }
+.WPC-editableContent ul ul ul { list-style-type: square; }
+.WPC-editableContent ol { list-style: decimal; }
+
+.WPC-editableContent blockquote {
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:0px;
+}
+.WPC-editableContent img {
+	clear:both;
+	padding:0em 0.3em;
+}
+
+.WPC-editableContent object {
+	display:inline;
+}
+
+.WPC-editableContent table {
+	border-collapse: collapse;
+	border-spacing:0px;
+	font-size:100.1%;
+	margin:0px 0px 0px 0px;
+	display: table;
+	clear:both;
+}
+.WPC-editableContent td {
+	vertical-align:top;
+}
+.WPC-editableContent table td {
+	border-width: 1px;
+}
+.WPC-editableContent h2,
+.WPC-editableContent h3 {
+	clear:both;
+}
+
+
+.WPC-editableContent table.WPC-edit-border-all > tbody > tr > td { border-style: solid; }
+.WPC-editableContent table.WPC-edit-border-rows > tbody > tr > td { border-style: solid none solid none; }
+.WPC-editableContent table.WPC-edit-border-cols > tbody > tr > td { border-style: none solid none solid; }
+.WPC-editableContent table.WPC-edit-border-none > tbody > tr > td { border-style: none; }
+
+
+* html .WPC-editableContent table.WPC-edit-border-all td { border-style: solid; }
+* html .WPC-editableContent table.WPC-edit-border-rows td { border-style: solid none solid none; }
+* html .WPC-editableContent table.WPC-edit-border-cols td { border-style: none solid none solid; }
+* html .WPC-editableContent table.WPC-edit-border-none td { border-style: none; }
+
+
+* html .WPC-editableContent table table.WPC-edit-border-all td { border-style: solid; }
+* html .WPC-editableContent table table.WPC-edit-border-rows td { border-style: solid none solid none; }
+* html .WPC-editableContent table table.WPC-edit-border-cols td { border-style: none solid none solid; }
+* html .WPC-editableContent table table.WPC-edit-border-none td { border-style: none; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-solid { border-top-style: solid; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-solid { border-right-style: solid; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-solid { border-bottom-style: solid; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-solid { border-left-style: solid; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-double { border-top-style: double;  border-top-width: 3px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-double { border-right-style: double;  border-right-width: 3px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-double { border-bottom-style: double;  border-bottom-width: 3px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-double { border-left-style: double;  border-left-width: 3px; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-solid2px { border-top-style: solid;  border-top-width: 2px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-solid2px { border-right-style: solid;  border-right-width: 2px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-solid2px { border-bottom-style: solid;  border-bottom-width: 2px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-solid2px { border-left-style: solid;  border-left-width: 2px; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-none { border-top-style: none; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-none { border-right-style: none; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-none { border-bottom-style: none; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-none { border-left-style: none; }
+
+
+.WPC-editableContent table.wp-border-all > tbody > tr > td { border-style: solid; }
+.WPC-editableContent table.wp-border-rows > tbody > tr > td { border-style: solid none solid none; }
+.WPC-editableContent table.wp-border-cols > tbody > tr > td { border-style: none solid none solid; }
+.WPC-editableContent table.wp-border-none > tbody > tr > td { border-style: none; }
+* html .WPC-editableContent table.wp-border-all td { border-style: solid; }
+* html .WPC-editableContent table.wp-border-rows td { border-style: solid none solid none; }
+* html .WPC-editableContent table.wp-border-cols td { border-style: none solid none solid; }
+* html .WPC-editableContent table.wp-border-none td { border-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderTop-solid { border-top-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderRight-solid { border-right-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-solid { border-bottom-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-solid { border-left-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderTop-double { border-top-style: double;  border-top-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderRight-double { border-right-style: double;  border-right-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-double { border-bottom-style: double;  border-bottom-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-double { border-left-style: double;  border-left-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderTop-solid2px { border-top-style: solid;  border-top-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderRight-solid2px { border-right-style: solid;  border-right-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-solid2px { border-bottom-style: solid;  border-bottom-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-solid2px { border-left-style: solid;  border-left-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderTop-none { border-top-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderRight-none { border-right-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-none { border-bottom-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-none { border-left-style: none; }
+
+
+.WPC-editableContent .WPC-edit-field {
+	padding: 4px;
+}
+.WPC-editableContent .WPC-edit-rss-total-1 { height: 2em; }
+.WPC-editableContent .WPC-edit-rss-total-2 { height: 3em; }
+.WPC-editableContent .WPC-edit-rss-total-3 { height: 4em; }
+.WPC-editableContent .WPC-edit-rss-total-4 { height: 5em; }
+.WPC-editableContent .WPC-edit-rss-total-5 { height: 6em; }
+
+.WPC-editableContent font[size="1"] { font-size:7pt; }
+.WPC-editableContent font[size="2"] { font-size:10pt; }
+.WPC-editableContent font[size="3"] { font-size:12pt; }
+.WPC-editableContent font[size="4"] { font-size:14pt; }
+.WPC-editableContent font[size="5"] { font-size:18pt; }
+.WPC-editableContent font[size="6"] { font-size:24pt; }
+.WPC-editableContent font[size="7"] { font-size:36pt; }
+
+.WPC-editableContent font[face="Arial"] { font-family:Arial, sans-serif; }
+.WPC-editableContent font[face="Courier"] { font-family:Courier, monospace; }
+.WPC-editableContent font[face="Garamond"] { font-family:Garamond, Skia, "Century Schoolbook L", serif; }
+.WPC-editableContent font[face="Helvetica"] { font-family:Helvetica, Verdana, sans-serif; }
+.WPC-editableContent font[face="Impact"] { font-family:Impact, "Arial Black", monospace; }
+.WPC-editableContent font[face="Times"] { font-family:Times, "Times New Roman", serif; }
+.WPC-editableContent font[face="Georgia"] { font-family:Georgia, "Nimbus Mono L", serif; }
+
+
+.WPC-editableContent .WPC-findInstance {
+	font-size: inherit;
+	background-color: #FFFF00;
+	color: #000000;
+}
+
+
+.WPC .WPC-tableList table, table.WPC-tableList {
+	width:100%;
+	/* background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000; */
+}
+.WPC .WPC-tableList td,
+.WPC .WPC-tableList table td,
+.WPC .WPC-tableList .WPC-content {
+	padding:4px 6px;
+	vertical-align:top;
+}
+.WPC .WPC-tableList .WPC-header,
+.WPC .WPC-tableList th {
+	font-weight:bold;
+	padding:4px 6px;
+	white-space:nowrap;	
+	vertical-align:middle;
+}
+
+
+
+.WPC .WPC-tableList .WPC-header,
+.WPC .WPC-tableList th {
+	background-color: #C4DE87;	
+}
+
+.WPC .WPC-tableList td.WPC-colspan {
+	padding:0 0 8px 8px;
+	width:100%;
+}
+
+.WPC .WPC-compareCell{
+	text-align:center;
+}
+.WPC .WPC-tableList .WPC-compareCell input {
+	text-align:center !important;
+}
+.WPC .WPC-tableList .WPC-scopeCell {
+	white-space:nowrap;
+}
+
+.WPC .WPC-tableList tr.WPC-inactive td {
+	text-decoration:line-through;
+}
+
+
+.WPC .WPC-pagingWrapper {
+	margin-bottom: 0.5em;
+	min-height: 1.5em;
+	text-align: right;
+}
+.WPC .WPC-pagingWrapper .WPC-pagingAction{
+	float:left;
+}
+
+.WPC ul.WPC-paging {
+	display: inline;
+	list-style: outside none outside;
+	margin: 0;
+	padding: 0;
+}
+.WPC ul.WPC-paging li {
+	margin: 0 3px;
+	display: inline;
+}
+.WPC ul.WPC-paging li.WPC-selected {
+	font-weight:bold
+}
+
+
+ 
+.WPC .WPC-key {
+	margin-bottom:0.5em;
+}
+
+.WPC .WPC-key span {
+	margin-right:1em;
+}
+.WPC .WPC-diffAdd {
+	color:blue;
+}
+.WPC .WPC-diffRemove {
+	text-decoration:line-through;
+	color:#C00;
+}
+.WPC .WPC-diffFormatting {
+	
+}
+
+.WPC #WPC-diffViewHistory {
+}
+.WPC #WPC-diffViewHistory button {
+}
+.WPC #WPC-diffDone button {
+}
+.WPC #WPC-diffContent {
+}
+.WPC-diffFormatting {
+}
+
+.WPC .WPC-historyComment{
+	width:100%;
+}
+
+ 
+.WPC td.WPC-toggleHolder, 
+.WPC-inherited td.WPC-toggleHolder{
+ 	width:15px;
+ 	padding:4px 0 4px 4px
+ }
+ 
+.WPC a.WPC-expandToggle,
+.WPC-inherited a.WPC-expandToggle {
+	display:block;
+	line-height:15px;
+	height:15px;
+	width:15px;
+	margin-top:2px;
+	text-decoration:none;
+	background-color: transparent;
+	background-image: url(/web/20160111172823im_/http://static.wikifoundry.com/img/bg/bg_arrows.png?v=rel-55-44-0);
+	background-repeat: no-repeat;
+}
+.WPC a.WPC-expandToggle:link:hover,
+.WPC a.WPC-expandToggle:visited:hover,
+.WPC-inherited a.WPC-expandToggle:link:hover,
+.WPC-inherited a.WPC-expandToggle:visited:hover  {
+	text-decoration:none;
+}
+.WPC a.WPC-expandToggleExpanded,
+.WPC-inherited a.WPC-expandToggleExpanded {
+	background-position: 50% 3px;
+}
+* html .WPC-inherited a.WPC-expandToggleExpanded {
+	background-position: -12% 5px;
+}
+	
+.WPC a.WPC-expandToggleCollapsed,
+.WPC-inherited a.WPC-expandToggleCollapsed {
+	background-position: 3px 50%;
+}
+
+
+
+
+/*
+     FILE ARCHIVED ON 17:28:23 Jan 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:39:19 Aug 10, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.566
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.015
+  esindex: 0.01
+  cdx.remote: 1783.688
+  LoadShardBlock: 927.608 (6)
+  PetaboxLoader3.datanode: 763.861 (8)
+  PetaboxLoader3.resolve: 238.82 (3)
+  load_resource: 196.901 (2)
+*/

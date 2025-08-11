@@ -1,0 +1,654 @@
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        wp_ads.noAdSense = '';
+        wp_ads.top = 'Top';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.tracking = 'Tracking';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","Search");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        
+        GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+      //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      //]]>
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join?from=joinButton" class="submit action secondary wetpaintAnnounce"><span><span>Join This Site</span></span></button></span> <span>Already a member?<br />
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <h1>Search Results</h1>
+                <div id="everythingSearch" class="searchForm">
+                  <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                    <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="Queen&#039;s Gate" onfocus="if( this.value == 'Queen&#039;s Gate' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                  </form>
+                </div><br />
+                <div class="tabNavigation">
+                  <ul>
+                    <li class="selected">All</li>
+                    <li><a href="/search/pages/Queen%27s+Gate">Pages</a></li>
+                    <li><a href="/search/threads/Queen%27s+Gate">Threads</a></li>
+                    <li><a href="/search/photos/Queen%27s+Gate">Photos</a></li>
+                  </ul>
+                  <div class="clear"></div>
+                </div>
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="100%" style="padding:0px;">
+                      <div id="contentWrapper">
+                        <div id="searchResults">
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="pagingActionWrapper">
+                              <span class="pagingAction"></span>
+                              <form name="paginationForm" action="http://swordofthenewworldwiki.com/search/everything/;jsessionid=CC0EE62AA34660AF8E4CC96647548B58" method="get" id="paginationForm">
+                                <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;26 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                  <option value="10">
+                                    10
+                                  </option>
+                                  <option value="20" selected="selected">
+                                    20
+                                  </option>
+                                  <option value="50">
+                                    50
+                                  </option>
+                                </select> items&nbsp;at a time</span>
+                              </form>
+                            </div>
+                            <div class="paging">
+                              1&nbsp;<a href="?offset=20&maxResults=20">2</a> | <a href="?offset=20&maxResults=20">Next</a>
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                          <div class="ulList">
+                            <ul>
+                              <li class="selected">
+                                <span class="exactMatch">Looking for this page?</span><span class="resultLink"><a href="/page/Queen%27s+Gate" class="WPC-tool WPC-tool-content WPC-indicate">Queen&#039;s Gate</a></span> <span class="resultContent">Zone features: Ivan Popovichi (see Treasure Rooms guide by oooshiny ): E5 Pionners Support Soldier: F5 Ramon, Reboldeaux Guard : F9 Ferruccio&#039;s</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Queen%27s+Gate" title="Queen&#039;s Gate">Queen&#039;s Gate</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 27 2008, 2:07 AM EDT by <a href="/account/friedrice8791" id="action_accountMenu?account=friedrice8791&subject=Queen%27s+Gate&pageName=Queen%27s+Gate" class="action" onclick="return false" name="action_accountMenu?account=friedrice8791&subject=Queen%27s+Gate&pageName=Queen%27s+Gate">friedrice8791</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" class="WPC-tool WPC-tool-content WPC-indicate">Ice Wizard&#039;s Tower (Gate)</a></span> <span class="resultContent">and above) An ice statue of a woman can be found in front of the tower gate. Caption: A warning to those humans who dare to oppose the great</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" title="Ice Wizard&#039;s Tower (Gate)">Ice Wizard&#039;s Tower (Gate)</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Nov 7 2008, 11:21 AM EST by <a href="/account/WeazerDevil" id="action_accountMenu?account=WeazerDevil&subject=Ice+Wizard%27s+Tower+%28Gate%29&pageName=Ice+Wizard%27s+Tower+%28Gate%29" class="action" onclick="return false" name="action_accountMenu?account=WeazerDevil&subject=Ice+Wizard%27s+Tower+%28Gate%29&pageName=Ice+Wizard%27s+Tower+%28Gate%29">WeazerDevil</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Cite+de+Reboldoeux" class="WPC-tool WPC-tool-content WPC-indicate">Cite de Reboldoeux</a></span> <span class="resultContent">Shopkeepers: Sub-Categories: - Headquarter to Support the Pioneering -Main -Master Room - Reboldoeux Queen&#039;s Gate *More information to be added</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Cite+de+Reboldoeux" title="Cite de Reboldoeux">Cite de Reboldoeux</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Sep 3 2008, 5:17 PM EDT by <a href="/account/Yositsune" id="action_accountMenu?account=Yositsune&subject=Cite+de+Reboldoeux&pageName=Cite+de+Reboldoeux" class="action" onclick="return false" name="action_accountMenu?account=Yositsune&subject=Cite+de+Reboldoeux&pageName=Cite+de+Reboldoeux">Yositsune</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Reboldeaux" class="WPC-tool WPC-tool-content WPC-indicate">Reboldeaux</a></span> <span class="resultContent">Connected Zones: Queen&#039;s Gate Reputation Missions: Al Quelt Moreza area: G7 Fanatic - 100 kills Frenzy - 100 kills Inquisitor - 100 kills</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Cities" title="Cities">Cities</a> &gt; <a href="/page/Reboldeaux" title="Reboldeaux">Reboldeaux</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Nov 3 2008, 2:50 AM EST by <a href="/account/spoonypirate" id="action_accountMenu?account=spoonypirate&subject=Reboldeaux&pageName=Reboldeaux" class="action" onclick="return false" name="action_accountMenu?account=spoonypirate&subject=Reboldeaux&pageName=Reboldeaux">spoonypirate</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Food" class="WPC-tool WPC-tool-content WPC-indicate">Food</a></span> <span class="resultContent">Everyone Restores 110 HP. Buy: 18 Sell: 4 Reboldeux Queen&#039;s gate grocery shop. 6.11HP/1Vis</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Consumption+%2F+Misc+Items" title="Consumption / Misc Items">Consumption / Misc Items</a> &gt; <a href="/page/Food" title="Food">Food</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Mar 24 2008, 11:49 AM EDT by <a href="/account/pycajika" id="action_accountMenu?account=pycajika&subject=Food&pageName=Food" class="action" onclick="return false" name="action_accountMenu?account=pycajika&subject=Food&pageName=Food">pycajika</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Angie+Shirley" class="WPC-tool WPC-tool-content WPC-indicate">Angie Shirley</a></span> <span class="resultContent">Character Level : 20 Location : Reboldeaux Queen&#039;s Gate Job : Jack&#039;s Niece Weapon Usage : Construction Hammers Status : Str</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Angie+Shirley" title="Angie Shirley">Angie Shirley</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 15 2009, 10:57 AM EST by <a href="/account/BoredSysAdmin" id="action_accountMenu?account=BoredSysAdmin&subject=Angie+Shirley&pageName=Angie+Shirley" class="action" onclick="return false" name="action_accountMenu?account=BoredSysAdmin&subject=Angie+Shirley&pageName=Angie+Shirley">BoredSysAdmin</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+1" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 1</a></span> <span class="resultContent">cards, 200 Vis and 3x Polish: Initiate Talk to Panfilo . Deliver a lunchbox to a Reboldeaux Guard at the Reboldeaux Queen&#039;s Gate . He</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+1" title="Quests - Level 1">Quests - Level 1</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Oct 9 2008, 8:39 PM EDT by <a href="/account/Edyn" id="action_accountMenu?account=Edyn&subject=Quests+-+Level+1&pageName=Quests+-+Level+1" class="action" onclick="return false" name="action_accountMenu?account=Edyn&subject=Quests+-+Level+1&pageName=Quests+-+Level+1">Edyn</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+8" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 8</a></span> <span class="resultContent">Level 8 Quest: Duel Ramiro NPC + Location: Ramiro , Reboldoeux Queen&#039;s Gate Reward: Ramiro Card Difficulty: Moderate 1. Talk to Ramiro</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+8" title="Quests - Level 8">Quests - Level 8</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 27 2008, 2:22 PM EDT by <a href="/account/friedrice8791" id="action_accountMenu?account=friedrice8791&subject=Quests+-+Level+8&pageName=Quests+-+Level+8" class="action" onclick="return false" name="action_accountMenu?account=friedrice8791&subject=Quests+-+Level+8&pageName=Quests+-+Level+8">friedrice8791</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Raids" class="WPC-tool WPC-tool-content WPC-indicate">Raids</a></span> <span class="resultContent">- Expert suggested Lvl Queen Eater Vet - Expert suggested Lvl Hell Breaker</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 12 2009, 6:59 AM EST by <a href="/account/masterxl" id="action_accountMenu?account=masterxl&subject=Raids&pageName=Raids" class="action" onclick="return false" name="action_accountMenu?account=masterxl&subject=Raids&pageName=Raids">masterxl</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Main" class="WPC-tool WPC-tool-content WPC-indicate">Main</a></span> <span class="resultContent">Queen&#039;s Gate; --Compensation: Exp Card 40 (3); --Completion: Speak with Panfilo; Choose &#039; Accept &#039; then head out to Reboldoeux Queen&#039;s Gate and towards</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Cite+de+Reboldoeux" title="Cite de Reboldoeux">Cite de Reboldoeux</a> &gt; <a href="/page/Main" title="Main">Main</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Feb 28 2008, 12:44 PM EST by <a href="/account/Wild-Kat" id="action_accountMenu?account=Wild-Kat&subject=Main&pageName=Main" class="action" onclick="return false" name="action_accountMenu?account=Wild-Kat&subject=Main&pageName=Main">Wild-Kat</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Headquarter+to+Support+the+Pioneering" class="WPC-tool WPC-tool-content WPC-indicate">Headquarter to Support the Pioneering</a></span> <span class="resultContent">Headquarter to Support the Pioneering into Cite de Reboldoeux - Main; Using your map if you get lost, head out the Queen&#039;s Gate exit</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Cite+de+Reboldoeux" title="Cite de Reboldoeux">Cite de Reboldoeux</a> &gt; <a href="/page/Headquarter+to+Support+the+Pioneering" title="Headquarter to Support the Pioneering">Headquarter to Support the Pioneering</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Feb 28 2008, 12:43 PM EST by <a href="/account/Wild-Kat" id="action_accountMenu?account=Wild-Kat&subject=Headquarter+to+Support+the+Pioneering&pageName=Headquarter+to+Support+the+Pioneering" class="action" onclick="return false" name="action_accountMenu?account=Wild-Kat&subject=Headquarter+to+Support+the+Pioneering&pageName=Headquarter+to+Support+the+Pioneering">Wild-Kat</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+24" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 24</a></span> <span class="resultContent">+ Location: Gracielo, Port of Coimbra Difficulty: very easy 1. Talk to Gracielo 2. Buy ferrucio bread and milk from the girl at Queen’s Gate. 3</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+24" title="Quests - Level 24">Quests - Level 24</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 27 2008, 2:33 PM EDT by <a href="/account/friedrice8791" id="action_accountMenu?account=friedrice8791&subject=Quests+-+Level+24&pageName=Quests+-+Level+24" class="action" onclick="return false" name="action_accountMenu?account=friedrice8791&subject=Quests+-+Level+24&pageName=Quests+-+Level+24">friedrice8791</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Reboldeaux%2C+Stone+Pit" class="WPC-tool WPC-tool-content WPC-indicate">Reboldeaux, Stone Pit</a></span> <span class="resultContent">Zone features: Hengestone Location: C2, near Jack&#039;s house Ferrucio&#039;s Red Box: D5 Connected Zones: Lvl 0 - Queen&#039;s Gate</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Reboldeaux%2C+Stone+Pit" title="Reboldeaux, Stone Pit">Reboldeaux, Stone Pit</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jun 8 2008, 8:35 PM EDT by <a href="/account/sacauntos" id="action_accountMenu?account=sacauntos&subject=Reboldeaux%2C+Stone+Pit&pageName=Reboldeaux%2C+Stone+Pit" class="action" onclick="return false" name="action_accountMenu?account=sacauntos&subject=Reboldeaux%2C+Stone+Pit&pageName=Reboldeaux%2C+Stone+Pit">sacauntos</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Zones" class="WPC-tool WPC-tool-content WPC-indicate">Zones</a></span> <span class="resultContent">Lvl 0 - Gigante Beach Lvl 0 - Nimraldi Bridge Lvl 0 - Queen&#039;s Gate Lvl 0 - Thuerigen Lakeside Lvl 1-4 - Reboldeaux, Stone Pit Lvl 4-7</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Oct 27 2008, 2:19 AM EDT by <a href="/account/Ashardalon" id="action_accountMenu?account=Ashardalon&subject=Zones&pageName=Zones" class="action" onclick="return false" name="action_accountMenu?account=Ashardalon&subject=Zones&pageName=Zones">Ashardalon</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Andre+Janzur" class="WPC-tool WPC-tool-content WPC-indicate">Andre Janzur</a></span> <span class="resultContent">revive Dilos Latemn&#039;s memory. You&#039;ll be transported to a mission : simply escort Dilos Latemn and his guards and destroy all the Evil Gates you&#039;ll</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Andre+Janzur" title="Andre Janzur">Andre Janzur</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 24 2008, 5:22 AM EDT by <a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Andre+Janzur&pageName=Andre+Janzur" class="action" onclick="return false" name="action_accountMenu?account=mooferz&subject=Andre+Janzur&pageName=Andre+Janzur">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+20" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 20</a></span> <span class="resultContent">to Panfilo de Narvaez 2. Buy the milk from the girl at Queen&#039;s Gate. 3. Buy pasta and Parmesan from Camille the Grocer at Combria. 4. Kill the boars meat</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+20" title="Quests - Level 20">Quests - Level 20</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 27 2008, 2:35 PM EDT by <a href="/account/friedrice8791" id="action_accountMenu?account=friedrice8791&subject=Quests+-+Level+20&pageName=Quests+-+Level+20" class="action" onclick="return false" name="action_accountMenu?account=friedrice8791&subject=Quests+-+Level+20&pageName=Quests+-+Level+20">friedrice8791</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Maps+and+Area+Info" class="WPC-tool WPC-tool-content WPC-indicate">Maps and Area Info</a></span> <span class="resultContent">Los Toldos - Zones - Lvl 0 - Gigante Beach Lvl 0 - Nimraldi Bridge Lvl 0 - Queen&#039;s Gate Lvl 0 - Thuerigen Lakeside</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/Area+Guides" title="Area Guides">Area Guides,&nbsp;</a> <a href="/tag/Area+Help" title="Area Help">Area Help,&nbsp;</a> <a href="/tag/Area+Info" title="Area Info">Area Info,&nbsp;</a> <a href="/tag/Granado+Espada+Maps" title="Granado Espada Maps">Granado Espada Maps,&nbsp;</a> <a href="/tag/Guides" title="Guides">Guides,&nbsp;</a> <a href="/tag/Information" title="Information">Information,&nbsp;</a> <a href="/tag/Maps" title="Maps">Maps,&nbsp;</a> <a href="/tag/Monsters" title="Monsters">Monsters,&nbsp;</a> <a href="/tag/SOTNW+Area+Info" title="SOTNW Area Info">SOTNW Area Info,&nbsp;</a> <a href="/tag/SOTNW+Area+Information" title="SOTNW Area Information">SOTNW Area Information,&nbsp;</a> <a href="/tag/SOTNW+Areas" title="SOTNW Areas">SOTNW Areas,&nbsp;</a> <a href="/tag/SOTNW+Maps" title="SOTNW Maps">SOTNW Maps,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Areas" title="Sword of the New World Areas">Sword of the New World Areas,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Maps" title="Sword of the New World Maps">Sword of the New World Maps&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jan 19 2009, 9:47 AM EST by <a href="/account/WeazerDevil" id="action_accountMenu?account=WeazerDevil&subject=Maps+and+Area+Info&pageName=Maps+and+Area+Info" class="action" onclick="return false" name="action_accountMenu?account=WeazerDevil&subject=Maps+and+Area+Info&pageName=Maps+and+Area+Info">WeazerDevil</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Hengestone+Locations" class="WPC-tool WPC-tool-content WPC-indicate">Hengestone Locations</a></span> <span class="resultContent">will be marked with *NEW* for a duration of 1 week. Enjoy! Queen&#039;s Gate I2 At the top right most corner. Stone Pit C2 Near Jack&#039;s</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Non-Quest+Help" title="Non-Quest Help">Non-Quest Help</a> &gt; <a href="/page/Hengestone+Locations" title="Hengestone Locations">Hengestone Locations</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Sep 8 2008, 10:20 AM EDT by <a href="/account/Iberison" id="action_accountMenu?account=Iberison&subject=Hengestone+Locations&pageName=Hengestone+Locations" class="action" onclick="return false" name="action_accountMenu?account=Iberison&subject=Hengestone+Locations&pageName=Hengestone+Locations">Iberison</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Gracielo" class="WPC-tool WPC-tool-content WPC-indicate">Gracielo</a></span> <span class="resultContent">it) Talk to Gracielo. He will ask you to give him Ferruccio Bread, Milk &amp; Chocolate. Bread and milk can be purchased from the girl at Queen&#039;s</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Gracielo" title="Gracielo">Gracielo</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Dec 18 2008, 7:01 PM EST by <a href="/account/TehCommunism" id="action_accountMenu?account=TehCommunism&subject=Gracielo&pageName=Gracielo" class="action" onclick="return false" name="action_accountMenu?account=TehCommunism&subject=Gracielo&pageName=Gracielo">TehCommunism</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Claude+Baudez" class="WPC-tool WPC-tool-content WPC-indicate">Claude Baudez</a></span> <span class="resultContent">will ask you to protect Reboldoeux from monsters. The mission takes place at Queen&#039;s Gate and Claude will help you fight mobs coming to destroy</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Claude+Baudez" title="Claude Baudez">Claude Baudez</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Thursday, 11:39 AM EST by <a href="/account/BoredSysAdmin" id="action_accountMenu?account=BoredSysAdmin&subject=Claude+Baudez&pageName=Claude+Baudez" class="action" onclick="return false" name="action_accountMenu?account=BoredSysAdmin&subject=Claude+Baudez&pageName=Claude+Baudez">BoredSysAdmin</a></span>
+                                </div>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="paging">
+                              1&nbsp;<a href="?offset=20&maxResults=20">2</a> | <a href="?offset=20&maxResults=20">Next</a>
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                        </div>
+                      </div>
+                    </td>
+                    <td style="padding:0px;">
+                      <div class="innerColumn">
+                        <div id="tagCloud" class="panel">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                          </div>
+                          <div class="panelContent">
+                            Loading...
+                          </div>
+                        </div>
+                        <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl">
+                              &nbsp;&nbsp;
+                            </div>Top Wetpaint Sites
+                          </div>
+                          <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                          <form onsubmit="return false">
+                            <input type="hidden" name="containsField" id="containsField" value="Queen&#039;s Gate" />
+                          </form>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Site pages
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader open">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent" style="display:none;">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <br />
+              <br />
+              <div id="googleAdUnitIframe_left"></div>
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+              google_color_bg = "FFFFFF";
+              google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+              //]]>
+              </script> 
+              <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>2008 Race Tracker</span></li>
+            <li><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090122154811" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b17';s_w.channel='search';s_w.pageType='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(4901/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='search';s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(global_inits['AB_TEST'] == 0) ? 'na' : (global_inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

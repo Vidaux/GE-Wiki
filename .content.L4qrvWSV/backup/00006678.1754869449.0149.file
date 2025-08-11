@@ -1,0 +1,684 @@
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"FACEBOOK_API_KEY" : '2d1eb4e17fac67b271042da4fd42a3e1',"FACEBOOK_FEED_TEMPLATE" : '78947714267',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090831145704" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Search");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span></a> <span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+          <div id="userUnsupportedBrowser" style="display: none;">
+            <img src="/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/forum">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/news">News</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <div class="alreadyMember">
+              Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a>
+            </div>
+            <div class="joinButtons">
+              <a class="WPC-action hidden fbconnect_login_button" id="WPC-action_pre-login-facebook" name="WPC-action_pre-login-facebook"><img src="/img/3rdparty/facebook_medium.png" alt="Facebook Connect" width="89px" height="21px" /></a> <span class="join-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="join-button"><span class="join-button"></span></span></button></span>
+            </div>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="adsTop">
+        <div class="ads adstop">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+          //]]>
+          </script>
+        </div>
+        <div class="ads adstopPromo">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+          //]]>
+          </script>
+        </div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <h1>Search Results</h1>
+                <div id="everythingSearch" class="searchForm">
+                  <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                    <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="bard" onfocus="if( this.value == 'bard' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                  </form>
+                </div><br />
+                <div class="tabNavigation">
+                  <ul>
+                    <li class="selected">All</li>
+                    <li><a href="/search/pages/bard">Pages</a></li>
+                    <li><a href="/search/threads/bard">Threads</a></li>
+                    <li><a href="/search/photos/bard">Photos</a></li>
+                  </ul>
+                  <div class="clear"></div>
+                </div>
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="100%" style="padding:0px;">
+                      <div id="contentWrapper">
+                        <div id="searchResults">
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="pagingActionWrapper">
+                              <span class="pagingAction"></span>
+                              <form name="paginationForm" action="" method="get" id="paginationForm">
+                                <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;19&nbsp;of&nbsp;19 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                  <option value="10">
+                                    10
+                                  </option>
+                                  <option value="20" selected="selected">
+                                    20
+                                  </option>
+                                  <option value="50">
+                                    50
+                                  </option>
+                                </select> items&nbsp;at a time</span>
+                              </form>
+                            </div>
+                            <div class="paging">
+                              1
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                          <div class="ulList">
+                            <ul>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Bard" class="WPC-tool WPC-tool-content WPC-indicate">Bard</a></span> <span class="resultContent">Bard To enable: Equip no weapons and buff family and squad members Prerequisite: N/A Default Stance Bonus: +20 Mental</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Scout" title="Scout">Scout</a> &gt; <a href="/page/Scout+Stances+and+Skills" title="Scout Stances and Skills">Scout Stances and Skills</a> &gt; <a href="/page/Bard" title="Bard">Bard</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/bard" title="bard">bard,&nbsp;</a> <a href="/tag/scout" title="scout">scout&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Sep 25 2008, 2:34 PM EDT by <a href="/account/Sinjinsu" id="WPC-action_accountMenu?account=Sinjinsu&subject=Bard&pageName=Bard" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Sinjinsu&subject=Bard&pageName=Bard">Sinjinsu</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/thread/1936095/Bard" class="WPC-tool WPC-tool-thread WPC-indicate">Bard</a></span> <span class="resultContent">Not 2 buffs, 3, Insistendo, Accelerando and Meditavito, or swap Accel for Forte, since you can&#39;t use both at same time. =P</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Thread location: <a href="/page/Scout+Guide" class="WPC-tool WPC-tool-content">Scout Guide</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Posted: Oct 5 2008, 3:59 PM EDT by Anonymous</span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/photo/1920429/Bard" class="WPC-tool WPC-tool-photo" title="Bard"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/iYhI6egGewwVZtk9r9RW-A20132/GW073" alt="" />Bard</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Albums: Uncategorized</span>
+                                </div>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Added: Sep 25 2008, 1:39 PM EDT by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Bard&from=status&pageName=Bard" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Bard&from=status&pageName=Bard"></a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Scout+Stances+and+Skills" class="WPC-tool WPC-tool-content WPC-indicate">Scout Stances and Skills</a></span> <span class="resultContent">Stance Name Weapons Equipped Level Useable Medic &lt;none&gt; 1 Bard &lt;none&gt; 18</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Scout" title="Scout">Scout</a> &gt; <a href="/page/Scout+Stances+and+Skills" title="Scout Stances and Skills">Scout Stances and Skills</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/acceleration" title="acceleration">acceleration,&nbsp;</a> <a href="/tag/assassin" title="assassin">assassin,&nbsp;</a> <a href="/tag/Bard" title="Bard">Bard,&nbsp;</a> <a href="/tag/Blade+Squall" title="Blade Squall">Blade Squall,&nbsp;</a> <a href="/tag/Critical+Disease" title="Critical Disease">Critical Disease,&nbsp;</a> <a href="/tag/Cure-all" title="Cure-all">Cure-all,&nbsp;</a> <a href="/tag/Dagger+Throw" title="Dagger Throw">Dagger Throw,&nbsp;</a> <a href="/tag/Dance+of+Death" title="Dance of Death">Dance of Death,&nbsp;</a> <a href="/tag/detection" title="detection">detection,&nbsp;</a> <a href="/tag/Dos+Cuchillos" title="Dos Cuchillos">Dos Cuchillos,&nbsp;</a> <a href="/tag/Execute" title="Execute">Execute,&nbsp;</a> <a href="/tag/explosion" title="explosion">explosion,&nbsp;</a> <a href="/tag/Fortify" title="Fortify">Fortify,&nbsp;</a> <a href="/tag/Heartjab" title="Heartjab">Heartjab,&nbsp;</a> <a href="/tag/Intensify" title="Intensify">Intensify,&nbsp;</a> <a href="/tag/Invisible+String" title="Invisible String">Invisible String,&nbsp;</a> <a href="/tag/Masscure" title="Masscure">Masscure,&nbsp;</a> <a href="/tag/Medic" title="Medic">Medic,&nbsp;</a> <a href="/tag/Meditation" title="Meditation">Meditation,&nbsp;</a> <a href="/tag/recover" title="recover">recover,&nbsp;</a> <a href="/tag/Resuscitation" title="Resuscitation">Resuscitation,&nbsp;</a> <a href="/tag/Scrag" title="Scrag">Scrag,&nbsp;</a> <a href="/tag/scythe" title="scythe">scythe,&nbsp;</a> <a href="/tag/Slashback" title="Slashback">Slashback,&nbsp;</a> <a href="/tag/Trapper" title="Trapper">Trapper&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jul 24 2009, 12:39 AM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Scout+Stances+and+Skills&pageName=Scout+Stances+and+Skills" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Scout+Stances+and+Skills&pageName=Scout+Stances+and+Skills">Seksiboi</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Quest%3A+A+Girl+in+Danger" class="WPC-tool WPC-tool-content WPC-indicate">Quest: A Girl in Danger</a></span> <span class="resultContent">. This is called Defend Mode and is good to know about early on. Note that Scouts heal automatically if they have no weapons and are in the Medic, Bard</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+1" title="Quests - Level 1">Quests - Level 1</a> &gt; <a href="/page/Quest%3A+A+Girl+in+Danger" title="Quest: A Girl in Danger">Quest: A Girl in Danger</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 4 2009, 10:52 PM EDT by <a href="/account/Tarouka" id="WPC-action_accountMenu?account=Tarouka&subject=Quest%3A+A+Girl+in+Danger&pageName=Quest%3A+A+Girl+in+Danger" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Tarouka&subject=Quest%3A+A+Girl+in+Danger&pageName=Quest%3A+A+Girl+in+Danger">Tarouka</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Soho+the+Fighter" class="WPC-tool WPC-tool-content WPC-indicate">Soho the Fighter</a></span> <span class="resultContent">Con Dex Int Cha 6 7 5 6 3 3 Stances : Bard (No Weapon</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Soho+the+Fighter" title="Soho the Fighter">Soho the Fighter</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Mar 28 2009, 10:14 PM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Soho+the+Fighter&pageName=Soho+the+Fighter" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Soho+the+Fighter&pageName=Soho+the+Fighter">Seksiboi</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Soho" class="WPC-tool WPC-tool-content WPC-indicate">Soho</a></span> <span class="resultContent">3 3 Stances : No Weapon - Bard, Tactical Assistance Dagger - Escrima Personal Skill : Healing Comments: In Escrima</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/UPCs" title="UPCs">UPCs</a> &gt; <a href="/page/Character" title="Character">Character</a> &gt; <a href="/page/Soho" title="Soho">Soho</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/SOHO" title="SOHO">SOHO,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Mar 5 2009, 12:56 AM EST by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Soho&pageName=Soho" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Soho&pageName=Soho">Seksiboi</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Tactical+Assistance" class="WPC-tool WPC-tool-content WPC-indicate">Tactical Assistance</a></span> <span class="resultContent">Tactical Assistance To enable: Equip no weapon and buff family members only Prerequisite: Veteran, Bard at level 25, requires</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Scout" title="Scout">Scout</a> &gt; <a href="/page/Scout+Stances+and+Skills" title="Scout Stances and Skills">Scout Stances and Skills</a> &gt; <a href="/page/Tactical+Assistance" title="Tactical Assistance">Tactical Assistance</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/scout" title="scout">scout,&nbsp;</a> <a href="/tag/tactical+assistance" title="tactical assistance">tactical assistance&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Jul 25 2009, 10:06 PM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Tactical+Assistance&pageName=Tactical+Assistance" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Tactical+Assistance&pageName=Tactical+Assistance">Seksiboi</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Scout+Guide" class="WPC-tool WPC-tool-content WPC-indicate">Scout Guide</a></span> <span class="resultContent">Scouts are a &#034;useless necessity&#034; in SOTNW. If you don&#039;t have one you will go nearly bankrupt purchasing health fillers. After Level 50 you</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/Scout+Guide" title="Scout Guide">Scout Guide</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Oct 5 2008, 9:04 PM EDT by <a href="/account/mooferz" id="WPC-action_accountMenu?account=mooferz&subject=Scout+Guide&pageName=Scout+Guide" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=mooferz&subject=Scout+Guide&pageName=Scout+Guide">mooferz</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Power+Leveling" class="WPC-tool WPC-tool-content WPC-indicate">Power Leveling</a></span> <span class="resultContent">..... | Scout set with Medic/Bard Berneli set with Shotgunblaster Fighter set with Blandir Cruz (Polearm) or Short Guard (Raiper) The stances are chosen</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Hints+%2F+Tips" title="Hints / Tips">Hints / Tips</a> &gt; <a href="/page/Power+Leveling" title="Power Leveling">Power Leveling</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Jun 9 2009, 12:00 AM EDT by <a href="/account/Lincourt" id="WPC-action_accountMenu?account=Lincourt&subject=Power+Leveling&pageName=Power+Leveling" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lincourt&subject=Power+Leveling&pageName=Power+Leveling">Lincourt</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Basic+Characters+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Basic Characters Overview</a></span> <span class="resultContent">AFKP: 8 ------- TOTAL: 30 PVPS: 5 ------- LVL: 1 PVPL: 3 ------- Personal Skill: Healing Armor: Leather Stances: Medic, Bard, Assassin, Dos Cuchilos</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Basic+Characters+Overview" title="Basic Characters Overview">Basic Characters Overview</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Apr 7 2008, 11:45 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Basic+Characters+Overview&pageName=Basic+Characters+Overview" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Basic+Characters+Overview&pageName=Basic+Characters+Overview">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/How+to+get+the+veteran+stance+books" class="WPC-tool WPC-tool-content WPC-indicate">How to get the veteran stance books</a></span> <span class="resultContent">of Lightning x2 Rare Book of Magic + 50 Mega Etretanium *Tactical Assistance Scout/Soho/Viki Required Stance - Bard level 25 Required Weapon - None</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Non-Quest+Help" title="Non-Quest Help">Non-Quest Help</a> &gt; <a href="/page/How+to+get+the+veteran+stance+books" title="How to get the veteran stance books">How to get the veteran stance books</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/Stance+Books" title="Stance Books">Stance Books,&nbsp;</a> <a href="/tag/Vet+Stances" title="Vet Stances">Vet Stances,&nbsp;</a> <a href="/tag/Veteran+Stance" title="Veteran Stance">Veteran Stance,&nbsp;</a> <a href="/tag/veteran+stances" title="veteran stances">veteran stances&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Last updated: Feb 27 2009, 1:27 PM EST by <a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=How+to+get+the+veteran+stance+books&pageName=How+to+get+the+veteran+stance+books" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=How+to+get+the+veteran+stance+books&pageName=How+to+get+the+veteran+stance+books">Reuper</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/page/Port+Coimbra+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Port Coimbra UPCs Overview</a></span> <span class="resultContent">Armor: Leather Stances: Bard, Assassin Notes: Yet another underrated UPC. Soho is the only character other than stock scout that has the useful Bard</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Port+Coimbra+UPCs+Overview" title="Port Coimbra UPCs Overview">Port Coimbra UPCs Overview</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Apr 7 2008, 11:46 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Port+Coimbra+UPCs+Overview&pageName=Port+Coimbra+UPCs+Overview" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Port+Coimbra+UPCs+Overview&pageName=Port+Coimbra+UPCs+Overview">Lothmak</a></span>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/page/Quests+-+Level+1" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 1</a></span> <span class="resultContent">automatically if they have no weapons and are in the Medic, Bard or Tactical Assistance stances.) Talk to Ramiro again to complete the quest</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+1" title="Quests - Level 1">Quests - Level 1</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: None</span>
+                                </div>
+                                <div>
+                                  <span class="resultData">Last updated: Aug 5 2009, 12:02 PM EDT by <a href="/account/Tarouka" id="WPC-action_accountMenu?account=Tarouka&subject=Quests+-+Level+1&pageName=Quests+-+Level+1" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Tarouka&subject=Quests+-+Level+1&pageName=Quests+-+Level+1">Tarouka</a></span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/thread/2357437/Scout%3A" class="WPC-tool WPC-tool-thread WPC-indicate">Scout:</a></span> <span class="resultContent">you know heal is automatic when on bard and medic stance??</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Reply to thread: <a href="/thread/2357437/Scout%3A" class="WPC-tool WPC-tool-thread WPC-indicate">Scout:</a> <span style="font-weight:normal">(2&nbsp;replies)</span></span>
+                                </div>
+                                <div>
+                                  Thread location: <a href="/page/Scout" class="WPC-tool WPC-tool-content">Scout</a>
+                                </div>
+                                <div class="keywordTags">
+                                  Keyword tags: None
+                                </div>
+                                <div>
+                                  Posted: Feb 8 2009, 5:57 PM EST by Anonymous
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/thread/2347451/Soho+the+Fighter" class="WPC-tool WPC-tool-thread WPC-indicate">Soho the Fighter</a></span> <span class="resultContent">He&#39;s not bad as many say he is. He can still use all the stances a normal Soho can use, including Escrima and Bard. He has an extra stance, the Wind Stance, though his stats are the same. Not awesome, but certainly better than the original Soho.</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Thread location: <a href="/page/Soho+the+Fighter" class="WPC-tool WPC-tool-content">Soho the Fighter</a></span>
+                                </div><span class="resultData"></span>
+                                <div class="keywordTags">
+                                  <span class="resultData">Keyword tags: <a href="/tag/martial+artist" title="martial artist">martial artist,&nbsp;</a> <a href="/tag/martial+arts" title="martial arts">martial arts,&nbsp;</a> <a href="/tag/soho" title="soho">soho,&nbsp;</a> <a href="/tag/soho+the+fighter" title="soho the fighter">soho the fighter,&nbsp;</a> <a href="/tag/wind+stance" title="wind stance">wind stance&nbsp;</a></span>
+                                </div><span class="resultData"><span class="resultData"></span></span>
+                                <div>
+                                  <span class="resultData">Posted: Feb 1 2009, 2:47 PM EST by Anonymous</span>
+                                </div>
+                              </li>
+                              <li class="">
+                                <span class="resultLink"><a href="/thread/2037056/this%3F%3F" class="WPC-tool WPC-tool-thread WPC-indicate">this??</a></span> <span class="resultContent">well 3 scouts isnt ALWAYS bad. altough the party is a bit shaky in def , it is always protected by the stance bard. scouts always come in handy (because if one is killed there are always the other 2 covering for him) and theyre also a bit good in offence since they have the trapper and dobalada corte stance.<br />
+                                So, you should NEVER underastimate a party consisting of three scouts :D</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Reply to thread: <a href="/thread/2037056/this%3F%3F" class="WPC-tool WPC-tool-thread WPC-indicate">this??</a> <span style="font-weight:normal">(3&nbsp;replies)</span></span>
+                                </div>
+                                <div>
+                                  Thread location: <a href="/page/Job+Combinations" class="WPC-tool WPC-tool-content">Job Combinations</a>
+                                </div>
+                                <div class="keywordTags">
+                                  Keyword tags: None
+                                </div>
+                                <div>
+                                  Posted: Dec 30 2008, 3:27 PM EST by <a href="/account/daniel1777" id="WPC-action_accountMenu?account=daniel1777&subject=this%3F%3F&from=threadFirstPost2037056&threadId=2037056" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=daniel1777&subject=this%3F%3F&from=threadFirstPost2037056&threadId=2037056">daniel1777</a>
+                                </div>
+                              </li>
+                              <li class="altRow">
+                                <span class="resultLink"><a href="/thread/1945795/there+is+no" class="WPC-tool WPC-tool-thread WPC-indicate">there is no</a></span> <span class="resultContent">Admittedly, the normal Soho, Emilia and Panfilo are all quite useless if you already have their promo versions. Unlike Adelina and Idge, the three don&#39;t have any crafting skills.<br />
+                                <br />
+                                However, as far being inferior to the promo version, Soho is the least "disadvantaged". Soho the Fighter has no extra stat points, and Escrima can be just as deadly as ME: Wind. Even if the normal Soho can&#39;t wear Fighter leather, Scout leather, say the Laranja, also provides an Evade bonus anyway, which Soho can take advantage of no matter his stance, as Medic, Bard, Tactical Assistance and Escrima all have Evade.</span> <span class="resultData"></span>
+                                <div>
+                                  <span class="resultData">Reply to thread: <a href="/thread/1945795/there+is+no" class="WPC-tool WPC-tool-thread WPC-indicate">there is no</a> <span style="font-weight:normal">(4&nbsp;replies)</span></span>
+                                </div>
+                                <div>
+                                  Thread location: <a href="/page/Soho" class="WPC-tool WPC-tool-content">Soho</a>
+                                </div>
+                                <div class="keywordTags">
+                                  Keyword tags: None
+                                </div>
+                                <div>
+                                  Posted: Jul 14 2009, 11:41 PM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=there+is+no&from=threadFirstPost1945795&threadId=1945795" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=there+is+no&from=threadFirstPost1945795&threadId=1945795">Seksiboi</a>
+                                </div>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="pagingWrapper" style="clear:both;">
+                            <div class="paging">
+                              1
+                            </div>
+                          </div>
+                          <div style="clear:both;"></div>
+                        </div>
+                      </div>
+                    </td>
+                    <td style="padding:0px;">
+                      <div class="innerColumn">
+                        <div id="tagCloud" class="panel">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                          </div>
+                          <div class="panelContent">
+                            Loading...
+                          </div>
+                        </div>
+                        <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                          <div class="panelHeader close">
+                            <div title="expand | collapse this panel" class="panelControl">
+                              &nbsp;&nbsp;
+                            </div>Top Wetpaint Sites
+                          </div>
+                          <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                          <form onsubmit="return false">
+                            <input type="hidden" name="containsField" id="containsField" value="bard" />
+                          </form>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="45">Quests</a></li>
+                            <li><a href="/page/Raids" rel="16">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                            <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <br />
+              <br />
+              <div id="googleAdUnitIframe_left"></div>
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+              google_color_bg = "FFFFFF";
+              google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+              //]]>
+              </script> 
+              <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent" class="wetpaintBranding">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Scribblenauts</span></li>
+            <li><span>Spore</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>GunZ Wiki</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b14';s_w.channel='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(901/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

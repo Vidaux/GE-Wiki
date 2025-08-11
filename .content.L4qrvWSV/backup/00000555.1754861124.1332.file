@@ -1,0 +1,2678 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wiki of the New World</title>
+  <link rel="canonical" href="/">
+  <meta name="viewport" content="initial-scale=1">
+  <link href='http://d39ge6nhv0tdna.cloudfront.net/mobile.css' rel='stylesheet' type='text/css'>
+  <link href='http://d39ge6nhv0tdna.cloudfront.net/jquery.mobile-1.4.0.min.css' rel='stylesheet' type='text/css'>
+  <script type='text/javascript' src='http://d39ge6nhv0tdna.cloudfront.net/jquery-1.10.2.min.js'></script>
+  <script type='text/javascript' src='http://d39ge6nhv0tdna.cloudfront.net/jquery.mobile-1.4.0.min.js'></script>
+  <script type='text/javascript'>
+                        var xchans = "";
+
+                        $(function() {
+                
+                                if (navigator.userAgent.indexOf("iPad")) {
+                                        xchans = "6701672371";
+                                }
+
+                                var max = window.screen.width;
+
+                                $("table").each(function() { 
+                                                if ($(this).width() > max) {
+                                                        $("td", this).each(function() {
+                                                                $(this).wrap("<tr></tr>");
+                                                        });
+                                                }
+                                });
+
+                                $("img").each(function() {
+                                        if ($(this).width() > max) {
+                                                $(this).width(max-20);
+                                                $(this).css('height', 'auto');
+                                        }
+                                });
+
+                                                                $("table").css("max-width",  max-20);
+                                $("#search_bar").focus(function() {
+                                        $(this).val('')
+                                                .removeClass('greyed');
+                                });
+
+                        });
+
+                        function showhide(id) {
+                                $("#" + id).toggle();
+                                if ($("#" + id + "h2").hasClass('show')) {
+                                        $("#" + id + "h2").removeClass('show');
+                                        $("#" + id + "h2").addClass('hide');
+                                } else {
+                                        $("#" + id + "h2").removeClass('hide');
+                                        $("#" + id + "h2").addClass('show');
+                                }
+                        }
+  </script>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+  google_ad_client: "ca-pub-8928680931862603",
+  enable_page_level_ads: true
+  });
+  </script>
+</head>
+<body>
+  <div id='mainheader'>
+    <a href='/' id='homelink' alt='Home'><img src='http://d39ge6nhv0tdna.cloudfront.net/home.png'></a> <a href='/random' alt='Random page' rel="external" id='randomlink'><img src='http://d39ge6nhv0tdna.cloudfront.net/random.png'></a>
+    <form action='/search/' method='get'>
+      <input id='search_bar' name='q' type='text' value='Search Wiki of the New World' class='greyed'> <button>Search</button>
+    </form>
+  </div>
+  <div id='afterheader'>
+    <h1>Wiki of the New World</h1>
+    <div id='mainmobilecontent'>
+      <br>
+      <font face="Arial" size="2">Welcome to <b>Wiki Of The New World</b>, a fan-made wiki of the <a href="/page/#" target="_self" title="Click to Continue &gt; by Browse to Save">massively multiplayer online</a> game <b>Granado Espada Online</b> (formerly known as</font> <font face="Arial" size="2">Sword 2 and Sword of the New World: Granado Espada), licensed in North America by T3Fun and Europe by</font> <font face="Arial" size="2">EuroGamez GmbH. Here you&#39;ll find info about <a href="/page/Items+%26+Equipment" target="_self">items</a>, <a href="/page/Game+Characters" target="_self">characters</a>, <a href="/page/Quests" target="_self">quests</a>, and much more. This wiki, like all wikis, is a nonstop work in progress. We need <i><b>your</b></i> help to fill in the wiki. So if you have any <a href="/page/#" target="_self" title="Click to Continue &gt; by Browse to Save">information</a> that helps the site, add it. If you find anything about the wiki that you think should be changed but don&#39;t have the privileges to change (i.e. page movement), let us know.</font> <font face="Arial" size="2">Ask before posting a link to off-site <a href="/page/Guides" target="_self">guides</a>, etc.</font><font face="Arial" size="2"><br></font><font color="#808080"><br>
+      <br>
+      <b><font color="#000000"><u><font size="5">Major Wiki Updates</font></u></font></b></font><font size="3"><b><font color="#E38232"><br>
+      <br>
+      Tuesday, January 19, 2016<br></font></b></font>
+      <ul>
+        <li><font color="#000000"><font size="3"><b>Added</b> <a href="/page/Phythonis" target="_self">Phythonis Stance</a></font></font></li>
+        <li><font color="#000000"><font size="3"><b>Updated</b> <a href="/page/Expert+Stances" target="_self">Expert Stance</a> Page (Work in Progress)</font></font><br></li>
+      </ul><font size="3"><b><font color="#E38232"><br></font></b></font><font size="3"><b><font color="#E38232"><font size="3"><font color="#E38232">Monday, January 18, 2016</font></font></font><font color="#E38232"><font size="3"><b><font color="#E38232"><br></font></b></font></font></b></font>
+      <ul>
+        <li><font color="#000000"><font size="3"><b>Updated</b> Main Page</font></font></li>
+        <li><font color="#000000"><font size="3"><b>Updated</b> <a href="/page/New+Vis+Making+Guide" target="_self">Making Vis for News!!</a> Page</font></font></li>
+        <li><font color="#000000"><font size="3"><b>Updated</b> <a href="/page/PvP" target="_self">PVP Page<br></a></font></font></li>
+        <li><font color="#000000"><font size="3"><b>Updated</b> <a href="/page/Server+Timetable" target="_self">Server Timeable</a> Page</font></font></li>
+        <li><font color="#000000"><font size="3"><b>Updated</b> <a href="/page/High+End+Equipment" target="_self">High End-Gear</a> Page<br></font></font></li>
+      </ul><font size="3"><b><font color="#E38232"><br>
+      <br>
+      Sunday, January 17, 2016<br></font></b></font>
+      <ul>
+        <li><font size="3"><b><font color="#E38232"><font color="#000000"><i>Updated</i></font></font></b></font> <font size="3"><font color="#000000">the <a href="/page/Game+Characters" target="_self">Game Characters</a> list.</font></font></li>
+        <li><font size="3"><font color="#000000"><i><b>Added</b></i> <a href="/page/Nena" target="_self">Nena</a> and <a href="/page/Sierra+Rose" target="_self">Sierra</a> Character Recruitment Quest</font></font></li>
+        <li><font size="3"><font color="#000000"><i><b>Added</b></i> <a href="/page/Bahamar+Expedition" target="_self">Bahamar Expedition Questline</a> Episode <a href="/page/Episode+1" target="_self">1</a> &amp; <a href="/page/Episode+2" target="_self">2</a></font></font></li>
+        <li><font size="3"><font color="#000000"><i><b>Added</b></i> <a href="/page/Armonia+Holy+City+Questline" target="_self">Armonia Holy City Questline</a> Episode <a href="/page/Armonia+Episode+1" target="_self">1</a> (Work in Progress)</font></font></li>
+        <li><font size="3"><font color="#000000"><b><i>Deleted</i></b> The Woorwood Merseine,Replaced by Jupath<br></font></font></li>
+      </ul><font size="3"><b><font color="#E38232"><font size="3"><font color="#E38232">Friday, February 7, 2014</font></font></font><font color="#E38232"><br>
+      <font color="#E38232"><font size="3"><b><br></b></font></font></font></b></font>
+      <ul>
+        <li>
+          <i><b>Updated</b></i> the <a href="/page/Game+Characters" target="_self">Game Characters</a> list.
+        </li>
+        <li>
+          <i><b>Added</b></i> <a href="/page/Kess+Kielce" target="_self" title="Kess">Kess</a>, <a href="/page/Olivia" target="_self" title="Olivia">Olivia</a>, <a href="/page/Veil" target="_self" title="Veil">Veil</a>, <a href="/page/Friede+Beckerath" target="_self" title="Friede">Friede</a>, <a href="/page/Spy+Olivia" target="_self" title="Spy Olivia">Spy Olivia</a>, <a href="/page/Rose%2C+The+Spirit" target="_self" title="Rose">Rose</a>, <a href="/page/Montoro" target="_self" title="Montoro">Montoro</a>, <a href="/page/Rosablanca" target="_self" title="Rosa">Rosa</a>, <a href="/page/Roth" target="_self" title="Roth">Roth</a>, <a href="/page/Snowflake+Cherlyn" target="_self" title="Snowflake Cherlyn">Snowflake Cherlyn</a>, <a href="/page/Selane" target="_self" title="Selane">Selane</a>, <a href="/page/Battlefield+Claude" target="_self" title="Battlefield Claude">Battlefield Claude</a>, <a href="/page/Rachel+Sheffield" target="_self" title="Rachel">Rachel</a>, <a href="/page/Illusion" target="_self" title="Illusion">Illusion</a>, <a href="/page/Sierra+Rose" target="_self" title="Sierra">Sierra</a> and <a href="/page/Nena" target="_self" title="Nena">Nena</a> character page.<br>
+        </li>
+        <li>
+          <i><b>Updated</b></i> <a href="/page/Marchetti" target="_self" title="Marchetti">Marchetti</a>, <a href="/page/Rascel" target="_self" title="Rascel">Rascel</a>, <a href="/page/Valeria+Vendetta" target="_self" title="Valeria Vendetta">Valeria Vendetta</a> and <a href="/page/Cherlyn" target="_self" title="Cherlyn">Cherlyn</a><i><b>.<br></b></i>
+        </li>
+      </ul><br>
+      <font size="3"><b><font color="#E38232"><font size="3"><font color="#E38232">Sunday, February 2, 2014</font></font></font><font color="#E38232"><br>
+      <font color="#E38232"><font size="3"><b><br></b></font></font></font></b></font>
+      <ul>
+        <li>
+          <i><b>Updated</b></i> the <a href="/page/Inherent+Skill+List" target="_self">Inherent Skills</a> list.
+        </li>
+      </ul><font size="3"><b><font color="#E38232"><br>
+      Wednesday, January 29, 2014</font></b></font><br>
+      <font color="#E38232"><font size="3"><b><br></b></font></font>
+      <ul>
+        <li>
+          <i><b>Updated</b></i> the <a href="/page/Game+Characters" target="_self">Game Characters</a> list. All new characters from Kielce and promotional characters have been added.
+        </li>
+        <li>
+          <i><b>Updated</b></i> <a href="/page/Revised+Character+Combination+Buff" target="_self">Character Combination Buff</a>.
+        </li>
+        <li>
+          <i><b>Added</b></i> <a href="/page/Artifacts" target="_self" title="Artifacts">Artifacts</a> guide page.
+        </li>
+        <li>
+          <i><b>Added</b></i> <a href="/page/Family+Attribute" target="_self">Family Attribute</a> guide page.
+        </li>
+      </ul><br>
+      <font size="3"><b><font color="#E38232">Friday, March 8, 201<font size="3">3</font></font></b></font><font color="#E38232"><font size="3"><b><br>
+      <br></b></font></font>
+      <ul>
+        <li>
+          <i><b>Updated</b></i> the <a href="/page/Game+Characters" target="_self">Game Characters</a> list. All new characters from Kielce have been added.<br>
+        </li>
+        <li>
+          <i><b>Updated</b></i> <a href="/page/Quests" target="_self">questline</a> for the new City of Kielce.
+        </li>
+        <li><i><b>Updated</b></i> from Sword 2 to Granado Espada Online link at the bottom of the page.</li>
+        <li><i><b>Added</b></i> Trance Robo expert stance for Viki. Click the link there for the quest.<br></li>
+      </ul><font size="3"><b><font color="#E38232"><br></font></b></font><font size="3"><b><font color="#E38232">Wednesday, May 9, 2012</font></b></font><font color="#E38232"><font size="3"><b><br>
+      <br></b></font></font>
+      <ul>
+        <li>
+          <i><b>Added</b></i> 13 new UPCs (like <i>Grandice, Ludin, Veronif</i> etc). Check out the <a href="/page/Game+Characters" target="_self">Game Characters</a> page.
+        </li>
+        <li>
+          <b><i>Unlocked</i></b> the <a href="/page/Inherent+Skill+List" target="_self">Personal Skill</a> page.<br>
+        </li>
+        <li>
+          <b><i>Wiki needs</i></b> <i>your help</i> too. If you see outdated infos, quests, guides please use <a href="/page/Wiki+needs+you" target="_self">this page</a> to notify it. Writers will be able to update it while <i>members</i> can still help notifying it.
+        </li>
+      </ul><br>
+      <div align="center">
+        <font size="6"><b>Explore <font color="#E88F4A">Wiki of the New World</font></b></font>
+      </div>
+      <div align="center">
+        <font size="5"><font color="#E88F4A"><font size="5"><font color="#E38232"><i><font size="4"><br></font></i></font></font></font></font>
+        <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+          <tbody>
+            <tr>
+              <td bgcolor="#EBA967" class="WPC-edit-custom-bgColorWPC-edit-custom-bgColor" width="23%"><font color="#000000">Fresh off the Pinta?</font></td>
+              <td align="center" class="" width="25%">
+                <a href="/page/Instruction+Manual" target="_self">Instruction Manual</a>
+              </td>
+              <td align="center" class="" width="25%">
+                <a href="/page/Quest%3A+Walkthrough" target="_self">Walkthrough</a>
+              </td>
+              <td align="center" class="" width="26%">
+                <a href="/page/Terminology" target="_self">Terminology</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div><br>
+      <div align="center"></div><font color="#E38232"><i><font size="4"></font></i></font>
+      <table align="bottom" cellpadding="3" class="WPC-edit-style-grid2 WPC-edit-border-all WPC-edit-styleData-color1=%23e8d4b3&color2=%23f0aa69" width="100%">
+        <tbody>
+          <tr>
+            <td align="center" bgcolor="#EBA665" class="WPC-edit-custom-bgColor" width="19%">
+              <b><font color="#000000">Quests</font><br></b><a href="/page/Quests" target="_self"><img align="bottom" alt="Quests" height="330" src="/image/3/ejaENxTJsp4CCXZNrkIUdQ43891/GW180H330.png" title="Quests" width="180"></a>
+            </td>
+            <td align="center" bgcolor="#EBA665" class="WPC-edit-custom-bgColor" width="21%">
+              <font color="#000000"><b>Characters</b></font><br>
+              <a href="/page/Game+Characters" target="_self"><img align="bottom" alt="Characters" height="330" src="/image/3/rXt9TxEra18YDoeBeUZaEw63233/GW180H330.png" title="Characters" width="180"></a><a href="/page/Game+Characters" target="_self"><br></a>
+            </td>
+            <td align="center" bgcolor="#EBA665" class="WPC-edit-custom-bgColor" width="21%"><font color="#000000"><b>Items</b> <b>&amp; Equipment</b><br>
+            <a href="/page/Items+%26+Equipment" target="_self"><img align="bottom" alt="Items & Equipment" height="330" src="/image/3/Cg-wvICi9fz_YYv1fT3MRQ157409/GW180H330.png" title="Items & Equipment" width="180"></a></font></td>
+            <td align="center" bgcolor="#EBA665" class="WPC-edit-custom-bgColor" width="19%"><font color="#000000"><b>Activities</b></font><br>
+            <img align="bottom" alt="Activities" height="330" src="/image/3/yukSzmov_ITY3ewztXZ4Jw38992/GW180H330.png" title="Activities" width="180"></td>
+            <td align="center" bgcolor="#EBA665" class="WPC-edit-custom-bgColor" width="20%"><font color="#000000"><b>World</b><br>
+            <a href="/page/World+Map" target="_self"><img align="bottom" alt="World Map" height="330" src="http://image.wikifoundry.com/image/3/d1wiyt4q3VorJT88FgBdDQ36867/GW180H330" title="World Map" width="180"></a><br></font></td>
+          </tr>
+          <tr>
+            <td align="center" class="" width="19%">
+              <a href="/page/Pioneering+Quest+-+Reboldeaux" target="_self">Starting off</a>
+            </td>
+            <td align="center" class="" width="21%">
+              <a href="/page/Game+Characters" target="_self">Full Character List</a>
+            </td>
+            <td align="center" class="" width="21%">
+              <a href="/page/Body" target="_self">Costumes</a>
+            </td>
+            <td align="center" class="" width="19%">
+              <a href="/page/Server+Timetable" target="_self">Events</a>
+            </td>
+            <td align="center" class="" width="20%">
+              <a href="/page/Zones" target="_self">Zone Maps</a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" bgcolor="#E8D4B3" class="" width="19%">
+              <a href="/page/Katovic+Snowfield+Quests" target="_self">Katovic Questline</a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="" width="21%"><font color="#E38232"><i><font size="4"><font color="#E38232"><i><font size="4"><font color="#E38232"><i><a href="/page/Game+Stances" target="_self"><font size="4">Stances</font></a></i></font></font></i></font></font></i></font></td>
+            <td align="center" bgcolor="#E8D4B3" class="" width="21%">
+              <a href="/page/High+End+Equipment" target="_self">High-End Weapons</a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="" width="19%">
+              <a href="/page/Raids" target="_self">Raids</a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="" width="20%">
+              <a href="/page/El+Dorado" target="_self">City Maps</a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" class="" width="19%">
+              <a href="/page/Errac+Questline" target="_self"><font color="#E38232"><font size="4">Errac Questline</font></font></a>
+            </td>
+            <td align="center" class="" width="21%"><font color="#E38232"><i><font size="4"><font color="#E38232"><i><a href="/page/Expert+Stances" target="_self"><font size="4">Expert Stances</font></a></i></font></font></i></font></td>
+            <td align="center" class="" width="21%">
+              <a href="/page/Crafting%2FEnchanting%2FRefining" target="_self">Crafting</a>
+            </td>
+            <td align="center" class="" width="19%">
+              <a href="/page/PvP" target="_self">PvP</a>
+            </td>
+            <td align="center" class="" width="20%">
+              <a href="/page/Elections" target="_self">Elections</a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" bgcolor="#E8D4B3" class="WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="19%">
+              <a href="/page/Pets" target="_self"><font color="#0000FF"><font size="4">Pet Quest</font></font></a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="21%">
+              <a href="/page/Character+Comparison" target="_self">Character <font size="1"></font>Comparison</a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="21%">
+              <a href="/page/Equipment+Upgrade" target="_self">Upgrading</a><font color="#333333" size="3">&amp;</font><a href="/page/Equipment+Sockets" target="_self">Socketing</a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="19%">
+              <a href="/page/New+Vis+Making+Guide" target="_self">Making Vis</a>
+            </td>
+            <td align="center" bgcolor="#E8D4B3" class="WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="20%">
+              <a href="/page/Colony+War" target="_self">Colony War<br></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div align="center">
+        <font color="#E38232"><font color="#333333" size="2"><br>
+        These are a select few links to <a href="/page/#" target="_self" title="Click to Continue &gt; by Browse to Save">start</a> you off. Explore the sidebar to your left for much, much more.<br>
+        <br>
+        <br></font></font>
+      </div><font color="#E38232"><i><font size="4"><br></font></i></font>
+      <div align="center"></div>
+      <table align="center" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" height="25" width="1280">
+        <tbody>
+          <tr>
+            <td align="center" class="WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="33%"><br></td>
+            <td align="center" class="WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="33%"><br></td>
+            <td align="center" class="WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="33%"><br></td>
+          </tr>
+        </tbody>
+      </table>
+      <div align="left">
+        <i><br></i>
+      </div><i><br></i>
+      <div align="center">
+        <font size="2"><i><a href="/page/News+Archive" target="_self">News Archive</a><br>
+        <br></i></font>
+      </div>
+      <div align="center"></div><font size="2"><font size="3"><i><font color="#E38232"><font size="4">Other Granado Espada Sites:</font></font></i></font></font><br>
+      <font face="Arial" size="1">If you know of a page that has info related to Sword or Granado Espada in general, send a PM to any of the administrators/mods (or Loth) and they will check it out and add it; or just post in the thread at the bottom of this page.</font><font face="Arial" size="1">.</font> <font size="2"><font size="3"><b><font color="#89449C"><br></font></b></font></font>
+      <div align="center">
+        <div align="left">
+          <font><font></font></font>
+          <table align="bottom" cellpadding="3" class="WPC-edit-style-list6 WPC-edit-border-rows WPC-edit-styleData-color1=%23ffffff&color2=%23eba967" width="100%">
+            <tbody>
+              <tr>
+                <td align="center" bgcolor="#FAE4CF" class="WPC-edit-custom-borderRight WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-double WPC-edit-custom-borderRightWPC-edit-custom-bgColor" width="50%"><img align="bottom" alt="GEEU" height="210" src="http://image.wikifoundry.com/image/3/xzrlzho83WG1JmL-vBvukQ101399/GW650H210" title="GEEU" width="650"></td>
+                <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderLeft WPC-edit-borderLeft-double WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRightWPC-edit-custom-bgColorWPC-edit-custom-bgColor" width="50%">
+                  <b><font><font>Granado Espada Europe by EuroGamez<br></font></font></b>
+                  <ul>
+                    <li>Official,Forum,Download<br></li>
+                  </ul>
+                  <div></div>
+                  <div><img align="bottom" alt="Wiki Of The New World - Wiki of the New World" height="25" src="http://image.wikifoundry.com/image/3/v_zbasMyop-AY8TtG4745Q2921/GW135H25" title="Wiki Of The New World - Wiki of the New World" width="135"></div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div align="center"></div>
+      <div align="center">
+        <div align="left">
+          <font size="1"><font size="2"><br></font></font>
+          <table align="bottom" cellpadding="3" class="WPC-edit-style-list6 WPC-edit-border-rows WPC-edit-styleData-color1=%23ffffff&color2=%23eba967" width="100%">
+            <tbody>
+              <tr>
+                <td align="center" bgcolor="#FAE4CF" class="WPC-edit-custom-bgColor WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-double WPC-edit-custom-borderRight" width="50%"><img align="bottom" alt="Wiki Of The New World - Wiki of the New World" src="http://image.wikifoundry.com/image/3/ae4925104e57988f22973eb61d4c0132" title="Wiki Of The New World - Wiki of the New World"></td>
+                <td bgcolor="#FFFFFF" class="WPC-edit-borderLeft-double WPC-edit-custom-borderLeftWPC-edit-custom-bgColor WPC-edit-borderRight-solid WPC-edit-custom-borderRight" width="50%">
+                  <font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><img align="bottom" alt="Wiki Of The New World - Wiki of the New World" height="46" src="http://image.wikifoundry.com/image/1/xCbV6ALD1zHuAWRGzQTntQ6643/GW192H46" title="Wiki Of The New World - Wiki of the New World" width="192"></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br>
+                  <br>
+                  <font size="1"><font size="2"><font color="#000000" size="2"><b>Official website for</b></font></font></font><b>Sword of the New World</b><font size="1"><font size="2"><font color="#000000" size="2"><b>/ Sword 2 / Granad<font size="2">o Espada Online</font></b></font></font></font><font size="1"><font size="2"><font color="#000000" size="6"><font size="2"><br></font></font></font></font>
+                  <ul>
+                    <li><font size="1"><font size="2"><font size="1"><font size="2"><font color="#000000">Home of the Official Forums and free Client Download</font></font></font></font></font></li>
+                    <li><font color="#000000"><font size="2"><font size="1"><font size="2"><font color="#000000">Also follow <b>Granado Espada Online</b>&#39;s official pages on</font><font color="#000000" size="6"><font size="2">...</font></font></font></font></font></font></li>
+                  </ul><font size="1"><font size="2"><font color="#000000"><img align="bottom" alt="Wiki Of The New World - Wiki of the New World" height="37" src="http://image.wikifoundry.com/image/3/fWpaWN-XVCJH-PPShfn22g2034/GW39H37" title="Wiki Of The New World - Wiki of the New World" width="39"> <img align="bottom" alt="Wiki Of The New World - Wiki of the New World" height="37" src="http://image.wikifoundry.com/image/3/8O9pTgIIMSCaB6ZNLVF7RA2345/GW37H37" title="Wiki Of The New World - Wiki of the New World" width="37"><img align="bottom" alt="Wiki Of The New World - Wiki of the New World" height="37" src="http://image.wikifoundry.com/image/3/XLDxt4zJyheWgZ8TAKPt4Q2470/GW40H37" title="Wiki Of The New World - Wiki of the New World" width="40"></font></font></font>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" bgcolor="#FAE4CF" class="WPC-edit-custom-borderRight WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-double WPC-edit-custom-borderRightWPC-edit-custom-bgColor" width="50%"><img align="bottom" alt="Wiki Of The New World - Wiki of the New World" height="134" src="http://image.wikifoundry.com/image/3/45da4b7acc55628897fd2a6bde745548/GW684H134" title="Wiki Of The New World - Wiki of the New World" width="684"></td>
+                <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderLeft WPC-edit-borderLeft-double WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRightWPC-edit-custom-bgColorWPC-edit-custom-bgColor" width="50%">
+                  <b>Granado Espada at jupath</b><br>
+                  <ul>
+                    <li><font size="1"><font size="2">Comprehensive database of equipment, items, recipes, characters, stances, maps, and monsters including drop tables and exp calculations.</font></font></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" bgcolor="#FAE4CF" class="WPC-edit-custom-borderRight WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-double WPC-edit-custom-borderRightWPC-edit-custom-bgColor" width="50%"><img align="bottom" alt="JP Wiki" height="113" src="http://image.wikifoundry.com/image/3/i_BWn2XkHD54VBwjVjajbQ25474/GW339H113" title="JP Wiki" width="339"></td>
+                <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderLeft WPC-edit-borderLeft-double WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRightWPC-edit-custom-bgColorWPC-edit-custom-bgColor" width="50%">
+                  <b><font size="1"><font size="2"><font size="2">JP Wiki - Official Wiki for Japanese Granado Espada.<br></font></font></font></b>
+                  <ul>
+                    <li><font size="2">(Click here for google translated version)</font></li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div align="center"></div><font size="3"><font size="2"><br></font></font>
+    </div>
+    <h2 id='morepagesh2' class='show' onclick='showhide("morepages");'>More pages</h2>
+    <div id='morepages' style='display:none;'>
+      <div id='categories'>
+        <ul>
+          <li>Wiki Of The New World
+            <ul>
+              <li>
+                <a href='/page/About+SotNW-Wiki'>About SotNW-Wiki</a>
+              </li>
+              <li>
+                <a href='/page/SotNW-Wiki+Directory'>SotNW-Wiki Directory</a>
+              </li>
+              <li>
+                <a href='/page/NEWEST+UPDATES'>NEWEST UPDATES</a>
+              </li>
+              <li>
+                <a href='/page/Quests'>Quests</a>
+                <ul>
+                  <li>
+                    <a href='/page/Pioneering+Quests'>Pioneering Quests</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Bahamar+Quests'>Bahamar Quests</a>
+                      </li>
+                      <li>
+                        <a href='/page/Katovic+Snowfield+Quests'>Katovic Snowfield Quests</a>
+                      </li>
+                      <li>
+                        <a href='/page/Caebolan+Quests'>Caebolan Quests</a>
+                      </li>
+                      <li>
+                        <a href='/page/Errac+Questline'>Errac Questline</a>
+                      </li>
+                      <li>
+                        <a href='/page/Pioneering+Quest+-+Reboldeaux'>Pioneering Quest - Reboldeaux</a>
+                      </li>
+                      <li>
+                        <a href='/page/Pioneering+Quest+-+Port+of+Coimbra'>Pioneering Quest - Port of Coimbra</a>
+                      </li>
+                      <li>
+                        <a href='/page/Pioneering+Quest+-+City+of+Auch'>Pioneering Quest - City of Auch</a>
+                      </li>
+                      <li>
+                        <a href='/page/Pioneering+Quest+-+Ustiur+Base+Camp'>Pioneering Quest - Ustiur Base Camp</a>
+                      </li>
+                      <li>
+                        <a href='/page/Chateau+de+Bourgogne'>Chateau de Bourgogne</a>
+                      </li>
+                      <li>
+                        <a href='/page/Holy+Water+Chamber'>Holy Water Chamber</a>
+                      </li>
+                      <li>
+                        <a href='/page/5+Elemental+Otite'>5 Elemental Otite</a>
+                      </li>
+                      <li>
+                        <a href='/page/Lucifer+Castle'>Lucifer Castle</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Other+Quest'>Other Quest</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Quests+-+Level+100+-+Veteran'>Quests - Level 100 - Veteran</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Elemental+Keys+%28Gates%29'>Elemental Keys (Gates)</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Garcia+Questline'>Garcia Questline</a>
+                      </li>
+                      <li>
+                        <a href='/page/Selva+Questline'>Selva Questline</a>
+                      </li>
+                      <li>
+                        <a href='/page/Baron+Questline'>Baron Questline</a>
+                      </li>
+                      <li>
+                        <a href='/page/Other+Quest+-+Reboldeaux'>Other Quest - Reboldeaux</a>
+                      </li>
+                      <li>
+                        <a href='/page/Other+Quest+-+Port+of+Coimbra'>Other Quest - Port of Coimbra</a>
+                      </li>
+                      <li>
+                        <a href='/page/Other+Quest+-+Ustiur+Base+Camp'>Other Quest - Ustiur Base Camp</a>
+                      </li>
+                      <li>
+                        <a href='/page/Master+Martial+Artist+Stance+Quest'>Master Martial Artist Stance Quest</a>
+                      </li>
+                      <li>
+                        <a href='/page/Raven+Quest+Line'>Raven Quest Line</a>
+                      </li>
+                      <li>
+                        <a href='/page/Other+Quest+-+Viron'>Other Quest - Viron</a>
+                      </li>
+                      <li>
+                        <a href='/page/Catherine+Torsche+Questline'>Catherine Torsche Questline</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Repeatable+Quest'>Repeatable Quest</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Secret+Tower+Certificate'>Secret Tower Certificate</a>
+                      </li>
+                      <li>
+                        <a href='/page/Sigmund+Voucher+Hunt'>Sigmund Voucher Hunt</a>
+                      </li>
+                      <li>
+                        <a href='/page/Raid+Cliff+Protector'>Raid Cliff Protector</a>
+                      </li>
+                      <li>
+                        <a href='/page/Repeatable+Quest+-+El+Tejado+Verde'>Repeatable Quest - El Tejado Verde</a>
+                      </li>
+                      <li>
+                        <a href='/page/Gardener'>Gardener</a>
+                      </li>
+                      <li>
+                        <a href='/page/Man+Eating+Bear+Hunt'>Man Eating Bear Hunt</a>
+                      </li>
+                      <li>
+                        <a href='/page/Repeatable+Quest+-+El+Canon+de+Diabolica'>Repeatable Quest - El Canon de Diabolica</a>
+                      </li>
+                      <li>
+                        <a href='/page/Suppression+of+the+Monsters+in+the+Lake'>Suppression of the Monsters in the Lake</a>
+                      </li>
+                      <li>
+                        <a href='/page/Crocodile+Threats'>Crocodile Threats</a>
+                      </li>
+                      <li>
+                        <a href='/page/A+Powerful+Foe%3A+The+Tyrannosaurus'>A Powerful Foe: The Tyrannosaurus</a>
+                      </li>
+                      <li>
+                        <a href='/page/Repeatable+Quest+-+City+of+Auch'>Repeatable Quest - City of Auch</a>
+                      </li>
+                      <li>
+                        <a href='/page/Repeatable+Quest+-+Abertal'>Repeatable Quest - Abertal</a>
+                      </li>
+                      <li>
+                        <a href='/page/Food+Research'>Food Research</a>
+                      </li>
+                      <li>
+                        <a href='/page/Treasure+Hunter+Olengarsh'>Treasure Hunter Olengarsh</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Quest%3A+Walkthrough'>Quest: Walkthrough</a>
+                  </li>
+                  <li>
+                    <a href='/page/Viron+Quests'>Viron Quests</a>
+                  </li>
+                  <li>
+                    <a href='/page/Viron+Clocktower'>Viron Clocktower</a>
+                  </li>
+                  <li>
+                    <a href='/page/Kielce+Questline'>Kielce Questline</a>
+                  </li>
+                  <li>
+                    <a href='/page/Return+of+the+heroes'>Return of the heroes</a>
+                  </li>
+                  <li>
+                    <a href='/page/Kielce%27s+Friendship+Questline'>Kielce's Friendship Questline</a>
+                  </li>
+                  <li>
+                    <a href='/page/Armonia+Holy+City+Questline'>Armonia Holy City Questline</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Armonia+Episode+1'>Armonia Episode 1</a>
+                      </li>
+                      <li>
+                        <a href='/page/Armonia+Episode+2'>Armonia Episode 2</a>
+                      </li>
+                      <li>
+                        <a href='/page/Armonia+Episode+3'>Armonia Episode 3</a>
+                      </li>
+                      <li>
+                        <a href='/page/Armonia+Episode+4'>Armonia Episode 4</a>
+                      </li>
+                      <li>
+                        <a href='/page/Armonia+Episode+5'>Armonia Episode 5</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Bahamar+Expedition'>Bahamar Expedition</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Episode+1'>Episode 1</a>
+                      </li>
+                      <li>
+                        <a href='/page/Episode+2'>Episode 2</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Game+Characters'>Game Characters</a>
+                <ul>
+                  <li>
+                    <a href='/page/Fighter'>Fighter</a>
+                  </li>
+                  <li>
+                    <a href='/page/Wizard'>Wizard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Musketeer'>Musketeer</a>
+                  </li>
+                  <li>
+                    <a href='/page/Scout'>Scout</a>
+                  </li>
+                  <li>
+                    <a href='/page/Elementalist'>Elementalist</a>
+                  </li>
+                  <li>
+                    <a href='/page/Lisa+Lynway'>Lisa Lynway</a>
+                  </li>
+                  <li>
+                    <a href='/page/Adelina+Esperanza'>Adelina Esperanza</a>
+                  </li>
+                  <li>
+                    <a href='/page/M%27Boma'>M'Boma</a>
+                  </li>
+                  <li>
+                    <a href='/page/Jack+Shirley'>Jack Shirley</a>
+                  </li>
+                  <li>
+                    <a href='/page/Ramiro'>Ramiro</a>
+                  </li>
+                  <li>
+                    <a href='/page/Reboldeaux+Soldier'>Reboldeaux Soldier</a>
+                  </li>
+                  <li>
+                    <a href='/page/Soho'>Soho</a>
+                  </li>
+                  <li>
+                    <a href='/page/Emilia+Giannino'>Emilia Giannino</a>
+                  </li>
+                  <li>
+                    <a href='/page/Grace+Bernelli'>Grace Bernelli</a>
+                  </li>
+                  <li>
+                    <a href='/page/Lorch+Feurholden'>Lorch Feurholden</a>
+                  </li>
+                  <li>
+                    <a href='/page/Tiburon'>Tiburon</a>
+                  </li>
+                  <li>
+                    <a href='/page/Andre+Janzur'>Andre Janzur</a>
+                  </li>
+                  <li>
+                    <a href='/page/Brunie+Etienne'>Brunie Etienne</a>
+                  </li>
+                  <li>
+                    <a href='/page/Claude+Baudez'>Claude Baudez</a>
+                  </li>
+                  <li>
+                    <a href='/page/Idge+Imbrulia'>Idge Imbrulia</a>
+                  </li>
+                  <li>
+                    <a href='/page/Najib+Sharif'>Najib Sharif</a>
+                  </li>
+                  <li>
+                    <a href='/page/Yeganeh'>Yeganeh</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rescue+Knight'>Rescue Knight</a>
+                  </li>
+                  <li>
+                    <a href='/page/Character+Trading'>Character Trading</a>
+                  </li>
+                  <li>
+                    <a href='/page/Panfilo+de+Narvaez'>Panfilo de Narvaez</a>
+                  </li>
+                  <li>
+                    <a href='/page/Coimbran+Trooper'>Coimbran Trooper</a>
+                  </li>
+                  <li>
+                    <a href='/page/Gracielo'>Gracielo</a>
+                  </li>
+                  <li>
+                    <a href='/page/Alejandro'>Alejandro</a>
+                  </li>
+                  <li>
+                    <a href='/page/Jose+Cortasar'>Jose Cortasar</a>
+                  </li>
+                  <li>
+                    <a href='/page/Auch+Infantry'>Auch Infantry</a>
+                  </li>
+                  <li>
+                    <a href='/page/Gertrude+Peterson'>Gertrude Peterson</a>
+                  </li>
+                  <li>
+                    <a href='/page/Catherines'>Catherines</a>
+                  </li>
+                  <li>
+                    <a href='/page/Grenmah'>Grenmah</a>
+                  </li>
+                  <li>
+                    <a href='/page/Romina'>Romina</a>
+                  </li>
+                  <li>
+                    <a href='/page/Character+Promotion'>Character Promotion</a>
+                  </li>
+                  <li>
+                    <a href='/page/Irawain'>Irawain</a>
+                  </li>
+                  <li>
+                    <a href='/page/Character+Attributes'>Character Attributes</a>
+                  </li>
+                  <li>
+                    <a href='/page/Inherent+Skill+List'>Inherent Skill List</a>
+                  </li>
+                  <li>
+                    <a href='/page/Viki'>Viki</a>
+                  </li>
+                  <li>
+                    <a href='/page/Mia+Karjalain'>Mia Karjalain</a>
+                  </li>
+                  <li>
+                    <a href='/page/Soso'>Soso</a>
+                  </li>
+                  <li>
+                    <a href='/page/Angie+Shirley'>Angie Shirley</a>
+                  </li>
+                  <li>
+                    <a href='/page/Kurt+Lyndon'>Kurt Lyndon</a>
+                  </li>
+                  <li>
+                    <a href='/page/Class+Guides'>Class Guides</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Job+Combinations'>Job Combinations</a>
+                      </li>
+                      <li>
+                        <a href='/page/Fighter+Guide'>Fighter Guide</a>
+                      </li>
+                      <li>
+                        <a href='/page/Musketeer+Guide'>Musketeer Guide</a>
+                      </li>
+                      <li>
+                        <a href='/page/Scout+Guide'>Scout Guide</a>
+                      </li>
+                      <li>
+                        <a href='/page/Elementalist+Guide'>Elementalist Guide</a>
+                      </li>
+                      <li>
+                        <a href='/page/UPC+Guide'>UPC Guide</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Reboldeux+UPCs+Overview'>Reboldeux UPCs Overview</a>
+                          </li>
+                          <li>
+                            <a href='/page/Port+Coimbra+UPCs+Overview'>Port Coimbra UPCs Overview</a>
+                          </li>
+                          <li>
+                            <a href='/page/City+of+Auch+UPCs+Overview'>City of Auch UPCs Overview</a>
+                          </li>
+                          <li>
+                            <a href='/page/Ustiur+UPCs+Overview'>Ustiur UPCs Overview</a>
+                          </li>
+                          <li>
+                            <a href='/page/Basic+Characters+Overview'>Basic Characters Overview</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Wizard+Guide'>Wizard Guide</a>
+                        <ul>
+                          <li>
+                            <a href='/page/The+Wizard+-+Training+your+Player+Skills'>The Wizard - Training your Player Skills</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Vincent+Rio'>Vincent Rio</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Prelude+Quest'>Prelude Quest</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Baek+Ho'>Baek Ho</a>
+                  </li>
+                  <li>
+                    <a href='/page/Garcia+Gygax'>Garcia Gygax</a>
+                  </li>
+                  <li>
+                    <a href='/page/Calypso'>Calypso</a>
+                  </li>
+                  <li>
+                    <a href='/page/Claire'>Claire</a>
+                  </li>
+                  <li>
+                    <a href='/page/Emilia+the+Sage'>Emilia the Sage</a>
+                  </li>
+                  <li>
+                    <a href='/page/Soho+the+Fighter'>Soho the Fighter</a>
+                  </li>
+                  <li>
+                    <a href='/page/Battlesmith+Idge'>Battlesmith Idge</a>
+                  </li>
+                  <li>
+                    <a href='/page/Iron+Chef+Panfilo'>Iron Chef Panfilo</a>
+                  </li>
+                  <li>
+                    <a href='/page/Captain+Adelina'>Captain Adelina</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sir+Lyndon'>Sir Lyndon</a>
+                  </li>
+                  <li>
+                    <a href='/page/Nar'>Nar</a>
+                  </li>
+                  <li>
+                    <a href='/page/Selva+Norte'>Selva Norte</a>
+                  </li>
+                  <li>
+                    <a href='/page/Ania'>Ania</a>
+                  </li>
+                  <li>
+                    <a href='/page/Hellena'>Hellena</a>
+                  </li>
+                  <li>
+                    <a href='/page/Points+at+Vet+and+Expert'>Points at Vet and Expert</a>
+                  </li>
+                  <li>
+                    <a href='/page/Character+Comparison'>Character Comparison</a>
+                  </li>
+                  <li>
+                    <a href='/page/Reckless+Emilia'>Reckless Emilia</a>
+                  </li>
+                  <li>
+                    <a href='/page/Catherine+of+Combat'>Catherine of Combat</a>
+                  </li>
+                  <li>
+                    <a href='/page/Eduardo+Gygax'>Eduardo Gygax</a>
+                  </li>
+                  <li>
+                    <a href='/page/Catherine+Torsche'>Catherine Torsche</a>
+                  </li>
+                  <li>
+                    <a href='/page/Asoka'>Asoka</a>
+                  </li>
+                  <li>
+                    <a href='/page/Valeria'>Valeria</a>
+                  </li>
+                  <li>
+                    <a href='/page/Character+Status+List'>Character Status List</a>
+                  </li>
+                  <li>
+                    <a href='/page/Lionel'>Lionel</a>
+                  </li>
+                  <li>
+                    <a href='/page/Raven'>Raven</a>
+                  </li>
+                  <li>
+                    <a href='/page/Veronif'>Veronif</a>
+                  </li>
+                  <li>
+                    <a href='/page/Ralph'>Ralph</a>
+                  </li>
+                  <li>
+                    <a href='/page/Cruz'>Cruz</a>
+                  </li>
+                  <li>
+                    <a href='/page/Adriana'>Adriana</a>
+                  </li>
+                  <li>
+                    <a href='/page/Beatrice'>Beatrice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Daria'>Daria</a>
+                  </li>
+                  <li>
+                    <a href='/page/Elisa'>Elisa</a>
+                  </li>
+                  <li>
+                    <a href='/page/Grandice'>Grandice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Ion'>Ion</a>
+                  </li>
+                  <li>
+                    <a href='/page/Ludin'>Ludin</a>
+                  </li>
+                  <li>
+                    <a href='/page/Mary'>Mary</a>
+                  </li>
+                  <li>
+                    <a href='/page/Natalie'>Natalie</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rascel'>Rascel</a>
+                  </li>
+                  <li>
+                    <a href='/page/Vincent'>Vincent</a>
+                  </li>
+                  <li>
+                    <a href='/page/Tora'>Tora</a>
+                  </li>
+                  <li>
+                    <a href='/page/Valeria+Vendetta'>Valeria Vendetta</a>
+                  </li>
+                  <li>
+                    <a href='/page/Cadet+Adriana'>Cadet Adriana</a>
+                  </li>
+                  <li>
+                    <a href='/page/Cadet+Elisa'>Cadet Elisa</a>
+                  </li>
+                  <li>
+                    <a href='/page/Cherlyn'>Cherlyn</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sorang'>Sorang</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sniper+Bernelli'>Sniper Bernelli</a>
+                  </li>
+                  <li>
+                    <a href='/page/Marchetti'>Marchetti</a>
+                  </li>
+                  <li>
+                    <a href='/page/Queen+of+Pioneer%2C+Grandice'>Queen of Pioneer, Grandice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Heyran'>Heyran</a>
+                  </li>
+                  <li>
+                    <a href='/page/J.D'>J.D</a>
+                  </li>
+                  <li>
+                    <a href='/page/Kano'>Kano</a>
+                  </li>
+                  <li>
+                    <a href='/page/Barrel'>Barrel</a>
+                  </li>
+                  <li>
+                    <a href='/page/Liung'>Liung</a>
+                  </li>
+                  <li>
+                    <a href='/page/Revised+Character+Combination+Buff'>Revised Character Combination Buff</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Character+Combination+Buff'>Character Combination Buff</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Illusion'>Illusion</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rachel+Sheffield'>Rachel Sheffield</a>
+                  </li>
+                  <li>
+                    <a href='/page/Battlefield+Claude'>Battlefield Claude</a>
+                  </li>
+                  <li>
+                    <a href='/page/Selane'>Selane</a>
+                  </li>
+                  <li>
+                    <a href='/page/Roth'>Roth</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rosablanca'>Rosablanca</a>
+                  </li>
+                  <li>
+                    <a href='/page/Snowflake+Cherlyn'>Snowflake Cherlyn</a>
+                  </li>
+                  <li>
+                    <a href='/page/Montoro'>Montoro</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rose%2C+The+Spirit'>Rose, The Spirit</a>
+                  </li>
+                  <li>
+                    <a href='/page/Spy+Olivia'>Spy Olivia</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sierra+Rose'>Sierra Rose</a>
+                  </li>
+                  <li>
+                    <a href='/page/Nena'>Nena</a>
+                  </li>
+                  <li>
+                    <a href='/page/Friede+Beckerath'>Friede Beckerath</a>
+                  </li>
+                  <li>
+                    <a href='/page/Andre+de+Lou-Oshiba'>Andre de Lou-Oshiba</a>
+                  </li>
+                  <li>
+                    <a href='/page/Mifuyu'>Mifuyu</a>
+                  </li>
+                  <li>
+                    <a href='/page/Veil'>Veil</a>
+                  </li>
+                  <li>
+                    <a href='/page/Eva+Sharon'>Eva Sharon</a>
+                  </li>
+                  <li>
+                    <a href='/page/Olivia'>Olivia</a>
+                  </li>
+                  <li>
+                    <a href='/page/Kess+Kielce'>Kess Kielce</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sirius+Rigel'>Sirius Rigel</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Game+Stances'>Game Stances</a>
+                <ul>
+                  <li>
+                    <a href='/page/Elemental+Lord'>Elemental Lord</a>
+                  </li>
+                  <li>
+                    <a href='/page/How+to+get+the+veteran+stance+books'>How to get the veteran stance books</a>
+                  </li>
+                  <li>
+                    <a href='/page/Psychokinesis'>Psychokinesis</a>
+                  </li>
+                  <li>
+                    <a href='/page/ESP'>ESP</a>
+                  </li>
+                  <li>
+                    <a href='/page/Incantation'>Incantation</a>
+                  </li>
+                  <li>
+                    <a href='/page/Levitation'>Levitation</a>
+                  </li>
+                  <li>
+                    <a href='/page/Illusionist'>Illusionist</a>
+                  </li>
+                  <li>
+                    <a href='/page/Anathema'>Anathema</a>
+                  </li>
+                  <li>
+                    <a href='/page/Back+Guard'>Back Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Escrima'>Escrima</a>
+                  </li>
+                  <li>
+                    <a href='/page/Hack+and+Slash'>Hack and Slash</a>
+                  </li>
+                  <li>
+                    <a href='/page/High+Guard'>High Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Middle+Guard'>Middle Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Plow+Guard'>Plow Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Penetrar+Cruz'>Penetrar Cruz</a>
+                  </li>
+                  <li>
+                    <a href='/page/Blandir+Cruz'>Blandir Cruz</a>
+                  </li>
+                  <li>
+                    <a href='/page/Mighty+Cruz'>Mighty Cruz</a>
+                  </li>
+                  <li>
+                    <a href='/page/Roof+Guard'>Roof Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Heaven+and+Hell'>Heaven and Hell</a>
+                  </li>
+                  <li>
+                    <a href='/page/Epee+Garde'>Epee Garde</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sabre+Garde'>Sabre Garde</a>
+                  </li>
+                  <li>
+                    <a href='/page/Tail+Guard'>Tail Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Defender'>Defender</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sidewinder'>Sidewinder</a>
+                  </li>
+                  <li>
+                    <a href='/page/Stave+Guard'>Stave Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Avant+Garde'>Avant Garde</a>
+                  </li>
+                  <li>
+                    <a href='/page/Standing+Shot'>Standing Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Kneeling+Shot'>Kneeling Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Aiming+Shot'>Aiming Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Freestyle+Shot'>Freestyle Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Double-Gun+Shot'>Double-Gun Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Close+Encounters'>Close Encounters</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sight+Shot'>Sight Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Outrage+Shot'>Outrage Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Medic'>Medic</a>
+                  </li>
+                  <li>
+                    <a href='/page/Bard'>Bard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Install+Traps'>Install Traps</a>
+                  </li>
+                  <li>
+                    <a href='/page/Dobalada+Corte'>Dobalada Corte</a>
+                  </li>
+                  <li>
+                    <a href='/page/Tactical+Assistance'>Tactical Assistance</a>
+                  </li>
+                  <li>
+                    <a href='/page/Low+Guard'>Low Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Possession+Fire'>Possession Fire</a>
+                  </li>
+                  <li>
+                    <a href='/page/Possession+Ice'>Possession Ice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Possession+Lightning'>Possession Lightning</a>
+                  </li>
+                  <li>
+                    <a href='/page/Evocation+Fire'>Evocation Fire</a>
+                  </li>
+                  <li>
+                    <a href='/page/Evocation+Ice'>Evocation Ice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Evocation+Lightning'>Evocation Lightning</a>
+                  </li>
+                  <li>
+                    <a href='/page/Domination+Fire'>Domination Fire</a>
+                  </li>
+                  <li>
+                    <a href='/page/Forgotten+Magic'>Forgotten Magic</a>
+                  </li>
+                  <li>
+                    <a href='/page/Expert+Stances'>Expert Stances</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Equites'>Equites</a>
+                      </li>
+                      <li>
+                        <a href='/page/Hanging+Guard'>Hanging Guard</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tested+Guard'>Tested Guard</a>
+                      </li>
+                      <li>
+                        <a href='/page/Rapida+Espada'>Rapida Espada</a>
+                      </li>
+                      <li>
+                        <a href='/page/Madness'>Madness</a>
+                      </li>
+                      <li>
+                        <a href='/page/Death+Chopping'>Death Chopping</a>
+                      </li>
+                      <li>
+                        <a href='/page/Arnis'>Arnis</a>
+                      </li>
+                      <li>
+                        <a href='/page/Crusader'>Crusader</a>
+                      </li>
+                      <li>
+                        <a href='/page/Rapiere'>Rapiere</a>
+                      </li>
+                      <li>
+                        <a href='/page/Master+Martial+Arts'>Master Martial Arts</a>
+                      </li>
+                      <li>
+                        <a href='/page/Semilunar'>Semilunar</a>
+                      </li>
+                      <li>
+                        <a href='/page/Gorgeous'>Gorgeous</a>
+                      </li>
+                      <li>
+                        <a href='/page/Rapiere+of+Grim'>Rapiere of Grim</a>
+                      </li>
+                      <li>
+                        <a href='/page/Flintlock'>Flintlock</a>
+                      </li>
+                      <li>
+                        <a href='/page/Superior+Blaster'>Superior Blaster</a>
+                      </li>
+                      <li>
+                        <a href='/page/Duel+Blaster'>Duel Blaster</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tested+Burst'>Tested Burst</a>
+                      </li>
+                      <li>
+                        <a href='/page/Augury'>Augury</a>
+                      </li>
+                      <li>
+                        <a href='/page/Augury+%28Hellena%29'>Augury (Hellena)</a>
+                      </li>
+                      <li>
+                        <a href='/page/Occultism'>Occultism</a>
+                      </li>
+                      <li>
+                        <a href='/page/Darkness'>Darkness</a>
+                      </li>
+                      <li>
+                        <a href='/page/Enhanced+Tactics'>Enhanced Tactics</a>
+                      </li>
+                      <li>
+                        <a href='/page/Prelude'>Prelude</a>
+                      </li>
+                      <li>
+                        <a href='/page/Secret+of+Moonlight'>Secret of Moonlight</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bloody+Feast'>Bloody Feast</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tronada+Cruz'>Tronada Cruz</a>
+                      </li>
+                      <li>
+                        <a href='/page/Innocentio'>Innocentio</a>
+                      </li>
+                      <li>
+                        <a href='/page/Peltast'>Peltast</a>
+                      </li>
+                      <li>
+                        <a href='/page/Shadow+Sting'>Shadow Sting</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Shadow+Sting+%28New+Layout%29'>Shadow Sting (New Layout)</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Croisement'>Croisement</a>
+                      </li>
+                      <li>
+                        <a href='/page/Punisher'>Punisher</a>
+                      </li>
+                      <li>
+                        <a href='/page/Unlimited+Shot'>Unlimited Shot</a>
+                      </li>
+                      <li>
+                        <a href='/page/Wanted+Shot'>Wanted Shot</a>
+                      </li>
+                      <li>
+                        <a href='/page/Shining+Sting'>Shining Sting</a>
+                      </li>
+                      <li>
+                        <a href='/page/Frost'>Frost</a>
+                      </li>
+                      <li>
+                        <a href='/page/Efreet'>Efreet</a>
+                      </li>
+                      <li>
+                        <a href='/page/Blitz+Assault'>Blitz Assault</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Blitz+Assault+Quest'>Blitz Assault Quest</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Furious'>Furious</a>
+                      </li>
+                      <li>
+                        <a href='/page/Cutlass'>Cutlass</a>
+                      </li>
+                      <li>
+                        <a href='/page/Therapy'>Therapy</a>
+                      </li>
+                      <li>
+                        <a href='/page/Hermetisme'>Hermetisme</a>
+                      </li>
+                      <li>
+                        <a href='/page/Abyss'>Abyss</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tempest'>Tempest</a>
+                      </li>
+                      <li>
+                        <a href='/page/Sniper'>Sniper</a>
+                      </li>
+                      <li>
+                        <a href='/page/Trance+Robo+stance+quest'>Trance Robo stance quest</a>
+                      </li>
+                      <li>
+                        <a href='/page/Phythonis'>Phythonis</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Arbalest'>Arbalest</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sagitta'>Sagitta</a>
+                  </li>
+                  <li>
+                    <a href='/page/Schiavona'>Schiavona</a>
+                  </li>
+                  <li>
+                    <a href='/page/Ballista'>Ballista</a>
+                  </li>
+                  <li>
+                    <a href='/page/Martial+Elements%3A+Earth'>Martial Elements: Earth</a>
+                  </li>
+                  <li>
+                    <a href='/page/Martial+Elements%3A+Fire'>Martial Elements: Fire</a>
+                  </li>
+                  <li>
+                    <a href='/page/Raid+Assault'>Raid Assault</a>
+                  </li>
+                  <li>
+                    <a href='/page/Cauchemar'>Cauchemar</a>
+                  </li>
+                  <li>
+                    <a href='/page/Minstrel'>Minstrel</a>
+                  </li>
+                  <li>
+                    <a href='/page/Serenade'>Serenade</a>
+                  </li>
+                  <li>
+                    <a href='/page/Combatant'>Combatant</a>
+                  </li>
+                  <li>
+                    <a href='/page/Defending+Guard'>Defending Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Twin+Blades'>Twin Blades</a>
+                  </li>
+                  <li>
+                    <a href='/page/Main+Gauche+Garde'>Main Gauche Garde</a>
+                  </li>
+                  <li>
+                    <a href='/page/Martial+Elements%3A+Ice'>Martial Elements: Ice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Martial+Elements%3A+Mind'>Martial Elements: Mind</a>
+                  </li>
+                  <li>
+                    <a href='/page/Martial+Elements%3A+Wind'>Martial Elements: Wind</a>
+                  </li>
+                  <li>
+                    <a href='/page/Bareknuckle+v2'>Bareknuckle v2</a>
+                  </li>
+                  <li>
+                    <a href='/page/Grim+Guard'>Grim Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Epee+Garde+of+Grim'>Epee Garde of Grim</a>
+                  </li>
+                  <li>
+                    <a href='/page/Main+Gauche+Garde+of+Grim'>Main Gauche Garde of Grim</a>
+                  </li>
+                  <li>
+                    <a href='/page/Heaven+or+Hell+of+Grim'>Heaven or Hell of Grim</a>
+                  </li>
+                  <li>
+                    <a href='/page/Avant+Garde+of+Grim'>Avant Garde of Grim</a>
+                  </li>
+                  <li>
+                    <a href='/page/Flame+Guard'>Flame Guard</a>
+                  </li>
+                  <li>
+                    <a href='/page/Epee+Glacier'>Epee Glacier</a>
+                  </li>
+                  <li>
+                    <a href='/page/Sabre+Glacier'>Sabre Glacier</a>
+                  </li>
+                  <li>
+                    <a href='/page/Defending+Shot'>Defending Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Targan+Shot'>Targan Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Straight+Shot'>Straight Shot</a>
+                  </li>
+                  <li>
+                    <a href='/page/Shotgun+Blaster'>Shotgun Blaster</a>
+                  </li>
+                  <li>
+                    <a href='/page/Hunting+Blaster'>Hunting Blaster</a>
+                  </li>
+                  <li>
+                    <a href='/page/Gigantic+Blaster'>Gigantic Blaster</a>
+                  </li>
+                  <li>
+                    <a href='/page/Siege+Burst'>Siege Burst</a>
+                  </li>
+                  <li>
+                    <a href='/page/Gigantic+Marksmanship'>Gigantic Marksmanship</a>
+                  </li>
+                  <li>
+                    <a href='/page/Demolition+Burst'>Demolition Burst</a>
+                  </li>
+                  <li>
+                    <a href='/page/Domination+Ice'>Domination Ice</a>
+                  </li>
+                  <li>
+                    <a href='/page/Domination+Lightning'>Domination Lightning</a>
+                  </li>
+                  <li>
+                    <a href='/page/Construction'>Construction</a>
+                  </li>
+                  <li>
+                    <a href='/page/Defensive+Construction'>Defensive Construction</a>
+                  </li>
+                  <li>
+                    <a href='/page/Marionette'>Marionette</a>
+                  </li>
+                  <li>
+                    <a href='/page/Amicus'>Amicus</a>
+                  </li>
+                  <li>
+                    <a href='/page/Testis'>Testis</a>
+                  </li>
+                  <li>
+                    <a href='/page/Middle+Guard+of+Spirit'>Middle Guard of Spirit</a>
+                  </li>
+                  <li>
+                    <a href='/page/Twin+Blades+of+Spirit'>Twin Blades of Spirit</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Maps+and+Area+Info'>Maps and Area Info</a>
+                <ul>
+                  <li>
+                    <a href='/page/Cities'>Cities</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Port+of+Coimbra'>Port of Coimbra</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Nimraldi+Bridge'>Nimraldi Bridge</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Reboldeaux'>Reboldeaux</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Queen%27s+Gate'>Queen's Gate</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/City+of+Auch'>City of Auch</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Thueringen+Lakeside'>Thueringen Lakeside</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Ustiur+Base+Camp'>Ustiur Base Camp</a>
+                      </li>
+                      <li>
+                        <a href='/page/New+Opoluto'>New Opoluto</a>
+                      </li>
+                      <li>
+                        <a href='/page/Gigante+Island'>Gigante Island</a>
+                      </li>
+                      <li>
+                        <a href='/page/Los+Toldos'>Los Toldos</a>
+                      </li>
+                      <li>
+                        <a href='/page/El+Dorado'>El Dorado</a>
+                      </li>
+                      <li>
+                        <a href='/page/City+Amenities'>City Amenities</a>
+                      </li>
+                      <li>
+                        <a href='/page/Viron+%28Byron%29'>Viron (Byron)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Red+Sunset+Forest'>Red Sunset Forest</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/World+Map'>World Map</a>
+                  </li>
+                  <li>
+                    <a href='/page/Zones'>Zones</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Ferrucio+Junction'>Ferrucio Junction</a>
+                      </li>
+                      <li>
+                        <a href='/page/Reboldeaux%2C+Stone+Pit'>Reboldeaux, Stone Pit</a>
+                      </li>
+                      <li>
+                        <a href='/page/Cathari+Falls'>Cathari Falls</a>
+                      </li>
+                      <li>
+                        <a href='/page/King%27s+Garden'>King's Garden</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tetra+Hill'>Tetra Hill</a>
+                      </li>
+                      <li>
+                        <a href='/page/Jezebel+Glen'>Jezebel Glen</a>
+                      </li>
+                      <li>
+                        <a href='/page/Porto+Bello%2C+Deserted+Quay'>Porto Bello, Deserted Quay</a>
+                      </li>
+                      <li>
+                        <a href='/page/Porto+Bello%2C+Desolate+Cliff'>Porto Bello, Desolate Cliff</a>
+                      </li>
+                      <li>
+                        <a href='/page/Thueringenwald'>Thueringenwald</a>
+                      </li>
+                      <li>
+                        <a href='/page/El+Lago+de+Tres+Hermanas'>El Lago de Tres Hermanas</a>
+                      </li>
+                      <li>
+                        <a href='/page/El+Tejado+Verde'>El Tejado Verde</a>
+                      </li>
+                      <li>
+                        <a href='/page/Pradera+de+Ceniza'>Pradera de Ceniza</a>
+                      </li>
+                      <li>
+                        <a href='/page/Rion+Prairie'>Rion Prairie</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bonavista+River'>Bonavista River</a>
+                      </li>
+                      <li>
+                        <a href='/page/Vegas+Javier'>Vegas Javier</a>
+                      </li>
+                      <li>
+                        <a href='/page/Joaquin+Crater'>Joaquin Crater</a>
+                      </li>
+                      <li>
+                        <a href='/page/El+Ruina+de+Memoria'>El Ruina de Memoria</a>
+                      </li>
+                      <li>
+                        <a href='/page/Old+Port+of+Coimbra'>Old Port of Coimbra</a>
+                      </li>
+                      <li>
+                        <a href='/page/El+Canon+de+Diabolica'>El Canon de Diabolica</a>
+                      </li>
+                      <li>
+                        <a href='/page/Lago+Celeste'>Lago Celeste</a>
+                      </li>
+                      <li>
+                        <a href='/page/Rio+Albi'>Rio Albi</a>
+                      </li>
+                      <li>
+                        <a href='/page/Topolo+Durga'>Topolo Durga</a>
+                      </li>
+                      <li>
+                        <a href='/page/Scorching+Plateau'>Scorching Plateau</a>
+                      </li>
+                      <li>
+                        <a href='/page/Abertal'>Abertal</a>
+                      </li>
+                      <li>
+                        <a href='/page/Via+Fluvial'>Via Fluvial</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ferruccio+Wall'>Ferruccio Wall</a>
+                      </li>
+                      <li>
+                        <a href='/page/Deprimida+Valley'>Deprimida Valley</a>
+                      </li>
+                      <li>
+                        <a href='/page/Katovic+Snowfield'>Katovic Snowfield</a>
+                      </li>
+                      <li>
+                        <a href='/page/Frozen+Waste'>Frozen Waste</a>
+                      </li>
+                      <li>
+                        <a href='/page/Glacial+Fortress%2C+Forecourt'>Glacial Fortress, Forecourt</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ustiur+Zona+Uno'>Ustiur Zona Uno</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ustiur+Zona+Dos'>Ustiur Zona Dos</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ustiur+Zona+Tres'>Ustiur Zona Tres</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ustiur+Zona+Cuatro'>Ustiur Zona Cuatro</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bahamar%2C+Wetlands'>Bahamar, Wetlands</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bahamar%2C+Marsh'>Bahamar, Marsh</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bahamar%2C+Deep+Swamp'>Bahamar, Deep Swamp</a>
+                      </li>
+                      <li>
+                        <a href='/page/Gigante+Beach'>Gigante Beach</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bahamar%2C+Murky+Bayou'>Bahamar, Murky Bayou</a>
+                      </li>
+                      <li>
+                        <a href='/page/Land+of+the+Dead'>Land of the Dead</a>
+                      </li>
+                      <li>
+                        <a href='/page/Fire+Isle'>Fire Isle</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Fire+Isle+%28zone+one%29+100K'>Fire Isle (zone one) 100K</a>
+                          </li>
+                          <li>
+                            <a href='/page/Fire+Isle+%28zone+two%29+500K'>Fire Isle (zone two) 500K</a>
+                          </li>
+                          <li>
+                            <a href='/page/Fire+Isle+%28zone+three%29+800k'>Fire Isle (zone three) 800k</a>
+                          </li>
+                          <li>
+                            <a href='/page/Fire+Isle%2C+Caldera+of+Doom'>Fire Isle, Caldera of Doom</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Caebolan'>Caebolan</a>
+                      </li>
+                      <li>
+                        <a href='/page/Scarlet+Underground+%28Reboldeaux+Sewers%29'>Scarlet Underground (Reboldeaux Sewers)</a>
+                      </li>
+                      <li>
+                        <a href='/page/Errac+Tierra+Dias'>Errac Tierra Dias</a>
+                      </li>
+                      <li>
+                        <a href='/page/Errac+Tierra+Noche'>Errac Tierra Noche</a>
+                      </li>
+                      <li>
+                        <a href='/page/Colony+Battle+Arena'>Colony Battle Arena</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Dungeons'>Dungeons</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Al+Quelt+Moreza+%28Dungeon%29'>Al Quelt Moreza (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Al+Quelt+Moreza'>Al Quelt Moreza</a>
+                          </li>
+                          <li>
+                            <a href='/page/Al+Quelt+Moreza%2C+Narthex'>Al Quelt Moreza, Narthex</a>
+                          </li>
+                          <li>
+                            <a href='/page/Al+Quelt+Moreza%2C+Parsonage'>Al Quelt Moreza, Parsonage</a>
+                          </li>
+                          <li>
+                            <a href='/page/Al+Quelt+Moreza%2C+Arcade'>Al Quelt Moreza, Arcade</a>
+                          </li>
+                          <li>
+                            <a href='/page/Al+Quelt+Moreza%2C+Hollow'>Al Quelt Moreza, Hollow</a>
+                          </li>
+                          <li>
+                            <a href='/page/Squad+Raid+Instance%3A+Accursed+Al+Quelt+Moreza'>Squad Raid Instance: Accursed Al Quelt Moreza</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/The+Tetra+Ruins+%28Dungeon%29'>The Tetra Ruins (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/The+Tetra+Ruins'>The Tetra Ruins</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Tetra+Ruins%2C+Grand+Corridor'>The Tetra Ruins, Grand Corridor</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Tetra+Ruins%2C+Golden+Road'>The Tetra Ruins, Golden Road</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Tetra+Ruins%2C+Catacombs'>The Tetra Ruins, Catacombs</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Tetra+Ruins%2C+Grand+Chapel+%28Forgotten+Area%29'>The Tetra Ruins, Grand Chapel (Forgotten Area)</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Tetra+Ruins%2C+Antiquities+Chamber'>The Tetra Ruins, Antiquities Chamber</a>
+                          </li>
+                          <li>
+                            <a href='/page/Squad+Raid+Instance%3A+Accursed+Tetra+Ruins'>Squad Raid Instance: Accursed Tetra Ruins</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Dr+Torsche%27s+Mansion+%28Dungeon%29'>Dr Torsche's Mansion (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Dr+Torche%27s+Mansion%2C+Reception+Hall'>Dr Torche's Mansion, Reception Hall</a>
+                          </li>
+                          <li>
+                            <a href='/page/Dr+Torsche%27s+Mansion%2C+Savage+Garden'>Dr Torsche's Mansion, Savage Garden</a>
+                          </li>
+                          <li>
+                            <a href='/page/Dr+Torsche%27s+Mansion%2C+Grand+Library'>Dr Torsche's Mansion, Grand Library</a>
+                          </li>
+                          <li>
+                            <a href='/page/Dr+Torche%27s+Mansion%2C+Laboratory'>Dr Torche's Mansion, Laboratory</a>
+                          </li>
+                          <li>
+                            <a href='/page/Dr+Torsche%27s+Mansion%2C+Annex+%28Forgotten+Area%29'>Dr Torsche's Mansion, Annex (Forgotten Area)</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Porto+Bello+%28Dungeon%29'>Porto Bello (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Porto+Bello'>Porto Bello</a>
+                          </li>
+                          <li>
+                            <a href='/page/Porto+Bello%2C+The+Deck'>Porto Bello, The Deck</a>
+                          </li>
+                          <li>
+                            <a href='/page/Porto+Bello%2C+The+Cabin'>Porto Bello, The Cabin</a>
+                          </li>
+                          <li>
+                            <a href='/page/Porto+Bello%2C+The+Hold'>Porto Bello, The Hold</a>
+                          </li>
+                          <li>
+                            <a href='/page/Porto+Bello%2C+St.+Cathrine%27s+Saloon'>Porto Bello, St. Cathrine's Saloon</a>
+                          </li>
+                          <li>
+                            <a href='/page/Porto+Bello%2C+The+Hidden+Deck+%28Forgotten+Area%29'>Porto Bello, The Hidden Deck (Forgotten Area)</a>
+                          </li>
+                          <li>
+                            <a href='/page/Squad+Raid+Instance%3A+Accursed+Porto+Bello'>Squad Raid Instance: Accursed Porto Bello</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Prison+de+Joaquin+%28Dungeon%29'>Prison de Joaquin (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+The+Mohrgus'>Prison de Joaquin, The Mohrgus</a>
+                          </li>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+Laboratory+Block+%28Forgotten+Area%29'>Prison de Joaquin, Laboratory Block (Forgotten Area)</a>
+                          </li>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+The+Altar+of+Despair'>Prison de Joaquin, The Altar of Despair</a>
+                          </li>
+                          <li>
+                            <a href='/page/Joaquin+Lava+Plateau'>Joaquin Lava Plateau</a>
+                          </li>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+Torture+Chamber'>Prison de Joaquin, Torture Chamber</a>
+                          </li>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+Schivarliere'>Prison de Joaquin, Schivarliere</a>
+                          </li>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+Gehenna+Bridge'>Prison de Joaquin, Gehenna Bridge</a>
+                          </li>
+                          <li>
+                            <a href='/page/Prison+de+Joaquin%2C+Corridor+of+Assize'>Prison de Joaquin, Corridor of Assize</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Rion+Dungeon+%28Dungeon%29'>Rion Dungeon (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Rion+Dungeon%2C+Corridor'>Rion Dungeon, Corridor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Rion+Dungeon%2C+Hollow'>Rion Dungeon, Hollow</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Capybara+Plantation+%28Dungeon%29'>Capybara Plantation (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Capybara+Plantation'>Capybara Plantation</a>
+                          </li>
+                          <li>
+                            <a href='/page/Capybara+Plantation%2C+Mine+Passage'>Capybara Plantation, Mine Passage</a>
+                          </li>
+                          <li>
+                            <a href='/page/Capybara+Plantation%2C+Toubkal+Mine'>Capybara Plantation, Toubkal Mine</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/The+Skeleton+Dungeon+%28Dungeon%29'>The Skeleton Dungeon (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/The+Skeleton+Dungeon%2C+First+Floor'>The Skeleton Dungeon, First Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Skeleton+Dungeon%2C+Second+Floor'>The Skeleton Dungeon, Second Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Skeleton+Dungeon%2C+Third+Floor'>The Skeleton Dungeon, Third Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/The+Skeleton+Dungeon%2C+Barrow+de+la+Muerte'>The Skeleton Dungeon, Barrow de la Muerte</a>
+                          </li>
+                          <li>
+                            <a href='/page/Ancient%2FSecret+Area%3A+Skeleton+Dungeon+-+Floor+1'>Ancient/Secret Area: Skeleton Dungeon - Floor 1</a>
+                          </li>
+                          <li>
+                            <a href='/page/Ancient%2FSecret+Area%3A+Skeleton+Dungeon+-+Floor+2'>Ancient/Secret Area: Skeleton Dungeon - Floor 2</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Glacial+Fortress+%28Dungeon%29'>Glacial Fortress (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Glacial+Fortress%2C+Novia%27s+Parlor'>Glacial Fortress, Novia's Parlor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Glacial+Fortress%2C+First+Floor'>Glacial Fortress, First Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Glacial+Fortress%2C+Second+Floor'>Glacial Fortress, Second Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Glacial+Fortress%2C+Third+Floor'>Glacial Fortress, Third Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Glacial+Fortress%2C+Fourth+Floor'>Glacial Fortress, Fourth Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Glacial+Fortress%2C+Fifth+Floor'>Glacial Fortress, Fifth Floor</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Bahamar+Caves+%28Dungeon%29'>Bahamar Caves (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Bahamar+Caves%2C+First+Floor'>Bahamar Caves, First Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Bahamar+Caves%2C+Second+Floor'>Bahamar Caves, Second Floor</a>
+                          </li>
+                          <li>
+                            <a href='/page/Bahamar%2C+Ancient%2FSecret+Mineral+Cave'>Bahamar, Ancient/Secret Mineral Cave</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Titan%27s+Remorse+%28Dungeon%29'>Titan's Remorse (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Interna+de+Gigante'>Interna de Gigante</a>
+                          </li>
+                          <li>
+                            <a href='/page/Corazon+de+Gigante'>Corazon de Gigante</a>
+                          </li>
+                          <li>
+                            <a href='/page/Titan%27s+Remorse'>Titan's Remorse</a>
+                          </li>
+                          <li>
+                            <a href='/page/Ancient%2FSecret+Sacred+Titan%27s+Remorse'>Ancient/Secret Sacred Titan's Remorse</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Underground+Relics'>Underground Relics</a>
+                      </li>
+                      <li>
+                        <a href='/page/Oculta+Fortress+%28Dungeon%29'>Oculta Fortress (Dungeon)</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Oculta+Fortress'>Oculta Fortress</a>
+                          </li>
+                          <li>
+                            <a href='/page/Oculta+Fortress%2C+General%27s+Room'>Oculta Fortress, General's Room</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Zone+Features'>Zone Features</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Ferruccio%27s+Boxes'>Ferruccio's Boxes</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tree+Stumps+of+Death'>Tree Stumps of Death</a>
+                      </li>
+                      <li>
+                        <a href='/page/Hengestone+Locations'>Hengestone Locations</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ferruccio+Forges'>Ferruccio Forges</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Game+Bosses'>Game Bosses</a>
+                <ul>
+                  <li>
+                    <a href='/page/Unknown+game+boss'>Unknown game boss</a>
+                  </li>
+                  <li>
+                    <a href='/page/Insect'>Insect</a>
+                  </li>
+                  <li>
+                    <a href='/page/Golem'>Golem</a>
+                  </li>
+                  <li>
+                    <a href='/page/Human'>Human</a>
+                  </li>
+                  <li>
+                    <a href='/page/Undead'>Undead</a>
+                  </li>
+                  <li>
+                    <a href='/page/Wild+Beast'>Wild Beast</a>
+                  </li>
+                  <li>
+                    <a href='/page/Dinosaur'>Dinosaur</a>
+                  </li>
+                  <li>
+                    <a href='/page/Plant'>Plant</a>
+                  </li>
+                  <li>
+                    <a href='/page/Devil'>Devil</a>
+                  </li>
+                  <li>
+                    <a href='/page/Highlevel+Endgame'>Highlevel Endgame</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Raids'>Raids</a>
+                <ul>
+                  <li>
+                    <a href='/page/Mission+Lobbies'>Mission Lobbies</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Mission+Lobby%3A+Interchange'>Mission Lobby: Interchange</a>
+                      </li>
+                      <li>
+                        <a href='/page/Mission+Lobby%3A+Spotlight'>Mission Lobby: Spotlight</a>
+                      </li>
+                      <li>
+                        <a href='/page/Mission+Lobby%3A+Highway'>Mission Lobby: Highway</a>
+                      </li>
+                      <li>
+                        <a href='/page/Mission+Lobby%3A+Trinity'>Mission Lobby: Trinity</a>
+                      </li>
+                      <li>
+                        <a href='/page/Mission+Lobby%3A+Jaoquin+Barrier'>Mission Lobby: Jaoquin Barrier</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Raid+Point+System'>Raid Point System</a>
+                  </li>
+                  <li>
+                    <a href='/page/PvP+Enabled+Raids'>PvP Enabled Raids</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Secret+Temple'>Secret Temple</a>
+                      </li>
+                      <li>
+                        <a href='/page/Battle+Colosseum'>Battle Colosseum</a>
+                        <ul>
+                          <li>
+                            <a href='/page/General+Level+Coloseum'>General Level Coloseum</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Poison+Yard'>Poison Yard</a>
+                      </li>
+                      <li>
+                        <a href='/page/Team+Arena'>Team Arena</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Instanced+Raids'>Instanced Raids</a>
+                    <ul>
+                      <li>
+                        <a href='/page/General+Guard'>General Guard</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Secret+Tower'>Secret Tower</a>
+                          </li>
+                          <li>
+                            <a href='/page/Secret+Tower+L1'>Secret Tower L1</a>
+                          </li>
+                          <li>
+                            <a href='/page/Secret+Tower+L2'>Secret Tower L2</a>
+                          </li>
+                          <li>
+                            <a href='/page/Secret+Tower+L3'>Secret Tower L3</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Jormongand'>Jormongand</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bourgogne+Palace'>Bourgogne Palace</a>
+                      </li>
+                      <li>
+                        <a href='/page/Holy+Water+Chamber+Raid'>Holy Water Chamber Raid</a>
+                      </li>
+                      <li>
+                        <a href='/page/Land+of+Death'>Land of Death</a>
+                      </li>
+                      <li>
+                        <a href='/page/Arsene%27s+Secret+Vault'>Arsene's Secret Vault</a>
+                      </li>
+                      <li>
+                        <a href='/page/Castilla'>Castilla</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Castilla+Mine'>Castilla Mine</a>
+                          </li>
+                          <li>
+                            <a href='/page/Castilla+Relic'>Castilla Relic</a>
+                          </li>
+                          <li>
+                            <a href='/page/Tower+of+Chaos'>Tower of Chaos</a>
+                          </li>
+                          <li>
+                            <a href='/page/Castilla+Ruins'>Castilla Ruins</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Bounty+Hunter'>Bounty Hunter</a>
+                        <ul>
+                          <li>
+                            <a href='/page/BH+-+Accursed+Porto+Bello'>BH - Accursed Porto Bello</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Dr.+Torsche'>BH - Dr. Torsche</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Prison+de+Joaquin'>BH - Prison de Joaquin</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Skeleton'>BH - Skeleton</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Bahamar'>BH - Bahamar</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Sedecram'>BH - Sedecram</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Oculta'>BH - Oculta</a>
+                          </li>
+                          <li>
+                            <a href='/page/BH+-+Merchants'>BH - Merchants</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Joaquin+Barrier+Siege+%28Offense%29'>Joaquin Barrier Siege (Offense)</a>
+                      </li>
+                      <li>
+                        <a href='/page/Dr.+Torsche%27s+Hidden+Basement'>Dr. Torsche's Hidden Basement</a>
+                      </li>
+                      <li>
+                        <a href='/page/Lucifer%27s+Castle'>Lucifer's Castle</a>
+                      </li>
+                      <li>
+                        <a href='/page/Viron%27s+Clocktower'>Viron's Clocktower</a>
+                      </li>
+                      <li>
+                        <a href='/page/Crow+Forest'>Crow Forest</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Boss-Only+Raids'>Boss-Only Raids</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Gerero'>Gerero</a>
+                      </li>
+                      <li>
+                        <a href='/page/Diablo'>Diablo</a>
+                      </li>
+                      <li>
+                        <a href='/page/Decarabia'>Decarabia</a>
+                      </li>
+                      <li>
+                        <a href='/page/Vergo+the+Cursed'>Vergo the Cursed</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Treasure+Chest+of+the+Quay'>Treasure Chest of the Quay</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Hell+Breaker'>Hell Breaker</a>
+                        <ul>
+                          <li>
+                            <a href='/page/finalzanmato%27s+Guide+to+Golden+Bat'>finalzanmato's Guide to Golden Bat</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/King+of+Covetry'>King of Covetry</a>
+                      </li>
+                      <li>
+                        <a href='/page/Undertaker'>Undertaker</a>
+                      </li>
+                      <li>
+                        <a href='/page/Soul+Mothtein'>Soul Mothtein</a>
+                      </li>
+                      <li>
+                        <a href='/page/Uranus'>Uranus</a>
+                      </li>
+                      <li>
+                        <a href='/page/Griffon'>Griffon</a>
+                      </li>
+                      <li>
+                        <a href='/page/Giant+Keeper'>Giant Keeper</a>
+                      </li>
+                      <li>
+                        <a href='/page/Argus%27+Brain'>Argus' Brain</a>
+                      </li>
+                      <li>
+                        <a href='/page/Mufasar'>Mufasar</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Zone%2FArea+Raids'>Zone/Area Raids</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Gate+of+Hell'>Gate of Hell</a>
+                      </li>
+                      <li>
+                        <a href='/page/Gate+of+Lightning'>Gate of Lightning</a>
+                      </li>
+                      <li>
+                        <a href='/page/Gate+of+Flame'>Gate of Flame</a>
+                      </li>
+                      <li>
+                        <a href='/page/Queen+Eater'>Queen Eater</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ice+Wizard%27s+Tower+%28Gate%29'>Ice Wizard's Tower (Gate)</a>
+                      </li>
+                      <li>
+                        <a href='/page/Corridor+of+Assize'>Corridor of Assize</a>
+                      </li>
+                      <li>
+                        <a href='/page/Sehkmet'>Sehkmet</a>
+                      </li>
+                      <li>
+                        <a href='/page/Barrow+de+la+Muerte'>Barrow de la Muerte</a>
+                      </li>
+                      <li>
+                        <a href='/page/Sacred+Dungeon'>Sacred Dungeon</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Raids+v2'>Raids v2</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Clan%2FFaction'>Clan/Faction</a>
+                <ul>
+                  <li>
+                    <a href='/page/Elections'>Elections</a>
+                  </li>
+                  <li>
+                    <a href='/page/Clan%2FFaction+Mission'>Clan/Faction Mission</a>
+                  </li>
+                  <li>
+                    <a href='/page/Colony+War'>Colony War</a>
+                  </li>
+                  <li>
+                    <a href='/page/Faction+Fight'>Faction Fight</a>
+                  </li>
+                  <li>
+                    <a href='/page/Alliance+War'>Alliance War</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/PvP'>PvP</a>
+                <ul>
+                  <li>
+                    <a href='/page/Baron+mode+-+items'>Baron mode - items</a>
+                  </li>
+                  <li>
+                    <a href='/page/Dueling+%26+PvP+Rooms'>Dueling & PvP Rooms</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Crafting%2FEnchanting%2FRefining'>Crafting/Enchanting/Refining</a>
+                <ul>
+                  <li>
+                    <a href='/page/Mineral+Refining'>Mineral Refining</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Etretanium'>Etretanium</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Equipment+Upgrade'>Equipment Upgrade</a>
+                  </li>
+                  <li>
+                    <a href='/page/Item+Manufacture'>Item Manufacture</a>
+                  </li>
+                  <li>
+                    <a href='/page/Enchanting'>Enchanting</a>
+                  </li>
+                  <li>
+                    <a href='/page/Equipment+Sockets'>Equipment Sockets</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Rough+Stones+and+Jewels'>Rough Stones and Jewels</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Crafting+Items'>Crafting Items</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Katovic+Item+Production'>Katovic Item Production</a>
+                      </li>
+                      <li>
+                        <a href='/page/Crafted+Recipe+Items'>Crafted Recipe Items</a>
+                      </li>
+                      <li>
+                        <a href='/page/Manufactured+%2F+Purchased+Crafting+Items'>Manufactured / Purchased Crafting Items</a>
+                      </li>
+                      <li>
+                        <a href='/page/Ready+to+Use+Crafting+Items'>Ready to Use Crafting Items</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Upgrade+new'>Upgrade new</a>
+                  </li>
+                  <li>
+                    <a href='/page/Alchemy'>Alchemy</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Items+%26+Equipment'>Items & Equipment</a>
+                <ul>
+                  <li>
+                    <a href='/page/Weapons'>Weapons</a>
+                    <ul>
+                      <li>
+                        <a href='/page/UPC-Only+Weapons'>UPC-Only Weapons</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Costumes'>Costumes</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Face'>Face</a>
+                      </li>
+                      <li>
+                        <a href='/page/Body'>Body</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Fighter+Body+Costumes'>Fighter Body Costumes</a>
+                          </li>
+                          <li>
+                            <a href='/page/Elementalist+Body+Costumes'>Elementalist Body Costumes</a>
+                          </li>
+                          <li>
+                            <a href='/page/Wizard+Body+Costumes'>Wizard Body Costumes</a>
+                          </li>
+                          <li>
+                            <a href='/page/Musketeer+Body+Costumes'>Musketeer Body Costumes</a>
+                          </li>
+                          <li>
+                            <a href='/page/Scout+Body+Costumes'>Scout Body Costumes</a>
+                          </li>
+                          <li>
+                            <a href='/page/UPC+Body+Costumes'>UPC Body Costumes</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Back'>Back</a>
+                      </li>
+                      <li>
+                        <a href='/page/Hats'>Hats</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Accessories'>Accessories</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Rings'>Rings</a>
+                      </li>
+                      <li>
+                        <a href='/page/Necklace'>Necklace</a>
+                      </li>
+                      <li>
+                        <a href='/page/Earrings'>Earrings</a>
+                      </li>
+                      <li>
+                        <a href='/page/Belts'>Belts</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Consumption+%2F+Misc+Items'>Consumption / Misc Items</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Pose+Guides'>Pose Guides</a>
+                        <ul>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+2'>Andre's Pose Guide No. 2</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+3'>Andre's Pose Guide No. 3</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+4'>Andre's Pose Guide No. 4</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+5'>Andre's Pose Guide No. 5</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+6'>Andre's Pose Guide No. 6</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+7'>Andre's Pose Guide No. 7</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+8'>Andre's Pose Guide No. 8</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+9'>Andre's Pose Guide No. 9</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+10'>Andre's Pose Guide No. 10</a>
+                          </li>
+                          <li>
+                            <a href='/page/Andre%27s+Pose+Guide+No.+11'>Andre's Pose Guide No. 11</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/HP%2FSP+Potions'>HP/SP Potions</a>
+                      </li>
+                      <li>
+                        <a href='/page/Food'>Food</a>
+                      </li>
+                      <li>
+                        <a href='/page/Tools%2FSpecial+Items'>Tools/Special Items</a>
+                      </li>
+                      <li>
+                        <a href='/page/Bullets'>Bullets</a>
+                      </li>
+                      <li>
+                        <a href='/page/Exp+Cards'>Exp Cards</a>
+                      </li>
+                      <li>
+                        <a href='/page/Keys'>Keys</a>
+                      </li>
+                      <li>
+                        <a href='/page/Other'>Other</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Cash+Shop+Items'>Cash Shop Items</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Feso'>Feso</a>
+                      </li>
+                      <li>
+                        <a href='/page/Premium+Mystery+Boxes'>Premium Mystery Boxes</a>
+                      </li>
+                      <li>
+                        <a href='/page/Premium+Treasure+Chest+Service'>Premium Treasure Chest Service</a>
+                      </li>
+                      <li>
+                        <a href='/page/OoPS+Boxes'>OoPS Boxes</a>
+                      </li>
+                      <li>
+                        <a href='/page/Portmanteau+Boxes'>Portmanteau Boxes</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Guide+to+Pioneer+%2F+Ancestral+gear'>Guide to Pioneer / Ancestral gear</a>
+                  </li>
+                  <li>
+                    <a href='/page/Bellem%27s+Box'>Bellem's Box</a>
+                  </li>
+                  <li>
+                    <a href='/page/High+End+Equipment'>High End Equipment</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Elite+Baron+Items+%28Level+92%29'>Elite Baron Items (Level 92)</a>
+                      </li>
+                      <li>
+                        <a href='/page/Chess+Series'>Chess Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Golden+Series'>Golden Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Constellation+Series'>Constellation Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Serpent+Series'>Serpent Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Trump+Uniques'>Trump Uniques</a>
+                      </li>
+                      <li>
+                        <a href='/page/Elemental+Gate+Series'>Elemental Gate Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Werewolf+%26+Ogre+Series'>Werewolf & Ogre Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Level+100+Weapons'>Level 100 Weapons</a>
+                      </li>
+                      <li>
+                        <a href='/page/Elite+Series'>Elite Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/High+End+Armor'>High End Armor</a>
+                        <ul>
+                          <li>
+                            <a href='/page/High+End+Basic+Coat'>High End Basic Coat</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Basic+Leather'>High End Basic Leather</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Fighter+Leather'>High End Fighter Leather</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Musketeer+Coat'>High End Musketeer Coat</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Robes'>High End Robes</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Scout+Leather'>High End Scout Leather</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Wizard+Coat'>High End Wizard Coat</a>
+                          </li>
+                          <li>
+                            <a href='/page/High+End+Metal+Armor'>High End Metal Armor</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href='/page/Deprodime+Series'>Deprodime Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/92+Veteran+Series'>92 Veteran Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Kobold+Series'>Kobold Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Werebear+Series'>Werebear Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Dullahan+Series'>Dullahan Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Prison+Series'>Prison Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Angel+Series'>Angel Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Strata+Demon+Series'>Strata Demon Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Dragonic+Series'>Dragonic Series</a>
+                      </li>
+                      <li>
+                        <a href='/page/Jewel+Series'>Jewel Series</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Letizia+Shiny+Box'>Letizia Shiny Box</a>
+                  </li>
+                  <li>
+                    <a href='/page/Crescemento+Series'>Crescemento Series</a>
+                  </li>
+                  <li>
+                    <a href='/page/Artifacts'>Artifacts</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/In-Game+Events'>In-Game Events</a>
+                <ul>
+                  <li>
+                    <a href='/page/PVP+Tournaments'>PVP Tournaments</a>
+                  </li>
+                  <li>
+                    <a href='/page/Boss+Events'>Boss Events</a>
+                  </li>
+                  <li>
+                    <a href='/page/Find+the+AM'>Find the AM</a>
+                  </li>
+                  <li>
+                    <a href='/page/UPC+Day'>UPC Day</a>
+                  </li>
+                  <li>
+                    <a href='/page/Server+Timetable'>Server Timetable</a>
+                    <ul>
+                      <li>
+                        <a href='/page/Fire+Isle+Treasure+Hunt'>Fire Isle Treasure Hunt</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Spring+Fever+Festival'>Spring Fever Festival</a>
+                  </li>
+                  <li>
+                    <a href='/page/2010+Christmas+Event'>2010 Christmas Event</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/The+Barracks'>The Barracks</a>
+                <ul>
+                  <li>
+                    <a href='/page/Family+Level'>Family Level</a>
+                  </li>
+                  <li>
+                    <a href='/page/Family+Reputation'>Family Reputation</a>
+                  </li>
+                  <li>
+                    <a href='/page/Experience'>Experience</a>
+                  </li>
+                  <li>
+                    <a href='/page/Family+Attribute'>Family Attribute</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Pets'>Pets</a>
+                <ul>
+                  <li>
+                    <a href='/page/Tiger+Pets'>Tiger Pets</a>
+                  </li>
+                  <li>
+                    <a href='/page/Cash+Shop+Pets'>Cash Shop Pets</a>
+                  </li>
+                  <li>
+                    <a href='/page/Beginner+Pet+Coco'>Beginner Pet Coco</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rudolph'>Rudolph</a>
+                  </li>
+                  <li>
+                    <a href='/page/The+Black+Dragon+Pet'>The Black Dragon Pet</a>
+                  </li>
+                  <li>
+                    <a href='/page/Elephant+Pet'>Elephant Pet</a>
+                  </li>
+                  <li>
+                    <a href='/page/Loot+%2B+Exp+Pets'>Loot + Exp Pets</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Instruction+Manual'>Instruction Manual</a>
+                <ul>
+                  <li>
+                    <a href='/page/Terminology'>Terminology</a>
+                  </li>
+                  <li>
+                    <a href='/page/Command+Shortcut+List'>Command Shortcut List</a>
+                  </li>
+                  <li>
+                    <a href='/page/Hints+%2F+Tips'>Hints / Tips</a>
+                    <ul>
+                      <li>
+                        <a href='/page/The+Vis+Making+Guide'>The Vis Making Guide</a>
+                      </li>
+                      <li>
+                        <a href='/page/Power+Leveling'>Power Leveling</a>
+                      </li>
+                      <li>
+                        <a href='/page/New+Vis+Making+Guide'>New Vis Making Guide</a>
+                      </li>
+                      <li>
+                        <a href='/page/Active+Character+Leveling+with+Trinity+3+and+Jack%2FAngie'>Active Character Leveling with Trinity 3 and Jack/Angie</a>
+                      </li>
+                      <li>
+                        <a href='/page/Private+Store'>Private Store</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href='/page/Machinima+Guide+%28Make+a+SoTnW+movie%21%29'>Machinima Guide (Make a SoTnW movie!)</a>
+                  </li>
+                  <li>
+                    <a href='/page/Char+V2'>Char V2</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Sword+of+the+New+World+Soundtrack'>Sword of the New World Soundtrack</a>
+              </li>
+              <li>
+                <a href='/page/Sword%27s+Fun+Facts'>Sword's Fun Facts</a>
+                <ul>
+                  <li>
+                    <a href='/page/Murphy%27s+Laws+of+the+New+World'>Murphy's Laws of the New World</a>
+                  </li>
+                  <li>
+                    <a href='/page/Andre'>Andre</a>
+                  </li>
+                  <li>
+                    <a href='/page/Mboma'>Mboma</a>
+                  </li>
+                  <li>
+                    <a href='/page/Everybody+likes+Trivia'>Everybody likes Trivia</a>
+                  </li>
+                  <li>
+                    <a href='/page/Rafflesia'>Rafflesia</a>
+                  </li>
+                  <li>
+                    <a href='/page/Master+Fritz+has+an+identity+crisis.'>Master Fritz has an identity crisis.</a>
+                  </li>
+                  <li>
+                    <a href='/page/Real+Baek+Ho'>Real Baek Ho</a>
+                  </li>
+                  <li>
+                    <a href='/page/Talt'>Talt</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/News+Archive'>News Archive</a>
+                <ul>
+                  <li>
+                    <a href='/page/Patch+v5.0+Changes'>Patch v5.0 Changes</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='/page/Miscellaneous'>Miscellaneous</a>
+              </li>
+              <li>
+                <a href='/page/Manually+Update+and+Patch+Download'>Manually Update and Patch Download</a>
+              </li>
+              <li>
+                <a href='/page/GamersFirst'>GamersFirst</a>
+              </li>
+              <li>
+                <a href='/page/Leveling+Guide'>Leveling Guide</a>
+              </li>
+              <li>
+                <a href='/page/Wiki+needs+you'>Wiki needs you</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <h2 id='tagsh2' class='show' onclick='showhide("tags");'>Tags</h2>
+    <div id='tags' style='display:none;'>
+      <a href='/tag/Sword+of+the+New+World'>Sword of the New World</a>, <a href='/tag/Sword+of+the+New+World+Wiki'>Sword of the New World Wiki</a>, <a href='/tag/Quest'>Quest</a>, <a href='/tag/Maps'>Maps</a>, <a href='/tag/Monsters'>Monsters</a>, <a href='/tag/SOTNW'>SOTNW</a>, <a href='/tag/Granado+Espada'>Granado Espada</a>, <a href='/tag/Granada+Espada'>Granada Espada</a>, <a href='/tag/Sword+of+the+new+world+downloa'>Sword of the new world downloa</a>, <a href='/tag/download'>download</a>, <a href='/tag/working+links'>working links</a>, <a href='/tag/sotnw+download'>sotnw download</a>, <a href='/tag/sotnw+working+download'>sotnw working download</a>, <a href='/tag/sotnw+download+links'>sotnw download links</a>
+    </div>
+    <div id='mobilefooter'>
+      Mobile | <a rel="external" href='/m/desktop'>Full Website</a>
+    </div>
+  </div>
+</body>
+</html>

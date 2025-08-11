@@ -1,0 +1,477 @@
+<html>
+<head>
+  <title>Selva Questline - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Selva Questline" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/family/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/core/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Other',"PAGE_NAME" : 'Selva Questline',"PAGE_URI" : '/page/Selva+Questline',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'report',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Quests','Selva Questline']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20091124171859" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+
+                
+                var adChannelPrefix = "FreeSocialWebSite_";
+                                
+                        adChannelPrefix = adChannelPrefix + "OtherPage_";
+                wp_ads.noAdSense = '';
+                wp_ads.top = adChannelPrefix + '728Top1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+
+                wp_ads.topPromo = adChannelPrefix + '237Top2' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.inContent = adChannelPrefix + '300Frame1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.content = adChannelPrefix + '728Bottom1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.left = adChannelPrefix + '160Left1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","Hobby, Games, Technology, Ring Tones, Music, Travel, Politics, Lifestyles, Art");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Report");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Flagged","No");
+                GA_googleAddAttr("Topic","Other");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first">A Wetpaint&nbsp;Site | TV Fandex 100</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;to Wetpaint
+                  </div><span class="logo">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/news">News</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span><a href="/droplets">Droplets</a></span></li>
+            <li class=""><span><a href="/accountSearch/all">Members</a></span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png" class="signup-button" /></div>
+            </div>
+          </div><br class="clear" />
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            //]]>
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            //]]>
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Selva+Questline">Selva Questline</a> |</h1>
+                    <h2>Links To This Page</h2>
+                  </div>
+                  <div id="pageAttributes">
+                    2 links lead to "Selva Questline"
+                  </div><br />
+                  <div id="pageReport">
+                    <div class="tableList">
+                      <table>
+                        <tr class="header">
+                          <th>Page</th>
+                          <th>Link</th>
+                        </tr>
+                        <tr>
+                          <td>
+                            <p class="nowrap"><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></p>
+                          </td>
+                          <td width="50%">
+                            <p>"Selva Questline"</p>
+                          </td>
+                        </tr>
+                        <tr class="altRow">
+                          <td>
+                            <p class="nowrap"><a href="/page/Quests">Quests</a></p>
+                          </td>
+                          <td width="50%">
+                            <p>"Selva Norte&#39;s quest line"</p>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br />
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br />
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                            <ul>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="5">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/In-Game+Events" rel="5">In-Game Events</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="14">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="10">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li>
+                                <a href="/page/Quests" rel="47">Quests</a>
+                                <ul>
+                                  <li><a href="/page/Sword+of+the+New+World+Walkthrough">Sword of the New World Walkthrough</a></li>
+                                  <li><a href="/page/Pioneering+Quests">Pioneering Quests</a></li>
+                                  <li><a href="/page/Bernelli+Quests">Bernelli Quests</a></li>
+                                  <li><a href="/page/Quests+-+Level+1" rel="6">Quests - Level 1</a></li>
+                                  <li><a href="/page/Quests+-+Level+4" rel="1">Quests - Level 4</a></li>
+                                  <li><a href="/page/Quests+-+Level+6" rel="3">Quests - Level 6</a></li>
+                                  <li><a href="/page/Quests+-+Level+8" rel="1">Quests - Level 8</a></li>
+                                  <li><a href="/page/Quests+-+Level+10" rel="2">Quests - Level 10</a></li>
+                                  <li><a href="/page/Quests+-+Level+12" rel="2">Quests - Level 12</a></li>
+                                  <li><a href="/page/Quests+-+Level+16" rel="1">Quests - Level 16</a></li>
+                                  <li><a href="/page/Quests+-+Level+17" rel="5">Quests - Level 17</a></li>
+                                  <li><a href="/page/Quests+-+Level+20" rel="6">Quests - Level 20</a></li>
+                                  <li><a href="/page/Quests+-+Level+22" rel="1">Quests - Level 22</a></li>
+                                  <li><a href="/page/Quests+-+Level+24" rel="4">Quests - Level 24</a></li>
+                                  <li><a href="/page/Quests+-+Level+25" rel="5">Quests - Level 25</a></li>
+                                  <li><a href="/page/Quests+-+Level+28" rel="3">Quests - Level 28</a></li>
+                                  <li><a href="/page/Quests+-+Level+29" rel="1">Quests - Level 29</a></li>
+                                  <li><a href="/page/Quests+-+Level+30" rel="4">Quests - Level 30</a></li>
+                                  <li><a href="/page/Quests+-+Level+31" rel="2">Quests - Level 31</a></li>
+                                  <li><a href="/page/Quests+-+Level+32" rel="4">Quests - Level 32</a></li>
+                                  <li><a href="/page/Quests+-+Level+35" rel="2">Quests - Level 35</a></li>
+                                  <li><a href="/page/Quests+-+Level+36" rel="3">Quests - Level 36</a></li>
+                                  <li><a href="/page/Quests+-+Level+38" rel="1">Quests - Level 38</a></li>
+                                  <li><a href="/page/Quests+-+Level+40" rel="9">Quests - Level 40</a></li>
+                                  <li><a href="/page/Quests+-+Level+41" rel="2">Quests - Level 41</a></li>
+                                  <li><a href="/page/Quests+-+Level+44" rel="6">Quests - Level 44</a></li>
+                                  <li><a href="/page/Quests+-+Level+46" rel="2">Quests - Level 46</a></li>
+                                  <li><a href="/page/Quests+-+Level+48" rel="2">Quests - Level 48</a></li>
+                                  <li><a href="/page/Quests+-+Level+50" rel="4">Quests - Level 50</a></li>
+                                  <li><a href="/page/Quests+-+Level+55" rel="3">Quests - Level 55</a></li>
+                                  <li><a href="/page/Quests+-+Level+57" rel="8">Quests - Level 57</a></li>
+                                  <li><a href="/page/Quests+-+Level+60" rel="1">Quests - Level 60</a></li>
+                                  <li><a href="/page/Quests+-+Level+65">Quests - Level 65</a></li>
+                                  <li><a href="/page/Quests+-+Level+71">Quests - Level 71</a></li>
+                                  <li><a href="/page/Quests+-+Level+72">Quests - Level 72</a></li>
+                                  <li><a href="/page/Quests+-+Level+75">Quests - Level 75</a></li>
+                                  <li><a href="/page/Quests+-+Level+78">Quests - Level 78</a></li>
+                                  <li><a href="/page/Quests+-+Level+80">Quests - Level 80</a></li>
+                                  <li><a href="/page/Quests+-+Level+84">Quests - Level 84</a></li>
+                                  <li><a href="/page/Quests+-+Level+100+-+Veteran">Quests - Level 100 - Veteran</a></li>
+                                  <li><a href="/page/Elemental+Keys+%28Gates%29">Elemental Keys (Gates)</a></li>
+                                  <li><a href="/page/Bahamar+Quests">Bahamar Quests</a></li>
+                                  <li><a href="/page/Katovic+Snowfield+Quests">Katovic Snowfield Quests</a></li>
+                                  <li><a href="/page/Garcia+Questline">Garcia Questline</a></li>
+                                  <li><a href="/page/Caebolan+Quests">Caebolan Quests</a></li>
+                                  <li><a href="/page/Selva+Questline" class="current">Selva Questline</a></li>
+                                  <li><a href="/page/Errac+Questline">Errac Questline</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Raids" rel="19">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li><a href="/page/PvP" rel="1">PvP</a></li>
+                              <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink" name="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              //<![CDATA[
+              wetpaintLoad('scroller');
+              //]]>
+              </script>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                //]]>
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Stargate Universe</span></li>
+              <li><span>The HP Community Wiki</span></li>
+              <li><span><a href="/">Wiki of the New World</a></span></li>
+              <li><span>House Wiki</span></li>
+              <li><span>Warriors Fansite.</span></li>
+              <li><span>Gossip Girl</span></li>
+              <li class="promotedViewMore"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b18';s_w.channel='report';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Other';s_w.prop4=location.hostname;s_w.prop8=(Math.round(346/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Other';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Other"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : 'Wetpaint'
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        WPC.Logger.ComscoreData = { c1 : 2, c3 : 20021 }
+        WPC.Logger.LogToComscore();
+  //]]>
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

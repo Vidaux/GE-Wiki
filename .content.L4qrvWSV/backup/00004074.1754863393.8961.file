@@ -1,0 +1,860 @@
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Quests - Level 60 - History Page - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Quests - Level 60 - History Page" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Quests - Level 60',"PAGE_URI" : '/page/Quests+-+Level+60',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"FACEBOOK_API_KEY" : '2d1eb4e17fac67b271042da4fd42a3e1',"FACEBOOK_FEED_TEMPLATE" : '78947714267',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageHistory',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Quests','Quests - Level 60']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090814125003" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","PHistory");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a> <span class="logo">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/forum">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/news">News</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <div class="alreadyMember">
+              Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a>
+            </div>
+            <div class="joinButtons">
+              <a class="WPC-action hidden fbconnect_login_button" id="WPC-action_pre-login-facebook" name="WPC-action_pre-login-facebook"><img src="/img/3rdparty/facebook_medium.png" alt="Facebook Connect" width="89px" height="21px" /></a> <span class="join-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="join-button"><span class="join-button"></span></span></button></span>
+            </div>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="adsTop">
+        <div class="ads adstop">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+          //]]>
+          </script>
+        </div>
+        <div class="ads adstopPromo">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+          //]]>
+          </script>
+        </div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <h1><a href="/page/Quests+-+Level+60">Quests - Level 60</a></h1>
+                </div>
+                <div class="tabNavigation">
+                  <ul>
+                    <li class="selected">Page Versions</li>
+                    <li><a href="/page/Quests+-+Level+60/todos/updated">To-Dos</a></li>
+                  </ul>
+                  <div class="clear"></div>
+                </div>
+                <div class="clear"></div><span class="revisionsKey">Key:&nbsp;&nbsp;<span class="diffAdd">additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">deletions</span></span>
+                <div id="compareVersionError" class="error" style="display:none">
+                  Please select two page versions to compare - check the checkbox to the right of each version.
+                </div>
+                <div id="history">
+                  <div class="pagingWrapper">
+                    <div class="pagingActionWrapper">
+                      <span class="pagingAction"></span>
+                      <form action="/page/Quests+-+Level+60/history" method="get">
+                        <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;18&nbsp;of&nbsp;18 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit()" style="font-size:80%">
+                          <option value="10">
+                            10
+                          </option>
+                          <option value="20" selected="selected">
+                            20
+                          </option>
+                          <option value="50">
+                            50
+                          </option>
+                        </select> pages&nbsp;at a time</span>
+                      </form>
+                    </div>
+                  </div>
+                  <form id="historyCheckboxForm" onsubmit="return false" name="historyCheckboxForm">
+                    <div class="tableList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?parentNodeId=history" href="#toggle" name="WPC-action_expandToggle?parentNodeId=history"></a></th>
+                          <th>Date/Time</th>
+                          <th>Made&nbsp;By</th>
+                          <th>Edit Note</th>
+                          <th>Type</th>
+                          <th>Scope</th>
+                          <th class="header compareCell farRightCell"><button id="WPC-action_compareRevisions" class="compareButton WPC-action" onclick="return false">Compare</button></th>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle" name="WPC-action_expandToggle?item=1"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60">Jul 6 2009, 1:11 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/Schillerz" id="WPC-action_accountMenu?account=Schillerz&subject=Quests+-+Level+60&from=status1&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Schillerz&subject=Quests+-+Level+60&from=status1&pageName=Quests+-+Level+60">Schillerz</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Nothing :b&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">12 words added</span><br />
+                          <span class="nowrap">1 word deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox18" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA1" style="display: ;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">Note: First you&#39;ll need Complete the Quest : Broken Silverbaron</span>1. Talk to Claude 2. Travel to Porto Bello - A Deserted Quay to kill Bomber Tortoise to obtain 45x Turtle Shells (rare drops)3. Travel to El Lago de Tres Hermanas &nbsp; <a href="/page/Quests+-+Level+60/diff/17,18">View changes from previous version.</a> (Word count: 594)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle" name="WPC-action_expandToggle?item=2"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/17">May 23 2009, 8:47 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/roflzors" id="WPC-action_accountMenu?account=roflzors&subject=Quests+-+Level+60&from=status2&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=roflzors&subject=Quests+-+Level+60&from=status2&pageName=Quests+-+Level+60">roflzors</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">4 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox17" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA2" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">easy but long</span>1. Finish the above Quest2. Talk to Jean3. Travel to Prison de Joaquin4. Search the Gulag Furnaces to receive 10 Joaquin DiariesPrison de Joaquin, The Mohrgus - I9, D6 &amp; B8 Prison de Jaoquin, Altar of Despair - I11 Prison de &nbsp; <a href="/page/Quests+-+Level+60/diff/16,17">View changes from previous version.</a> (Word count: 584)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle" name="WPC-action_expandToggle?item=3"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/16">Feb 18 2009, 9:04 PM EST</a></td>
+                          <td class="nowrap"><a href="/account/Banken" id="WPC-action_accountMenu?account=Banken&subject=Quests+-+Level+60&from=status3&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Banken&subject=Quests+-+Level+60&from=status3&pageName=Quests+-+Level+60">Banken</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">6 words added</span><br />
+                          <span class="nowrap">4 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox16" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA3" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Gascon(aka Detective Gertrude),</span> City of AuchReward: 30000 Vis + XP Card Polish: <span class="diffRemove">Pioneer</span><span class="diffAdd">Master</span> x3Difficulty:easy1. Talk to Jean Pierre Gascon2. Travel to Dr Torche&#39;s Mansion. To kill Haunted Desks to receive 40 Torche&#39;s Diary 3. Talk to Jean Pierre Gascon to complete the questQuest: &nbsp; <a href="/page/Quests+-+Level+60/diff/15,16">View changes from previous version.</a> (Word count: 580)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=4" href="#toggle" name="WPC-action_expandToggle?item=4"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/15">Nov 11 2008, 5:01 AM EST</a></td>
+                          <td class="nowrap"><a href="/account/Araknos" id="WPC-action_accountMenu?account=Araknos&subject=Quests+-+Level+60&from=status4&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Araknos&subject=Quests+-+Level+60&from=status4&pageName=Quests+-+Level+60">Araknos</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Added reward for quest&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">3 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox15" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA4" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Polish: Pioneer x3</span>Difficulty:easy1. Talk to Jean Pierre Gascon2. Travel to Dr Torche&#39;s Mansion. To kill Haunted Desks to receive 40 Torche&#39;s Diary 3. Talk to Jean Pierre Gascon to complete the questQuest: Investigation of Joaquin Concentration CampNPC + Location: Jean-Pierre Gascon, City of AuchReward: &nbsp; <a href="/page/Quests+-+Level+60/diff/14,15">View changes from previous version.</a> (Word count: 577)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=5" href="#toggle" name="WPC-action_expandToggle?item=5"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/14">Sep 1 2008, 1:34 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/Iberison" id="WPC-action_accountMenu?account=Iberison&subject=Quests+-+Level+60&from=status5&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Iberison&subject=Quests+-+Level+60&from=status5&pageName=Quests+-+Level+60">Iberison</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 word added</span><br />
+                          <span class="nowrap">1 word deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox14" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA5" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Jaquin</span><span class="diffAdd">Joaquin</span> DiariesPrison de Joaquin, The Mohrgus - I9, D6 &amp; B8 Prison de Jaoquin, Altar of Despair - I11 Prison de Joaquin, Torture Chamber - J5 &amp; B9 Prison de Joaquin, Schivarliere - A6 &amp; B7 Prison de Joaquin, Gehenna Bridge - F3 &amp; F10 5. Talk &nbsp; <a href="/page/Quests+-+Level+60/diff/13,14">View changes from previous version.</a> (Word count: 574)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=6" href="#toggle" name="WPC-action_expandToggle?item=6"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/13">Aug 17 2008, 10:30 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status6&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status6&pageName=Quests+-+Level+60">friedrice8791</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">8 words added</span><br />
+                          <span class="nowrap">3 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox13" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA6" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">and Polish: Pioneer</span>Difficulty:1. Complete the above quest and talk to Jean2. Travel to Cite de Reboldoeux3. Talk to Brunie Etienne4. Give her 5000 Vis5. Talk to Eusebio (not sure if you have to Talk to Jean first??)6. Travel to Joaquin &nbsp; <a href="/page/Quests+-+Level+60/diff/12,13">View changes from previous version.</a> (Word count: 574)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=7" href="#toggle" name="WPC-action_expandToggle?item=7"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/12">Aug 6 2008, 2:16 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status7&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status7&pageName=Quests+-+Level+60">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Added some polish rewards to Najib, Claude quests&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">7 words added</span><br />
+                          <span class="nowrap">2 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox12" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA7" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Brandistock, Polish: Explorer x3</span> &amp; Claude Baudez&#39;s CardDifficulty:easy1. Talk to Claude 2. Travel to Porto Bello - A Deserted Quay to kill Bomber Tortoise to obtain 45x Turtle Shells (rare drops)3. Travel to El Lago de Tres Hermanas to &nbsp; <a href="/page/Quests+-+Level+60/diff/11,12">View changes from previous version.</a> (Word count: 569)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=8" href="#toggle" name="WPC-action_expandToggle?item=8"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/11">Aug 5 2008, 2:21 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status8&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status8&pageName=Quests+-+Level+60">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Need to finish to rococo to do the vera part&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">8 words added</span><br />
+                          <span class="nowrap">3 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox11" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA8" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Finish Iler&#39;s Rococo.</span><span class="diffAdd">2.</span> Talk to <span class="diffRemove">Sharif</span><span class="diffAdd">Najib</span> <span class="diffAdd">Sharif</span><span class="diffRemove">2.</span><span class="diffAdd">3.</span> Talk to Vera <span class="diffRemove">3.</span><span class="diffAdd">4.</span> You will be teleported to an instance. Defeat the furniture and defeat the ghost baron that appears afterwards5. Talk to Vera again6. Talk to Sharif to complete the questQuest: Fix Furniture &nbsp; <a href="/page/Quests+-+Level+60/diff/10,11">View changes from previous version.</a> (Word count: 563)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=9" href="#toggle" name="WPC-action_expandToggle?item=9"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/10">Aug 5 2008, 2:20 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status9&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status9&pageName=Quests+-+Level+60">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              This is given when you finish the vera part&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">5 words added</span><br />
+                          <span class="nowrap">3 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox10" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA9" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">The Furniture</span> <span class="diffAdd">Connoisseur.</span>2. Travel to El Tejado Verde 3. Kill Daemonische to get 20x Daemonische Oil from 4. Kill Tree to get 20x Solid Timber5. Talk to Sharif to complete the questQuest: Learning by Close Application! Claude BaudezNPC + Location: Claude Baudez, Cite de ReboldoeuxReward: &nbsp; <a href="/page/Quests+-+Level+60/diff/9,10">View changes from previous version.</a> (Word count: 557)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=10" href="#toggle" name="WPC-action_expandToggle?item=10"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/9">Aug 5 2008, 2:19 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status10&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status10&pageName=Quests+-+Level+60">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              added polish reward and combined the talk with sharif&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">8 words added</span><br />
+                          <span class="nowrap">6 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox9" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA10" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">7. Talk to Sharif</span> to complete the questQuest: Fix FurnitureNPC + Location: Najib Sharif, Cite de ReboldoeuxReward: Najib Sharif&rsquo;s Card, EXP Card and level 60 Enhancement ChipDifficulty:easy1. Talk to Sharif, 2. Travel to El Tejado Verde 3. Kill Daemonische to get 20x Daemonische Oil from &nbsp; <a href="/page/Quests+-+Level+60/diff/8,9">View changes from previous version.</a> (Word count: 555)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=11" href="#toggle" name="WPC-action_expandToggle?item=11"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/8">Aug 5 2008, 2:12 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status11&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status11&pageName=Quests+-+Level+60">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              count for exp card from vera&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 word added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox8" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA11" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">x3</span>Difficulty:easy1. Talk to Sharif 2. Talk to Vera 3. You will be teleported to an instance. Defeat the furniture 4. Defeat the ghost baron 5. Talk to Vera again6. Talk to Sharif 7. Talk to Sharif to complete the questQuest: Fix FurnitureNPC + &nbsp; <a href="/page/Quests+-+Level+60/diff/7,8">View changes from previous version.</a> (Word count: 553)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=12" href="#toggle" name="WPC-action_expandToggle?item=12"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/7">Aug 5 2008, 2:09 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status12&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Quests+-+Level+60&from=status12&pageName=Quests+-+Level+60">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Added polish for najib furniture&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">4 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox7" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA12" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">x3, Polish: Explorer x3</span>Difficulty:easy1. Talk to Najib Sharif 2. Travel to Dr. Torshe Mansion, Reception Hall 3. Hunt for 30x Antique Silver Candle dropped by Haunted Candle and 30x Rococo Furniture dropped by Haunted Desk4. Talk to Sharif to complete the questQuest: Vera, The Furniture Connoisseur &nbsp; <a href="/page/Quests+-+Level+60/diff/6,7">View changes from previous version.</a> (Word count: 552)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=13" href="#toggle" name="WPC-action_expandToggle?item=13"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/6">Jul 30 2008, 7:32 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/BlackSw4n" id="WPC-action_accountMenu?account=BlackSw4n&subject=Quests+-+Level+60&from=status13&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=BlackSw4n&subject=Quests+-+Level+60&from=status13&pageName=Quests+-+Level+60">BlackSw4n</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Flying Books ---&gt; Haunted Desks&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">2 words added</span><br />
+                          <span class="nowrap">2 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox6" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA13" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Flying</span><span class="diffAdd">Haunted</span> <span class="diffRemove">Books</span><span class="diffAdd">Desks</span> to receive 40 Torche&#39;s Diary 3. Talk to Jean Pierre Gascon to complete the questQuest: Investigation of Joaquin Concentration CampNPC + Location: Jean-Pierre Gascon, City of Auch <span class="diffRemove"></span>Reward: EXP Card and 50,000 Vis <span class="diffRemove"></span>Difficulty: <span class="diffRemove"></span>1. Finish the above Quest <span class="diffRemove"></span>2. Talk to Jean <span class="diffRemove"></span>3. &nbsp; <a href="/page/Quests+-+Level+60/diff/5,6">View changes from previous version.</a> (Word count: 548)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=14" href="#toggle" name="WPC-action_expandToggle?item=14"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/5">May 31 2008, 11:52 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status14&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status14&pageName=Quests+-+Level+60">friedrice8791</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 word added</span><br />
+                          <span class="nowrap">1 word deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox5" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA14" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Clause</span><span class="diffAdd">Claude</span> to receive some items and complete the questQuest: Investigation of Torsche HouseNPC + Location: Jean Pierre Gascon, City of Auch Reward: 30000 Vis + XP Card Difficulty:easy 1. Talk to Jean Pierre Gascon 2. Travel to Dr Torche&#39;s Mansion. &nbsp; <a href="/page/Quests+-+Level+60/diff/4,5">View changes from previous version.</a> (Word count: 548)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=15" href="#toggle" name="WPC-action_expandToggle?item=15"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/4">May 31 2008, 11:48 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status15&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status15&pageName=Quests+-+Level+60">friedrice8791</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">104 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox4" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA15" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffRemove">4. Kill Zavi di Gavi or Dumanon at Porto Bello &ndash; The hold to obtain 30 casks of old wine</span> <span class="diffRemove">5. Talk to the man again Admirial Nunez&#39;s Cameo</span> <span class="diffRemove">6. Talk to the Haggard Lady at I7 and receive Vis + quest item</span> <span class="diffRemove">7. Talk to Nunez at G4</span> <span class="diffRemove"></span> &nbsp; <a href="/page/Quests+-+Level+60/diff/3,4">View changes from previous version.</a> (Word count: 548)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=16" href="#toggle" name="WPC-action_expandToggle?item=16"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/3">May 24 2008, 9:51 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status16&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=friedrice8791&subject=Quests+-+Level+60&from=status16&pageName=Quests+-+Level+60">friedrice8791</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 word added</span><br />
+                          <span class="nowrap">1 word deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox3" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA16" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Enhancement</span><span class="diffAdd">Enchantment</span> Chip Difficulty:easy 1. Talk to Sharif 2. Talk to Vega 3. Talk to the man at G11 at Port of Coimbra 4. Kill Zavi di Gavi or Dumanon at Porto Bello &ndash; The hold to obtain 30 casks of old wine 5. Talk to &nbsp; <a href="/page/Quests+-+Level+60/diff/2,3">View changes from previous version.</a> (Word count: 650)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=17" href="#toggle" name="WPC-action_expandToggle?item=17"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/2">Jan 26 2008, 8:58 AM EST</a></td>
+                          <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Quests+-+Level+60&from=status17&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Quests+-+Level+60&from=status17&pageName=Quests+-+Level+60">Lothmak</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">653 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox2" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA17" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">3. Travel to El Lago de Tres Hermanas to kill Corlien Dynamiter and Dandelion Gorilla to obtain 45x A Bomber&rsquo;s Dagger and 45x Tungsten (rare drops)</span> <span class="diffAdd">4. Talk to Claude to receive some items</span> <span class="diffAdd">5. Travel to Dr Torche&#39;s Mansion &ndash; Savage Garden to kill</span> <span class="diffAdd">Haunted Candle</span> &nbsp; <a href="/page/Quests+-+Level+60/diff/1,2">View changes from previous version.</a> (Word count: 650)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=18" href="#toggle" name="WPC-action_expandToggle?item=18"></a></td>
+                          <td class="nowrap"><a href="/page/Quests+-+Level+60/revision/1">Jan 26 2008, 8:58 AM EST</a></td>
+                          <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Quests+-+Level+60&from=status18&pageName=Quests+-+Level+60" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Quests+-+Level+60&from=status18&pageName=Quests+-+Level+60">Lothmak</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>create</td>
+                          <td class="scopeCell">No content added or deleted.</td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox1" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA18" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;Created by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&from=diffAuthor17" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&from=diffAuthor17">Lothmak</a> Jan 26 2008, 8:58 AM EST for: no reason given
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                  </form>
+                  <div class="pagingWrapper"></div>
+                </div><br />
+                <br />
+                <script src="http://static.wetpaint.com/scripts/wpjsPage/pagehistory/p.js" type="text/javascript"></script>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li>
+                              <a href="/page/Quests" rel="45">Quests</a>
+                              <ul>
+                                <li><a href="/page/Sword+of+the+New+World+Walkthrough">Sword of the New World Walkthrough</a></li>
+                                <li><a href="/page/Pioneering+Quests">Pioneering Quests</a></li>
+                                <li><a href="/page/Bernelli+Quests">Bernelli Quests</a></li>
+                                <li><a href="/page/Quests+-+Level+1" rel="6">Quests - Level 1</a></li>
+                                <li><a href="/page/Quests+-+Level+4" rel="1">Quests - Level 4</a></li>
+                                <li><a href="/page/Quests+-+Level+6" rel="3">Quests - Level 6</a></li>
+                                <li><a href="/page/Quests+-+Level+8" rel="1">Quests - Level 8</a></li>
+                                <li><a href="/page/Quests+-+Level+10" rel="2">Quests - Level 10</a></li>
+                                <li><a href="/page/Quests+-+Level+12" rel="2">Quests - Level 12</a></li>
+                                <li><a href="/page/Quests+-+Level+16" rel="1">Quests - Level 16</a></li>
+                                <li><a href="/page/Quests+-+Level+17" rel="5">Quests - Level 17</a></li>
+                                <li><a href="/page/Quests+-+Level+20" rel="6">Quests - Level 20</a></li>
+                                <li><a href="/page/Quests+-+Level+22" rel="1">Quests - Level 22</a></li>
+                                <li><a href="/page/Quests+-+Level+24" rel="4">Quests - Level 24</a></li>
+                                <li><a href="/page/Quests+-+Level+25" rel="5">Quests - Level 25</a></li>
+                                <li><a href="/page/Quests+-+Level+28" rel="3">Quests - Level 28</a></li>
+                                <li><a href="/page/Quests+-+Level+29" rel="1">Quests - Level 29</a></li>
+                                <li><a href="/page/Quests+-+Level+30" rel="4">Quests - Level 30</a></li>
+                                <li><a href="/page/Quests+-+Level+31" rel="2">Quests - Level 31</a></li>
+                                <li><a href="/page/Quests+-+Level+32" rel="4">Quests - Level 32</a></li>
+                                <li><a href="/page/Quests+-+Level+35" rel="2">Quests - Level 35</a></li>
+                                <li><a href="/page/Quests+-+Level+36" rel="3">Quests - Level 36</a></li>
+                                <li><a href="/page/Quests+-+Level+38" rel="1">Quests - Level 38</a></li>
+                                <li><a href="/page/Quests+-+Level+40" rel="7">Quests - Level 40</a></li>
+                                <li><a href="/page/Quests+-+Level+41">Quests - Level 41</a></li>
+                                <li><a href="/page/Quests+-+Level+44">Quests - Level 44</a></li>
+                                <li><a href="/page/Quests+-+Level+46">Quests - Level 46</a></li>
+                                <li><a href="/page/Quests+-+Level+48">Quests - Level 48</a></li>
+                                <li><a href="/page/Quests+-+Level+50">Quests - Level 50</a></li>
+                                <li><a href="/page/Quests+-+Level+55">Quests - Level 55</a></li>
+                                <li><a href="/page/Quests+-+Level+57">Quests - Level 57</a></li>
+                                <li><a href="/page/Quests+-+Level+60" class="current">Quests - Level 60</a></li>
+                                <li><a href="/page/Quests+-+Level+65">Quests - Level 65</a></li>
+                                <li><a href="/page/Quests+-+Level+71">Quests - Level 71</a></li>
+                                <li><a href="/page/Quests+-+Level+72">Quests - Level 72</a></li>
+                                <li><a href="/page/Quests+-+Level+75">Quests - Level 75</a></li>
+                                <li><a href="/page/Quests+-+Level+78">Quests - Level 78</a></li>
+                                <li><a href="/page/Quests+-+Level+80">Quests - Level 80</a></li>
+                                <li><a href="/page/Quests+-+Level+84">Quests - Level 84</a></li>
+                                <li><a href="/page/Quests+-+Level+100+-+Veteran">Quests - Level 100 - Veteran</a></li>
+                                <li><a href="/page/Elemental+Keys+%28Gates%29">Elemental Keys (Gates)</a></li>
+                                <li><a href="/page/Bahamar+Quests">Bahamar Quests</a></li>
+                                <li><a href="/page/Katovic+Snowfield+Quests">Katovic Snowfield Quests</a></li>
+                                <li><a href="/page/Garcia+Questline">Garcia Questline</a></li>
+                                <li><a href="/page/Caebolan+Quests">Caebolan Quests</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Raids" rel="16">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                            <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              //]]>
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Fracture Game Community</span></li>
+            <li><span>Scribblenauts</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>GunZ Wiki</span></li>
+            <li><span>StarCraft 2.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b14';s_w.channel='pageHistory';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(369/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

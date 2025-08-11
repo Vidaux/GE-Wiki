@@ -1,0 +1,616 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything"> <label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="costume" onfocus="if( this.value == 'costume' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+                    </form>
+                  </div><br>
+                  <center>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="2722031972"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                    </script>
+                  </center>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction"></span>
+                                <form name="paginationForm" action="http://swordofthenewworldwiki.com/tag/;jsessionid=682D5158B351047C3FAC7EC1E424B519" method="get">
+                                  <span class="pagingAction"><input type="hidden" name="offset" value="0"> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;163 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                    <option value="10">
+                                      10
+                                    </option>
+                                    <option value="20" selected>
+                                      20
+                                    </option>
+                                    <option value="50">
+                                      50
+                                    </option>
+                                  </select> items&nbsp;at a time</span>
+                                </form>
+                              </div>
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a>&nbsp;<a href="?offset=40&maxResults=20">3</a>&nbsp;<a href="?offset=60&maxResults=20">4</a>&nbsp;<a href="?offset=80&maxResults=20">5</a> | <a href="?offset=20&maxResults=20">Next</a> &gt; <a href="?offset=160&maxResults=20">Last</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/13066050/Elementalist+Male+Costume+Captains+Series" class="WPC-tool WPC-tool-photo" title="Elementalist Male Costume Captains Series"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/sF2P9gSgIm6Zs1U9ptGk2Q322143/GW073" alt="">Elementalist Male Costume Captains Series</a></span> <span class="resultContent">As Stated</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Captains" title="Captains">Captains,&nbsp;</a> <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Elementalist" title="Elementalist">Elementalist,&nbsp;</a> <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Series" title="Series">Series&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Dec 3 2011, 4:20 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Elementalist+Male+Costume+Captains+Series&from=status&pageName=Elementalist+Male+Costume+Captains+Series" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Dec 3 2011, 4:21 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Elementalist+Male+Costume+Captains+Series&pageName=Elementalist+Male+Costume+Captains+Series" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11747400/thread/4587410/heheh." class="WPC-tool WPC-tool-thread WPC-indicate">heheh.</a></span> <span class="resultContent">Um.....Whats up with the second picture? XD</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/photo/11747400/Zephyrantes+Male+Fighter" class="WPC-tool WPC-tool-photo">Zephyrantes Male Fighter</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Fighter" title="Fighter">Fighter,&nbsp;</a> <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Zephyrantes" title="Zephyrantes">Zephyrantes&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: May 9 2011, 9:09 AM EDT by <a href="/account/god_vivec1" id="WPC-action_accountMenu?account=god_vivec1&subject=heheh.&from=threadFirstPost4587410&threadId=4587410" class="WPC-action" onclick="return false">god_vivec1</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/11943361/Blue+Serpent+Elm" class="WPC-tool WPC-tool-photo" title="Blue Serpent Elm"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/leOiiL82kLQBpaYvn0_-iQ1001847/GW073" alt="">Blue Serpent Elm</a></span> <span class="resultContent">Blue Serpent Costume for your Elementalist</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Blue" title="Blue">Blue,&nbsp;</a> <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Elementalist" title="Elementalist">Elementalist,&nbsp;</a> <a href="/tag/Serpent" title="Serpent">Serpent&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Apr 7 2011, 9:15 PM EDT by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Blue+Serpent+Elm&from=status&pageName=Blue+Serpent+Elm" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 7 2011, 9:17 PM EDT by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Blue+Serpent+Elm&pageName=Blue+Serpent+Elm" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11747400/Zephyrantes+Male+Fighter" class="WPC-tool WPC-tool-photo" title="Zephyrantes Male Fighter"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/h1NE7Ioio9m1pGJfGP44aA488885/GW073" alt="">Zephyrantes Male Fighter</a></span> <span class="resultContent">Male Fighter only Costume. Zephyrantes</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/150786/Fighter+Body+Costumes" title="Fighter Body Costumes">Fighter Body Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Fighter" title="Fighter">Fighter,&nbsp;</a> <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Zephyrantes" title="Zephyrantes">Zephyrantes&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Mar 4 2011, 7:01 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Zephyrantes+Male+Fighter&from=status&pageName=Zephyrantes+Male+Fighter" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 4 2011, 7:02 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Zephyrantes+Male+Fighter&pageName=Zephyrantes+Male+Fighter" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4496186/Ponytail+not+released+yet" class="WPC-tool WPC-tool-thread WPC-indicate">Ponytail not released yet</a></span> <span class="resultContent">Something not released for your version yet but still cute enjoy. ^_^ [IMG]http://i39.photobucket.com/albums/e188/BlueIzumi/GE/Ponytail.jpg[/IMG] Sorry the image does not just just copy an paste in your browser it&#39;s the poney tale for Female fighter.<br>
+                                  !@_o!</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Hats" class="WPC-tool WPC-tool-content">Hats</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/hair" title="hair">hair,&nbsp;</a> <a href="/tag/hat" title="hat">hat,&nbsp;</a> <a href="/tag/hats" title="hats">hats&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Mar 1 2011, 8:55 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Ponytail+not+released+yet&from=threadFirstPost4496186&threadId=4496186" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11732622/Le+Corsaire" class="WPC-tool WPC-tool-photo" title="Le Corsaire"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/_rtPFh4qZSBMZUB_bo4Xlg488496/GW073" alt="">Le Corsaire</a></span> <span class="resultContent">Mall Female Fighter Costume. Hair is female fighter poneytail</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/150786/Fighter+Body+Costumes" title="Fighter Body Costumes">Fighter Body Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Dress" title="Dress">Dress,&nbsp;</a> <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/Fighter" title="Fighter">Fighter&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Mar 1 2011, 8:28 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Le+Corsaire&from=status&pageName=Le+Corsaire" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 1 2011, 9:04 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Le+Corsaire&pageName=Le+Corsaire" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4494548/Costume+and+Faces+do+you+know%3F" class="WPC-tool WPC-tool-thread WPC-indicate">Costume and Faces do you know?</a></span> <span class="resultContent">Did you guys get the new alternative faces for your characters and do you know where the costume design comes from? I want to check before I post pictures and inform.<br>
+                                  Thank you,<br>
+                                  Blue!@_~!</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/thread" class="WPC-tool WPC-tool-forum">Discussion Forum</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Character" title="Character">Character,&nbsp;</a> <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Information" title="Information">Information,&nbsp;</a> <a href="/tag/layout" title="layout">layout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Feb 28 2011, 5:20 PM EST by <a href="/account/%7E*Blue*%7E" id="WPC-action_accountMenu?account=%7E*Blue*%7E&subject=Costume+and+Faces+do+you+know%3F&from=threadFirstPost4494548&threadId=4494548" class="WPC-action" onclick="return false">~*Blue*~</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11546832/Ruidestencia+costume" class="WPC-tool WPC-tool-photo" title="Ruidestencia costume"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/uAHaEkmWyb83cGbf78D1ag95009/GW073" alt="">Ruidestencia costume</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a>, <a href="/photos/album/150690/Elementalist+Costumes" title="Elementalist Costumes">Elementalist Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/elementalist" title="elementalist">elementalist&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 27 2011, 1:20 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Ruidestencia+costume&from=status&pageName=Ruidestencia+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 27 2011, 1:21 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Ruidestencia+costume&pageName=Ruidestencia+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/11546831/Ruidestencia+costume" class="WPC-tool WPC-tool-photo" title="Ruidestencia costume"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/7IyecZrJLnHe7HUu_UStwA55280/GW073" alt="">Ruidestencia costume</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a>, <a href="/photos/album/150690/Elementalist+Costumes" title="Elementalist Costumes">Elementalist Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/elementalist" title="elementalist">elementalist&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 27 2011, 1:20 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Ruidestencia+costume&from=status&pageName=Ruidestencia+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 27 2011, 1:21 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Ruidestencia+costume&pageName=Ruidestencia+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11546830/Iberis+costume" class="WPC-tool WPC-tool-photo" title="Iberis costume"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/E-JH58-1TuKU3KGKOkSdLg66379/GW073" alt="">Iberis costume</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 27 2011, 1:20 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Iberis+costume&from=status&pageName=Iberis+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 27 2011, 1:21 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Iberis+costume&pageName=Iberis+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/11546829/Iberis+costume" class="WPC-tool WPC-tool-photo" title="Iberis costume"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/MM3pVyE8rDwr3YihG5gveQ48052/GW073" alt="">Iberis costume</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 27 2011, 1:20 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Iberis+costume&from=status&pageName=Iberis+costume" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11455436/Rudolph+Doll" class="WPC-tool WPC-tool-photo" title="Rudolph Doll"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/SPiGjoEZWPVVQcWAfUxPmw21097/GW073" alt="">Rudolph Doll</a></span> <span class="resultContent">Christmas 2010</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 10 2011, 3:50 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Rudolph+Doll&from=status&pageName=Rudolph+Doll" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/11455435/Angel+Ring+For+Event" class="WPC-tool WPC-tool-photo" title="Angel Ring For Event"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/IH_CvYHj7PiBhaPyCt71Zg70725/GW073" alt="">Angel Ring For Event</a></span> <span class="resultContent">Christmas 2010</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 10 2011, 3:50 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Angel+Ring+For+Event&from=status&pageName=Angel+Ring+For+Event" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11416032/Torozvah+Ell" class="WPC-tool WPC-tool-photo" title="Torozvah Ell"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/VK_sv8LPuIe2F5Q6JYhqfQ48936/GW073" alt="">Torozvah Ell</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/scout" title="scout">scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 2 2011, 3:30 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Torozvah+Ell&from=status&pageName=Torozvah+Ell" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 2 2011, 3:33 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Torozvah+Ell&pageName=Torozvah+Ell" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/11416031/Torozvah+Ell" class="WPC-tool WPC-tool-photo" title="Torozvah Ell"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/9KUnv9baYWfDKVnMm3a19w59248/GW073" alt="">Torozvah Ell</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/scout" title="scout">scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 2 2011, 3:30 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Torozvah+Ell&from=status&pageName=Torozvah+Ell" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 2 2011, 3:33 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Torozvah+Ell&pageName=Torozvah+Ell" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/11416029/Slend+Kloria" class="WPC-tool WPC-tool-photo" title="Slend Kloria"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/j-ah37IzFxd1m3wb4A7EOA51366/GW073" alt="">Slend Kloria</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/wizard" title="wizard">wizard&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 2 2011, 3:30 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Slend+Kloria&from=status&pageName=Slend+Kloria" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 2 2011, 3:32 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Slend+Kloria&pageName=Slend+Kloria" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/11416028/Slend+Kloria" class="WPC-tool WPC-tool-photo" title="Slend Kloria"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/UoFb9At_rFoYY8DBiemEXQ63280/GW073" alt="">Slend Kloria</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume,&nbsp;</a> <a href="/tag/wizard" title="wizard">wizard&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 2 2011, 3:30 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Slend+Kloria&from=status&pageName=Slend+Kloria" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 2 2011, 3:32 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Slend+Kloria&pageName=Slend+Kloria" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/10876648/Von+Trapp" class="WPC-tool WPC-tool-photo" title="Von Trapp"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/KbIjl0bIIfs_MnspoSgUYA74489/GW073" alt="">Von Trapp</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Catherine" title="Catherine">Catherine,&nbsp;</a> <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Oct 4 2010, 3:50 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Von+Trapp&from=status&pageName=Von+Trapp" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Oct 4 2010, 3:51 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Von+Trapp&pageName=Von+Trapp" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/10876647/Von+Trapp" class="WPC-tool WPC-tool-photo" title="Von Trapp"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/NHrs7FgZpZgaWBWGTqyQAA81459/GW073" alt="">Von Trapp</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Catherine" title="Catherine">Catherine,&nbsp;</a> <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Oct 4 2010, 3:50 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Von+Trapp&from=status&pageName=Von+Trapp" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Oct 4 2010, 3:51 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Von+Trapp&pageName=Von+Trapp" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/10876646/Regiment+Uniform" class="WPC-tool WPC-tool-photo" title="Regiment Uniform"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/iC4W93h-H38YMNnPSH_V7A62858/GW073" alt="">Regiment Uniform</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/48075/Costumes" title="Costumes">Costumes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/costume" title="costume">costume&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Oct 4 2010, 3:50 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Regiment+Uniform&from=status&pageName=Regiment+Uniform" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Oct 4 2010, 3:51 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Regiment+Uniform&pageName=Regiment+Uniform" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a>&nbsp;<a href="?offset=40&maxResults=20">3</a>&nbsp;<a href="?offset=60&maxResults=20">4</a>&nbsp;<a href="?offset=80&maxResults=20">5</a> | <a href="?offset=20&maxResults=20">Next</a> &gt; <a href="?offset=160&maxResults=20">Last</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top wikis by WikiFoundry Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="costume">
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script> 
+  <script src="http://static.wikifoundry.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

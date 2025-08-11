@@ -1,0 +1,930 @@
+<html>
+<head>
+  <title>Quests - Level 84 - History Page - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Quests - Level 84 - History Page" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css?v=20090925121211" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css?20090925121211" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css?20090925121211" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css?20090925121211" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css?20090925121211"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Quests - Level 84',"PAGE_URI" : '/page/Quests+-+Level+84',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageHistory',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Quests','Quests - Level 84']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js?v=20090925121211" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090925121211" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Leaderboard' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","PHistory");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png?v=20090925121211" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnCategory">
+            <li class="gn first"><a href="/">Home</a></li>
+            <li class="gn"><a href="/forum">Discussions</a></li>
+            <li class="gn"><a href="/photos">Photos</a></li>
+            <li class="gn"><a href="/videos">Videos</a></li>
+            <li class="gn"><a href="/news">News</a></li>
+            <li class="gn"><a href="/whatsnew">Updates</a></li>
+            <li class="gn"><a href="/droplets">Droplets</a></li>
+            <li class="gn"><a href="/accountSearch/all">Members</a></li>
+            <li class="gn"><a href="#invite" id="WPC-action_invite?from=gNav" class="WPC-action" name="WPC-action_invite?from=gNav">Invite</a></li>
+          </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png?v=20090925121211" class="signup-button" /></div>
+            </div>
+          </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+          <div class="clear"></div>
+        </div>
+        <div id="adsTop">
+          <div class="ads adstop">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            //]]>
+            </script>
+          </div>
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            //]]>
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Quests+-+Level+84">Quests - Level 84</a></h1>
+                  </div>
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">Page Versions</li>
+                      <li><a href="/page/Quests+-+Level+84/todos/updated">To-Dos</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <div class="clear"></div><span class="revisionsKey">Key:&nbsp;&nbsp;<span class="diffAdd">additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">deletions</span></span>
+                  <div id="compareVersionError" class="error" style="display:none">
+                    Please select two page versions to compare - check the checkbox to the right of each version.
+                  </div>
+                  <div id="history">
+                    <div class="pagingWrapper">
+                      <div class="pagingActionWrapper">
+                        <span class="pagingAction"></span>
+                        <form action="/page/Quests+-+Level+84/history" method="get">
+                          <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;52 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit()" style="font-size:80%">
+                            <option value="10">
+                              10
+                            </option>
+                            <option value="20" selected="selected">
+                              20
+                            </option>
+                            <option value="50">
+                              50
+                            </option>
+                          </select> pages&nbsp;at a time</span>
+                        </form>
+                      </div>
+                      <div class="paging">
+                        1&nbsp;<a href="/page/Quests+-+Level+84/history?offset=20&maxResults=20">2</a>&nbsp;<a href="/page/Quests+-+Level+84/history?offset=40&maxResults=20">3</a>&nbsp; | <a href="/page/Quests+-+Level+84/history?offset=20&maxResults=20">Next</a>
+                      </div>
+                    </div>
+                    <form id="historyCheckboxForm" onsubmit="return false" name="historyCheckboxForm">
+                      <div class="tableList">
+                        <table>
+                          <tr class="header">
+                            <th><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?parentNodeId=history" href="#toggle" name="WPC-action_expandToggle?parentNodeId=history"></a></th>
+                            <th>Date/Time</th>
+                            <th>Made&nbsp;By</th>
+                            <th>Edit Note</th>
+                            <th>Type</th>
+                            <th>Scope</th>
+                            <th class="header compareCell farRightCell"><button id="WPC-action_compareRevisions" class="compareButton WPC-action" onclick="return false">Compare</button></th>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle" name="WPC-action_expandToggle?item=1"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84">Jul 26 2009, 4:18 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status1&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status1&pageName=Quests+-+Level+84">whodisnoob</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">3 words added</span><br />
+                            <span class="nowrap">7 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox52" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA1" style="display: ;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffRemove">More quests -- No reward</span><span class="diffAdd">2x</span> <span class="diffRemove">is</span><span class="diffAdd">EXP</span> <span class="diffRemove">given</span><span class="diffAdd">card</span>1. Complete the above quest2. Talk to Estevan 3. You will be instanced to Ustiur, The Farm 4. Kill Golden Egg Millets to gain 100x High Quality Golden Fruits 5. Talk to Estevan to complete the questQuest: &nbsp; <a href="/page/Quests+-+Level+84/diff/51,52">View changes from previous version.</a> (Word count: 1971)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle" name="WPC-action_expandToggle?item=2"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/51">Jul 26 2009, 4:15 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status2&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status2&pageName=Quests+-+Level+84">whodisnoob</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">7 words added</span><br />
+                            <span class="nowrap">2 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox51" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA2" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">quests -- No reward is given</span>1. Complete the above quest2. Talk to Estevan 3. You will be instanced to Ustiur, The Farm 4. Kill Golden Egg Millets to gain 100x High Quality Golden Fruits 5. Talk to Estevan to complete the questQuest: Golden FirearmsNPC + &nbsp; <a href="/page/Quests+-+Level+84/diff/50,51">View changes from previous version.</a> (Word count: 1974)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle" name="WPC-action_expandToggle?item=3"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/50">Jul 26 2009, 2:58 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status3&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status3&pageName=Quests+-+Level+84">whodisnoob</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">8 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox50" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA3" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">3x Polish: Adept</span>1. Talk to Estevan2. You will be instanced to Ustiur, The Farm3. Farm the Golden Egg Fruits by destroying Golden Egg Millets4. Talk to estevan to complete the questQuest: Misfortune of Ustiur Farm NPC + Location: Estevan, Ustiur Base CampReward: <span class="diffAdd">3x</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/49,50">View changes from previous version.</a> (Word count: 1970)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=4" href="#toggle" name="WPC-action_expandToggle?item=4"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/49">Jul 4 2009, 12:44 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status4&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Quests+-+Level+84&from=status4&pageName=Quests+-+Level+84">whodisnoob</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">1 word added</span><br />
+                            <span class="nowrap">1 word deleted</span><br />
+                            <span class="nowrap">1 image added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox49" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA4" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffRemove">Megalosaurus</span><span class="diffAdd">Brontosaurus</span> at the entrance to Zona Quatro (similar to the Tyrannosaurus fight).2. Talk to Romina and you&#39;ll be sent to an instance to fight her. The battle will last 5 minutes.3. Beat her and talk to her afterwards to receive Romina&rsquo;s Character CardGrenmah CardPre &nbsp; <a href="/page/Quests+-+Level+84/diff/48,49">View changes from previous version.</a> (Word count: 1962)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=5" href="#toggle" name="WPC-action_expandToggle?item=5"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/48">Jun 24 2009, 10:14 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Quests+-+Level+84&from=status5&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Quests+-+Level+84&from=status5&pageName=Quests+-+Level+84">Seksiboi</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">20 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox48" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA5" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp; <span class="diffAdd">for extra details on giving the ring to Grenmah, and</span> <span class="diffAdd">here</span> <span class="diffAdd">for the raid to acquire the ring.</span>Quest: Exploration of Zona Cuantro(The quest name was &quot;Killing Tyrannosarus&quot; if I remember correct)NPC + Location: Zona CuantroReward: EXP Card1. Find the &quot;Stone&quot; at Zona Cuatro2. &nbsp; <a href="/page/Quests+-+Level+84/diff/47,48">View changes from previous version.</a> (Word count: 1962)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=6" href="#toggle" name="WPC-action_expandToggle?item=6"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/47">May 2 2009, 6:16 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/NeosinneR" id="WPC-action_accountMenu?account=NeosinneR&subject=Quests+-+Level+84&from=status6&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=NeosinneR&subject=Quests+-+Level+84&from=status6&pageName=Quests+-+Level+84">NeosinneR</a></td>
+                            <td>
+                              <div class="historyComment">
+                                updated&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">46 words added</span><br />
+                            <span class="nowrap">46 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox47" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA6" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">1. Travel to the entrance of Skullic Dungeon at Ustiur Tres.</span><span class="diffAdd">2. You will be teleported to an instance.</span><span class="diffAdd">3. Battle some skulls.</span><span class="diffAdd">4. Defeat them to complete the quest.</span><span class="diffAdd">Quest:</span> The Way to a Farm NPC + Location: Estevan, Ustiur Base CampReward: EXP Card + Polish: Adept1. &nbsp; <a href="/page/Quests+-+Level+84/diff/46,47">View changes from previous version.</a> (Word count: 1942)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=7" href="#toggle" name="WPC-action_expandToggle?item=7"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/46">May 2 2009, 5:56 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/NeosinneR" id="WPC-action_accountMenu?account=NeosinneR&subject=Quests+-+Level+84&from=status7&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=NeosinneR&subject=Quests+-+Level+84&from=status7&pageName=Quests+-+Level+84">NeosinneR</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Updated Quest by availability&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">228 words added</span><br />
+                            <span class="nowrap">228 words deleted</span><br />
+                            <span class="nowrap">1 image added</span><br />
+                            <span class="nowrap">1 image deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox46" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA7" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffRemove">Tip: Lure him away so he won&acute;t spawn more little dinos. Here are his stats:</span><span class="diffRemove">Quest:</span> Pepito&rsquo; is Out of his MindNPC + Location: Pepito, Ustiur Base CampReward: 3x EXP Card and 3x Polish: Adept1. Talk to Pepito2. Recover his lost itemsPepito&rsquo;s Claw &nbsp; <a href="/page/Quests+-+Level+84/diff/45,46">View changes from previous version.</a> (Word count: 1942)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=8" href="#toggle" name="WPC-action_expandToggle?item=8"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/45">Apr 28 2009, 6:56 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/NeosinneR" id="WPC-action_accountMenu?account=NeosinneR&subject=Quests+-+Level+84&from=status8&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=NeosinneR&subject=Quests+-+Level+84&from=status8&pageName=Quests+-+Level+84">NeosinneR</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Updating questlist&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">169 words added</span><br />
+                            <span class="nowrap">524 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox45" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA8" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp; <span class="diffRemove">window. These armours only last 12 hours. They have the same base stats as the 92e armours however they can be equipped at L80. These can be upgraded and chipped like any other armour and with the same success rates. They can also break just like normal armours.</span> <span class="diffRemove"></span><span class="diffRemove">Quest:</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/44,45">View changes from previous version.</a> (Word count: 1942)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=9" href="#toggle" name="WPC-action_expandToggle?item=9"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/44">Feb 23 2009, 2:47 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status9&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status9&pageName=Quests+-+Level+84">Reuper</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">60 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox44" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA9" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">2. Arrentos wants you to hunt for 100x dinosaur tail from the enemies in Ustiur: Zona Uno.</span><span class="diffAdd">3. Return to him once done to collect your reward. You can now buy Irowana from him.</span>Quest: Disappearance of the Scouting PartyNPC + Location: Romina, Ustiur Base CampReward: 2x &nbsp; <a href="/page/Quests+-+Level+84/diff/43,44">View changes from previous version.</a> (Word count: 2289)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=10" href="#toggle" name="WPC-action_expandToggle?item=10"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/43">Feb 23 2009, 2:43 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status10&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status10&pageName=Quests+-+Level+84">Reuper</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">71 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox43" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA10" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">2. Talk to Arrentos. He asks you to retrieve 80 Golden Egg Fruit Branches from Estevan&#39;s farm and deliver them to the Master Fisherman.</span><span class="diffAdd">3. Go to Estevan&#39;s farm and collect the 80 items.</span><span class="diffAdd">4. Go to Theodore (F11) and talk to him.</span><span class="diffAdd">5. Return to Arrentos</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/42,43">View changes from previous version.</a> (Word count: 2230)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=11" href="#toggle" name="WPC-action_expandToggle?item=11"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/42">Feb 15 2009, 10:42 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status11&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status11&pageName=Quests+-+Level+84">Reuper</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">49 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox42" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA11" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">1. Talk to Estevan. He wants you to deliver a lunch box to Romina.</span><span class="diffAdd">2. Talk to Romina</span><span class="diffAdd">3. Talk to Estevan to complete the quest</span>Quest: Season of HarvestNPC + Location: Estevan, Ustiur Base CampReward: 1. Talk to Estevan2. You will be &nbsp; <a href="/page/Quests+-+Level+84/diff/41,42">View changes from previous version.</a> (Word count: 2158)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=12" href="#toggle" name="WPC-action_expandToggle?item=12"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/41">Feb 15 2009, 9:59 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status12&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status12&pageName=Quests+-+Level+84">Reuper</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">77 words added</span><br />
+                            <span class="nowrap">4 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox41" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA12" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">NOTE: You do not need to be level 84 to do the Ustiur quests, the current required level is unknown.</span>Quest: The Captain, RominaNPC + Location: Romina, Ustiur Base CampReward: None1. Talk to Romina to complete the questQuest: Supplying the MaterialsNPC + Location: &nbsp; <a href="/page/Quests+-+Level+84/diff/40,41">View changes from previous version.</a> (Word count: 2110)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=13" href="#toggle" name="WPC-action_expandToggle?item=13"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/40">Feb 1 2009, 6:28 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/whoots1" id="WPC-action_accountMenu?account=whoots1&subject=Quests+-+Level+84&from=status13&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whoots1&subject=Quests+-+Level+84&from=status13&pageName=Quests+-+Level+84">whoots1</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">15 words added</span><br />
+                            <span class="nowrap">13 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox40" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA13" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">Polisher: Adept</span><span class="diffRemove">r</span>1. Complete the above quest2. Talk to Romina3. Travel to Skull Dungeon Entrance at Ustiur Tres4. You will be teleported to an instance5. Defeat some skeletons6. Talk to the Rescue Knight near the entrance to the dungeon7. Talk to &nbsp; <a href="/page/Quests+-+Level+84/diff/39,40">View changes from previous version.</a> (Word count: 2038)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=14" href="#toggle" name="WPC-action_expandToggle?item=14"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/39">Jan 30 2009, 3:15 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Edyn" id="WPC-action_accountMenu?account=Edyn&subject=Quests+-+Level+84&from=status14&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Edyn&subject=Quests+-+Level+84&from=status14&pageName=Quests+-+Level+84">Edyn</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">43 words added</span><br />
+                            <span class="nowrap">2 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox39" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA14" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp; <span class="diffAdd">They have the same base stats as the 92e armours however they can be equipped at L80. These can be upgraded and chipped like any other armour and with the same success rates. They can also break just like normal armours.</span> <span class="diffRemove"></span> <span class="diffAdd"></span>Quest: The Fishermen ArenntosNPC + Location: &nbsp; <a href="/page/Quests+-+Level+84/diff/38,39">View changes from previous version.</a> (Word count: 2039)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=15" href="#toggle" name="WPC-action_expandToggle?item=15"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/38">Jan 30 2009, 3:06 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Edyn" id="WPC-action_accountMenu?account=Edyn&subject=Quests+-+Level+84&from=status15&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Edyn&subject=Quests+-+Level+84&from=status15&pageName=Quests+-+Level+84">Edyn</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">108 words added</span><br />
+                            <span class="nowrap">57 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox38" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA15" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">in your current MCC and selected as leader. He can</span> <span class="diffAdd">be any level.</span><span class="diffAdd">Reward: 3x Polish: Disciple and Mia Karjalain Card</span><span class="diffAdd">1. Select your Andre UPC as</span> leader and <span class="diffRemove">talk</span><span class="diffAdd">speak</span> to <span class="diffRemove">her.</span><span class="diffAdd">Mia again.</span> <span class="diffAdd">OH EM GEE!!</span> Again, they&#39;ll have a series of &nbsp; <a href="/page/Quests+-+Level+84/diff/37,38">View changes from previous version.</a> (Word count: 1998)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=16" href="#toggle" name="WPC-action_expandToggle?item=16"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/37">Jan 20 2009, 3:01 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status16&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Quests+-+Level+84&from=status16&pageName=Quests+-+Level+84">Reuper</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">85 words added</span><br />
+                            <span class="nowrap">1 word deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox37" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA16" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">At C4, you will find this field of Jungle Millet, some of which you can actually attack. They drop the Golden Fruit which you are looking for.</span><span class="diffAdd">At B3, you find this stone tucked away behind another stone. Clicking on it gives you a Tuberous Root.</span><span class="diffAdd">Return to</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/36,37">View changes from previous version.</a> (Word count: 1948)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=17" href="#toggle" name="WPC-action_expandToggle?item=17"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/36">Nov 20 2008, 8:31 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/spoonypirate" id="WPC-action_accountMenu?account=spoonypirate&subject=Quests+-+Level+84&from=status17&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=spoonypirate&subject=Quests+-+Level+84&from=status17&pageName=Quests+-+Level+84">spoonypirate</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">94 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox36" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA17" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">3. Return to Mumbler, he will present you with the following pieces of armor:</span><span class="diffAdd">Cinderella Gladiator&#39;s Armor (FIG)</span><span class="diffAdd">Cinderella Metallic Suit (FIG)</span><span class="diffAdd">Cinderella Capezzolo de Pericolo (SCO)</span><span class="diffAdd">Cinderella Clara Mago (WIZ)</span><span class="diffAdd">Cinderella Corsair Rosso (MUS)</span><span class="diffAdd">Cinderella Rosa Matrimonio (ELE)</span><span class="diffAdd">Whichever armor you choose will be placed in the</span> <span class="diffAdd">Premium Item</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/35,36">View changes from previous version.</a> (Word count: 1864)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=18" href="#toggle" name="WPC-action_expandToggle?item=18"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/35">Nov 20 2008, 2:20 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/Geisher" id="WPC-action_accountMenu?account=Geisher&subject=Quests+-+Level+84&from=status18&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Geisher&subject=Quests+-+Level+84&from=status18&pageName=Quests+-+Level+84">Geisher</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">358 words added</span><br />
+                            <span class="nowrap">401 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox35" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA18" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">Golden Striker - golden egg fruit x150, bone stick x2, bone piece x2, dragon horn x10, dragon leather x10</span> <span class="diffAdd">Golden Shotgun - golden egg fruit x150, bone stick x2, bone piece x2, dragon horn x10, dragon leather x10</span> <span class="diffAdd">Golden Cannon - golden egg fruit</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/34,35">View changes from previous version.</a> (Word count: 1770)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=19" href="#toggle" name="WPC-action_expandToggle?item=19"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/34">Nov 18 2008, 8:02 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/spoonypirate" id="WPC-action_accountMenu?account=spoonypirate&subject=Quests+-+Level+84&from=status19&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=spoonypirate&subject=Quests+-+Level+84&from=status19&pageName=Quests+-+Level+84">spoonypirate</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">2 words added</span><br />
+                            <span class="nowrap">10 words deleted</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox34" /></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA19" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp; <span class="diffRemove">(Andre Doesnt Need to Be Level 84, Thank you Anonymous!</span>NPC: Karjalainen, Auch Required level: 1 Level 84 char with Level 84 Andre Armor equipped Additional Requirement: You must have Andre <span class="diffAdd">(any level)</span> in your current group 1. Have the Lv. 84 character &nbsp; <a href="/page/Quests+-+Level+84/diff/33,34">View changes from previous version.</a> (Word count: 1812)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=20" href="#toggle" name="WPC-action_expandToggle?item=20"></a></td>
+                            <td class="nowrap"><a href="/page/Quests+-+Level+84/revision/33">Nov 18 2008, 7:59 PM EST</a></td>
+                            <td class="nowrap"><a href="/account/spoonypirate" id="WPC-action_accountMenu?account=spoonypirate&subject=Quests+-+Level+84&from=status20&pageName=Quests+-+Level+84" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=spoonypirate&subject=Quests+-+Level+84&from=status20&pageName=Quests+-+Level+84">spoonypirate</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Added Cinderella Series (Ustiur)&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">94 words added</span><br /></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox33" /></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA20" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">3. Return to Mumbler, he will present you with the following pieces of armor:</span><span class="diffAdd">Cinderella Gladiator&#39;s Armor (FIG)</span><span class="diffAdd">Cinderella Metallic Suit (FIG)</span><span class="diffAdd">Cinderella Capezzolo de Pericolo (SCO)</span><span class="diffAdd">Cinderella Clara Mago (WIZ)</span><span class="diffAdd">Cinderella Corsair Rosso (MUS)</span><span class="diffAdd">Cinderella Rosa Matrimonio (ELE)</span><span class="diffAdd">Whichever armor you choose will be placed in the</span> <span class="diffAdd">Premium Item</span> &nbsp; <a href="/page/Quests+-+Level+84/diff/32,33">View changes from previous version.</a> (Word count: 1820)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                      </div>
+                    </form>
+                    <div class="pagingWrapper">
+                      <div class="paging">
+                        1&nbsp;<a href="/page/Quests+-+Level+84/history?offset=20&maxResults=20">2</a>&nbsp;<a href="/page/Quests+-+Level+84/history?offset=40&maxResults=20">3</a>&nbsp; | <a href="/page/Quests+-+Level+84/history?offset=20&maxResults=20">Next</a>
+                      </div>
+                    </div>
+                  </div><br />
+                  <br />
+                  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagehistory/p.js?v=20090925121211" type="text/javascript"></script>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <div id="siteSearch" class="searchForm">
+                <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                  <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                </form>
+              </div><noscript><br />
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br />
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="5">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="8">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li>
+                                <a href="/page/Quests" rel="46">Quests</a>
+                                <ul>
+                                  <li><a href="/page/Sword+of+the+New+World+Walkthrough">Sword of the New World Walkthrough</a></li>
+                                  <li><a href="/page/Pioneering+Quests">Pioneering Quests</a></li>
+                                  <li><a href="/page/Bernelli+Quests">Bernelli Quests</a></li>
+                                  <li><a href="/page/Quests+-+Level+1" rel="6">Quests - Level 1</a></li>
+                                  <li><a href="/page/Quests+-+Level+4" rel="1">Quests - Level 4</a></li>
+                                  <li><a href="/page/Quests+-+Level+6" rel="3">Quests - Level 6</a></li>
+                                  <li><a href="/page/Quests+-+Level+8" rel="1">Quests - Level 8</a></li>
+                                  <li><a href="/page/Quests+-+Level+10" rel="2">Quests - Level 10</a></li>
+                                  <li><a href="/page/Quests+-+Level+12" rel="2">Quests - Level 12</a></li>
+                                  <li><a href="/page/Quests+-+Level+16" rel="1">Quests - Level 16</a></li>
+                                  <li><a href="/page/Quests+-+Level+17" rel="5">Quests - Level 17</a></li>
+                                  <li><a href="/page/Quests+-+Level+20" rel="6">Quests - Level 20</a></li>
+                                  <li><a href="/page/Quests+-+Level+22" rel="1">Quests - Level 22</a></li>
+                                  <li><a href="/page/Quests+-+Level+24" rel="4">Quests - Level 24</a></li>
+                                  <li><a href="/page/Quests+-+Level+25" rel="5">Quests - Level 25</a></li>
+                                  <li><a href="/page/Quests+-+Level+28" rel="3">Quests - Level 28</a></li>
+                                  <li><a href="/page/Quests+-+Level+29" rel="1">Quests - Level 29</a></li>
+                                  <li><a href="/page/Quests+-+Level+30" rel="4">Quests - Level 30</a></li>
+                                  <li><a href="/page/Quests+-+Level+31" rel="2">Quests - Level 31</a></li>
+                                  <li><a href="/page/Quests+-+Level+32" rel="4">Quests - Level 32</a></li>
+                                  <li><a href="/page/Quests+-+Level+35" rel="2">Quests - Level 35</a></li>
+                                  <li><a href="/page/Quests+-+Level+36" rel="3">Quests - Level 36</a></li>
+                                  <li><a href="/page/Quests+-+Level+38" rel="1">Quests - Level 38</a></li>
+                                  <li><a href="/page/Quests+-+Level+40" rel="9">Quests - Level 40</a></li>
+                                  <li><a href="/page/Quests+-+Level+41" rel="2">Quests - Level 41</a></li>
+                                  <li><a href="/page/Quests+-+Level+44" rel="6">Quests - Level 44</a></li>
+                                  <li><a href="/page/Quests+-+Level+46" rel="2">Quests - Level 46</a></li>
+                                  <li><a href="/page/Quests+-+Level+48" rel="2">Quests - Level 48</a></li>
+                                  <li><a href="/page/Quests+-+Level+50" rel="4">Quests - Level 50</a></li>
+                                  <li><a href="/page/Quests+-+Level+55" rel="1">Quests - Level 55</a></li>
+                                  <li><a href="/page/Quests+-+Level+57">Quests - Level 57</a></li>
+                                  <li><a href="/page/Quests+-+Level+60" rel="1">Quests - Level 60</a></li>
+                                  <li><a href="/page/Quests+-+Level+65">Quests - Level 65</a></li>
+                                  <li><a href="/page/Quests+-+Level+71">Quests - Level 71</a></li>
+                                  <li><a href="/page/Quests+-+Level+72">Quests - Level 72</a></li>
+                                  <li><a href="/page/Quests+-+Level+75">Quests - Level 75</a></li>
+                                  <li><a href="/page/Quests+-+Level+78">Quests - Level 78</a></li>
+                                  <li><a href="/page/Quests+-+Level+80">Quests - Level 80</a></li>
+                                  <li><a href="/page/Quests+-+Level+84" class="current">Quests - Level 84</a></li>
+                                  <li><a href="/page/Quests+-+Level+100+-+Veteran">Quests - Level 100 - Veteran</a></li>
+                                  <li><a href="/page/Elemental+Keys+%28Gates%29">Elemental Keys (Gates)</a></li>
+                                  <li><a href="/page/Bahamar+Quests">Bahamar Quests</a></li>
+                                  <li><a href="/page/Katovic+Snowfield+Quests">Katovic Snowfield Quests</a></li>
+                                  <li><a href="/page/Garcia+Questline">Garcia Questline</a></li>
+                                  <li><a href="/page/Caebolan+Quests">Caebolan Quests</a></li>
+                                  <li><a href="/page/Errac+Questline">Errac Questline</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Raids" rel="16">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink" name="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              //<![CDATA[
+              wetpaintLoad('scroller');
+              //]]>
+              </script>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                //]]>
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png?v=20090925121211" alt="Create your own free Wetpaint site" width="123" height="77" />
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Last Chaos DE Guide</span></li>
+              <li><span>Warrior Cat Clans 2</span></li>
+              <li><span>Last Chaos - Guides &amp; Information</span></li>
+              <li><span>Free Rider</span></li>
+              <li><span>Warriors Fansite.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js?v=20090925121211"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b18';s_w.channel='pageHistory';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(402/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

@@ -1,0 +1,659 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Monsters by Classification - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Monsters by Classification">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Monsters by Classification',"PAGE_URI" : '/page/Monsters+by+Classification',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"FACEBOOK_API_KEY" : '2d1eb4e17fac67b271042da4fd42a3e1',"FACEBOOK_FEED_TEMPLATE" : '78947714267',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Monsters','Monsters by Classification']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Page");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  </script>
+  <script language="JavaScript">
+                
+                GA_googleFetchAds();
+  </script>
+  <link rel="canonical" href="/page/Monsters+by+Classification">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in to Wetpaint</a> <span class="logo">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <div class="alreadyMember">
+              Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in</a>
+            </div>
+            <div class="joinButtons">
+              <a class="WPC-action hidden fbconnect_login_button" id="WPC-action_pre-login-facebook"><img src="/img/3rdparty/facebook_medium.png" alt="Facebook Connect" width="89px" height="21px"></a> <span class="signup-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="signup-button"><span class="signup-button"></span></span></button></span>
+            </div>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="pageControls">
+                  <div id="highlightedToDos" class="announcement pageToDos" style="zoom:1">
+                    <p>This page needs improvement. Help by completing a To-Do. (<span class="WPC-tooltip-trigger"><a href="#WhatAreToDos">what's this?</a><span class="WPC-tooltip-title">What is a To-Do?</span><span class="WPC-tooltip-content">To-Dos are a tool to help users understand what content is needed on the site. They are created by site members to:<span style="display:block;margin:6px 0 0 8px;text-indent:-8px">&bull; identify content or photos a page needs</span><span style="display:block;margin:0 0 0 8px;text-indent:-8px">&bull; ask for help with organization on the page</span><span style="display:block;margin:0 0 0 8px;text-indent:-8px;padding-bottom:10px">&bull; let others know where they can help on the site</span><span class="WPC-moreHelp">Read more about To-Dos at Wetpaint Central.</span></span></span>)</p>
+                    <div class="ulList" style="clear: both;">
+                      <ul>
+                        <li class="altRow"><a href="#toggle" id="WPC-action_expandToggle?item=0&section=toDo" class="WPC-action expandToggle expandToggleCollapsed" onclick="return false;"><span class="access"></span></a> <span id="WPC-action_expandToggle?item=0&section=toDo&instance=2" class="WPC-action" style="cursor: pointer;"><span class="todo todo_content"><img src="http://static.wetpaint.com/img/bg/1.png" width="16" height="16" alt="Add content"></span> <b>Add content:</b> <span class="description" id="toDoTitle_65086">An extended Classification</span></span> <span class="expandedToDo" id="expandToggleItemA0&section=toDo" style="display: none;"><a href="/account/Shiroishi" id="WPC-action_accountMenu?account=Shiroishi&subject=An+extended+Classification&pageName=Monsters+by+Classification" class="WPC-action" onclick="return false">Shiroishi</a> says: 'For example, by Element. And yeah, this page needs more work, i can help doing this too.'&nbsp;&nbsp;(<a href="/page/Monsters+by+Classification/todo/65086/An+extended+Classification">view details</a>)<br>
+                        <button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ToDo&from=doToDo0"><span class="expandedToDo" id="expandToggleItemA0&section=toDo" style="display: none;"><span class="expandedToDo" id="expandToggleItemA0&section=toDo" style="display: none;">Do this now</span> <button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ToDo&from=completeToDo65086">Mark complete</button> <button class="submit" onclick="location.href='/page/Monsters+by+Classification/todo/65086/An+extended+Classification?offset=0&WPC-action=openThreadForm%3Ftype%3DtoDo%26postId%3D94547';">Post a question</button></span></button></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <ul class="WPC-toolsMenu">
+                    <li><a href="#edit" id="WPC-action_informJoin?contentKey=AuthenticateToEdit&from=pageControls&nextAction=confirmJoinBeforeEdit%3FcellId%3DMonsters%2Bby%2BClassification" class="WPC-action btn_edit"><span class="WPC-access">EasyEdit</span></a></li>
+                    <li><a href="#mail" id="WPC-action_sendToFriend" title="Email page" class="WPC-tool WPC-tool-mail WPC-action">Email page</a></li>
+                    <li><a href="#AddToDo" title="Add a To-Do" id="WPC-action_informJoin?contentKey=AddToDo&from=pageControlsToDo&nextAction=toDo&view=add" class="WPC-tool WPC-tool-todo WPC-action">Add a To-Do</a></li>
+                  </ul>
+                </div>
+                <div id="editMessage"></div>
+                <div id="contentTitle">
+                  <h1>Monsters by Classification</h1>
+                </div>
+                <div id="WPC-areaContainer?cellId=Monsters+by+Classification">
+                  <div id="WPC-area?cellId=Monsters+by+Classification&version=8&savePath=%2Fpage%2FMonsters%2Bby%2BClassification&saveType=page" class="WPC-editableContent">
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-all" height="559" width="100%">
+                      <tbody>
+                        <tr>
+                          <td width="33%"><b><font color="#0000FF">Jezebel Glen</font></b></td>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="" width="33%"><b><font color="#FF0000">Name<br></font></b></td>
+                          <td align="center" class="" width="33%"><b><font color="#FF0000">Level<br></font></b></td>
+                          <td align="center" class="" width="33%"><b><font color="#FF0000">Classification<br></font></b></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Sepulveda, The Twin</td>
+                          <td align="center" class="" width="33%">35</td>
+                          <td class="" width="33%">Human<br></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Bandelier the Sabre</td>
+                          <td align="center" class="" width="33%">35</td>
+                          <td class="" width="33%">Human</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Milhou, The Axe</td>
+                          <td align="center" class="" width="33%">35</td>
+                          <td class="" width="33%">Human<br></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Cask-Octopus</td>
+                          <td align="center" class="" width="33%">36</td>
+                          <td class="" width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Box-Octopus</td>
+                          <td align="center" class="" width="33%">36</td>
+                          <td class="" width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%"><br></td>
+                          <td align="center" class="" width="33%"><br></td>
+                          <td class="" width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%"><b><font color="#0000FF">Porto Bello</font></b></td>
+                          <td align="center" class="" width="33%"><br></td>
+                          <td class="" width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Box-Octopus</td>
+                          <td align="center" class="" width="33%">36</td>
+                          <td class="" width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">King-octopus</td>
+                          <td align="center" class="" width="33%">37</td>
+                          <td class="" width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Imanon</td>
+                          <td align="center" class="" width="33%">38</td>
+                          <td class="" width="33%">Undead</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Merman</td>
+                          <td align="center" class="" width="33%">38</td>
+                          <td class="" width="33%">Human</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Zavi di Gavi</td>
+                          <td align="center" class="" width="33%">39</td>
+                          <td class="" width="33%">Undead</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%"><br></td>
+                          <td align="center" class="" width="33%"><br></td>
+                          <td class="" width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%"><font color="#0000FF"><b>Porto Bello, Deck</b></font></td>
+                          <td align="center" class="" width="33%"><br></td>
+                          <td class="" width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Merman</td>
+                          <td align="center" class="" width="33%">38</td>
+                          <td class="" width="33%">Human</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Imanon</td>
+                          <td align="center" class="" width="33%">38</td>
+                          <td class="" width="33%">Undead</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Scarlet Claw</td>
+                          <td align="center" class="" width="33%">40</td>
+                          <td class="" width="33%">Human</td>
+                        </tr>
+                        <tr>
+                          <td width="33%">Corpse Merman</td>
+                          <td align="center" width="33%">41</td>
+                          <td width="33%">Undead</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%">Norjiar</td>
+                          <td align="center" class="" width="33%">41</td>
+                          <td class="" width="33%">Undead</td>
+                        </tr>
+                        <tr>
+                          <td class="" width="33%"><br></td>
+                          <td align="center" class="" width="33%"><br></td>
+                          <td class="" width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><font color="#0000FF"><b>Porto Bello, The Deserted Quay</b></font></td>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td width="33%">Cannon Tortoise</td>
+                          <td align="center" width="33%">46</td>
+                          <td width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td width="33%">Armed Tortoise</td>
+                          <td align="center" width="33%">47</td>
+                          <td width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td width="33%">Decayed Tortoise</td>
+                          <td align="center" width="33%">47</td>
+                          <td width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td width="33%">Tortoise</td>
+                          <td align="center" width="33%">48</td>
+                          <td width="33%">Wild Beast</td>
+                        </tr>
+                        <tr>
+                          <td width="33%">Wahlansche (Boss)</td>
+                          <td align="center" width="33%">46</td>
+                          <td width="33%">Undead</td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                          <td width="33%"><br></td>
+                        </tr>
+                      </tbody>
+                    </table><br>
+                  </div>
+                </div><br class="clear">
+                <br class="clear">
+                <div id="pageAttributes">
+                  <table cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">http://static.wetpaint.com/img/bg/1.png?v=20090619151023</span> <a href="/account/Shiroishi" id="WPC-action_accountMenu?account=Shiroishi&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Monsters+by+Classification" src="http://image.wetpaint.com/image/1/C_wND_HxUW-7gKJP2BFBjQ47370/GW050" class="imageSm" alt="Shiroishi"></a><br>
+                      <a href="/account/Shiroishi" id="WPC-action_accountMenu?account=Shiroishi&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Shiroishi</a></td>
+                      <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Monsters+by+Classification"><a href="/account/Shiroishi" id="WPC-action_accountMenu?account=Shiroishi&subject=Monsters+by+Classification&from=lastPageUpdate&pageName=Monsters+by+Classification" class="WPC-action" onclick="return false">Shiroishi</a></span> , <span id="WPC-lastRevisionDate?cellId=Monsters+by+Classification">Sep 8 2008, 2:50 AM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Shiroishi"><img src="http://image.wetpaint.com/image/1/C_wND_HxUW-7gKJP2BFBjQ47370/GW050" class="imageSm" alt="Shiroishi"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/Shiroishi">Shiroishi</a></span> <span id="latestEditNoteScope"><br>
+                      <br>
+                      <span class="nowrap">16 words added</span><br>
+                      <span class="nowrap">8 words deleted</span><br></span><br>
+                      <a href="/page/Monsters+by+Classification/diff/7,8" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Monsters+by+Classification/history" style="white-space: nowrap">complete history</a>)</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="WPC-tagModule">
+                          <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                        </div>
+                        <div id="moreInfo">
+                          <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Monsters+by+Classification/links">links to this page</a>
+                        </div>
+                        <div id="bkmrkLinks">
+                          <span>Bookmark:</span> <img class="sprite-delicioussmall" src="http://static.wetpaint.com/img/bg/1.png">Del.icio.us &nbsp;&nbsp; <img class="sprite-stumbleupon" src="http://static.wetpaint.com/img/bg/1.png">StumbleUpon &nbsp;&nbsp; Facebook
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="threadList" class="pageSection pageSectionOutOfPage">
+                  <div class="pageSectionHeaderContainer">
+                    <h4><a href="/page/Monsters+by+Classification/thread">Threads for this page</a></h4>
+                  </div>
+                  <div class="tableList" id="contentThreadList">
+                    <table>
+                      <tr class="header">
+                        <th><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?parentNodeId=contentThreadList" href="#toggle"></a></th>
+                        <th>Started&nbsp;By</th>
+                        <th width="16"></th>
+                        <th>Thread Subject</th>
+                        <th>Replies</th>
+                        <th class="farRightCell">Last Post</th>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                        <td><a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Should+this+page+be+broken+up+and+restructured+a+bit%3F&from=threadAccount1244381&threadId=1244381" class="WPC-action" onclick="return false">WeazerDevil</a></td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/1244381/Should+this+page+be+broken+up+and+restructured+a+bit%3F"><b>Should this page be broken up and restructured a bit?</b></a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Feb 26 2008, 4:19 PM EST</span> by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Should+this+page+be+broken+up+and+restructured+a+bit%3F&from=threadFirstAccount1244381&threadId=1244381" class="WPC-action" onclick="return false">Lothmak</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA1">
+                            <a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Should+this+page+be+broken+up+and+restructured+a+bit%3F&from=threadImg1244381&threadId=1244381" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/tOSc9MnnSakEaBr1Bzi_SQ36296/GW050" alt="WeazerDevil"></a>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB1">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Feb 26 2008, 12:15 PM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=1244381&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              whats your opinion to the question
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1244381&post=8964264"><span id="agreeCount?thread=1244381&post=8964264">0</span> &nbsp;out of <span id="totalCount?thread=1244381&post=8964264">5</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1244381&post=8964264" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1244381&post=8964264">Do you? <a id="WPC-action_rateThread?thread=1244381&post=8964264&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=1244381&post=8964264&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=1244381" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/1244381/Should+this+page+be+broken+up+and+restructured+a+bit%3F?offset=0&WPC-action=openThreadForm?postId=8966098&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div><a href="#lastReply" onclick="document.getElementById('threadLastReply1244381').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1244381" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Should+this+page+be+broken+up+and+restructured+a+bit%3F&from=threadImg1244381&threadId=1244381" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/pjy1XBw5E16VlPV1BO1LpQ6109/GW050" alt="Lothmak"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1244381/Should+this+page+be+broken+up+and+restructured+a+bit%3F?offset=0#post8966098"><b>RE: Should this page be broken up and restructured a bit?</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Should+this+page+be+broken+up+and+restructured+a+bit%3F&from=threadLastAccount1244381&threadId=1244381" class="WPC-action" onclick="return false">Lothmak</a>, Feb 26 2008, 4:19 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          looks fine like that (in my opinion)
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1244381&post=8966098"><span id="agreeCount?thread=1244381&post=8966098">0</span> &nbsp;out of <span id="totalCount?thread=1244381&post=8966098">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1244381&post=8966098" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1244381&post=8966098">Do you? <a id="WPC-action_rateThread?thread=1244381&post=8966098&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=1244381&post=8966098&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                    <a name="replyToThread"></a>
+                    <div id="threadFormDiv">
+                      <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                        <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                        <table class="threadFormTable">
+                          <tr>
+                            <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                            <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                          </tr>
+                          <tr>
+                            <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                            <td>
+                            <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                            <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                          </tr>
+                          <tr id="quoteRow" style="display:none;">
+                            <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                            <td><span id="quoteContent">
+                            <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                          </tr>
+                          <tr id="tagRow" style="display:none;">
+                            <td class="labelCell">Keyword tags:</td>
+                            <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                          </tr>
+                        </table>
+                        <div id="threadNotification" style="display:none;"></div><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" style="display:none" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                      </form>
+                      <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                        Posting...
+                      </div>
+                      <div id="editLengthWarn" style="display:none;">
+                        Note: You can enter up to [REMCHARS] additional characters.<br>
+                        Did you know you can edit the content of this page by clicking EasyEdit?
+                      </div>
+                    </div><span style="display:none" id="threadFormPlacementDivId" class="WPC-threadFormContainer"></span> 
+                    <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                  </div>
+                  <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                    <div class="controlsNode" id="controlsNode_0">
+                      <ul class="WPC-toolsMenu">
+                        <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action openThreadForm" id="WPC-action_openThreadForm?from=addThread" onclick="return false;">Post a new thread</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                    Showing 1 of 1 threads for this page
+                  </div><span id="threadCounter" title="2" style="display:none"></span>
+                </div>
+                <div class="ads adscontent">
+                  <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                  </script>
+                </div>
+              </div>
+            </div>
+            <script src="http://static.wetpaint.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li>
+                              <a href="/page/Monsters" rel="9">Monsters</a>
+                              <ul>
+                                <li><a href="/page/Monsters+by+Classification" class="current">Monsters by Classification</a></li>
+                                <li><a href="/page/Levels+1+-+10">Levels 1 - 10</a></li>
+                                <li><a href="/page/Levels+11+-+20">Levels 11 - 20</a></li>
+                                <li><a href="/page/Levels+21+-+30">Levels 21 - 30</a></li>
+                                <li><a href="/page/Levels+31+-+40">Levels 31 - 40</a></li>
+                                <li><a href="/page/Levels+41+-+50">Levels 41 - 50</a></li>
+                                <li><a href="/page/Levels+51+-+60">Levels 51 - 60</a></li>
+                                <li><a href="/page/Bosses">Bosses</a></li>
+                                <li><a href="/page/Elites">Elites</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Quests" rel="45">Quests</a></li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                            <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Fracture Game Community</span></li>
+            <li><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>StarCraft 2</span></li>
+            <li><span>GunZ Wiki.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+  <script type="text/javascript">
+
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090619151023" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b10';s_w.channel='page';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(106/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.sProp11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.sProp10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+</body>
+</html>

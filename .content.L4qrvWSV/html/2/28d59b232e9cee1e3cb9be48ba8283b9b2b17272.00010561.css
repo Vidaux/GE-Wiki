@@ -1,0 +1,795 @@
+
+body {
+    margin:0px;
+    padding:0px;
+    min-width:990px;
+}
+
+* html body {
+    height:100%;
+}
+form {
+	margin:0px;
+}
+.checkbox, .radio {
+	border:none;
+	background:none;
+	position:relative;
+}
+
+.cancel, .compareButton, .historyRevisionButton, .secondaryButton{
+	background-color:#CCC;
+	color:#333;
+}
+
+ul, ol {
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+li {
+	padding:0px;
+}
+
+
+#pageAttributes a, a.pageTag, .threadTags a, #userHeader a, .announcement a, .subNavigation a {
+	position:static
+}
+
+td.header, th{
+	font-weight:bold;
+	text-align:left;
+}
+.error {
+	color:red;
+}
+
+.clear {
+	clear:both;
+	padding-bottom:1px;
+	margin-bottom:-1px;
+	position:relative;
+	z-index:auto;
+}
+.nowrap{
+	white-space: nowrap;
+}
+
+html .WPC-editableContent{overflow: visible}
+
+
+html .WPC-throbberActive, 
+html input.WPC-throbberActive, 
+html input.submit.WPC-throbberActive, 
+html button.WPC-throbberActive{
+	background-image: url(/web/20160111172842im_/http://static.wikifoundry.com/img/item/loader_blu.gif?v=20111214172750) !important;
+	background-repeat: no-repeat !important;
+	background-position: right !important;
+}
+
+.WPC-throbberInactive {
+	background-image: none;
+	background-color: transparent;
+}
+
+.WPC-disabled{
+	filter:alpha(opacity=60);
+	opacity:.60;
+}
+a:hover.WPC-disabled{
+	cursor:text;
+	text-decoration:none;
+}
+
+
+#allcontentInner {
+	padding:10px;
+}
+
+.browserWarning {
+	font-weight:bold;
+	color:#D00;
+	text-align:left;
+	padding:10px;
+	border-top:1px solid #f1f1f1;	
+	border-bottom:2px solid #999;
+	background-color:#CCCCCC;
+}
+.browserWarning a, .browserWarning a:hover {
+	color:#0033CC;
+}
+
+#leftColumn .browserWarning{
+	margin-bottom:16px
+}
+
+
+#outer{
+	clear:both;
+	padding-left:200px;
+}
+
+#pageContainer {
+	clear:both;
+	position:relative;
+	margin:0px;
+	padding:0px;
+	display:inline-block;
+	width:100%;
+}
+* html #pageContainer {
+	width:auto;
+}
+
+#leftColumn {
+	float:left;
+	position:relative;
+	width:190px;
+	margin-left:-200px;
+}
+
+* html #leftColumn {margin-top:-2px;}
+
+#mainColumn {
+	float:right;
+	position:relative;
+	width:100%;
+	min-width:100%;
+	padding:0px;
+}
+
+#userHeader {
+	display:block;
+	position:relative;
+}
+
+#pageContent {
+	clear:both;
+	display:table;
+	width:100%;
+	min-width:100%;
+	padding:0px;
+	margin:0 -2px 0 0;
+	position:relative;
+}
+#pageContentInner {
+	padding:10px 10px 2em 10px;
+	min-height:600px;
+}
+#pageContentInner table {
+	position:relative;
+}
+#pageContentInner td.firstInnerCell{
+	padding:0px;
+	width:100%;
+}
+#pageContentInner td.secondInnerCell{
+	width:200px;
+}
+.innerColumn {
+	width: 190px;
+	padding:0 0 0 10px;
+}
+.dashboard .innerColumn {
+	width:300px;
+	margin:0px 0px 0px 10px;
+}
+#contentTitle {
+	margin-bottom:.25em;
+}
+.historyRevision{
+	position:relative;
+	zoom:1;
+}
+
+.panel {
+	position:relative;
+	overflow:hidden;
+	width:100%;
+}
+
+.panel .panelHeader {
+	position:relative;
+}
+.panel .panelControl {
+	display:inline;
+	cursor:pointer;
+	position:relative;
+}
+
+
+.panel .panelContent table {
+	position:relative;
+	overflow:hidden;
+}
+.panel p {
+	position:relative;
+}
+
+
+
+.panelButtons {margin-bottom:6px}
+.panelButtons .panel{margin-top:6px;}
+.panelButtons .panel .panelContent{padding:3px 3px;}
+
+
+
+
+html body #allcontent #allcontentInner .wetpaintAnnounce {
+	border: 1px solid #FFCC33;
+}
+html body .wetpaintAnnounce .submit, html body button.wetpaintAnnounce {
+	background-color:#FFCC33;
+	color:#333;
+	border: solid 2px #FFCC33;
+}
+
+#tagCloud a.weight1{
+	font-size:75%
+}
+#tagCloud a.weight2{
+	font-size:90%
+}
+#tagCloud a.weight3{
+	font-size:115%
+}
+#tagCloud a.weight4{
+	font-size:145%
+}
+#tagCloud a.weight5{
+	font-size:160%
+}
+
+
+#siteActivePages ul{
+	margin:0; padding:0;	
+}
+#siteActivePages ul li{
+	margin:0; padding:0;
+	list-style:none outside none;	
+	clear:both;
+	position:relative;
+	margin-right:-4px;
+}
+#siteActivePages ul li span.rssButton{
+	display:block;
+	position:relative;
+	float:right;
+	margin-top:5px;
+}
+#siteActivePages ul li span.rssButton img.rssIcon{
+	background: url(/web/20160111172842im_/http://static.wikifoundry.com/img/sprite/base.png?v=20111214172750)  0 -186px  no-repeat; height:13px; width:35px;
+	border:0px;
+}
+
+#searchResults .exactMatch {
+	display:block;
+}
+#searchResults .resultLink {
+	display:block;
+}
+#searchResults .resultContent {
+	display:block;
+}
+#searchResults .resultData {
+	display:block;
+}
+
+.pagingWrapper {
+	/* width:100%;*/
+	display:block; 
+	clear:both;
+}
+.pagingActionWrapper {
+	display:inline;
+	position:relative;
+}
+.pagingAction {
+	display:block;
+	white-space:nowrap;
+	float:left;
+}
+
+.tableList {
+	clear:both;
+}
+
+.twoCol .tableList {
+	clear: none;
+}
+
+
+.ulList {
+	clear:both;
+	position:relative;
+}
+.ulList ul {
+	position:relative;
+}
+.ulList ul li {
+	clear:both;
+	position:relative;
+}
+
+#diffViewHistory {
+	display:inline;
+	position:relative;
+}
+#diffViewHistory button {
+	float:left;
+}
+#diffContent {
+	position:relative;
+}
+.diffAdd {
+	position:relative;
+}
+.diffRemove {
+	position:relative;
+}
+
+.WPC-tooltip-title img.avatar{
+	margin:2px 5px 0 0;
+	float:left;
+	border:solid 1px #999;
+}
+* html .WPC-tooltip-title img.avatar{
+	position:relative
+}
+
+.WPC-tooltip-title .new {
+	font-weight: normal;
+}
+.WPC-tooltip-trigger {text-transform:none;}
+.WPC-tooltip-trigger .WPC-tooltip-title,
+.WPC-tooltip-trigger .WPC-tooltip-content {
+	display: none;
+} 
+
+#tooltipSendMessage{white-space:nowrap}
+
+#latestEditNote {
+	display:block;
+	width:185px; 
+}
+#latestEditNote img.imageSm{
+	margin:0 0 1em 1em;
+	z-index:auto;
+	float:right;
+	position:relative;
+}
+#latestEditNote a{
+	position:static;
+}
+#latestEditNote .thread {
+	font-style:italic;
+}
+
+.view1content, .view2content, .view3content, .view4content {
+	display: none;
+}
+.view1 .view1content, .view2 .view2content, .view3 .view3content, .view4 .view4content {
+	display: block;
+}
+
+
+#selectColorGrid {
+	height:200px;
+	width:200px;
+	border:2px inset;
+	cursor:pointer;
+	background:transparent url(/web/20160111172842im_/http://static.wikifoundry.com/img/item/selectcolor_saturation-value_grid.png?v=20111214172750) no-repeat top;		
+}
+	* html #selectColorGrid {
+		background:transparent none;
+		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/item/selectcolor_saturation-value_grid.png', sizingMethod='crop');
+	}
+#selectColorGridDragSpace {
+	position:relative;
+	padding:8px;
+	height:204px;
+	width:204px;
+}
+#selectColorGridSelector {
+	position:absolute;
+	top:0px;
+	left:0px;
+	height:20px;
+	width:20px;
+	background:transparent url(/web/20160111172842im_/http://static.wikifoundry.com/img/item/selectcolor_grid_selector.png?v=20111214172750) no-repeat top;		
+	cursor:move;
+}
+	* html #selectColorGridSelector {
+		background:transparent none;
+		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/item/selectcolor_grid_selector.png', sizingMethod='crop');
+	}
+#selectColorLine {
+	height:200px;
+	width:20px;
+	border:2px inset;
+	cursor:pointer;
+	background:transparent url(/web/20160111172842im_/http://static.wikifoundry.com/img/item/selectcolor_hue_line.png?v=20111214172750) repeat-x top;		
+}
+#selectColorLineDragSpace {
+	position:relative;
+	padding:8px;
+	height:204px;
+	width:24px;
+}
+#selectColorLineSelector {
+	position:absolute;
+	top:0px;
+	left:0px;
+	height:20px;
+	width:40px;
+	background:transparent url(/web/20160111172842im_/http://static.wikifoundry.com/img/item/selectcolor_line_selector.png?v=20111214172750) no-repeat top;		
+	cursor:n-resize;
+}
+	* html #selectColorLineSelector {
+		background:transparent none;
+		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/item/selectcolor_line_selector.png', sizingMethod='crop');
+	}
+#selectColorPreview {
+	height: 30px;
+	width: 30px;
+	padding: 3px;
+	margin-bottom:8px;
+	border: 2px outset;
+}
+#selectColorInputWrapper {
+	padding-left:8px;
+	vertical-align:middle;
+}
+
+.conflictHeader {
+	border-top:2px solid #666;
+	border-bottom:1px solid #666;
+	padding: 2px 0px 2px 0px;
+	margin: 10px 0px 10px 0px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+object {
+	display: block;
+	position: relative;
+}
+
+.overlay {
+	position:absolute;
+	display:none;
+	filter:alpha(opacity=50);
+	opacity:.50;
+	top:0px;
+	left:0px;
+	z-index:5;
+}
+
+.overlayOnEdit {
+	z-index:14;
+}
+
+.overlayScreen {
+	display:block;
+	width:100%;
+	height:100%;
+	filter:none;
+	opacity:1;
+}
+
+ 
+
+
+
+.ads .affiliateAd { margin-bottom:1.5em;width:150px;}
+.ads .affiliateAd a{ cursor:hand;}
+.ads .affiliateAd .adTitle{ font-size:13px;font-weight:900;text-decoration:underline;display:block;}
+.ads .affiliateAd .adBody{ font-size:12px;text-decoration:none;display:block; }
+.ads .affiliateAd .adLink{ font-size:10px;text-decoration:none;display:block;}
+#adsTop {
+	white-space:nowrap;
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+	min-height: 5px;
+	width: 990px;
+}
+	#adsTop .ads {
+		padding: 0;
+		zoom: 1;
+		float: left;
+		padding-right:10px;
+		padding-bottom:5px;
+	}	
+	
+	#adsTop object embed, #adsTop div iframe, #adsTop div a, #adsTop .ads div div, #adsTop div object, #adsTop div embed { padding: 0; }
+
+.adstracking { padding: 0; }
+
+.adsbackgroundData {
+	height:100%;
+	width:100%;
+	display: block;
+	left:0;
+	padding-top:0;
+	position:fixed;
+	top:0;
+	z-index:10;
+}
+
+
+
+ #gNav {
+ 	white-space:normal;
+ 	vertical-align: middle;
+ 	font-size: 14px;
+	margin:0 -10px;
+	min-width:990px;
+	height:40px;
+}
+
+#gNav ul,
+#gnPromoLinks ul {
+	padding:0; margin:0;
+	list-style: none outside none;
+}
+
+#gnAccount {
+	float:right;
+	font-size:12px;
+	line-height:40px;
+}
+#gnMain {
+	float:left;
+	font-weight:bold;
+	line-height:40px;
+	position: relative;
+	z-index: 4;
+}
+	
+#gnPromoLinks{
+	height:30px;
+	margin:0 -10px; 
+}
+#gnPromoLinks ul{
+	margin-left:10px;
+}
+#gnPromoLinks li{
+	float:left;
+	padding:5px;
+	font-size: 12px;
+	line-height: 25px;
+}
+#gnPromoLinks li a{
+	text-decoration:underline;
+}
+
+#gnSearch{
+	padding: 5px;
+	float: right;
+}
+
+#gnMain li, 
+#gnAccount li{
+	float: left;
+	white-space: nowrap;
+	padding: 0 10px;
+	position:relative;
+	background: transparent url(/web/20160111172842im_/http://static.wikifoundry.com/img/bg/bg_globalNavigation_div.png?v=20111214172750) no-repeat left center;
+}
+#gnMain ul.subNav {
+	position:absolute;
+	top:33px; left:10px;
+	z-index:100;
+	display:none;
+	line-height:normal;
+	box-shadow: 2px 2px 2px #333;
+	-webkit-box-shadow: 2px 2px 5px 0 #333;
+	-moz-box-shadow: 2px 2px 5px 0 #333;
+	-webkit-border-radius:0 0 3px 3px;
+	-moz-border-radius:0 0 3px 3px;
+	filter: progid:DXImageTransform.Microsoft.dropShadow(color='#333', offX='2', offY='2', positive='true');
+}
+#gnMain li.subNav {
+	float:none;
+	font-size:12px;
+	padding:4px 5px;	
+	display:block;
+	margin:0;
+	position:static;
+	line-height:normal;
+	width:175px;
+	height:auto;
+	background-image:url(/web/20160111172842im_/http://static.wikifoundry.com/img/bg/bg_globalNavigation_horiz.png?v=20111214172750);
+	background-position:left top;
+	background-repeat: repeat-x;
+	font-weight:normal;
+	white-space: normal;
+}
+#gnMain li.subNav:first-child {
+	background-image:none;
+}
+#gnMain li.subNav:last-child {
+	-webkit-border-radius:0 0 3px 3px;
+	-moz-border-radius:0 0 3px 3px;
+}
+
+#gnMain li.subNav span, #gnMain li.subNav a{
+	width:100%;
+	display:block;
+	line-height:normal;
+}
+#gnMain li.first, 
+#gnAccount li{
+	background-image:none;
+}
+#gnAccount li{
+	padding: 0 5px;
+}
+
+#gNav li a  {
+	position:static;
+	text-decoration:none;
+}
+#gNav li a:hover  {
+	text-decoration:underline;
+}
+
+#gNav .clear{
+	height:1px; margin-top:-1px
+}
+
+#gNav #myProfile .new{
+	font-weight:normal;
+}
+
+#gnAccount, #gnJoin {
+	float:right;
+}
+
+#gnJoin {
+	padding: 2px 5px 4px 5px;
+	font: 14px arial, helvetica, sans-serif;
+	position:relative;
+	text-align: right;
+	white-space: nowrap;
+}
+#gnJoin .content {
+	text-align:right;
+	padding-top:3px;
+}
+#gnJoin .content a{
+	text-decoration:none;
+	font-weight: bold;
+	vertical-align: middle;
+}
+#gnJoin .content a img{
+	vertical-align: middle;
+}
+#gnJoin .content a:hover{
+	text-decoration:underline;
+}
+#gnjoin .joinButtons {
+	position: relative;
+	white-space:nowrap;
+}
+.WPC .gNavTooltip #WPC-tooltip-title a {
+	display:block;
+}
+.WPC .gNavTooltip #tooltipHeaderDiv img{
+	margin-left: -8px;
+	position:relative;	
+}
+
+
+
+.controlsNode .WPC-toolsMenu{
+	float:right; 
+	width:auto;
+	margin-right:-15px;
+}
+* html .controlsNode .WPC-toolsMenu{
+	margin-right:-5px;
+	margin-top:0px;
+}
+
+.pageLink .controlsNode .WPC-toolsMenu{
+	font-size:1em;
+	font-weight:bold;
+}
+.announcement .WPC-toolsMenu li,
+.controlsNode .WPC-toolsMenu li{	
+	margin-top:0;
+	height:1.7em;	
+}
+
+.WPC-toolsMenu .btn_edit, .WPC-toolsMenu a.btn_editLock {
+	display:block;
+	margin-top:-10px;
+	width:101px;
+	height:39px;
+	position:relative;
+}
+* html .WPC-toolsMenu .btn_edit, * html .WPC-toolsMenu a.btn_editLock {
+	display: none;
+}
+.WPC-toolsMenu .btn_edit:hover {
+	background-position:bottom;
+}
+
+
+ p.newSiteIntro {
+ 	filter:alpha(opacity = 60);
+ 	opacity:.6;
+ 	float:left;
+ }
+
+ #WPC-fullSharingMenu {
+ 	float:right;
+ 	height:32px;
+ 	margin:10px 0;
+ } 
+ .addthis_toolbox .custom_images a {
+    width: 32px;
+    height: 32px;
+    margin: 0 0 0 7px;
+    padding: 0;
+}
+.addthis_toolbox .custom_images a:hover img {
+    opacity: 1;
+}
+.addthis_toolbox .custom_images a img {
+    opacity: .75;
+}
+.addthis_toolbox .custom_images a.addthis_button_compact {
+	font-size:12px;
+	padding-top: 8px;
+	width: 80px;
+	white-space: nowrap;
+}
+ 
+
+.WPC .WPC-progressBar {
+
+}
+
+.WPC .WPC-progressBar strong {
+	font-weight: bold;
+}
+
+.WPC .WPC-progressBar .WPC-progressBar-background {
+	margin-top: 0.2em;
+	border: solid 1px #BBB; 
+	background: #F2F2F2 url(/web/20160111172842im_/http://static.wikifoundry.com/img/bg/bg_orientationStatus.png) repeat-x left top;
+	height: 0.8em;
+	display: block;
+}
+
+.WPC .WPC-progressBar .WPC-progressBar-background .WPC-progressBar-fill {
+	height: 0.8em;
+	background: #FFCC33 url(/web/20160111172842im_/http://static.wikifoundry.com/img/bg/bg_orientationStatus_bar.png) repeat-x left top; 
+	border-right: 1px solid #FFCC33;
+	width: 0%;
+}
+
+/*
+     FILE ARCHIVED ON 17:28:42 Jan 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:42:27 Aug 10, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.69
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.02
+  esindex: 0.014
+  cdx.remote: 1336.673
+  LoadShardBlock: 75.738 (3)
+  PetaboxLoader3.datanode: 89.71 (5)
+  load_resource: 906.557 (2)
+  PetaboxLoader3.resolve: 235.464 (2)
+*/

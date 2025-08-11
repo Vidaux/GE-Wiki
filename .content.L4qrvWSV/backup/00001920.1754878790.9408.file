@@ -1,0 +1,936 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Equipment Upgrade - Wiki of the New World</title>
+  <meta name="keywords" content="Equipment Upgrade - Wiki of the New World, enchantement,Equipment,Equipt,Granado Espada,Prepare,SOTNW,SOTNW Wiki,Sword of the New World,Sword of the New World Wiki,Upgrade,weapons">
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Equipment Upgrade">
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Equipment Upgrade',"PAGE_URI" : '/page/Equipment+Upgrade',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"IS_CONTENT_LOCKED" : true,"DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Items & Equipment','Weapons','Equipment Upgrade']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+        wp_ads.noAdSense = '';
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","Page");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  </script>
+  <script language="JavaScript">
+        
+        GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join?from=joinButton" class="submit action secondary wetpaintAnnounce"><span><span>Join This Site</span></span></button></span> <span>Already a member?<br>
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="pageControls">
+                  <ul class="WPC-toolsMenu"></ul>
+                </div>
+                <div id="editMessage"></div>
+                <div id="contentTitle">
+                  <h1>Equipment Upgrade</h1>
+                </div>
+                <div id="WPC-areaContainer?cellId=Equipment+Upgrade">
+                  <div id="WPC-area?cellId=Equipment+Upgrade&version=20&savePath=%2Fpage%2FEquipment%2BUpgrade&saveType=page" class="WPC-editableContent">
+                    <font size="2">This game has an equipment upgrade system that works by paying an npc for each &quot;level&quot; added to a weapon.<br></font>
+                    <div align="center">
+                      <font size="2"><img align="bottom" alt="Enchantment - Wiki of the new world" height="68" src="http://image.wetpaint.com/image/3/Xliq6ft1fGAATxKTWRs9Rg31410/GW212H68" title="Enchantment - Wiki of the new world" width="212"><br>
+                      <br></font>
+                      <div align="left">
+                        <font size="2">A weapon (or defensive equipment) can be upgraded easilly up to +4. After +4 there&#39;s a chance that the weapon will break.<br></font><font size="2"><br>
+                        <b>Upgrade Chance and Effects</b><br>
+                        First off, the general upgrading chance works like this:<br></font><font size="2">&quot;The following is speculation&quot;<br></font><font size="2">From information taken from different players, the success rate of the upgrade system works by %, and this list is the most accurate up to today.<br>
+                        <br></font>
+                        <div align="center">
+                          <font size="2"><b>Upgrade Level</b>....<b>Success Rate</b>....<b>AR/DR Bonus</b></font><br>
+                          <font size="2">+1.....................100%..............none</font><br>
+                          <font size="2">+2.....................100%..............none</font><br>
+                          <font size="2">+3.....................100%..............none</font><br>
+                          <font size="2">+4.....................100%..............none</font><br>
+                          <font size="2">+5.......................50%.................+1<br></font><font size="2">+6.......................25%.................+1<br></font><font size="2">+7.......................12%.................+1<br></font><font size="2">+8........................6%.................+1<br></font><font size="2">+9........................3%.................+1<br></font><font size="2">+10......................1%.................+1</font>
+                        </div><font size="2"><br>
+                        <br>
+                        A weapon will glow depending on the level of the upgrade -<br>
+                        Weapons of level 1 to 4 won&#39;t have a glowing effect.<br>
+                        <br></font>
+                        <table align="bottom" cellpadding="3" class="wp-border-all" width="400">
+                          <tbody>
+                            <tr>
+                              <td align="center" width="33%"><font size="2"><br>
+                              +5</font></td>
+                              <td align="center" width="33%"><font size="2"><br>
+                              White Glow</font></td>
+                              <td align="center" width="33%"><font size="2"><img align="bottom" alt="Equipment Upgrade - Wiki of the new world" height="82" src="http://image.wetpaint.com/image/1/Fsq189SheZxqxIW1KWGgjg6304/GW117H82" title="Equipment Upgrade - Wiki of the new world" width="117"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              +6</font></td>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              Golden Glow</font></td>
+                              <td align="center" width="33%"><font size="2"><img align="bottom" alt="Equipment Upgrade - Wiki of the new world" height="91" src="http://image.wetpaint.com/image/1/7sOSvDsgrKcLWnNYcm7AOQ2826/GW114H91" title="Equipment Upgrade - Wiki of the new world" width="114"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              +7</font></td>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              Red Glow</font></td>
+                              <td align="center" width="33%"><font size="2"><img align="bottom" alt="Enchantment - Wiki of the new world" height="101" src="http://image.wetpaint.com/image/1/-ZjKfcnR55SjdhuqFyRYAA3859/GW111H101" title="Enchantment - Wiki of the new world" width="111"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              +8</font></td>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              Red glow and white shine</font></td>
+                              <td align="center" width="33%"><font size="2"><img align="bottom" alt="Enchantment - Wiki of the new world" height="103" src="http://image.wetpaint.com/image/1/GQeNkqwyYQgSI1fxH_LEyA5593/GW112H103" title="Enchantment - Wiki of the new world" width="112"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              <br>
+                              +9</font></td>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              Complete rainbow glow, and full white shine.</font></td>
+                              <td width="33%"><font size="2"><img align="bottom" alt="+9 Thanks to BestianCourte" height="125" src="http://image.wetpaint.com/image/1/Jq8jXP9574sJ0Ye21gfPuw4775/GW107H125" title="+9 Thanks to BestianCourte" width="107"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="33%"><font size="2"><br>
+                              <br>
+                              +10</font></td>
+                              <td align="center" width="33%"><font size="2">Complete rainbow glow, and full white shine with shadow effects around it.<br></font></td>
+                              <td align="center" width="33%"><font size="2"><img align="bottom" alt="+10 (Low Res - Left | High Res - Right)" height="75" src="http://image.wetpaint.com/image/1/Yxo1tYhcLhSQf27j44vzeA11678/GW113H75" title="+10 (Low Res - Left | High Res - Right)" width="113"><br></font></td>
+                            </tr>
+                          </tbody>
+                        </table><font size="2">Note: These pictures were taken with all the options in minimum. +5 Unique weapons will have the +8 White shine with a white base glow.<br>
+                        <br>
+                        <b>Strengthening Accelerators</b><br>
+                        Currently, these accelerators cost 120 gold apiece in the cash shop. So what do they do? Well, their description is a little misleading and doesn&#39;t belie their true nature, so hopefully this guide will help.<br>
+                        <br>
+                        Rating....N<br>
+                        26+.......20<br>
+                        25.........17<br>
+                        24.........15<br>
+                        23.........13<br>
+                        22.........11<br>
+                        21..........9<br>
+                        18-20.....4<br>
+                        14-17.....3<br>
+                        9-13.......2<br>
+                        1-8.........1<br>
+                        <br>
+                        N is the number of str accelerators you&#39;d need to use to double your success rate. It&#39;s also the max amount of accelerators you can use for that particular grade of AR/DR. So at +4-&gt;+5 it doubles from 50% to 99%, +5-&gt;+6 it doubles from 25% to 50%.<br>
+                        <br>
+                        Keep in mind, any time you upgrade over +4, regardless of str accelerator, you still have a 1% chance of breaking the item.<br>
+                        <br></font> <font color="#FF0000" size="2"><b>Warning!!</b></font><font size="2"><br></font><font size="2">You might have seen the laquers from the cash shop (the +5 and +6 laquer) will only protect the weapon from breaking if the upgrade FAILS from +5 to +6 (for the +5 laquer) or +6 to +7 (for the +6 laquer). If the upgrade fails, the weapon will go back to being a normal weapon (a +0 weapon) and the laquer will be consumed.<br>
+                        _____________________________________________________________________<br>
+                        <b>What do I get for upgrading?<br></b>Every weapon upgraded after +5, will give the character an additional Attack Level/Defense Level (AR/DR). +5 will give 1, +6 will give 2, etc.<br>
+                        <br>
+                        Also an incresed Attack/Defense (depending on the item that was upgraded)<br>
+                        <br>
+                        <b>Upgrade Increments</b><br>
+                        Different weapons have different ATK increases per upgrade. Armor give +1 defense power per upgrade. Gloves and shoes cannot be upgraded.<br>
+                        <br>
+                        Weapon.............................ATK per Upgrade<br></font>
+                        <ul>
+                          <li><font size="2">1h sword:.................+3</font></li>
+                          <li><font size="2">Epee:.......................+3</font></li>
+                          <li><font size="2">Saber:......................+4</font></li>
+                          <li><font size="2">2h Sword:................+5</font></li>
+                          <li><font size="2">Polearm:..................+5</font></li>
+                          <li><font size="2">Dagger:....................+2</font></li>
+                          <li><font size="2">Main Gauche:..........+2</font></li>
+                          <li><font size="2">Rifle:.........................+5</font></li>
+                          <li><font size="2">Pistol:.......................+4</font></li>
+                          <li><font size="2">Shotgun:..................+4</font></li>
+                          <li><font size="2">Cannon:...................+6</font></li>
+                          <li><font size="2">Staff:........................+3</font></li>
+                          <li><font size="2">Rod:.........................+3</font></li>
+                          <li><font size="2">Bracelet:..................+4</font></li>
+                          <li><font size="2">Knuckle: .................+2</font></li>
+                          <li><font size="2">Leg Guard: ............+2</font></li>
+                        </ul><font size="2"><br></font><font color="#FF0000" size="2">Note: Info taken from the guide made by Imac2much in the official forums. Thanks to him, we have this information.</font>
+                      </div>
+                    </div><font size="2"><br></font>
+                  </div>
+                </div><br class="clear">
+                <br class="clear">
+                <div id="pageAttributes">
+                  <table cellpadding="0" cellspacing="0">
+                    <tr id="usedToBe_pageUpdate">
+                      <td rowspan="2" style="padding-right:4px;text-align:center;"><a href="/account/Lothmak"><img src="http://image.wetpaint.com/image/1/pjy1XBw5E16VlPV1BO1LpQ6109/GW050" class="imageSm" alt="Lothmak"></a><br>
+                      <a href="/account/Lothmak">Lothmak</a></td>
+                      <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Equipment+Upgrade"><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Equipment+Upgrade&from=lastPageUpdate&pageName=Equipment+Upgrade" class="action" onclick="return false">Lothmak</a></span> , <span id="WPC-lastRevisionDate?cellId=Equipment+Upgrade">Aug 19 2008, 8:52 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Lothmak"><img src="http://image.wetpaint.com/image/1/pjy1XBw5E16VlPV1BO1LpQ6109/GW050" class="imageSm" alt="Lothmak"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/Lothmak">Lothmak</a></span> <span id="latestEditNoteScope"><br>
+                      <br></span><br>
+                      <a href="/page/Equipment+Upgrade/diff/19,20" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Equipment+Upgrade/history" style="white-space: nowrap">complete history</a>)</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="WPC-tagModule">
+                          <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/enchantement" title="enchantement" class="pageTag">enchantement</a> <a href="/tag/Equipment" title="Equipment" class="pageTag">Equipment</a> <a href="/tag/Equipt" title="Equipt" class="pageTag">Equipt</a> <a href="/tag/Granado+Espada" title="Granado Espada" class="pageTag">Granado Espada</a> <a href="/tag/Prepare" title="Prepare" class="pageTag">Prepare</a> <a href="/tag/SOTNW" title="SOTNW" class="pageTag">SOTNW</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki" class="pageTag">SOTNW Wiki</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World" class="pageTag">Sword of the New World</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki" class="pageTag">Sword of the New World Wiki</a> <a href="/tag/Upgrade" title="Upgrade" class="pageTag">Upgrade</a> <a href="/tag/weapons" title="weapons" class="pageTag">weapons</a></span>
+                        </div>
+                        <div id="moreInfo">
+                          <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Equipment+Upgrade/links">links to this page</a>
+                        </div>
+                        <div id="bkmrkLinks">
+                          <span>Bookmark:</span> <img class="sprite-delicioussmall" src="http://static.wetpaint.com/img/bg/1.png">Del.icio.us &nbsp;&nbsp; <img class="sprite-stumbleupon" src="http://static.wetpaint.com/img/bg/1.png">StumbleUpon &nbsp;&nbsp; Facebook
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="threadList" class="pageSection pageSectionOutOfPage">
+                  <div style="display:none;" id="tagsMessageThread">
+                    ???keywordTags???
+                  </div>
+                  <div style="display:none;" id="noTagsMessageThread">
+                    ???noTags???
+                  </div>
+                  <div class="pageSectionHeader pageLink">
+                    <span class="controlsNode" id="controlsNode_0"></span>
+                    <ul class="WPC-toolsMenu">
+                      <li><span class="controlsNode" id="controlsNode_0"><a href="#addThread" class="WPC-tool WPC-tool-addThread action" id="action_openThreadForm" title="Post a new thread" onclick="return false;">Post a new thread</a></span></li>
+                    </ul>
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Equipment+Upgrade/thread">Threads</a></h4>
+                    </div>
+                  </div><a name="replyToThread"></a>
+                  <div id="threadFormDiv">
+                    <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                      <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                      <table class="threadFormTable">
+                        <tr>
+                          <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                          <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                        </tr>
+                        <tr>
+                          <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                          <td>
+                          <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                          <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                        </tr>
+                        <tr id="quoteRow" style="display:none;">
+                          <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                          <td><span id="quoteContent">
+                          <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                        </tr>
+                        <tr id="tagRow" style="display:none;">
+                          <td class="labelCell">Keyword tags:</td>
+                          <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                        </tr>
+                      </table>
+                      <div id="threadNotification" style="display:none;"></div><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                    </form>
+                    <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                      Posting...
+                    </div>
+                    <div id="editLengthWarn" style="display:none;">
+                      Note: You can enter up to [REMCHARS] additional characters.<br>
+                      Did you know you can edit the content of this page by clicking EasyEdit?
+                    </div>
+                  </div>
+                  <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                  <div class="pageSectionShowingContainer">
+                    (Showing the last 5 of 8&nbsp;-&nbsp;<a href="/page/Equipment+Upgrade/thread">view all</a>)
+                  </div>
+                  <div class="tableList">
+                    <table>
+                      <tr class="header">
+                        <th><a class="expandToggle expandToggleExpanded action" id="action_expandToggle" href="#toggle"></a></th>
+                        <th>Started&nbsp;By</th>
+                        <th>Thread Subject</th>
+                        <th>Replies</th>
+                        <th class="farRightCell">Last Post</th>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=1" href="#toggle"></a></td>
+                        <td><a href="/account/Drogen" id="action_accountMenu?account=Drogen&subject=How+to+get+better+chances+of+Success+without+Accelerators%3F%21&from=threadAccount1277258&threadId=1277258" class="action" onclick="return false">Drogen</a></td>
+                        <td><a href="/thread/1277258/How+to+get+better+chances+of+Success+without+Accelerators%3F%21"><b>How to get better chances of Success without Accelerators?!</b></a> (page:&nbsp;<a href="/thread/1277258/How+to+get+better+chances+of+Success+without+Accelerators%3F%21">1</a>&nbsp;<a href="/thread/1277258/How+to+get+better+chances+of+Success+without+Accelerators%3F%21?offset=20">2</a>)</td>
+                        <td align="center">29</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Nov 15 2008, 11:57 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA1">
+                            <a href="/account/Drogen" id="action_accountMenu?account=Drogen&subject=How+to+get+better+chances+of+Success+without+Accelerators%3F%21&from=threadImg1277258&threadId=1277258" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB1">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Mar 9 2008, 10:44 AM EDT&nbsp; <a href="#watch" rel='watch' id="wc1277258" onclick="application.toggleWatchThread(this.id, 1277258, '/wiki/sotnw/page/Equipment+Upgrade', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              It is really simple you just need math and a good overall chance;) or rather probability calculus!<br>
+                              <br>
+                              example:<br>
+                              An upgrade from +4 to +5 has a 5 sucess chance of 50%.<br>
+                              <br>
+                              So how big is the Failure Rate after 2 failed upgrades in a row?<br>
+                              50%x50%x50% = 12,5%<br>
+                              <br>
+                              the success rate to create a +5 upgrade after 2 failed ones in row is:<br>
+                              87,5% ;)<br>
+                              <br>
+                              Why? When you flip a coin 3 times. there is only a 12,5 % chance that you will get all that 3 times the head.<br>
+                              <br>
+                              So how can i use this for my upgrades without wasting expensive items??<br>
+                              <br>
+                              Just waste cheap ones ;)!!<br>
+                              <br>
+                              Example:<br>
+                              <br>
+                              1.Get 10 broadsword and the item you really want to upgrade from +4 to +5. So know you upgrade all that broadwsword at +4 (this will cost you in total 870 vis).<br>
+                              <br>
+                              2.Now you got 10x +4 Broadswords and the +4 item that you really want to upgrade.<br>
+                              <br>
+                              3.Now you start to try to create +5 broadsword. And everytime when you fail 2 times in a row there is circa a 87,5% chance that the next update will be success.<br>
+                              <br>
+                              4. So? After 2 failed Broadswords you try to upgrade the expensive item to +5 with a chance of 87,5%<br>
+                              <br>
+                              BE WARNED! This chance can be change to your disadvantage when you create sucessfully for example 4x +5 Broadsword in a row and after that you get the 2 failures. So it is necessary to watch how the sucessrate was before the 2 failures.<br>
+                              <br>
+                              <br>
+                              greetz Drogen<br>
+                              <br>
+                              ps: you can get better overall chance when you try to make more then 2 failures in a row with your broadsword. When you got 3 failures in a row the sucess chance will be 93,75%. but its hard to get 3 failures in a row without getting a large number of sucess in row direct before the failures.<br>
+                              <br>
+                              A little advice: Buy 20 level 1 Broadsword and 10 level 4 Broadswords. Then try to create so many +5 level 4 Broadsword how you can with the technique from above. I&#39;ve you dont have bad luck and you do everything correct you must get 7-8 +5 level 4 Broadswords.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1277258&post=9079315"><span id="agreeCount?thread=1277258&post=9079315">34</span> &nbsp;out of <span id="totalCount?thread=1277258&post=9079315">81</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1277258&post=9079315" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1277258&post=9079315">Do you? <a id="action_rateThread?thread=1277258&post=9079315&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1277258&post=9079315&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/enchantement" title="enchantement" class="pageTag">enchantement</a> <a href="/tag/Equipment" title="Equipment" class="pageTag">Equipment</a> <a href="/tag/Equipt" title="Equipt" class="pageTag">Equipt</a> <a href="/tag/Granado+Espada" title="Granado Espada" class="pageTag">Granado Espada</a> <a href="/tag/Prepare" title="Prepare" class="pageTag">Prepare</a> <a href="/tag/SOTNW" title="SOTNW" class="pageTag">SOTNW</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki" class="pageTag">SOTNW Wiki</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World" class="pageTag">Sword of the New World</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki" class="pageTag">Sword of the New World Wiki</a> <a href="/tag/Upgrade" title="Upgrade" class="pageTag">Upgrade</a> <a href="/tag/weapons" title="weapons" class="pageTag">weapons</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1277258" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1277258/How+to+get+better+chances+of+Success+without+Accelerators%3F%21?offset=20&action=openThreadForm?postId=13413743&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1277258').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1277258" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1277258/How+to+get+better+chances+of+Success+without+Accelerators%3F%21?offset=20#post13413743"><b>RE: How to get better chances of Success without Accelerators?!</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp; AnonymousNov 15 2008, 11:57 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          <blockquote>
+                                            "It is really simple you just need math and a good overall chance;) or rather probability calculus!<br>
+                                            <br>
+                                            example:<br>
+                                            An upgrade from +4 to +5 has a 5 sucess chance of 50%.<br>
+                                            <br>
+                                            So how big is the Failure Rate after 2 failed upgrades in a row?<br>
+                                            50%x50%x50% = 12,5%<br>
+                                            <br>
+                                            the success rate to create a +5 upgrade after 2 failed ones in row is:<br>
+                                            87,5% ;)<br>
+                                            <br>
+                                            Why? When you flip a coin 3 times. there is only a 12,5 % chance that you will get all that 3 times the head.<br>
+                                            <br>
+                                            So how can i use this for my upgrades without wasting expensive items??<br>
+                                            <br>
+                                            Just waste cheap ones ;)!!<br>
+                                            <br>
+                                            Example:<br>
+                                            <br>
+                                            1.Get 10 broadsword and the item you really want to upgrade from +4 to +5. So know you upgrade all that broadwsword at +4 (this will cost you in total 870 vis).<br>
+                                            <br>
+                                            2.Now you got 10x +4 Broadswords and the +4 item that you really want to upgrade.<br>
+                                            <br>
+                                            3.Now you start to try to create +5 broadsword. And everytime when you fail 2 times in a row there is circa a 87,5% chance that the next update will be success.<br>
+                                            <br>
+                                            4. So? After 2 failed Broadswords you try to upgrade the expensive item to +5 with a chance of 87,5%<br>
+                                            <br>
+                                            BE WARNED! This chance can be change to your disadvantage when you create sucessfully for example 4x +5 Broadsword in a row and after that you get the 2 failures. So it is necessary to watch how the sucessrate was before the 2 failures.<br>
+                                            <br>
+                                            <br>
+                                            greetz Drogen<br>
+                                            <br>
+                                            ps: you can get better overall chance when you try to make more then 2 failures in a row with your broadsword. When you got 3 failures in a row the sucess chance will be 93,75%. but its hard to get 3 failures in a row without getting a large number of sucess in row direct before the failures.<br>
+                                            <br>
+                                            A little advice: Buy 20 level 1 Broadsword and 10 level 4 Broadswords. Then try to create so many +5 level 4 Broadsword how you can with the technique from above. I&#39;ve you dont have bad luck and you do everything correct you must get 7-8 +5 level 4 Broadswords."
+                                          </blockquote>u try to waste the cheap ones but the cheap ones will get the upgrades XD<br>
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1277258&post=13413743" style="display:none;"><span id="agreeCount?thread=1277258&post=13413743"></span> &nbsp;out of <span id="totalCount?thread=1277258&post=13413743"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1277258&post=13413743">Do you find this valuable?</span></i> <span id="voteHolder?thread=1277258&post=13413743"><a id="action_rateThread?thread=1277258&post=13413743&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1277258&post=13413743&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=2" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/1469531/are+you+sure+%2B4+to+%2B5+is+50%25%3F+%2B_%2B%3B%3B%3B"><b>are you sure +4 to +5 is 50%? +_+;;;</b></a></td>
+                        <td align="center">2</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Nov 9 2008, 8:29 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA2">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB2">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;May 12 2008, 3:11 PM EDT&nbsp; <a href="#watch" rel='watch' id="wc1469531" onclick="application.toggleWatchThread(this.id, 1469531, '/wiki/sotnw/page/Equipment+Upgrade', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              I tried making +5 once and out of 20 swords... only 1 was successful... also, armors, i was tried about 10 times and 1 was successful... is it only that i am so unlucky? -_-;;;
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1469531&post=9823739"><span id="agreeCount?thread=1469531&post=9823739">17</span> &nbsp;out of <span id="totalCount?thread=1469531&post=9823739">22</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1469531&post=9823739" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1469531&post=9823739">Do you? <a id="action_rateThread?thread=1469531&post=9823739&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1469531&post=9823739&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/enchantement" title="enchantement" class="pageTag">enchantement</a> <a href="/tag/Equipment" title="Equipment" class="pageTag">Equipment</a> <a href="/tag/Equipt" title="Equipt" class="pageTag">Equipt</a> <a href="/tag/Granado+Espada" title="Granado Espada" class="pageTag">Granado Espada</a> <a href="/tag/Prepare" title="Prepare" class="pageTag">Prepare</a> <a href="/tag/SOTNW" title="SOTNW" class="pageTag">SOTNW</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki" class="pageTag">SOTNW Wiki</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World" class="pageTag">Sword of the New World</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki" class="pageTag">Sword of the New World Wiki</a> <a href="/tag/Upgrade" title="Upgrade" class="pageTag">Upgrade</a> <a href="/tag/weapons" title="weapons" class="pageTag">weapons</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1469531" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1469531/are+you+sure+%2B4+to+%2B5+is+50%25%3F+%2B_%2B%3B%3B%3B?offset=0&action=openThreadForm?postId=13282549&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1469531').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1469531" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1469531/are+you+sure+%2B4+to+%2B5+is+50%25%3F+%2B_%2B%3B%3B%3B?offset=0#post13282549"><b>RE: are you sure +4 to +5 is 50%? +_+;;;</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp; AnonymousNov 9 2008, 8:29 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          yea i tried to get +6 but it only gives you half and half itll become 25%-12/5%<br>
+                                          with +5 it is 50% to get it enchant but after 4 it can break
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1469531&post=13282549"><span id="agreeCount?thread=1469531&post=13282549">3</span> &nbsp;out of <span id="totalCount?thread=1469531&post=13282549">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1469531&post=13282549" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1469531&post=13282549">Do you? <a id="action_rateThread?thread=1469531&post=13282549&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1469531&post=13282549&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=3" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/1779395/%2B10+weapon+finally+made"><b>+10 weapon finally made</b></a></td>
+                        <td align="center">3</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Aug 20 2008, 9:07 AM EDT</span> by <a href="/account/niPPonXD" id="action_accountMenu?account=niPPonXD&subject=%2B10+weapon+finally+made&from=threadFirstAccount1779395&threadId=1779395" class="action" onclick="return false">niPPonXD</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA3">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB3">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Aug 19 2008, 9:34 AM EDT&nbsp; <a href="#watch" rel='watch' id="wc1779395" onclick="application.toggleWatchThread(this.id, 1779395, '/wiki/sotnw/page/Equipment+Upgrade', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              This is a +10, on the jpGE servers http://ge.clubhanbit.jp/community/barrack/entryimages/right.jpg
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1779395&post=11546256"><span id="agreeCount?thread=1779395&post=11546256">4</span> &nbsp;out of <span id="totalCount?thread=1779395&post=11546256">11</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1779395&post=11546256" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1779395&post=11546256">Do you? <a id="action_rateThread?thread=1779395&post=11546256&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1779395&post=11546256&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/%2B10" title="+10" class="pageTag">+10</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1779395" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1779395/%2B10+weapon+finally+made?offset=0&action=openThreadForm?postId=11566614&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1779395').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1779395" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/niPPonXD" id="action_accountMenu?account=niPPonXD&subject=%2B10+weapon+finally+made&from=threadImg1779395&threadId=1779395" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/82tU7fo3L6Kos_wuwEICZQ15303/GW050" alt="niPPonXD"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1779395/%2B10+weapon+finally+made?offset=0#post11566614"><b>RE: +10 weapon finally made</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp; <a href="/account/niPPonXD" id="action_accountMenu?account=niPPonXD&subject=%2B10+weapon+finally+made&from=threadFirstAccount1779395&threadId=1779395" class="action" onclick="return false">niPPonXD</a>Aug 20 2008, 9:07 AM EDT</span>
+                                        <div style="margin-top:10px;">
+                                          <blockquote>
+                                            "nice :D great find!"
+                                          </blockquote>thanks :), though some say its just a 92e wep. @ +8. Not quite sure xD
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1779395&post=11566614"><span id="agreeCount?thread=1779395&post=11566614">0</span> &nbsp;out of <span id="totalCount?thread=1779395&post=11566614">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1779395&post=11566614" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1779395&post=11566614">Do you? <a id="action_rateThread?thread=1779395&post=11566614&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1779395&post=11566614&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=4" href="#toggle"></a></td>
+                        <td><a href="/account/Drogen" id="action_accountMenu?account=Drogen&subject=Overall+Chances+of+Upgrades&from=threadAccount1250283&threadId=1250283" class="action" onclick="return false">Drogen</a></td>
+                        <td><a href="/thread/1250283/Overall+Chances+of+Upgrades"><b>Overall Chances of Upgrades</b></a></td>
+                        <td align="center">5</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Mar 3 2008, 2:03 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA4">
+                            <a href="/account/Drogen" id="action_accountMenu?account=Drogen&subject=Overall+Chances+of+Upgrades&from=threadImg1250283&threadId=1250283" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB4">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Feb 28 2008, 1:27 PM EST&nbsp; <a href="#watch" rel='watch' id="wc1250283" onclick="application.toggleWatchThread(this.id, 1250283, '/wiki/sotnw/page/Equipment+Upgrade', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              i think it would be better to list the overall chance to create a weapon from level 4 to level 10! Here the overall list:<br>
+                              Level 5 : 50% every 2nd try<br>
+                              Level 6 : 12,5% every 8th try<br>
+                              Level 7 : 1,5% every 66th try<br>
+                              Level 8 : 0,09% every 1111 try<br>
+                              Level 9 : 0,0027% every 37.037 try<br>
+                              Level 10: 0,000027% every 3.703.703 try<br>
+                              <br>
+                              this chances dont include the use of Accelerators and laquers
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1250283&post=8985174"><span id="agreeCount?thread=1250283&post=8985174">39</span> &nbsp;out of <span id="totalCount?thread=1250283&post=8985174">45</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1250283&post=8985174" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1250283&post=8985174">Do you? <a id="action_rateThread?thread=1250283&post=8985174&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1250283&post=8985174&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/enchantement" title="enchantement" class="pageTag">enchantement</a> <a href="/tag/Equipment" title="Equipment" class="pageTag">Equipment</a> <a href="/tag/Equipt" title="Equipt" class="pageTag">Equipt</a> <a href="/tag/Granado+Espada" title="Granado Espada" class="pageTag">Granado Espada</a> <a href="/tag/Prepare" title="Prepare" class="pageTag">Prepare</a> <a href="/tag/SOTNW" title="SOTNW" class="pageTag">SOTNW</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki" class="pageTag">SOTNW Wiki</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World" class="pageTag">Sword of the New World</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki" class="pageTag">Sword of the New World Wiki</a> <a href="/tag/Upgrade" title="Upgrade" class="pageTag">Upgrade</a> <a href="/tag/weapons" title="weapons" class="pageTag">weapons</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1250283" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1250283/Overall+Chances+of+Upgrades?offset=0&action=openThreadForm?postId=9022656&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1250283').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1250283" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1250283/Overall+Chances+of+Upgrades?offset=0#post9022656"><b>RE: Overall Chances of Upgrades</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp; AnonymousMar 3 2008, 2:03 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          hehe i should have wrote "average number of tries" instead of "try" :P<br>
+                                          but when you put this overall think in the wiki you can fix this little misleading thing :D<br>
+                                          <br>
+                                          greetz Drogen
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1250283&post=9022656" style="display:none;"><span id="agreeCount?thread=1250283&post=9022656"></span> &nbsp;out of <span id="totalCount?thread=1250283&post=9022656"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1250283&post=9022656">Do you find this valuable?</span></i> <span id="voteHolder?thread=1250283&post=9022656"><a id="action_rateThread?thread=1250283&post=9022656&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1250283&post=9022656&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded action" id="action_expandToggle?item=5" href="#toggle"></a></td>
+                        <td><a href="/account/Obna" id="action_accountMenu?account=Obna&subject=this+is+a+%2B9&from=threadAccount1091655&threadId=1091655" class="action" onclick="return false">Obna</a></td>
+                        <td><a href="/thread/1091655/this+is+a+%2B9"><b>this is a +9</b></a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Dec 28 2007, 12:47 PM EST</span> by <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=this+is+a+%2B9&from=threadFirstAccount1091655&threadId=1091655" class="action" onclick="return false">Lothmak</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA5">
+                            <a href="/account/Obna" id="action_accountMenu?account=Obna&subject=this+is+a+%2B9&from=threadImg1091655&threadId=1091655" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB5">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Dec 27 2007, 11:58 AM EST&nbsp; <a href="#watch" rel='watch' id="wc1091655" onclick="application.toggleWatchThread(this.id, 1091655, '/wiki/sotnw/page/Equipment+Upgrade', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              http://img296.imageshack.us/my.php?image=capture00031sj7.png<br>
+                              <br>
+                              this is a +9
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1091655&post=8496735"><span id="agreeCount?thread=1091655&post=8496735">11</span> &nbsp;out of <span id="totalCount?thread=1091655&post=8496735">17</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1091655&post=8496735" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1091655&post=8496735">Do you? <a id="action_rateThread?thread=1091655&post=8496735&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1091655&post=8496735&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/enchantement" title="enchantement" class="pageTag">enchantement</a> <a href="/tag/Upgrade" title="Upgrade" class="pageTag">Upgrade</a> <a href="/tag/weapons" title="weapons" class="pageTag">weapons</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1091655" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1091655/this+is+a+%2B9?offset=0&action=openThreadForm?postId=8502293&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1091655').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1091655" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=this+is+a+%2B9&from=threadImg1091655&threadId=1091655" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/pjy1XBw5E16VlPV1BO1LpQ6109/GW050" alt="Lothmak"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1091655/this+is+a+%2B9?offset=0#post8502293"><b>RE: this is a +9</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp; <a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=this+is+a+%2B9&from=threadFirstAccount1091655&threadId=1091655" class="action" onclick="return false">Lothmak</a>Dec 28 2007, 12:47 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          thx, I&#39;ll cut and paste the pic to the table =P
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1091655&post=8502293"><span id="agreeCount?thread=1091655&post=8502293">4</span> &nbsp;out of <span id="totalCount?thread=1091655&post=8502293">5</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1091655&post=8502293" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1091655&post=8502293">Do you? <a id="action_rateThread?thread=1091655&post=8502293&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1091655&post=8502293&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="pageSectionShowingContainer">
+                    (Showing the last 5 of 8&nbsp;-&nbsp;<a href="/page/Equipment+Upgrade/thread">view all</a>)
+                  </div>
+                </div>
+                <div id="relatedContent" class="pageSection">
+                  <div class="pageSectionHeader">
+                    <div class="pageSectionHeaderContainer">
+                      <h4>Related Content</h4>&nbsp; (<span class="WPC-tooltip-trigger"><a href="#tooltip" tabindex="-1" onclick="return false">what's this?</a><span class="WPC-tooltip-title">Related Content</span><span class="WPC-tooltip-content">Thanks to keyword tags, links to related pages and threads are added to the bottom of your pages. Up to 15 links are shown, determined by matching tags and by how recently the content was updated; keeping the most current at the top. Share your feedback on Wetpaint Central.</span></span>)
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div class="tableList">
+                    <table style="border-bottom:0px;">
+                      <tr class="altRow">
+                        <td width="33%"><a href="/page/Wiki+Of+The+New+World" class="WPC-tool WPC-tool-content WPC-indicate">Wiki Of The New World</a></td>
+                        <td width="33%"><a href="/thread/1277258/How+to+get+better+chances+of+Success+without+Accelerators%3F%21" class="WPC-tool WPC-tool-thread WPC-indicate">How to get better chances of Success without Accelerators?!</a></td>
+                        <td width="33%"><a href="/page/Terminology" class="WPC-tool WPC-tool-content WPC-indicate">Terminology</a></td>
+                      </tr>
+                      <tr>
+                        <td width="33%"><a href="/thread/1469531/are+you+sure+%2B4+to+%2B5+is+50%25%3F+%2B_%2B%3B%3B%3B" class="WPC-tool WPC-tool-thread WPC-indicate">are you sure +4 to +5 is 50%? +_+;;;</a></td>
+                        <td width="33%"><a href="/page/Crafting%2FEnchanting%2FRefining" class="WPC-tool WPC-tool-content WPC-indicate">Crafting/Enchanting/Refining</a></td>
+                        <td width="33%"><a href="/thread/1777979/GE+OST" class="WPC-tool WPC-tool-thread WPC-indicate">GE OST</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td width="33%"><a href="/page/Quests" class="WPC-tool WPC-tool-content WPC-indicate">Quests</a></td>
+                        <td width="33%"><a href="/page/Items+%26+Equipment" class="WPC-tool WPC-tool-content WPC-indicate">Items &amp; Equipment</a></td>
+                        <td width="33%"><a href="/page/Monsters" class="WPC-tool WPC-tool-content WPC-indicate">Monsters</a></td>
+                      </tr>
+                      <tr>
+                        <td width="33%"><a href="/page/Enchanting" class="WPC-tool WPC-tool-content WPC-indicate">Enchanting</a></td>
+                        <td width="33%"><a href="/thread/1564165/solvents" class="WPC-tool WPC-tool-thread WPC-indicate">solvents</a></td>
+                        <td width="33%"><a href="/page/UPCs" class="WPC-tool WPC-tool-content WPC-indicate">UPCs</a></td>
+                      </tr>
+                    </table><br>
+                  </div>
+                </div>
+                <div class="ads adscontent">
+                  <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                  </script>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Site pages
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li>
+                              <a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a>
+                              <ul>
+                                <li><a href="/page/Accessories" rel="2">Accessories</a></li>
+                                <li><a href="/page/Armor" rel="8">Armor</a></li>
+                                <li><a href="/page/Costumes" rel="4">Costumes</a></li>
+                                <li>
+                                  <a href="/page/Weapons" rel="7">Weapons</a>
+                                  <ul>
+                                    <li><a href="/page/Swords" rel="4">Swords</a></li>
+                                    <li><a href="/page/Spears" rel="2">Spears</a></li>
+                                    <li><a href="/page/Guns" rel="4">Guns</a></li>
+                                    <li><a href="/page/Hammers">Hammers</a></li>
+                                    <li><a href="/page/Magic+Weapons" rel="3">Magic Weapons</a></li>
+                                    <li><a href="/page/UPC-Only+Weapons" rel="2">UPC-Only Weapons</a></li>
+                                    <li><a href="/page/Equipment+Upgrade" class="current">Equipment Upgrade</a></li>
+                                  </ul>
+                                </li>
+                                <li><a href="/page/Pose+Guides" rel="8">Pose Guides</a></li>
+                                <li><a href="/page/Consumption+%2F+Misc+Items" rel="7">Consumption / Misc Items</a></li>
+                                <li><a href="/page/Cash+Shop+Items">Cash Shop Items</a></li>
+                                <li><a href="/page/Feso">Feso</a></li>
+                                <li><a href="/page/Premium+Mystery+Boxes">Premium Mystery Boxes</a></li>
+                                <li><a href="/page/Premium+Treasure+Chest+Service">Premium Treasure Chest Service</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="8">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li><a href="/page/Raids" rel="14">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="6">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader open">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent" style="display:none;">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>HP Small Business Community Wiki</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20081202160248" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b17';s_w.channel='page';s_w.pageType='page';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(180/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='page';s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(global_inits['AB_TEST'] == 0) ? 'na' : (global_inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-" };
+  </script> <noscript></noscript>
+</body>
+</html>

@@ -1,0 +1,671 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Veronif - Page History - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Veronif - Page History">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/CSSApplication/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/family/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/core/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Veronif',"PAGE_URI" : '/page/Veronif',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Game Characters','Veronif']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Veronif">Veronif</a> |</h1>
+                    <h2>Version Compare</h2>
+                    <p><a href="/page/Veronif/history">Back to page history</a></p>
+                  </div>
+                  <div id="versionCompareSummary">
+                    <table>
+                      <tr class="header">
+                        <th>Version</th>
+                        <th>User</th>
+                        <th>Scope of changes</th>
+                      </tr>
+                      <tr>
+                        <td><a href="/page/Veronif/revision/14">Feb 16 2015, 9:00 AM EST</a> (current)</td>
+                        <td><a href="/account/van_Shrike" id="WPC-action_accountMenu?account=van_Shrike&subject=Veronif&from=revisionDiffstatus1&pageName=Veronif" class="WPC-action" onclick="return false">van_Shrike</a></td>
+                        <td>7 words added, 6 words deleted</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a href="/page/Veronif/revision/13">Feb 16 2015, 4:41 AM EST</a></td>
+                        <td><a href="/account/van_Shrike" id="WPC-action_accountMenu?account=van_Shrike&subject=Veronif&from=revisionDiffstatus2&pageName=Veronif" class="WPC-action" onclick="return false">van_Shrike</a></td>
+                        <td>6 words added, 8 words deleted, 1 widget added, 1 widget deleted</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="versionCompareHead">
+                    <h2>Changes</h2>
+                    <div class="revisionsKey">
+                      Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                    </div>
+                  </div>
+                  <div id="versionCompareContent" class="WPC-editableContent">
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                              <tbody>
+                                <tr>
+                                  <td align="center" class="WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="50%"><br></td>
+                                  <td align="center" class="WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="50%">Stats</td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="WPC-edit-custom-borderTop WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="50%"><img align="bottom" alt="Veronif - Test Part" height="196" src="http://image.wikifoundry.com/image/1/SH8nE4ae1QC4zry74K2iMA48217/GW196H196" title="Veronif - Test Part" width="196"></td>
+                                  <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-borderTop-none WPC-edit-custom-borderTop WPC-edit-borderBottom-none WPC-edit-custom-borderBottom" width="50%">
+                                    <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="200">
+                                      <tbody>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">Str</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">40</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">Agi</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">30</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">HP</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">40</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">Dex</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">50</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">Int</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">90</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">Cha</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">70</td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-none WPC-edit-custom-borderRight" width="50%"><br></td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight" width="50%"><br></td>
+                                        </tr>
+                                        <tr>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">Total Points</td>
+                                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="50%">330</td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <div align="left">
+                              <i><font color="#FFFFFF">_____</font>Added in Vers. 9.0</i>
+                            </div>------------------------------------------------------------------------------------<br>
+                            <div>
+                              <div>
+                                <font color="#FFA500" size="3">Lore:</font><br>
+                                Veronif is an alchemist from Vespanola.<br>
+                                She really hates all the new continent pioneers, from the inner depths of her heart, since her ex-boyfriend broke up with her and left for the new continent<br>
+                                <font size="2"><br></font><font color="#FFA500" size="3">Starting Level:</font>
+                              </div>
+                            </div><font size="2"><font size="3">60<br></font><br>
+                            <font color="#FFA500" size="3">Location:</font></font><font size="2"><br>
+                            <font size="3"><font face="linkReplace">Viron</font><br></font></font><font size="2"><b><br></b></font><font size="2"><font color="#FFA500" size="3">Team Buff:</font></font><font size="2"><br></font>Hidden Truth<br>
+                            <font size="2"><b><br></b></font><font size="2"><font size="3"><font color="#FFA500">Personal Skill:</font><b><font size="1"><br>
+                            <br></font></b></font></font> <font size="2"><font size="3"><font size="2"><br></font></font></font>
+                            <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" height="191" width="800">
+                              <tbody>
+                                <tr>
+                                  <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom WPC-edit-borderRight-solid WPC-edit-custom-borderRight" width="20%">
+                                    <div align="center"><br>
+                                    <img align="bottom" alt="Veronif - Test Part" height="64" src="http://image.wikifoundry.com/image/1/o1kiBtmxt78qhpmjGwplLw2259/GW64H64" title="Veronif - Test Part" width="64"></div>
+                                    <div align="center">
+                                      <b><br>
+                                      Alchemy<br>
+                                      <br></b>
+                                    </div>
+                                  </td>
+                                  <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft WPC-edit-borderRight-solid WPC-edit-custom-borderRight WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="39%">
+                                    <div align="center">
+                                      <i>Up to 30 squad members 10m away and within a 10m radius</i><br>
+                                      <br>
+                                      <font size="2"><font size="3"><font size="2"><font size="2"><font size="3"><font size="2">(90 INT)</font></font></font> - Heals 1450 HP<br>
+                                      <font size="2"><font size="3"><font size="2"><font size="2"><font size="3"><font size="2">(100 INT)</font></font></font> - Heals</font></font></font></font></font></font> 2033 HP<br>
+                                      <font size="2"><font size="3"><font size="2"><font size="2"><font size="3"><font size="2">(110 INT)</font></font></font> - Heals</font></font> 2616 HP<br>
+                                      <font size="2"><font size="3"><font size="2"><font size="2"><font size="3"><font size="2">(120 INT)</font></font></font> - Heals</font></font> 3200 HP<br>
+                                      <br>
+                                      Heals [Burn], [Electric Shock], [Freeze], [Petrify], [Mortal Wound] .</font></font>
+                                    </div>
+                                  </td>
+                                  <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid WPC-edit-custom-borderLeft" width="40%"><br>
+                                  <br>
+                                  <br>
+                                  Cast Time: <span class="diffRemove">7</span><span class="diffAdd">1.7</span> s<br>
+                                  Cool Down: <span class="diffRemove">90</span><span class="diffAdd">7</span> s<br>
+                                  Duration: <span class="diffRemove">2.5</span><span class="diffAdd">1.77</span> s<br>
+                                  Consumes: 240 Sp + <span class="diffRemove">1x</span><span class="diffAdd">3x Ancient</span> <span class="diffRemove">Magical</span><span class="diffAdd">Star</span> Orb</td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="20%">Heals every squad member&#39;s HP while curing various abnormal diseases through alchemy.</td>
+                                  <td align="center" class="WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderBottom WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderTop-solid WPC-edit-custom-borderTop" width="39%"><font size="2"><font size="3"><font size="2"><br></font></font></font></td>
+                                  <td class="WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-none WPC-edit-custom-borderLeft WPC-edit-borderRight-none WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderTop-solid WPC-edit-custom-borderTop WPC-edit-borderBottom-solid WPC-edit-custom-borderBottom" width="40%"><br></td>
+                                </tr>
+                              </tbody>
+                            </table><font size="2"><font size="3"><b><font size="1"><br></font></b></font></font><font size="3"><font color="#FFA500"><br>
+                            Armor:</font></font><br>
+                            <ul>
+                              <li>Robe<br></li>
+                            </ul><br>
+                            <font size="3"><font color="#FFA500">S</font></font><font size="3"><font color="#FFA500">tances: <font color="#333333" size="3"><br></font></font></font>
+                            <table align="bottom" cellpadding="3" class="WPC-edit-style-list5 WPC-edit-border-rows WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td align="center" bgcolor="#DBD0D0" class="WPC-edit-custom-bgColor" width="20%">Name</td>
+                                  <td align="center" bgcolor="#DBD0D0" class="WPC-edit-custom-bgColor" width="20%">Weapon</td>
+                                  <td align="center" bgcolor="#DBD0D0" class="WPC-edit-custom-bgColor" width="18%">Level</td>
+                                  <td align="center" bgcolor="#DBD0D0" class="WPC-edit-custom-bgColor" width="19%">Requires</td>
+                                  <td align="center" bgcolor="#DBD0D0" class="WPC-edit-custom-bgColor" width="23%">Acquisition</td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="" width="20%">First Aid</td>
+                                  <td align="center" class="" width="20%">Rosario (Optional)</td>
+                                  <td align="center" class="" width="18%">1</td>
+                                  <td align="center" class="" width="19%">None</td>
+                                  <td align="center" class="" width="23%">Master Guardian</td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="" width="20%">Bard</td>
+                                  <td align="center" class="" width="20%"><font size="3"><font color="#FFA500"><font color="#333333" size="3">Rosario (Optional)</font></font></font></td>
+                                  <td align="center" class="" width="18%">1</td>
+                                  <td align="center" class="" width="19%">None</td>
+                                  <td align="center" class="" width="23%"><font size="3"><font color="#FFA500"><font color="#333333" size="3">Master Guardian</font></font></font></td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="" width="20%">Enhanched Tactics</td>
+                                  <td align="center" class="" width="20%">Rosario</td>
+                                  <td align="center" class="" width="18%"><font color="#FF0000">Expert<br></font></td>
+                                  <td align="center" class="" width="19%">Rosario</td>
+                                  <td align="center" class="" width="23%">Emilia Giannino<br>
+                                  (3 Great Stone + Symbol of Scorpio)</td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="" width="20%"><a href="/page/Hermetisme" target="_self">Hermetisme</a></td>
+                                  <td align="center" class="" width="20%">Veronif&#39; s Diary</td>
+                                  <td align="center" class="" width="18%"><font color="#FF0000">Expert<br></font></td>
+                                  <td align="center" class="" width="19%">Veronif&#39;s Diary</td>
+                                  <td align="center" class="" width="23%">Veronif<br>
+                                  (after completing her recruiment)<br>
+                                  (3 Great Stones + Symbol of Taurus)</td>
+                                </tr>
+                              </tbody>
+                            </table><font size="3"><font color="#FFA500"><br></font></font><font size="3"><font color="#FFA500">How to Get:</font></font><br>
+                            <br>
+                            <ul>
+                              <li><i>Recruitment Quest</i><br></li>
+                            </ul><i><br>
+                            First Impression<br>
+                            Trigger:</i> Enter Viron to get an automatic quest notification. Talk to the NPC Veronif at Viron (F6).<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            2. Collect 200x Philospher Stone, 200x Ice Crystal, 100x Diamond Ore.<br>
+                            All items can be gotten at &quot;Frozen Plains&quot;. Ice Crystal drops from all mobs, Philosopher Stone drops from Arctic Bear/Arctic Dandelion Gorilla and the Diamon Ore drops from Eligo.<br>
+                            3. Return to Veronif<br>
+                            <i><br>
+                            Veronif Study 1<br>
+                            Trigger:</i> Complete &quot;First Impression&quot;, re-enter Viron<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            <i><br>
+                            Veronif Study 2<br>
+                            Trigger:</i> Complete &quot;Veronif Study 1&quot;<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            2. Collect 50x Black Magic Stones from Elbum and Eldum at the Ice Wizard&#39;s Tower<br>
+                            3. Return to Veronif<br>
+                            <i><br>
+                            Trauma 1<br>
+                            Trigger:</i> Complete &quot;Veronif Study 2&quot;<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            2. You will be teleported into and instance: &quot;Broken Heart&quot;<br>
+                            3. Click on Veronif lying on the ground<br>
+                            <i><br>
+                            Trauma 2<br>
+                            Trigger:</i> Complete the &quot;Trauma 1&quot;<i><br>
+                            <br>
+                            1. Talk to Veronif<br>
+                            2. Choose to collect items, there are two alternate routes<br>
+                            (routes have different rewards, once you choose a route you cannot select the other)<br>
+                            - Route A: 50x Iron Ores - Reward:</i> <i>Shiny Crystal Box</i> <i><br>
+                            - Route B: <span class="diffRemove">500x</span><span class="diffAdd">100x</span> Blue Stone - Reward:</i> <i>Ancient Star Orb Box</i><br>
+                            <i><br></i>Route A - Create Shiny Crystal<i><br>
+                            Trigger:</i> Complete &quot;Trauma 2&quot;<i><br>
+                            Reward: Shiny Crystal Box<br>
+                            <br></i> 1. Collect 50x Iron Ore from the Castilla Raid Missions (mine the crystals)<br>
+                            2. Return to Veronif<br>
+                            <i><br>
+                            Route B - Create Ancient Star Orb<br>
+                            Trigger:</i> Complete &quot;Trauma 2&quot;<i><br>
+                            Reward: Ancient Star Orb Box<br>
+                            <br></i> 1. Collect 500x Blue Stone from Arctic Dandelion Gorilla at Frozen Plains.<br>
+                            2. Return to Veronif<i><br>
+                            <br>
+                            Veronif of Medicine 1<br>
+                            Trigger:</i> Complete either &quot;Route A - Create Shiny Crystal&quot; or &quot;Route B - Create Ancient Star Orb&quot;<i><br>
+                            Reward:</i> A - Shiny Crystal Box, B - Stance EXP Card<i><br>
+                            <br></i> 1. Talk to Veronif2<br>
+                            2. Go to &quot;Demonic Toubkal Mine&quot; (Lv 100-115) in Bounty Hunters Guild, kill the monsters to collect 20x &quot;Celegrimworm Nucleus&quot;<br>
+                            3. Return to Veronif and choose your reward<br>
+                            - Reward A: Shiny Crystal Box<br>
+                            - Reward B: Stance EXP Card A<br>
+                            <i><br>
+                            Veronif of Medicine 2<br></i>Trigger: Complete &quot;Veronif of Medicine 1&quot;<br>
+                            Reward: A - Shiny Crystal Box, B - Stance EXP Card<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            2. Go to &quot;Demonic Secret Tower&quot; (Lv 115-120) in Bounty Hunters Guild, kill the monsters to collect 30x &quot;Deathly Hallows Core&quot;<br>
+                            3. Return to Veronif and choose your reward<br>
+                            - Reward A: Shiny Crystal Box<br>
+                            - Reward B: Stance EXP Card A<i><br>
+                            <br>
+                            Veronif of Medicine 3<br>
+                            Trigger:</i> Complete &quot;Veronif of Medicine 2&quot;<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            2. Go to &quot;Demonic Ice Wizard&#39;s Tower&quot; (Lv 120-130) in Bounty Hunters Guild, kill the monsters to collect 50x &quot;Valkyrie Core&quot;<br>
+                            3. Return to Veronif<br>
+                            <i><br>
+                            <br>
+                            Veronif of Medicine 4<br>
+                            Trigger:</i> Complete the &quot;Veronif of Medicine 3<i><br>
+                            Reward:</i> &quot;<u>Character Card - Veronif</u>&quot; x1, Red Fire Gem Fragments x15, Reputation Card C<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            2. Collect 5x Time of Toothed Wheel*<br>
+                            3. Return to Veronif<br>
+                            * Obtainable at the Clock Tower.<br>
+                            <i><br>
+                            <br>
+                            Veronif&#39;s Diary<br>
+                            Trigger:</i> Complete &quot;Veronif of Medicine 4&quot;<i><br>
+                            Reward:</i> <u>Tome &quot;Veronif&#39;s Diary</u>&quot;*<i><br>
+                            <br></i> 1. Talk to Veronif<br>
+                            1. Collect 100x Tough Cotton Yarn<br>
+                            3. Return to Veronif<i><br>
+                            <br>
+                            * Tome cannot be traded, dropped or sold.<br>
+                            After getting her stancebook in the next step you can start a quest for another &quot;Veronif&#39;s Diary&quot;, this is adviced to do because to get Vincent&#39;s Tome you need to give away 1x &quot;Veronif&#39;s Diary&quot;. For 30 days she will ask you to give her 1 item each day. The item is random. Currently known ones: Stone of Soul, Kryptonite<br>
+                            <br></i>
+                            <ul>
+                              <li><i>Stance Book Quest</i></li>
+                            </ul><i><br>
+                            Veronif&#39;s Hermetisme<br>
+                            Trigger: Complete &quot;Veronif&#39;s Diary&quot;<br>
+                            Reward: &quot;<u>Stance Book - Hermetisme</u>&quot;<br>
+                            <br>
+                            1. Talk to Veronif<br>
+                            2. 1x Taurus Token and 2x Elemental Jewel<br>
+                            3. Return to Veronif<br>
+                            <br></i> ------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+                            <i><br>
+                            Veronif - Hermetisme Stance<br>
+                            <br></i> <embed height="350" src="http://wikifoundrytools.com/wiki/testingsword2wiki/widget/youtubevideo/cbda0eb7714101e7eeb7b941c88aadf9a4fb449c" type="application/x-shockwave-flash" width="425" wmode="transparent"><br>
+                            <i><br>
+                            <br></i> <font size="3"><font color="#FFA500"><i><b><font color="#FF0000">Credits:</font></b></i> <font color="#333333">Recruitment Quest copied (with permission) from M0zz Blogspot</font></font></font>
+                          </div>
+                        </div>
+                      </div>
+                    </div><br>
+                  </div><br class="clear">
+                  <br class="clear">
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li>
+                                <a href="/page/Game+Characters" rel="119">Game Characters</a>
+                                <ul>
+                                  <li><a href="/page/Character+Status+List">Character Status List</a></li>
+                                  <li><a href="/page/Inherent+Skill+List">Inherent Skill List</a></li>
+                                  <li><a href="/page/Character+Attributes">Character Attributes</a></li>
+                                  <li><a href="/page/Points+at+Vet+and+Expert">Points at Vet and Expert</a></li>
+                                  <li><a href="/page/Character+Promotion">Character Promotion</a></li>
+                                  <li><a href="/page/Character+Trading">Character Trading</a></li>
+                                  <li><a href="/page/Character+Comparison">Character Comparison</a></li>
+                                  <li><a href="/page/Revised+Character+Combination+Buff" rel="1">Revised Character Combination Buff</a></li>
+                                  <li><a href="/page/Class+Guides" rel="7">Class Guides</a></li>
+                                  <li><a href="/page/Adelina+Esperanza">Adelina Esperanza</a></li>
+                                  <li><a href="/page/Adriana">Adriana</a></li>
+                                  <li><a href="/page/Alejandro">Alejandro</a></li>
+                                  <li><a href="/page/Andre+de+Lou-Oshiba">Andre de Lou-Oshiba</a></li>
+                                  <li><a href="/page/Andre+Janzur">Andre Janzur</a></li>
+                                  <li><a href="/page/Angie+Shirley">Angie Shirley</a></li>
+                                  <li><a href="/page/Ania">Ania</a></li>
+                                  <li><a href="/page/Asoka">Asoka</a></li>
+                                  <li><a href="/page/Auch+Infantry">Auch Infantry</a></li>
+                                  <li><a href="/page/Baek+Ho">Baek Ho</a></li>
+                                  <li><a href="/page/Barrel">Barrel</a></li>
+                                  <li><a href="/page/Battlefield+Claude">Battlefield Claude</a></li>
+                                  <li><a href="/page/Battlesmith+Idge">Battlesmith Idge</a></li>
+                                  <li><a href="/page/Beatrice">Beatrice</a></li>
+                                  <li><a href="/page/Brunie+Etienne">Brunie Etienne</a></li>
+                                  <li><a href="/page/Cadet+Adriana">Cadet Adriana</a></li>
+                                  <li><a href="/page/Cadet+Elisa">Cadet Elisa</a></li>
+                                  <li><a href="/page/Calypso">Calypso</a></li>
+                                  <li><a href="/page/Captain+Adelina">Captain Adelina</a></li>
+                                  <li><a href="/page/Catherines">Catherines</a></li>
+                                  <li><a href="/page/Catherine+of+Combat">Catherine of Combat</a></li>
+                                  <li><a href="/page/Catherine+Torsche">Catherine Torsche</a></li>
+                                  <li><a href="/page/Cherlyn">Cherlyn</a></li>
+                                  <li><a href="/page/Claire">Claire</a></li>
+                                  <li><a href="/page/Claude+Baudez">Claude Baudez</a></li>
+                                  <li><a href="/page/Coimbran+Trooper">Coimbran Trooper</a></li>
+                                  <li><a href="/page/Cruz">Cruz</a></li>
+                                  <li><a href="/page/Daria">Daria</a></li>
+                                  <li><a href="/page/Eduardo+Gygax">Eduardo Gygax</a></li>
+                                  <li><a href="/page/Elementalist">Elementalist</a></li>
+                                  <li><a href="/page/Elisa">Elisa</a></li>
+                                  <li><a href="/page/Emilia+Giannino">Emilia Giannino</a></li>
+                                  <li><a href="/page/Emilia+the+Sage">Emilia the Sage</a></li>
+                                  <li><a href="/page/Eva+Sharon">Eva Sharon</a></li>
+                                  <li><a href="/page/Fighter">Fighter</a></li>
+                                  <li><a href="/page/Friede+Beckerath">Friede Beckerath</a></li>
+                                  <li><a href="/page/Garcia+Gygax">Garcia Gygax</a></li>
+                                  <li><a href="/page/Gertrude+Peterson">Gertrude Peterson</a></li>
+                                  <li><a href="/page/Grace+Bernelli">Grace Bernelli</a></li>
+                                  <li><a href="/page/Gracielo">Gracielo</a></li>
+                                  <li><a href="/page/Grandice">Grandice</a></li>
+                                  <li><a href="/page/Grenmah">Grenmah</a></li>
+                                  <li><a href="/page/Hellena">Hellena</a></li>
+                                  <li><a href="/page/Heyran">Heyran</a></li>
+                                  <li><a href="/page/Idge+Imbrulia">Idge Imbrulia</a></li>
+                                  <li><a href="/page/Illusion">Illusion</a></li>
+                                  <li><a href="/page/Irawain">Irawain</a></li>
+                                  <li><a href="/page/Iron+Chef+Panfilo">Iron Chef Panfilo</a></li>
+                                  <li><a href="/page/Ion">Ion</a></li>
+                                  <li><a href="/page/J.D">J.D</a></li>
+                                  <li><a href="/page/Jack+Shirley">Jack Shirley</a></li>
+                                  <li><a href="/page/Jose+Cortasar">Jose Cortasar</a></li>
+                                  <li><a href="/page/Kano">Kano</a></li>
+                                  <li><a href="/page/Kess+Kielce">Kess Kielce</a></li>
+                                  <li><a href="/page/Kurt+Lyndon">Kurt Lyndon</a></li>
+                                  <li><a href="/page/Lionel">Lionel</a></li>
+                                  <li><a href="/page/Lisa+Lynway">Lisa Lynway</a></li>
+                                  <li><a href="/page/Liung">Liung</a></li>
+                                  <li><a href="/page/Lorch+Feurholden">Lorch Feurholden</a></li>
+                                  <li><a href="/page/Ludin">Ludin</a></li>
+                                  <li><a href="/page/Marchetti">Marchetti</a></li>
+                                  <li><a href="/page/Mary">Mary</a></li>
+                                  <li><a href="/page/M%27Boma">M&#039;Boma</a></li>
+                                  <li><a href="/page/Mia+Karjalain">Mia Karjalain</a></li>
+                                  <li><a href="/page/Mifuyu">Mifuyu</a></li>
+                                  <li><a href="/page/Montoro">Montoro</a></li>
+                                  <li><a href="/page/Musketeer">Musketeer</a></li>
+                                  <li><a href="/page/Najib+Sharif">Najib Sharif</a></li>
+                                  <li><a href="/page/Nar">Nar</a></li>
+                                  <li><a href="/page/Natalie">Natalie</a></li>
+                                  <li><a href="/page/Nena">Nena</a></li>
+                                  <li><a href="/page/Olivia">Olivia</a></li>
+                                  <li><a href="/page/Panfilo+de+Narvaez">Panfilo de Narvaez</a></li>
+                                  <li><a href="/page/Queen+of+Pioneer%2C+Grandice">Queen of Pioneer, Grandice</a></li>
+                                  <li><a href="/page/Rachel+Sheffield">Rachel Sheffield</a></li>
+                                  <li><a href="/page/Rascel">Rascel</a></li>
+                                  <li><a href="/page/Ralph">Ralph</a></li>
+                                  <li><a href="/page/Ramiro">Ramiro</a></li>
+                                  <li><a href="/page/Raven">Raven</a></li>
+                                  <li><a href="/page/Reboldeaux+Soldier">Reboldeaux Soldier</a></li>
+                                  <li><a href="/page/Reckless+Emilia">Reckless Emilia</a></li>
+                                  <li><a href="/page/Rescue+Knight">Rescue Knight</a></li>
+                                  <li><a href="/page/Romina">Romina</a></li>
+                                  <li><a href="/page/Rosablanca">Rosablanca</a></li>
+                                  <li><a href="/page/Rose%2C+The+Spirit">Rose, The Spirit</a></li>
+                                  <li><a href="/page/Roth">Roth</a></li>
+                                  <li><a href="/page/Scout">Scout</a></li>
+                                  <li><a href="/page/Selane">Selane</a></li>
+                                  <li><a href="/page/Selva+Norte">Selva Norte</a></li>
+                                  <li><a href="/page/Sierra+Rose">Sierra Rose</a></li>
+                                  <li><a href="/page/Sirius+Rigel">Sirius Rigel</a></li>
+                                  <li><a href="/page/Sir+Lyndon">Sir Lyndon</a></li>
+                                  <li><a href="/page/Sniper+Bernelli">Sniper Bernelli</a></li>
+                                  <li><a href="/page/Snowflake+Cherlyn">Snowflake Cherlyn</a></li>
+                                  <li><a href="/page/Soho">Soho</a></li>
+                                  <li><a href="/page/Soho+the+Fighter">Soho the Fighter</a></li>
+                                  <li><a href="/page/Sorang">Sorang</a></li>
+                                  <li><a href="/page/Soso">Soso</a></li>
+                                  <li><a href="/page/Spy+Olivia">Spy Olivia</a></li>
+                                  <li><a href="/page/Tiburon">Tiburon</a></li>
+                                  <li><a href="/page/Tora">Tora</a></li>
+                                  <li><a href="/page/Valeria">Valeria</a></li>
+                                  <li><a href="/page/Valeria+Vendetta">Valeria Vendetta</a></li>
+                                  <li><a href="/page/Veil">Veil</a></li>
+                                  <li><a href="/page/Veronif" class="current">Veronif</a></li>
+                                  <li><a href="/page/Viki">Viki</a></li>
+                                  <li><a href="/page/Vincent">Vincent</a></li>
+                                  <li><a href="/page/Vincent+Rio" rel="1">Vincent Rio</a></li>
+                                  <li><a href="/page/Wizard">Wizard</a></li>
+                                  <li><a href="/page/Yeganeh">Yeganeh</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

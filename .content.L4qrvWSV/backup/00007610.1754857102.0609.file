@@ -1,0 +1,739 @@
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css?v=20090925121211" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css?20090925121211" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css?20090925121211" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css?20090925121211" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css?20090925121211"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js?v=20090925121211" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090925121211" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Leaderboard' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Search");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png?v=20090925121211" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnCategory">
+            <li class="gn first"><a href="/">Home</a></li>
+            <li class="gn"><a href="/forum">Discussions</a></li>
+            <li class="gn"><a href="/photos">Photos</a></li>
+            <li class="gn"><a href="/videos">Videos</a></li>
+            <li class="gn"><a href="/news">News</a></li>
+            <li class="gn"><a href="/whatsnew">Updates</a></li>
+            <li class="gn"><a href="/droplets">Droplets</a></li>
+            <li class="gn"><a href="/accountSearch/all">Members</a></li>
+            <li class="gn"><a href="#invite" id="WPC-action_invite?from=gNav" class="WPC-action" name="WPC-action_invite?from=gNav">Invite</a></li>
+          </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png?v=20090925121211" class="signup-button" /></div>
+            </div>
+          </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+          <div class="clear"></div>
+        </div>
+        <div id="adsTop">
+          <div class="ads adstop">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            //]]>
+            </script>
+          </div>
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            //]]>
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="scout" onfocus="if( this.value == 'scout' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                    </form>
+                  </div><br />
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">All</li>
+                      <li><a href="/search/pages/scout">Pages</a></li>
+                      <li><a href="/search/threads/scout">Threads</a></li>
+                      <li><a href="/search/photos/scout">Photos</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction"></span>
+                                <form name="paginationForm" action="" method="get" id="paginationForm">
+                                  <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;139 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                    <option value="10">
+                                      10
+                                    </option>
+                                    <option value="20" selected="selected">
+                                      20
+                                    </option>
+                                    <option value="50">
+                                      50
+                                    </option>
+                                  </select> items&nbsp;at a time</span>
+                                </form>
+                              </div>
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a>&nbsp;<a href="?offset=40&maxResults=20">3</a>&nbsp;<a href="?offset=60&maxResults=20">4</a>&nbsp;<a href="?offset=80&maxResults=20">5</a> | <a href="?offset=20&maxResults=20">Next</a> &gt; <a href="?offset=120&maxResults=20">Last</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Scout" class="WPC-tool WPC-tool-content WPC-indicate">Scout</a></span> <span class="resultContent">A healer class that can also buff other members of the party and resurrect dead characters with certain potions. Almost every party will have a scout</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Scout" title="Scout">Scout</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/scout" title="scout">scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 3 2008, 6:58 PM EDT by <a href="/account/badraven0" id="WPC-action_accountMenu?account=badraven0&subject=Scout&pageName=Scout" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=badraven0&subject=Scout&pageName=Scout">badraven0</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Scout+Guide" class="WPC-tool WPC-tool-content WPC-indicate">Scout Guide</a></span> <span class="resultContent">Scouts are a &#034;useless necessity&#034; in SOTNW. If you don&#039;t have one you will go nearly bankrupt purchasing health fillers. After Level 50 you</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Guides" title="Guides">Guides</a> &gt; <a href="/page/Class+Related+Guides" title="Class Related Guides">Class Related Guides</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/Scout+Guide" title="Scout Guide">Scout Guide</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Oct 5 2008, 9:04 PM EDT by <a href="/account/mooferz" id="WPC-action_accountMenu?account=mooferz&subject=Scout+Guide&pageName=Scout+Guide" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=mooferz&subject=Scout+Guide&pageName=Scout+Guide">mooferz</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Escrima%2C+Scout" class="WPC-tool WPC-tool-content WPC-indicate">Escrima, Scout</a></span> <span class="resultContent">Return to: Scout Stances and Skills</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Scout" title="Scout">Scout</a> &gt; <a href="/page/Scout+Stances+and+Skills" title="Scout Stances and Skills">Scout Stances and Skills</a> &gt; <a href="/page/Escrima%2C+Scout" title="Escrima, Scout">Escrima, Scout</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/escrima" title="escrima">escrima,&nbsp;</a> <a href="/tag/scout" title="scout">scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 25 2008, 2:35 PM EDT by <a href="/account/Sinjinsu" id="WPC-action_accountMenu?account=Sinjinsu&subject=Escrima%2C+Scout&pageName=Escrima%2C+Scout" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Sinjinsu&subject=Escrima%2C+Scout&pageName=Escrima%2C+Scout">Sinjinsu</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Scout+Stances+and+Skills" class="WPC-tool WPC-tool-content WPC-indicate">Scout Stances and Skills</a></span> <span class="resultContent">1 Dobalada Corte Two Daggers 1 Return to: Scout</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Scout" title="Scout">Scout</a> &gt; <a href="/page/Scout+Stances+and+Skills" title="Scout Stances and Skills">Scout Stances and Skills</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/acceleration" title="acceleration">acceleration,&nbsp;</a> <a href="/tag/assassin" title="assassin">assassin,&nbsp;</a> <a href="/tag/Bard" title="Bard">Bard,&nbsp;</a> <a href="/tag/Blade+Squall" title="Blade Squall">Blade Squall,&nbsp;</a> <a href="/tag/Critical+Disease" title="Critical Disease">Critical Disease,&nbsp;</a> <a href="/tag/Cure-all" title="Cure-all">Cure-all,&nbsp;</a> <a href="/tag/Dagger+Throw" title="Dagger Throw">Dagger Throw,&nbsp;</a> <a href="/tag/Dance+of+Death" title="Dance of Death">Dance of Death,&nbsp;</a> <a href="/tag/detection" title="detection">detection,&nbsp;</a> <a href="/tag/Dos+Cuchillos" title="Dos Cuchillos">Dos Cuchillos,&nbsp;</a> <a href="/tag/Execute" title="Execute">Execute,&nbsp;</a> <a href="/tag/explosion" title="explosion">explosion,&nbsp;</a> <a href="/tag/Fortify" title="Fortify">Fortify,&nbsp;</a> <a href="/tag/Heartjab" title="Heartjab">Heartjab,&nbsp;</a> <a href="/tag/Intensify" title="Intensify">Intensify,&nbsp;</a> <a href="/tag/Invisible+String" title="Invisible String">Invisible String,&nbsp;</a> <a href="/tag/Masscure" title="Masscure">Masscure,&nbsp;</a> <a href="/tag/Medic" title="Medic">Medic,&nbsp;</a> <a href="/tag/Meditation" title="Meditation">Meditation,&nbsp;</a> <a href="/tag/recover" title="recover">recover,&nbsp;</a> <a href="/tag/Resuscitation" title="Resuscitation">Resuscitation,&nbsp;</a> <a href="/tag/Scrag" title="Scrag">Scrag,&nbsp;</a> <a href="/tag/scythe" title="scythe">scythe,&nbsp;</a> <a href="/tag/Slashback" title="Slashback">Slashback,&nbsp;</a> <a href="/tag/Trapper" title="Trapper">Trapper&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 24 2009, 12:39 AM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Scout+Stances+and+Skills&pageName=Scout+Stances+and+Skills" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Scout+Stances+and+Skills&pageName=Scout+Stances+and+Skills">Seksiboi</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/2357437/Scout%3A" class="WPC-tool WPC-tool-thread WPC-indicate">Scout:</a></span> <span class="resultContent">Is an amazing healer, no need for items to heal.<br />
+                                  Although if you have lag it may not be able to heal on time.<br />
+                                  You&#39;ll need a pretty good connection to use the "Scout"<br />
+                                  to it&#39;s full extent</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Scout" class="WPC-tool WPC-tool-content">Scout</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Posted: Feb 3 2009, 4:08 PM EST by Anonymous</span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/2315565/scouts+uses" class="WPC-tool WPC-tool-thread WPC-indicate">scouts uses</a></span> <span class="resultContent">did you know having three scout is pretty useless,because they lack sufficent vigor to cope with bosess eg photain genral does double damage agaist light amour meaning die twice as quick.scouts only use is surport not fighting unless</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Wiki+Of+The+New+World" class="WPC-tool WPC-tool-content">Wiki Of The New World</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/be+wise" title="be wise">be wise&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Jan 25 2009, 7:12 PM EST by <a href="/account/ice450" id="WPC-action_accountMenu?account=ice450&subject=scouts+uses&from=threadFirstPost2315565&threadId=2315565" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=ice450&subject=scouts+uses&from=threadFirstPost2315565&threadId=2315565">ice450</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3603830/Original+Scout+Costume+Female" class="WPC-tool WPC-tool-photo" title="Original Scout Costume Female"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/iCPEuc6Y92D_5J1NqhIorg354828/GW073" alt="" />Original Scout Costume Female</a></span> <span class="resultContent">Original Scout Costume Female</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/Original+Costume" title="Original Costume">Original Costume,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:30 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Original+Scout+Costume+Female&from=status&pageName=Original+Scout+Costume+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Original+Scout+Costume+Female&from=status&pageName=Original+Scout+Costume+Female"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:33 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Original+Scout+Costume+Female&pageName=Original+Scout+Costume+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Original+Scout+Costume+Female&pageName=Original+Scout+Costume+Female">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/3603875/Scout+School+Uniform+Female" class="WPC-tool WPC-tool-photo" title="Scout School Uniform Female"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/2IkTwSIGEITnRzKluMFIog353226/GW073" alt="" />Scout School Uniform Female</a></span> <span class="resultContent">Scout School Uniform Female</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/School+Uniform" title="School Uniform">School Uniform,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:37 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Scout+School+Uniform+Female&from=status&pageName=Scout+School+Uniform+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Scout+School+Uniform+Female&from=status&pageName=Scout+School+Uniform+Female"></a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3603933/Scout+School+Uniform+Male" class="WPC-tool WPC-tool-photo" title="Scout School Uniform Male"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/g87YSgE4KNn9ywyhq8EQWA357660/GW073" alt="" />Scout School Uniform Male</a></span> <span class="resultContent">Scout School Uniform Male</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/School+Uniform" title="School Uniform">School Uniform,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:40 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Scout+School+Uniform+Male&from=status&pageName=Scout+School+Uniform+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Scout+School+Uniform+Male&from=status&pageName=Scout+School+Uniform+Male"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:41 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Scout+School+Uniform+Male&pageName=Scout+School+Uniform+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Scout+School+Uniform+Male&pageName=Scout+School+Uniform+Male">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/3603956/Studded+Leathers+Scout+Female" class="WPC-tool WPC-tool-photo" title="Studded Leathers Scout Female"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/WWdbMEGSoErMs3fApGJHew352887/GW073" alt="" />Studded Leathers Scout Female</a></span> <span class="resultContent">Studded Leathers Scout Female</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout,&nbsp;</a> <a href="/tag/Studded+Leathers" title="Studded Leathers">Studded Leathers&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:42 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Studded+Leathers+Scout+Female&from=status&pageName=Studded+Leathers+Scout+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Studded+Leathers+Scout+Female&from=status&pageName=Studded+Leathers+Scout+Female"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:43 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Studded+Leathers+Scout+Female&pageName=Studded+Leathers+Scout+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Studded+Leathers+Scout+Female&pageName=Studded+Leathers+Scout+Female">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3603968/Studded+Leathers+Scout+Male" class="WPC-tool WPC-tool-photo" title="Studded Leathers Scout Male"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/OGbzBtrZgzJV08p_pHswUg351763/GW073" alt="" />Studded Leathers Scout Male</a></span> <span class="resultContent">Studded Leathers Scout Male</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout,&nbsp;</a> <a href="/tag/Studded+Leathers" title="Studded Leathers">Studded Leathers&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:44 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Studded+Leathers+Scout+Male&from=status&pageName=Studded+Leathers+Scout+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Studded+Leathers+Scout+Male&from=status&pageName=Studded+Leathers+Scout+Male"></a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/3603975/Esianan+Tattoos+Scout+Male" class="WPC-tool WPC-tool-photo" title="Esianan Tattoos Scout Male"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/BfJB84E28Vqd3Z8DaYl1Mg352548/GW073" alt="" />Esianan Tattoos Scout Male</a></span> <span class="resultContent">Esianan Tattoos Scout Male</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Esianan+Tattoos" title="Esianan Tattoos">Esianan Tattoos,&nbsp;</a> <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:45 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Esianan+Tattoos+Scout+Male&from=status&pageName=Esianan+Tattoos+Scout+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Esianan+Tattoos+Scout+Male&from=status&pageName=Esianan+Tattoos+Scout+Male"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:46 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Esianan+Tattoos+Scout+Male&pageName=Esianan+Tattoos+Scout+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Esianan+Tattoos+Scout+Male&pageName=Esianan+Tattoos+Scout+Male">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3604148/Mutation+Costume+Female+Scout" class="WPC-tool WPC-tool-photo" title="Mutation Costume Female Scout"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/kCP6DK70QfqcWqKmqCrdqQ354910/GW073" alt="" />Mutation Costume Female Scout</a></span> <span class="resultContent">Mutation Costume Female Scout</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/Mutation+Costume" title="Mutation Costume">Mutation Costume,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 9:02 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Mutation+Costume+Female+Scout&from=status&pageName=Mutation+Costume+Female+Scout" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Mutation+Costume+Female+Scout&from=status&pageName=Mutation+Costume+Female+Scout"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 9:03 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Mutation+Costume+Female+Scout&pageName=Mutation+Costume+Female+Scout" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Mutation+Costume+Female+Scout&pageName=Mutation+Costume+Female+Scout">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/3604155/Mutation+Costume+Male+Scout" class="WPC-tool WPC-tool-photo" title="Mutation Costume Male Scout"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/QdpQQ3bFbwlsJKxf4uNOfQ363304/GW073" alt="" />Mutation Costume Male Scout</a></span> <span class="resultContent">Mutation Costume Male Scout</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Mutation+Costume" title="Mutation Costume">Mutation Costume,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 9:03 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Mutation+Costume+Male+Scout&from=status&pageName=Mutation+Costume+Male+Scout" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Mutation+Costume+Male+Scout&from=status&pageName=Mutation+Costume+Male+Scout"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 9:04 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Mutation+Costume+Male+Scout&pageName=Mutation+Costume+Male+Scout" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Mutation+Costume+Male+Scout&pageName=Mutation+Costume+Male+Scout">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3603835/Original+Scout+Costume+Male" class="WPC-tool WPC-tool-photo" title="Original Scout Costume Male"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/P-9GzGUkRo25vQLlYjSWRA361069/GW073" alt="" />Original Scout Costume Male</a></span> <span class="resultContent">Original Scout Costume Male</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Original+Costume+Male" title="Original Costume Male">Original Costume Male&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:32 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Original+Scout+Costume+Male&from=status&pageName=Original+Scout+Costume+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Original+Scout+Costume+Male&from=status&pageName=Original+Scout+Costume+Male"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:34 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Original+Scout+Costume+Male&pageName=Original+Scout+Costume+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Original+Scout+Costume+Male&pageName=Original+Scout+Costume+Male">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/3186454/3+Scout+team" class="WPC-tool WPC-tool-thread WPC-indicate">3 Scout team</a></span> <span class="resultContent">You should probably put a 3 scout team if you don&#39;t then your missing out on a hell of an option for fighter heal combo without the use of scouts and trust me I know I use 3 scout team you have to be nub if you can&#39;t handle it they are easy to get gear and weps with.</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Job+Combinations" class="WPC-tool WPC-tool-content">Job Combinations</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Posted: Aug 17 2009, 4:06 AM EDT by <a href="/account/mrblackdog" id="WPC-action_accountMenu?account=mrblackdog&subject=3+Scout+team&from=threadFirstPost3186454&threadId=3186454" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=mrblackdog&subject=3+Scout+team&from=threadFirstPost3186454&threadId=3186454">mrblackdog</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3603985/Rescue+Suit+Costume+Scout+Female" class="WPC-tool WPC-tool-photo" title="Rescue Suit Costume Scout Female"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/FbWtZyDCkaGuul62SWYoOw357807/GW073" alt="" />Rescue Suit Costume Scout Female</a></span> <span class="resultContent">Rescue Suit Costume Scout Female</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/Rescue+Suit" title="Rescue Suit">Rescue Suit,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:47 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Rescue+Suit+Costume+Scout+Female&from=status&pageName=Rescue+Suit+Costume+Scout+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Rescue+Suit+Costume+Scout+Female&from=status&pageName=Rescue+Suit+Costume+Scout+Female"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:48 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Rescue+Suit+Costume+Scout+Female&pageName=Rescue+Suit+Costume+Scout+Female" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Rescue+Suit+Costume+Scout+Female&pageName=Rescue+Suit+Costume+Scout+Female">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/3603989/Rescue+Suit+Costume+Scout+Male" class="WPC-tool WPC-tool-photo" title="Rescue Suit Costume Scout Male"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/bth7-YRo04VuRI7S9C-Jfg363944/GW073" alt="" />Rescue Suit Costume Scout Male</a></span> <span class="resultContent">Rescue Suit Costume Scout Male</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Rescue+Suit" title="Rescue Suit">Rescue Suit,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:49 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Rescue+Suit+Costume+Scout+Male&from=status&pageName=Rescue+Suit+Costume+Scout+Male" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Rescue+Suit+Costume+Scout+Male&from=status&pageName=Rescue+Suit+Costume+Scout+Male"></a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3604024/Le+Blance+Scout+Female+Costume" class="WPC-tool WPC-tool-photo" title="Le Blance Scout Female Costume"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/VtRUvOTth2nTMwAKRSkBTw357084/GW073" alt="" />Le Blance Scout Female Costume</a></span> <span class="resultContent">Le Blance Scout Female Costume</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Female" title="Female">Female,&nbsp;</a> <a href="/tag/Le+Blance" title="Le Blance">Le Blance,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:52 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Le+Blance+Scout+Female+Costume&from=status&pageName=Le+Blance+Scout+Female+Costume" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Le+Blance+Scout+Female+Costume&from=status&pageName=Le+Blance+Scout+Female+Costume"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:53 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Le+Blance+Scout+Female+Costume&pageName=Le+Blance+Scout+Female+Costume" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Le+Blance+Scout+Female+Costume&pageName=Le+Blance+Scout+Female+Costume">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/3604045/Le+Blance+Scout+Male+Costume" class="WPC-tool WPC-tool-photo" title="Le Blance Scout Male Costume"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/9OhFFUYaFSeXo4ETG--WgA360753/GW073" alt="" />Le Blance Scout Male Costume</a></span> <span class="resultContent">Le Blance Scout Male Costume</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Costume" title="Costume">Costume,&nbsp;</a> <a href="/tag/Le+Blance" title="Le Blance">Le Blance,&nbsp;</a> <a href="/tag/Male" title="Male">Male,&nbsp;</a> <a href="/tag/Scout" title="Scout">Scout&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 19 2009, 8:53 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Le+Blance+Scout+Male+Costume&from=status&pageName=Le+Blance+Scout+Male+Costume" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Le+Blance+Scout+Male+Costume&from=status&pageName=Le+Blance+Scout+Male+Costume"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 19 2009, 8:54 AM EST by <a href="/account/Lucreecia" id="WPC-action_accountMenu?account=Lucreecia&subject=Le+Blance+Scout+Male+Costume&pageName=Le+Blance+Scout+Male+Costume" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lucreecia&subject=Le+Blance+Scout+Male+Costume&pageName=Le+Blance+Scout+Male+Costume">Lucreecia</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a>&nbsp;<a href="?offset=40&maxResults=20">3</a>&nbsp;<a href="?offset=60&maxResults=20">4</a>&nbsp;<a href="?offset=80&maxResults=20">5</a> | <a href="?offset=20&maxResults=20">Next</a> &gt; <a href="?offset=120&maxResults=20">Last</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top Wetpaint Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="scout" />
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <div id="siteSearch" class="searchForm">
+                <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                  <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                </form>
+              </div><noscript><br />
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br />
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="8">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li><a href="/page/Quests" rel="46">Quests</a></li>
+                              <li><a href="/page/Raids" rel="16">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink" name="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              //<![CDATA[
+              wetpaintLoad('scroller');
+              //]]>
+              </script>
+              <div class="ads adsleft">
+                <br />
+                <br />
+                <div id="googleAdUnitIframe_left"></div>
+                <script type="text/javascript">
+                //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+                google_color_bg = "FFFFFF";
+                google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+                //]]>
+                </script> 
+                <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png?v=20090925121211" alt="Create your own free Wetpaint site" width="123" height="77" />
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Last Chaos DE Guide</span></li>
+              <li><span>Last Chaos - Guides &amp; Information</span></li>
+              <li><span>Kerrydale Street</span></li>
+              <li><span>Free Rider</span></li>
+              <li><span>Warriors Fansite.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js?v=20090925121211"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b12';s_w.channel='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(763/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js?v=20090925121211" type="text/javascript"></script>
+</body>
+</html>

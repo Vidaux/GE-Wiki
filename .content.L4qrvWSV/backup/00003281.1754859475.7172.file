@@ -1,0 +1,628 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>New Vis Making Guide - Wiki of the New World</title>
+  <meta name="keywords" content="New Vis Making Guide - Wiki of the New World, money,vis">
+  <meta name="description" content="Since the old guide is outdated (it was made for SOTNW in 2007), I thought it was about time to share the secrets to making vis in the current version of SOTNW. 1....">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/core/c.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/print/p.css?20111214172750"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'New Vis Making Guide',"PAGE_URI" : '/page/New+Vis+Making+Guide',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Instruction Manual','Hints / Tips','New Vis Making Guide']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/New+Vis+Making+Guide">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span><a href="/accountSearch/all">Members</a></span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DNew+Vis+Making+Guide%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>New Vis Making Guide<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=New+Vis+Making+Guide">
+                    <div id="WPC-area?cellId=New+Vis+Making+Guide&version=20&savePath=%2Fpage%2FNew%2BVis%2BMaking%2BGuide&saveType=page" class="WPC-editableContent">
+                      Since the old guide is outdated (it was made for SOTNW in 2007), I thought it was about time to share the secrets to making vis in the current version of SOTNW.<br>
+                      <br>
+                      <b>1. Daily Instanced Raids</b><br>
+                      <br>
+                      <ul>
+                        <li>Castilla Mines<br>
+                        Drops: Enchantment Chips Lv 100 and Veteran, Ancient Relic Piece, Gold Relic Piece, roulette.<br>
+                        How to get there: talk to Castilla Exploration Recruit Soldier in Port of Coimbra. Enter the mine at H-3.<br>
+                        Recommended level: Expert+ if you want to do it fast.<br>
+                        <br>
+                        Most people solo Castilla Mines up until Basilisk (OHKO&#39;s at 10% HP left; unless you can freeze/stun it).<br>
+                        Also killing the normal monsters will yield quite a few &quot;Ancient Relic Piece&quot;.<br>
+                        You can enter the mines for free once each day (resets at 12am SST). You can re-enter the mines more than once a day and keep farming for Enchantment Chips but it will require &quot;Ancient Relic&quot; upon entry. You can get Ancient Relic by exchanging 3x &quot;Ancient Relic Piece&quot; and 3,000 Feso in the Relic Exchanger (E-2 Castilla Garrison).<br>
+                        <br>
+                        The Relic Exchanger is also a great way to try your luck at gaining rare items like the Dragon Heart Recipe, Necklace Recipes and so on. So be sure to collect Ancient Relic Pieces whenever possible!<br>
+                        <br></li>
+                        <li><a href="/page/Chateau+de+Bourgogne" target="_self">Circus</a><br>
+                        Drops: Enchantment Chips Lv 100 and Veteran, red/blue/green rough-stone, Level 100 gear, red/green/blue circus ticket.<br>
+                        <br></li>
+                        <li><a href="/page/Dr.+Torsche%27s+Hidden+Basement" target="_self">Dr. Torsche&#39;s Hidden Basement</a><br>
+                        Drops: Enchantment Chip Veteran, Gold Bar, Roulette.<br>
+                        <br></li>
+                        <li><a href="/page/Bounty+Hunter" target="_self">Bounty Hunter Guild</a><br>
+                        Drops: Enchantment chips, Roulette.<br>
+                        <br></li>
+                        <li><a href="/page/Queen+Eater" target="_self">Instanced Rafflesia</a><br>
+                        Drops: Level 100 gears, Necklace recipes, Elite 84 Armors, Chance of Constellation Box.<br>
+                        <br></li>
+                        <li><a href="/page/Vergo+the+Cursed" target="_self">Instanced Sharffenberger</a><br>
+                        Drops: Level 100 gears, Necklace recipes, Elite Schvarlier Piece, Hilt of Elite Weapons, Chance of Constellation Box.<br>
+                        <br></li>
+                        <li><a href="/page/Joaquin+Barrier+Siege+%28Offense%29" target="_self">Joaquin Barrier Siege</a><br>
+                        Drops: Enchantment chips, Mega Talt, Roulette<br>
+                        <br></li>
+                      </ul><b>2. Use a <a href="/page/Pets" target="_self">Pet</a></b><br>
+                      If you buy some gold and don&#39;t want to waste it on selling cash shop items for fast vis, then do the next best thing: buy feso, get a pet, and use it when you AFK level.<br>
+                      <br>
+                      Great places to AFK (in no particular order):<br>
+                      <ul>
+                        <li>Citadel of the Gods (Caebolan SA/AA) - Red/green/blue rough-stone, Magic-spelled Amethyst, Liquid Gas, Veteran Gloves and Boots <font color="#FF0000">[cash shop map]</font></li>
+                        <li>Bahamar Ancient Cave - Snail Shell, Old Chess Piece, Red/green/blue rough-stone, Level 100 gear <font color="#FF0000">[cash shop map]</font></li>
+                        <li>Skeleton Ancient Area - Red/green/blue rough-stone <font color="#FF0000">[cash shop map]</font></li>
+                        <li>Katovic Snowfield - Cabbage, Golden Apple, Mega Ionium, Outlaw&#39;s Cigar (alchemy rating 3), Peace Insignia (alchemy rating 3), A Marksman&#39;s Magic Bullet (alchemy rating 3)</li>
+                        <li>Errac Tierra, Dias or Noche - Rhodolite, Ancient Rune - Te, Ti, Ar, An</li>
+                        <li>Viron, Red Sunset Forest - Letizia Shiny Box, Piece of Naraka - Ma, Mo, Lu, Beel, Al, Than, He.<br></li>
+                        <li>Rion Dungeon Corridor - Shiny Crystal</li>
+                        <li>Prison de Joaquin, Torture Chamber - Shiny Crystal</li>
+                        <li>Ustiur, Zona Uno - Red/green/yellow Leaf of Rafflesia, Dragon Leather, Shiny Crystal</li>
+                        <li>Dr. Torshe&#39;s Mansion - Catherine body parts, Strange items (alchemy rating 2), Otite Pieces</li>
+                      </ul>These common loots you acquire by AFKing are very valuable:<br>
+                      <ul>
+                        <li>Level 80-92 gears - convert into chips with the Chip Exchanger to sell on the market.</li>
+                        <li>Level 100 gears - break into chips, if it doesn&#39;t break at +6, go make a Level 32 crystal at El Dorado and sell.<br></li>
+                        <li>Shiny Crystals - needed for a lot of things now: keys, Bounty Hunter missions, socketing, crafting.</li>
+                        <li>Rough-stones - drag them into the Jewel Crafter. Then try your luck at the Jewel Exchanger and hope for a High Quality Spoumene and High Quality Obsidian. (Most people like to exchange jewels that come from blue or green rough-stones).<br></li>
+                      </ul>You can make tons of vis this way if you are a dedicated AFK leveler.<br>
+                      <b><br>
+                      3. Sell yourself as a Starter</b><br>
+                      Some missions have a minimum participant requirement. There are many who wish to solo these mission as much as possible and will buy you as a starter. These missions include:<br>
+                      <ul>
+                        <li>Circus</li>
+                        <li>Team Arena (MCC3 and MCC1)<br></li>
+                      </ul><br>
+                      <b>4. <a href="/page/Clan%2FFaction+Mission" target="_self">Clan Raid Missions</a></b><br>
+                      These missions are known as:<br>
+                      <ul>
+                        <li>Sharffenberger the Cursed</li>
+                        <li>Mad Rafflesia</li>
+                        <li>Mad Uraeus</li>
+                        <li>Mad Griffon</li>
+                        <li>Madness Farm</li>
+                        <li>Curse of the Red Sunset Forest<br></li>
+                      </ul>These missions are instanced and done once per week. Each mission will give Reward box roulette(s) during or at the end of the mission. There is a lot of potential to get Dragon Heart Recipes, Elite Le Blanc Recipes, Constellation Symbol Boxes, and Pieces of Naraka (which are needed for Stratavista Demon series weapons - 35 AR base). This of course requires you to join a clan (a fairly active or large clan will be helpful in completing these missions).<br>
+                      <br>
+                      <b>5. <a href="/page/Other+Quest+-+Viron" target="_self">Alejandro&#39;s Boat Quest</a></b><br>
+                      If you have completed the pequod boat quest (Viron) you can speak to the Wharf Manager (E-9) and request to support local or foreign merchants.<br>
+                      In this trade you will need Pure Talt/Etretanium/Ionium/Quartz/Aidanium.<br>
+                      You can trade either with Home Merchants (more costly but chance for greater rewards) or Foreign Merchants (less costly but worse rewards).<br>
+                      Always choose to trade with Home Merchants!<br>
+                      Possible Rewards: Vis (from 1-5 mill) or Shiny Crystal Box (from 1-9 boxes and each can yield 1-500 Shiny Crystals).<br>
+                      <br>
+                      <b>6. <a href="/page/Viron+Quests" target="_self">Devil&#39;s Seal (daily quest)</a></b><br>
+                      If you have completed Genia&#39;s The Devil and the Alchemist quest (Viron), then you can do the daily quest for her which require you hunt for quest items by killing various monsters. When you return to her you <i>may</i> be rewarded with a Piece of Naraka (Ma, Mo, Lu, Beel, Al, Than, He), if she is successful. These items are very valuable as they are needed for Stratavista Demon series weapons. There is however, a chance to receive a less worthy reward in this daily quest, unless you have chosen the Justice path in the Black and White quest.<br>
+                      <br>
+                      <b>7. Sell <a href="/page/Cash+Shop+Items" target="_self">Cash Shop</a> items</b><br>
+                      Sword 2 may be Free2Play but if you really want an advantage, you&#39;re going to have to spend some money on this game. The best items to sell depend on the server you&#39;re playing on and the economy at the time. They will fluctuate. But as a general rule, the most popular items to sell are enchant boosters, upgrade accelerators, soul crystals, and mysterious powders. Sometimes Lacquers may be worth selling. With the new update Mercenary Warrants are no longer tradeable. Avoid trying to sell the lesser used cash shop items like Vet Memoirs unless you know there is a buyer who is looking for it.<br>
+                      <br>
+                      <b>8. Buy Low and Sell High on the Marketplace</b><br>
+                      If you see people selling in-demand items for cheap, buy them all! Then resell them. This is a basic money making strategy that exists in life.<br>
+                      <br>
+                      These are the four guaranteed vis making strategies. Two of them require you to be a paying customer. The other two can be done relatively easy now, as the economy has some what dumped recently. Things are selling on the Market Manager for way cheaper than before. To buy low and sell high also requires patients, but remember, if done correctly this can net you around 30mil a week. You do not need to spend real money to get far in SotNW anymore, as cash shop items have become cheap, and easily accessible. Some items will help you get to Master a lot faster than normal, but if you are willing to invest more than a month in Sword 2, you will be able to have multiple vets and experts in a reasonable time.<br>
+                      <br>
+                      <b>9. Test Your Luck</b><br>
+                      If a certain item for example a 92e armor will sell for 50m normally but will sell for 150m with 3dr, you could try to enchant it to test your luck. Weapons are typically easier to enchant due to the different stats you could potentially go for such as racial mods. In servers where the enchantment chip prices are low, it is less risky.<br>
+                      <br>
+                      <b>10. Tiburon Game</b><br>
+                      With chips worth exponentially higher at the next tier such as 88-92 and 96-100 you could make a profit gambling them with Tiburon. Since 88 will degrade to 84 and 96 will degrade to 92, you will lose the least amount of profit if a gamble goes wrong. Of course it depends on the market prices. But remember, it is possible to completely loose the chips, be sure to look up a Tiburon game faq or guide, as this will help you avoid loosing precious chips.<br>
+                      <br>
+                      <b>11. Team Arena</b><br>
+                      Every clan should usually have a Team Arena running daily which is typically done with one side winning as fast as possible with the other side losing as fast as possible.<br>
+                      <br>
+                      <b>12. Poison Yard</b><br>
+                      Farming for rough ores which are then made into High Quality Sockets. This should be done at higher levels.<br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png?v=20111214172750</span> <a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=New+Vis+Making+Guide" src="http://image.wikifoundry.com/image/1/xAvvEMDjta_wo7reusaeCQ111671/GW050" class="imageSm" alt="bunkerz"></a><br>
+                        <a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&from=pageLastUpdateLink" class="WPC-action" onclick="return false">bunkerz</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=New+Vis+Making+Guide"><a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&subject=New+Vis+Making+Guide&from=lastPageUpdate&pageName=New+Vis+Making+Guide" class="WPC-action" onclick="return false">bunkerz</a></span> , <span id="WPC-lastRevisionDate?cellId=New+Vis+Making+Guide">Sep 28 2011, 7:32 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/bunkerz"><img src="http://image.wikifoundry.com/image/1/xAvvEMDjta_wo7reusaeCQ111671/GW050" class="imageSm" alt="bunkerz"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/bunkerz">bunkerz</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">37 words added</span><br>
+                        <span class="nowrap">35 words deleted</span><br></span><br>
+                        <a href="/page/New+Vis+Making+Guide/diff/19,20" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/New+Vis+Making+Guide/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/money" title="money" class="pageTag">money</a> <a href="/tag/vis" title="vis" class="pageTag">vis</a></span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/New+Vis+Making+Guide/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FNew%2BVis%2BMaking%2BGuide&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/New+Vis+Making+Guide/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?parentNodeId=contentThreadList" href="#toggle"></a></th>
+                          <th>Started&nbsp;By</th>
+                          <th width="16"></th>
+                          <th>Thread Subject</th>
+                          <th>Replies</th>
+                          <th class="farRightCell">Last Post</th>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                          <td><a href="/account/revivals" id="WPC-action_accountMenu?account=revivals&subject=Vis&from=threadAccount4713838&threadId=4713838" class="WPC-action" onclick="return false">revivals</a></td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/4713838/Vis"><b>Vis</b></a></td>
+                          <td align="center">0</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Aug 20 2011, 10:13 AM EDT</span> by <a href="/account/revivals" id="WPC-action_accountMenu?account=revivals&subject=Vis&from=threadFirstAccount4713838&threadId=4713838" class="WPC-action" onclick="return false">revivals</a></td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA1" style="">
+                              <a href="/account/revivals" id="WPC-action_accountMenu?account=revivals&subject=Vis&from=threadImg4713838&threadId=4713838" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wikifoundry.com/image/1/nsY8GpbYWFUV3TvX5ZKtyw93796/GW090" alt="revivals"></a>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB1">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Aug 20 2011, 10:13 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=4713838&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                actually vis could be made with other forms of luck, like exchanging rough stones and exchanging lower grade rumins for higher grade ones. getting those rare rumins could sell for a pretty penny (:<br>
+                                <br>
+                                daily instance : Joaquin Barrier Siege;<br>
+                                Drops : lv92/96 chips. mega talt<br>
+                                Roulette : e92 equips . Elemental Jewel, 3x lv92/96/100 chips . lv100 equips .<br>
+                                <br>
+                                Selling Starters, as Circus and Team Arena have a minimum member entrance, one can "sell" their entrance slot for Vis .<br>
+                                <br>
+                                AFK places: Via Fluval, Albertal, Deprimida Valley.<br>
+                                Loots : Rare Books of Combat/Magic/Shooting . pretty penny too .<br>
+                                --------<br>
+                                Torsche Mansion; Loots : Shiny Crystal, Strange stuff(Alchemy lv2), Otite Pieces (used for Torsche Basement, highly purchased side item) .
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4713838&post=40226516"><span id="agreeCount?thread=4713838&post=40226516">9</span> &nbsp;out of <span id="totalCount?thread=4713838&post=40226516">11</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4713838&post=40226516" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4713838&post=40226516">Do you? <a id="WPC-action_rateThread?thread=4713838&post=40226516&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4713838&post=40226516&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/money" title="money" class="pageTag">money</a> <a href="/tag/vis" title="vis" class="pageTag">vis</a></span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread1" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="altRow">
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle"></a></td>
+                          <td><a href="/account/Ainuayan" id="WPC-action_accountMenu?account=Ainuayan&subject=Vis&from=threadAccount4706538&threadId=4706538" class="WPC-action" onclick="return false">Ainuayan</a></td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/4706538/Vis"><b>Vis</b></a></td>
+                          <td align="center">1</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Aug 15 2011, 9:21 AM EDT</span> by <a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&subject=Vis&from=threadFirstAccount4706538&threadId=4706538" class="WPC-action" onclick="return false">bunkerz</a></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA2" style="">
+                              <a href="/account/Ainuayan" id="WPC-action_accountMenu?account=Ainuayan&subject=Vis&from=threadImg4706538&threadId=4706538" class="WPC-action" onclick="return false"></a>
+                              <div title="no profile image available" class="avatarMissing">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB2">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Aug 13 2011, 7:44 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=4706538&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                Hey there, thx for making this guide, but I think that the 1st one can&#39;t be used anymore :(<br>
+                                <br>
+                                Bellem Boxes were removed from the shops and they&#39;re now only dropped by huge raids or so.<br>
+                                <br>
+                                If it&#39;s not correct, where can the boxes be bought now?<br>
+                                <br>
+                                thx again for your guides!
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4706538&post=40113476"><span id="agreeCount?thread=4706538&post=40113476">0</span> &nbsp;out of <span id="totalCount?thread=4706538&post=40113476">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4706538&post=40113476" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4706538&post=40113476">Do you? <a id="WPC-action_rateThread?thread=4706538&post=40113476&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4706538&post=40113476&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/money" title="money" class="pageTag">money</a> <a href="/tag/vis" title="vis" class="pageTag">vis</a></span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread2" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div><a href="#lastReply" onclick="document.getElementById('threadLastReply4706538').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                                <div style="margin-top:10px;">
+                                  <div id="threadLastReply4706538" style="display:none;padding-top:10px;">
+                                    <table>
+                                      <tr>
+                                        <td><a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&subject=Vis&from=threadImg4706538&threadId=4706538" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wikifoundry.com/image/1/xAvvEMDjta_wo7reusaeCQ111671/GW090" alt="bunkerz"></a></td>
+                                        <td width="100%">
+                                          <b>Last Reply:</b><br>
+                                          <a href="/thread/4706538/Vis?offset=0#post40139695"><b>RE: Vis</b></a><br>
+                                          <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&subject=Vis&from=threadFirstAccount4706538&threadId=4706538" class="WPC-action" onclick="return false">bunkerz</a>, Aug 15 2011, 9:21 AM EDT</span>
+                                          <div style="margin-top:10px;">
+                                            Yeah this page needs to be updated again =)<br>
+                                            As you said, Bellem Boxes are no longer available... which is sad for a lot of people :(
+                                          </div>
+                                          <div style="margin-top:10px;">
+                                            <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4706538&post=40139695"><span id="agreeCount?thread=4706538&post=40139695">0</span> &nbsp;out of <span id="totalCount?thread=4706538&post=40139695">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4706538&post=40139695" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4706538&post=40139695">Do you? <a id="WPC-action_rateThread?thread=4706538&post=40139695&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4706538&post=40139695&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="http://static.wikifoundry.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      Showing 2 of 2 threads for this page
+                    </div><span id="threadCounter" title="3" style="display:none"></span>
+                  </div>
+                  <div id="relatedContent" class="pageSection">
+                    <div class="pageSectionHeader">
+                      <div class="pageSectionHeaderContainer">
+                        <h4>Related Content</h4>&nbsp; (<span class="WPC-tooltip-trigger"><a href="#tooltip" tabindex="-1" onclick="return false">what's this?</a><span class="WPC-tooltip-title">Related Content</span><span class="WPC-tooltip-content">Thanks to keyword tags, links to related pages and threads are added to the bottom of your pages. Up to 15 links are shown, determined by matching tags and by how recently the content was updated; keeping the most current at the top. Share your feedback on WikiFoundry Central.</span></span>)
+                      </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="tableList">
+                      <table style="border-bottom:0px;">
+                        <tr class="altRow">
+                          <td width="33%"><a href="/thread/4713838/Vis" class="WPC-tool WPC-tool-thread WPC-indicate">Vis</a></td>
+                          <td width="33%"><a href="/thread/4706538/Vis" class="WPC-tool WPC-tool-thread WPC-indicate">Vis</a></td>
+                          <td width="33%"><a href="/page/Items+%26+Equipment" class="WPC-tool WPC-tool-content WPC-indicate">Items &amp; Equipment</a></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><a href="/page/Cash+Shop+Items" class="WPC-tool WPC-tool-content WPC-indicate">Cash Shop Items</a></td>
+                          <td width="33%"></td>
+                          <td width="33%"></td>
+                        </tr>
+                      </table><br>
+                    </div>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="9">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="118">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="6">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li>
+                                <a href="/page/Instruction+Manual" rel="4">Instruction Manual</a>
+                                <ul>
+                                  <li><a href="/page/Command+Shortcut+List">Command Shortcut List</a></li>
+                                  <li><a href="/page/Terminology">Terminology</a></li>
+                                  <li>
+                                    <a href="/page/Hints+%2F+Tips" rel="5">Hints / Tips</a>
+                                    <ul>
+                                      <li><a href="/page/Power+Leveling">Power Leveling</a></li>
+                                      <li><a href="/page/The+Vis+Making+Guide">The Vis Making Guide</a></li>
+                                      <li><a href="/page/New+Vis+Making+Guide" class="current">New Vis Making Guide</a></li>
+                                      <li><a href="/page/Active+Character+Leveling+with+Trinity+3+and+Jack%2FAngie">Active Character Leveling with Trinity 3 and Jack/Angie</a></li>
+                                      <li><a href="/page/Private+Store">Private Store</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="/page/Machinima+Guide+%28Make+a+SoTnW+movie%21%29">Machinima Guide (Make a SoTnW movie!)</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

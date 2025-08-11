@@ -1,0 +1,731 @@
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/core/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20091020133753" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+
+                
+                var adChannelPrefix = "Games_";
+                                
+                        adChannelPrefix = adChannelPrefix + "OtherPage_";
+                wp_ads.noAdSense = '';
+                wp_ads.top = adChannelPrefix + '728Top1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+                wp_ads.topPromo = adChannelPrefix + '237Top2' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.inContent = adChannelPrefix + '300Frame1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = adChannelPrefix + '728Bottom1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = adChannelPrefix + '160Left1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Search");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Flagged","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/news">News</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span><a href="/droplets">Droplets</a></span></li>
+            <li class=""><span><a href="/accountSearch/all">Members</a></span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png" class="signup-button" /></div>
+            </div>
+          </div><br class="clear" />
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            //]]>
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            //]]>
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything" /><label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="devil" onfocus="if( this.value == 'devil' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                    </form>
+                  </div><br />
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">All</li>
+                      <li><a href="/search/pages/devil">Pages</a></li>
+                      <li><a href="/search/threads/devil">Threads</a></li>
+                      <li><a href="/search/photos/devil">Photos</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction"></span>
+                                <form name="paginationForm" action="http://swordofthenewworldwiki.com/search/everything/;jsessionid=F3665EF0D33A06CC7D85C689F4F82383" method="get" id="paginationForm">
+                                  <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;28 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                    <option value="10">
+                                      10
+                                    </option>
+                                    <option value="20" selected="selected">
+                                      20
+                                    </option>
+                                    <option value="50">
+                                      50
+                                    </option>
+                                  </select> items&nbsp;at a time</span>
+                                </form>
+                              </div>
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a> | <a href="?offset=20&maxResults=20">Next</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/photo/3409864/Dust+Devil" class="WPC-tool WPC-tool-photo" title="Dust Devil"><img class="imageSm floatRight" src="http://image.wetpaint.com/image/1/0csthisQTgt_ErL84LXpMg6217/GW073" alt="" />Dust Devil</a></span> <span class="resultContent">Icon</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Dust+Devil" title="Dust Devil">Dust Devil&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Jan 3 2009, 3:33 PM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Dust+Devil&from=status&pageName=Dust+Devil" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=&subject=Dust+Devil&from=status&pageName=Dust+Devil"></a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Levels+21+-+30" class="WPC-tool WPC-tool-content WPC-indicate">Levels 21 - 30</a></span> <span class="resultContent">Classification Devil / Soft Armor / Small. Maximum Constitution 201 ATK Rating 11 ATK 117 DEF Rating 11 DEF 25 Attribute No Attribute</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Monsters" title="Monsters">Monsters</a> &gt; <a href="/page/Levels+21+-+30" title="Levels 21 - 30">Levels 21 - 30</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 7 2008, 1:22 AM EDT by <a href="/account/Shiroishi" id="WPC-action_accountMenu?account=Shiroishi&subject=Levels+21+-+30&pageName=Levels+21+-+30" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Shiroishi&subject=Levels+21+-+30&pageName=Levels+21+-+30">Shiroishi</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/The+Tetra+Ruins%2C+Grand+Corridor" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins, Grand Corridor</a></span> <span class="resultContent">: Name: Phobitan Warrior Classification: Devil Armor: Soft Element: No Attribute Size: Small</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)">The Tetra Ruins (Dungeon)</a> &gt; <a href="/page/The+Tetra+Ruins%2C+Grand+Corridor" title="The Tetra Ruins, Grand Corridor">The Tetra Ruins, Grand Corridor</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 9 2009, 1:13 PM EDT by <a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=The+Tetra+Ruins%2C+Grand+Corridor&pageName=The+Tetra+Ruins%2C+Grand+Corridor" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=The+Tetra+Ruins%2C+Grand+Corridor&pageName=The+Tetra+Ruins%2C+Grand+Corridor">whodisnoob</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/The+Tetra+Ruins%2C+Golden+Road" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins, Golden Road</a></span> <span class="resultContent">required Creature List: Name: Visage Noir Classification: Devil Armor: Soft Armor Element</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)">The Tetra Ruins (Dungeon)</a> &gt; <a href="/page/The+Tetra+Ruins%2C+Golden+Road" title="The Tetra Ruins, Golden Road">The Tetra Ruins, Golden Road</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 9 2009, 5:02 PM EDT by <a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=The+Tetra+Ruins%2C+Golden+Road&pageName=The+Tetra+Ruins%2C+Golden+Road" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=The+Tetra+Ruins%2C+Golden+Road&pageName=The+Tetra+Ruins%2C+Golden+Road">whodisnoob</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Tetra+Hill" class="WPC-tool WPC-tool-content WPC-indicate">Tetra Hill</a></span> <span class="resultContent">Daemon - 200 kills Phobitan Chieftain - 10 kills Creature List: Name: Lazim-lam Classification: Devil Armor: Soft</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Tetra+Hill" title="Tetra Hill">Tetra Hill</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: May 8 2008, 5:02 PM EDT by <a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Tetra+Hill&pageName=Tetra+Hill" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Tetra+Hill&pageName=Tetra+Hill">pycajika</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Levels+31+-+40" class="WPC-tool WPC-tool-content WPC-indicate">Levels 31 - 40</a></span> <span class="resultContent">Navare Found in: Tetra Ruins Golden Road Level: 31 Classification: Devil / Soft Armor / No Attribute / Medium Maximum Constitution: 322</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Monsters" title="Monsters">Monsters</a> &gt; <a href="/page/Levels+31+-+40" title="Levels 31 - 40">Levels 31 - 40</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 11 2008, 8:14 AM EDT by <a href="/account/Quilesca" id="WPC-action_accountMenu?account=Quilesca&subject=Levels+31+-+40&pageName=Levels+31+-+40" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Quilesca&subject=Levels+31+-+40&pageName=Levels+31+-+40">Quilesca</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/The+Tetra+Ruins%2C+Catacombs" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins, Catacombs</a></span> <span class="resultContent">-repeatable)250 kills, 29+ lvl required Creature List: Name: (Elite) Nevare Classification: Devil Armor: Soft Armor</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)">The Tetra Ruins (Dungeon)</a> &gt; <a href="/page/The+Tetra+Ruins%2C+Catacombs" title="The Tetra Ruins, Catacombs">The Tetra Ruins, Catacombs</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 4 2009, 12:06 AM EDT by <a href="/account/nutnub" id="WPC-action_accountMenu?account=nutnub&subject=The+Tetra+Ruins%2C+Catacombs&pageName=The+Tetra+Ruins%2C+Catacombs" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=nutnub&subject=The+Tetra+Ruins%2C+Catacombs&pageName=The+Tetra+Ruins%2C+Catacombs">nutnub</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/The+Tetra+Ruins%2C+Antiquities+Chamber" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins, Antiquities Chamber</a></span> <span class="resultContent">: Dungeon Boss! Summons Treasure Phobitans. Name: (Elite) Visage Rouge Classification: Devil Armor: Soft Armor</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)">The Tetra Ruins (Dungeon)</a> &gt; <a href="/page/The+Tetra+Ruins%2C+Antiquities+Chamber" title="The Tetra Ruins, Antiquities Chamber">The Tetra Ruins, Antiquities Chamber</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Aug 10 2008, 8:48 PM EDT by <a href="/account/Iberison" id="WPC-action_accountMenu?account=Iberison&subject=The+Tetra+Ruins%2C+Antiquities+Chamber&pageName=The+Tetra+Ruins%2C+Antiquities+Chamber" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Iberison&subject=The+Tetra+Ruins%2C+Antiquities+Chamber&pageName=The+Tetra+Ruins%2C+Antiquities+Chamber">Iberison</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Premium+Mystery+Boxes" class="WPC-tool WPC-tool-content WPC-indicate">Premium Mystery Boxes</a></span> <span class="resultContent">Blanc Costume Misc Cash Shop Items -10x Polish: Veteran -1x Lucifer Wings 30 days -1x Devil Wings 30 days -1x Diablo Horn 30 days -1x +6 General</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Premium+Mystery+Boxes" title="Premium Mystery Boxes">Premium Mystery Boxes</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Feb 25 2009, 3:14 PM EST by <a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Premium+Mystery+Boxes&pageName=Premium+Mystery+Boxes" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Premium+Mystery+Boxes&pageName=Premium+Mystery+Boxes">Reuper</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Long+Sword" class="WPC-tool WPC-tool-content WPC-indicate">Long Sword</a></span> <span class="resultContent">Wien 76 160 The lyon plain. Toe char chamber. Lake Devil valley. Old coin brassiere port Attack power +5</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Weapons" title="Weapons">Weapons</a> &gt; <a href="/page/Swords" title="Swords">Swords</a> &gt; <a href="/page/Long+Sword" title="Long Sword">Long Sword</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/long+sword" title="long sword">long sword&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Aug 5 2007, 10:24 AM EDT by <a href="/account/kaply" id="WPC-action_accountMenu?account=kaply&subject=Long+Sword&pageName=Long+Sword" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=kaply&subject=Long+Sword&pageName=Long+Sword">kaply</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" class="WPC-tool WPC-tool-content WPC-indicate">Ice Wizard&#039;s Tower (Gate)</a></span> <span class="resultContent">seal 4 “Snowfield Finisher” in order to access 3F entrance. How then do you seal “Snowfield Finisher”? Simply kill them. Caption: Lv 118; Devil</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" title="Ice Wizard&#039;s Tower (Gate)">Ice Wizard&#039;s Tower (Gate)</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Nov 7 2008, 11:21 AM EST by <a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Ice+Wizard%27s+Tower+%28Gate%29&pageName=Ice+Wizard%27s+Tower+%28Gate%29" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=WeazerDevil&subject=Ice+Wizard%27s+Tower+%28Gate%29&pageName=Ice+Wizard%27s+Tower+%28Gate%29">WeazerDevil</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Hack+and+Slash" class="WPC-tool WPC-tool-content WPC-indicate">Hack and Slash</a></span> <span class="resultContent">% level 12 : ATK 983% Knockback 4m Dust Devil 8 200, HP 40 NA Kicks up a vicious dust storm that envelops</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Jobs%2FClasses" title="Jobs/Classes">Jobs/Classes</a> &gt; <a href="/page/Fighter" title="Fighter">Fighter</a> &gt; <a href="/page/Fighter+Stances+and+Skills" title="Fighter Stances and Skills">Fighter Stances and Skills</a> &gt; <a href="/page/Hack+and+Slash" title="Hack and Slash">Hack and Slash</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 3 2009, 4:41 PM EST by <a href="/account/Gorlen" id="WPC-action_accountMenu?account=Gorlen&subject=Hack+and+Slash&pageName=Hack+and+Slash" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Gorlen&subject=Hack+and+Slash&pageName=Hack+and+Slash">Gorlen</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Lago+Celeste" class="WPC-tool WPC-tool-content WPC-indicate">Lago Celeste</a></span> <span class="resultContent">: Devil Armor: Soft Armor Element: No Attribute Size: Medium Level: 85 Max HP: 1855 ATK</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Lago+Celeste" title="Lago Celeste">Lago Celeste</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Nov 14 2008, 2:10 PM EST by <a href="/account/Halbbitter" id="WPC-action_accountMenu?account=Halbbitter&subject=Lago+Celeste&pageName=Lago+Celeste" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Halbbitter&subject=Lago+Celeste&pageName=Lago+Celeste">Halbbitter</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Back" class="WPC-tool WPC-tool-content WPC-indicate">Back</a></span> <span class="resultContent">Last for 30 Days Golden Archangel Wings ? Devil Wing DEF Rating+1 DEF+10 Max HP+1500 All</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Costumes" title="Costumes">Costumes</a> &gt; <a href="/page/Back" title="Back">Back</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Nov 17 2008, 12:13 PM EST by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Back&pageName=Back" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Back&pageName=Back">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Rio+Albi" class="WPC-tool WPC-tool-content WPC-indicate">Rio Albi</a></span> <span class="resultContent">&gt; - &lt;amount needed&gt; kills Creature List : Name: Spotty Phobitan Imp Classification: Devil Armor: Soft Armor</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/Rio+Albi" title="Rio Albi">Rio Albi</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Oct 13 2009, 2:36 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Rio+Albi&pageName=Rio+Albi" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Rosengarde&subject=Rio+Albi&pageName=Rio+Albi">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Diablo" class="WPC-tool WPC-tool-content WPC-indicate">Diablo</a></span> <span class="resultContent">: Diablo is probably the second Raid boss that any clan will attempt. Diablo is Spanish for &#034;Devil&#034; so you should be prepared for a good fight if your</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Diablo" title="Diablo">Diablo</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Oct 15 2008, 7:30 AM EDT by <a href="/account/Edyn" id="WPC-action_accountMenu?account=Edyn&subject=Diablo&pageName=Diablo" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Edyn&subject=Diablo&pageName=Diablo">Edyn</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/The+Tetra+Ruins" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins</a></span> <span class="resultContent">and possibly other loot. Name: Phobitan Imp warrior leader Classification: Devil Armor: Soft Element</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)">The Tetra Ruins (Dungeon)</a> &gt; <a href="/page/The+Tetra+Ruins" title="The Tetra Ruins">The Tetra Ruins</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 9 2009, 1:02 PM EDT by <a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=The+Tetra+Ruins&pageName=The+Tetra+Ruins" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=The+Tetra+Ruins&pageName=The+Tetra+Ruins">whodisnoob</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Premium+Treasure+Chest+Service" class="WPC-tool WPC-tool-content WPC-indicate">Premium Treasure Chest Service</a></span> <span class="resultContent">) Devil&#039;s Horns x1 (Permanent) Pheonix Wings(30 days) x 1 Horns of Bahomet(30 days) x 1 Lucifer&#039;s Wings(7days) x 1 Devil&#039;s Wings(7days) x 1 Wheel</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Premium+Treasure+Chest+Service" title="Premium Treasure Chest Service">Premium Treasure Chest Service</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 30 2009, 3:06 AM EDT by <a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Premium+Treasure+Chest+Service&pageName=Premium+Treasure+Chest+Service" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Seksiboi&subject=Premium+Treasure+Chest+Service&pageName=Premium+Treasure+Chest+Service">Seksiboi</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Quests+-+Level+100+-+Veteran" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 100 - Veteran</a></span> <span class="resultContent">and talk to the Investigator to finish quest Berry of the Devil NPC:Toubkal Plateu Investigator , Abertal (D8) Reward: 3x Polish: Veteran</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Quests+-+Level+100+-+Veteran" title="Quests - Level 100 - Veteran">Quests - Level 100 - Veteran</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 17 2009, 7:39 PM EDT by <a href="/account/Iberison" id="WPC-action_accountMenu?account=Iberison&subject=Quests+-+Level+100+-+Veteran&pageName=Quests+-+Level+100+-+Veteran" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Iberison&subject=Quests+-+Level+100+-+Veteran&pageName=Quests+-+Level+100+-+Veteran">Iberison</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/King%27s+Garden" class="WPC-tool WPC-tool-content WPC-indicate">King&#039;s Garden</a></span> <span class="resultContent">Classification: Devil Armor: Soft Element: No Attribute Size: Small Level: 22</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Zones" title="Zones">Zones</a> &gt; <a href="/page/King%27s+Garden" title="King&#039;s Garden">King&#039;s Garden</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 21 2009, 5:40 PM EDT by <a href="/account/nutnub" id="WPC-action_accountMenu?account=nutnub&subject=King%27s+Garden&pageName=King%27s+Garden" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=nutnub&subject=King%27s+Garden&pageName=King%27s+Garden">nutnub</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a> | <a href="?offset=20&maxResults=20">Next</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top Wetpaint Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="devil" />
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br />
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br />
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="5">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="9">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li><a href="/page/Quests" rel="46">Quests</a></li>
+                              <li><a href="/page/Raids" rel="16">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink" name="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              //<![CDATA[
+              wetpaintLoad('scroller');
+              //]]>
+              </script>
+              <div class="ads adsleft">
+                <br />
+                <br />
+                <div id="googleAdUnitIframe_left"></div>
+                <script type="text/javascript">
+                //<![CDATA[
+                                
+                                var googleAdIframeTable = [ ['googleAdUnitIframe_left', 3]];
+                                var googleAdClient = "pub-5526064907005908"; 
+                                var googleAdChannel = "1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009";
+                                var googleAdSearchQueryString = "contains"; 
+                                var googleAdFrameborder = '0'; 
+                                google_color_border = "FFFFFF";
+                google_color_bg = "FFFFFF";
+                google_color_text = "666666";
+
+                                var googleAdColorBg = google_color_bg; 
+                                var googleAdColorText = google_color_text;
+                                
+                                var googleAdColorDiv = google_color_bg; 
+                                var googleAdColorLink = google_color_text; 
+                                var googleAdColorVLink = google_color_text; 
+                                var googleAdColorALink = google_color_text; 
+                                var googleAdColorAltText = google_color_text; // The following parameter is optional:
+                //]]>
+                </script> 
+                <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Last Chaos DE Guide</span></li>
+              <li><span>Last Chaos - Guides &amp; Information</span></li>
+              <li><span>Official Bones Wiki</span></li>
+              <li><span>Free Rider</span></li>
+              <li><span><a href="/">Wiki of the New World</a>.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events="event2,event1";s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b14';s_w.channel='search';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.prop8=(Math.round(409/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : 'Wetpaint'
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        WPC.Logger.ComscoreData = { c1 : 2, c3 : 20007 }
+        WPC.Logger.LogToComscore();
+  //]]>
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    //]]>
+    </script>
+  </div>
+  <script src="http://static.wetpaint.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

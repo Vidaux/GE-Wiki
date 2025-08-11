@@ -1,0 +1,409 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/family/f.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/core/c.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/print/p.css?20111214172750"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything"> <label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="Hanging Guard" onfocus="if( this.value == 'Hanging Guard' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+                    </form>
+                  </div><br>
+                  <center>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="2722031972"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                    </script>
+                  </center>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction">Showing&nbsp;8&nbsp;items</span>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/5212219/Claire+Recruitment+Quest" class="WPC-tool WPC-tool-thread WPC-indicate">Claire Recruitment Quest</a></span> <span class="resultContent">the Elemental Jewel in this quest is change into Platinum Bar</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Claire" class="WPC-tool WPC-tool-content">Claire</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Cannon+user" title="Cannon user">Cannon user,&nbsp;</a> <a href="/tag/claire" title="claire">claire,&nbsp;</a> <a href="/tag/Great+Sword+user" title="Great Sword user">Great Sword user,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Dec 8 2014, 10:03 PM EST by <a href="/account/TatasFachrul" id="WPC-action_accountMenu?account=TatasFachrul&subject=Claire+Recruitment+Quest&from=threadFirstPost5212219&threadId=5212219" class="WPC-action" onclick="return false">TatasFachrul</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/4725922/IMO%2C+Claire+should+get+new+stances" class="WPC-tool WPC-tool-thread WPC-indicate">IMO, Claire should get new stances</a></span> <span class="resultContent">Claire is probably one of the most underrated UPCs to own in the game. Let alone, looked upon more as a trophy UPC to have in your collection (if you like collecting UPCs that is). I think Claire should have another stance or two added to her list of current stances she has and allow her to use at sword weapons as well. At that point, I think people who truly play the game will appreciate having her more.</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Claire" class="WPC-tool WPC-tool-content">Claire</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Cannon+user" title="Cannon user">Cannon user,&nbsp;</a> <a href="/tag/claire" title="claire">claire,&nbsp;</a> <a href="/tag/Great+Sword+user" title="Great Sword user">Great Sword user,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Sep 1 2011, 11:17 AM EDT by <a href="/account/TristanX" id="WPC-action_accountMenu?account=TristanX&subject=IMO%2C+Claire+should+get+new+stances&from=threadFirstPost4725922&threadId=4725922" class="WPC-action" onclick="return false">TristanX</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4542796/Actual+Hunting+quest%2C+not+a+very+rare+drop" class="WPC-tool WPC-tool-thread WPC-indicate">Actual Hunting quest, not a very rare drop</a></span> <span class="resultContent">GamerFirst gived us a higher chance to get the Unknown Stones on the quest Actual Hunting, so it&#39;s not hard, I did it yesterday in 1-2 hours!<br>
+                                  But of course, if you just keep killing Elite Lightning Cockatrices on defend mode, you will be there for more than 15 days as usual, jsut keep swtching between the channels, and walking for all the map killing Elite Lightning Cockatrices, it will take you only 1-2 hours to get that two items :)<br>
+                                  Good luck! :D</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Claire" class="WPC-tool WPC-tool-content">Claire</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Cannon+user" title="Cannon user">Cannon user,&nbsp;</a> <a href="/tag/claire" title="claire">claire,&nbsp;</a> <a href="/tag/Great+Sword+user" title="Great Sword user">Great Sword user,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Apr 5 2011, 11:14 PM EDT by <a href="/account/CiiC3508" id="WPC-action_accountMenu?account=CiiC3508&subject=Actual+Hunting+quest%2C+not+a+very+rare+drop&from=threadFirstPost4542796&threadId=4542796" class="WPC-action" onclick="return false">CiiC3508</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/4109161/Unlock+the+pages..." class="WPC-tool WPC-tool-thread WPC-indicate">Unlock the pages...</a></span> <span class="resultContent">Its very boring when u want to add some new good things to the page and its locked... I would like to get a answer pls</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Claire" class="WPC-tool WPC-tool-content">Claire</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Cannon+user" title="Cannon user">Cannon user,&nbsp;</a> <a href="/tag/claire" title="claire">claire,&nbsp;</a> <a href="/tag/Great+Sword+user" title="Great Sword user">Great Sword user,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Jul 26 2010, 6:10 AM EDT by <a href="/account/Staphylococcus" id="WPC-action_accountMenu?account=Staphylococcus&subject=Unlock+the+pages...&from=threadFirstPost4109161&threadId=4109161" class="WPC-action" onclick="return false">Staphylococcus</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4047191/%27Very+Rare+Drop%27" class="WPC-tool WPC-tool-thread WPC-indicate">&#039;Very Rare Drop&#039;</a></span> <span class="resultContent">I&#39;m stuck at this quest since 2 days ago, i&#39;m like 8 hours / day looking for those Unknown Ore, is there any bug in this quest ? I&#39;ve killed dozens of those Elite Lightning Cockatrice and don&#39;t even got 1/2 !</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Claire" class="WPC-tool WPC-tool-content">Claire</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Cannon+user" title="Cannon user">Cannon user,&nbsp;</a> <a href="/tag/claire" title="claire">claire,&nbsp;</a> <a href="/tag/Great+Sword+user" title="Great Sword user">Great Sword user,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Jul 1 2010, 4:44 PM EDT by Anonymous</span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Tiburon" class="WPC-tool WPC-tool-content WPC-indicate">Tiburon</a></span> <span class="resultContent">----------------------------------------------------------------------------------------------------------------------------------------- When you want to use his Sabre stances, you must drag the main gauche to the weapon slot; double clicking won</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Tiburon" title="Tiburon">Tiburon</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Auch" title="Auch">Auch,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/Main+Gauche+user" title="Main Gauche user">Main Gauche user,&nbsp;</a> <a href="/tag/Recruitment+quest" title="Recruitment quest">Recruitment quest,&nbsp;</a> <a href="/tag/Sword+user" title="Sword user">Sword user,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 8 2013, 3:58 PM EST by <a href="/account/asuka245" id="WPC-action_accountMenu?account=asuka245&subject=Tiburon&pageName=Tiburon" class="WPC-action" onclick="return false">asuka245</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Grenmah" class="WPC-tool WPC-tool-content WPC-indicate">Grenmah</a></span> <span class="resultContent">----------------------------------------------------------------------------------------------------------------------------------------- With the highest CON in the game , the ability to wear Metal armor, and one of the hardest-hitting PvP sta</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Grenmah" title="Grenmah">Grenmah</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Grandice" title="Grandice">Grandice,&nbsp;</a> <a href="/tag/Grandma" title="Grandma">Grandma,&nbsp;</a> <a href="/tag/Greatsword+user" title="Greatsword user">Greatsword user,&nbsp;</a> <a href="/tag/Grenmah" title="Grenmah">Grenmah,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 8 2013, 4:10 PM EST by <a href="/account/asuka245" id="WPC-action_accountMenu?account=asuka245&subject=Grenmah&pageName=Grenmah" class="WPC-action" onclick="return false">asuka245</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Claire" class="WPC-tool WPC-tool-content WPC-indicate">Claire</a></span> <span class="resultContent">----------------------------------------------------------------------------------------------------------------------------------------- Claire is the step-daughter of Claude Baudez and you will need Claude to recruit her. Unlike Jose, she is a</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Claire" title="Claire">Claire</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Cannon+user" title="Cannon user">Cannon user,&nbsp;</a> <a href="/tag/claire" title="claire">claire,&nbsp;</a> <a href="/tag/Great+Sword+user" title="Great Sword user">Great Sword user,&nbsp;</a> <a href="/tag/Hanging+Guard" title="Hanging Guard">Hanging Guard,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 9 2016, 4:48 AM EDT by <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&subject=Claire&pageName=Claire" class="WPC-action" onclick="return false">Leucesios-kun</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;"></div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top wikis by WikiFoundry Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="Hanging Guard">
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> 
+  <script src="http://static.wikifoundry.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,514 @@
+<html>
+<head>
+  <title>Special Items location guide - Page History - Wiki of the new world</title>
+  <meta name="description" content="Wiki of the new world" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css?20080124092559" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css?20080124092559" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css?20080124092559" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css?20080124092559"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+        //<![CDATA[
+                var inits = {"BUILD_DATE" : '20080124092559',"WIKI_NAME" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the new world',"WIKI_PPA_URL" : '',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Special Items location guide',"PAGE_URI" : '/page/Special+Items+location+guide',"PAGE_VERSION" : '5',"PAGE_LATEST_VERSION" : '5',"UX" : 'wp',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"ACCOUNT_NAME" : '',"ACTION" : '',"IS_CONTENT_LOCKED" : true,"SAVE_PATH" : '/page/Special+Items+location+guide',"SAVE_TYPE" : 'page',"DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"BREADCRUMBS" : ['Wiki Of The New World','Guides','Special Items location guide']};
+        //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js?v=20080124092559" type="text/javascript"></script>
+</head>
+<body>
+  <script language="JavaScript">
+  <![CDATA[
+
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdSense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  ]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        wp_ads.noAdSense = '';
+        if( ( ( (self.innerWidth) ? self.innerWidth : document.body.parentNode.clientWidth ) - 470 ) > 728 ){
+                wp_ads.center = 'Center_728x90' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.center);
+                GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_ad_channel","3000000144,3000000109,3000000172,3000000029");
+        } else {
+                wp_ads.center = 'Center_468x60' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.center);
+                GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_ad_channel","3000000144,3000000085,3000000171,3000000008");
+        }
+        wp_ads.left = 'Left_160x600' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+        wp_ads.right = 'Right_160x600' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.right);
+        GA_googleAddAdSenseSlotAttr(wp_ads.right, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("UX","Wetpaint");
+        GA_googleAddAttr("WikiName","sotnw");
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+
+        
+        GA_googleFetchAds();
+  ]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Wiki</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;" name="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li style="float:none; clear:both"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/1/ywnfECjxV_-a2O_NxK-_LQ26973" alt="Wiki of the new world" title="Wiki of the new world" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <table>
+                  <tr>
+                    <td class="firstInnerCell">
+                      <div id="contentTitle">
+                        <h1><a href="/page/Special+Items+location+guide">Special Items location guide</a> |</h1>
+                        <h2>Version Compare</h2>
+                        <p><a href="/page/Special+Items+location+guide/history">Back to page history</a></p>
+                      </div>
+                    </td>
+                    <td class="secondInnerCell">
+                      <div class="innerColumn">
+                        <div id="userToolbox" class="panel join">
+                          <div class="panelContent">
+                            Become a member of the <i>Wiki of the new world</i> community.
+                            <center>
+                              <button id="action_join" class="submit action" style="margin:.5em 0 .5em 0">Join This Wiki</button>
+                            </center>Already a member?&nbsp;<a href="#signin" id="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;" name="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <div id="versionCompareSummary">
+                  <table>
+                    <tr class="header">
+                      <th>Version</th>
+                      <th>User</th>
+                      <th>Scope of changes</th>
+                    </tr>
+                    <tr>
+                      <td><a href="/page/Special+Items+location+guide/revision/5">Dec 28 2007, 12:55 PM EST</a> (current)</td>
+                      <td><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Special+Items+location+guide&from=revisionDiffstatus1&role=Creator&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2Fpjy1XBw5E16VlPV1BO1LpQ6109%2FGW050&pageName=Special+Items+location+guide" class="action" onclick="return false" name="action_accountMenu?account=Lothmak&subject=Special+Items+location+guide&from=revisionDiffstatus1&role=Creator&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2Fpjy1XBw5E16VlPV1BO1LpQ6109%2FGW050&pageName=Special+Items+location+guide">Lothmak</a></td>
+                      <td>2 images added, 2 images deleted</td>
+                    </tr>
+                    <tr class="altRow">
+                      <td><a href="/page/Special+Items+location+guide/revision/4">Dec 28 2007, 12:53 PM EST</a></td>
+                      <td><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Special+Items+location+guide&from=revisionDiffstatus2&role=Creator&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2Fpjy1XBw5E16VlPV1BO1LpQ6109%2FGW050&pageName=Special+Items+location+guide" class="action" onclick="return false" name="action_accountMenu?account=Lothmak&subject=Special+Items+location+guide&from=revisionDiffstatus2&role=Creator&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2Fpjy1XBw5E16VlPV1BO1LpQ6109%2FGW050&pageName=Special+Items+location+guide">Lothmak</a></td>
+                      <td></td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="versionCompareHead">
+                  <h2>Changes</h2>
+                  <div class="revisionsKey">
+                    Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                  </div>
+                </div>
+                <div id="versionCompareContent">
+                  <span class="diffAdd"></span><u><i><b>Lord Of Elements</b></i></u><br />
+                  <br />
+                  Ele Special Bracelet<br />
+                  <br />
+                  Lvl72 LoE<br />
+                  <br />
+                  The Crater Of Joaquin ( Boss - Violent Joaquin Bear )<br />
+                  Prison - Mohgrus ( Demonic Priest )<br />
+                  <br />
+                  Lvl76 , 80 LoE<br />
+                  <br />
+                  Prison - Mohgrus ( Demonic Priest )<br />
+                  <br />
+                  Lvl84 LoE<br />
+                  <br />
+                  El Cannon de Diabolic ( Boss - Violent Ghost Baron )<br />
+                  Prison - Gehanna Bridge ( Priest / Boss - Gerero )<br />
+                  Pradera de Ceniza ( Boss - Diablo )<br />
+                  Prison - Forgotten Territory ( Boss - Forgotten Fallen Champ )<br />
+                  <br />
+                  Lvl100 LoE<br />
+                  <br />
+                  Porto Bello`s Desolate Cliff ( Boss - Vergo )<br />
+                  Prison Raid Room ( Boss - Dr Fran )<br />
+                  <br />
+                  <u><i><b>Controller</b></i></u><br />
+                  Catherine Special Weapon<br />
+                  When +5 - +1 AR , +1 DR to Catherine`s Dolls<br />
+                  <br />
+                  Lvl84 Wooden Controller<br />
+                  <br />
+                  Prison - Gehanna Bridge ( Boss - Gerero )<br />
+                  El Cannon de Diabolic ( All Mobs )<br />
+                  El Tierra Blanco ( All Mobs )<br />
+                  Skullic Dungeon Level 1 ( All Mobs )<br />
+                  Prison - Forgotten Territory ( All Mobs , Zone 3,4 )<br />
+                  Ulstiur Zona Tres ( All Mobs )<br />
+                  Rio Aibi ( Boss - Giant Comodo + All Mobs )<br />
+                  Frozen Plains ( All Mobs )<br />
+                  Topolo Durga ( All Mobs )<br />
+                  Abertal ( All Mobs )<br />
+                  Lago Celeste ( Golden Spider )<br />
+                  Via Fluvial ( Diablo )<br />
+                  <br />
+                  Lvl88 Silver Controller<br />
+                  <br />
+                  Without +5 = +1 AR OR +1 DR<br />
+                  When +5 - +2 AR , +1 DR to Catherine`s Dolls ( depend on base stat )<br />
+                  <br />
+                  Frozen Plains ( All Mobs )<br />
+                  Pradera de Ceniza ( Boss - Diablo )<br />
+                  <br />
+                  <u><i><b>Hammer</b></i></u><br />
+                  When +5 - +1 AR , +1 DR to Jack`s Turrets<br />
+                  <br />
+                  Lvl84 Hammer<br />
+                  <br />
+                  Rio Aibi ( All Mobs )<br />
+                  Ulstiur Zona Tres ( All Mobs )<br />
+                  Skullic Dungeon Level 1 ( All Mobs )<br />
+                  <br />
+                  Lvl 88 Hammer<br />
+                  <br />
+                  Without +5 = +1 AR OR +1 DR<br />
+                  When +5 - +2 AR , +1 DR to Jack`s Turrets ( depend on base stat )<br />
+                  <br />
+                  Via Fluvial ( All Mobs )<br />
+                  Pradera de Ceniza ( All Mobs / Boss - Diablo )<br />
+                  <br />
+                  <u><i><b>Javelin</b></i></u><br />
+                  Fighter Veteran Weapon<br />
+                  <br />
+                  Lvl 84 Javelin<br />
+                  <br />
+                  Deprimida Valley ( All Mobs )<br />
+                  Abertal ( All Mobs )<br />
+                  <br />
+                  Lvl 88 Javelin<br />
+                  <br />
+                  Abertal<br />
+                  Via Fluvial<br />
+                  Deprimida Valley<br />
+                  <br />
+                  Lvl 92 UNIQUE Javelin<br />
+                  <br />
+                  Abertal ( All Mobs )<br />
+                  <br />
+                  <u><i><b>Bayonet</b></i></u><br />
+                  Musketeer Veteran Weapon<br />
+                  <br />
+                  Lvl 84 Bayonet<br />
+                  <br />
+                  Deprimida Valley ( All Mobs )<br />
+                  <br />
+                  Lvl 88 Bayonet<br />
+                  <br />
+                  Abertal<br />
+                  Via Fluvial<br />
+                  Deprimida Valley<br />
+                  <br />
+                  <u><i><b>Blunt Weapon</b></i></u><br />
+                  Fighter Vet Weapon<br />
+                  <br />
+                  Lvl84 Blunt Weapon<br />
+                  <br />
+                  Deprimida Valley ( All Mobs )<br />
+                  <br />
+                  Lvl 88 Blunt Weapon<br />
+                  <br />
+                  Abertal<br />
+                  Via Fluvial<br />
+                  Deprimida Valley<br />
+                  <br />
+                  <u><i><b>Rare Book</b></i></u><br />
+                  Needed for Vet stance book<br />
+                  <br />
+                  Abertal - Rare book of Combat<br />
+                  Via Fluvial - Rare book of Magic<br />
+                  Deprimida Valley - Drops all 3 Vet Book ( Combat,Magic,Shooting )<br />
+                  <br />
+                  <u><i><b>88 / 92 / 100 Equipment</b></i></u><br />
+                  Skull Dungeon 1,2,3<br />
+                  Ulstiur Zona 2,3,<br />
+                  Lago Celeste ( Golden Spider,Normal Mobs )<br />
+                  Ulstiur Zona Tres ( Sabel Tiger )<br />
+                  Jungle Lvl 3<br />
+                  Marshlands ( Bahamar ) *Not Out Yet*<br />
+                  ?? ( Griffon ) *VERY HARD , DR/AR 62/62*<br />
+                  Prison - Gehanna Bridge ( Gerero )<br />
+                  Pradera ( Diablo )<br />
+                  ?? ( Rafflesia )<br />
+                  Capybara Plantation<br />
+                  Katovic Snowfield<br />
+                  Ice Wizard Snowfield<br />
+                  Ice Tower Dungeon<br />
+                  Abertal<br />
+                  Via Fluvial<br />
+                  Forgotten Prison Zone 3 , 4<br />
+                  Depri Valley<br />
+                  Capybara Plantation Level 3 ( Hellbreaker )<br />
+                  Diamond Coupon Room 1 ~ 4<br />
+                  Cannon<br />
+                  Topolo Durga<br />
+                  Prison Zone 4 , 5 ( Not Forgotten )<br />
+                  Katovic<br />
+                  Frozen Plains<br />
+                  <br />
+                  <u><i><b>Misc :</b></i></u><br />
+                  Lvl84 Controller - Diamond Coupon<br />
+                  Lvl80 LoE - Joaquin Attack/Defence mission<br />
+                  Controller / Hammer Stats :<br />
+                  Normal bonus - MaxSP +5~25%<br />
+                  Rare bonus - Summoned attack rating +1~2<br />
+                  Rare bonus - Summoned defence rating +1~2<br />
+                  Lvl100 LoE - Katovic Snowfield ( Elmorc )<br />
+                  <br />
+                  <img alt="Special Items location guide - Wiki of the new world" src="http://i227.photobucket.com/albums/dd144/xiia0konglong/Elmorc.jpg" title="Special Items location guide - Wiki of the new world" /><img alt="Special Items location guide - Wiki of the new world" height="560" src="http://i227.photobucket.com/albums/dd144/xiia0konglong/Elmorc.jpg" title="Special Items location guide - Wiki of the new world" width="747" /><br />
+                  <br />
+                  Old Journal 10<br />
+                  Via Fluvial ( Dream Blade )<br />
+                  Capybara Plantation Level 3 ( Hellbreaker )<br />
+                  <br />
+                  <img alt="Special Items location guide - Wiki of the new world" src="http://i227.photobucket.com/albums/dd144/xiia0konglong/Dreamblade.jpg" title="Special Items location guide - Wiki of the new world" /><img alt="Special Items location guide - Wiki of the new world" height="559" src="http://i227.photobucket.com/albums/dd144/xiia0konglong/Dreamblade.jpg" title="Special Items location guide - Wiki of the new world" width="747" /><br />
+                  <br />
+                  <u><i><b>Spawn Times</b></i></u><br />
+                  Golden Spider - 20mins+<br />
+                  Diablo - 3hours+<br />
+                  Gerero - 6hours+<br />
+                  <font size="1"><br /></font><font color="#FF0000" size="1">Note: Info taken from Epicsoft forums, thread by</font> <font color="#0000FF"><font color="#FF0000" size="1">KongLong</font><font size="1">.</font> <font color="#FF0000" size="1"></font><font color="#FF0000" size="1">Here</font> <font size="1">http://www.epicsoft.com.sg/forum/showthread.php?t=1151</font></font><br />
+                </div><br class="clear" />
+                <br class="clear" />
+                <div class="ads adscenter">
+                  <script type="text/javascript">
+                  //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.center);
+                  //]]>
+                  </script>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch">
+              <form method="get" action="/pageSearch" onsubmit="if(this.contains.value=='Search this wiki') this.contains.value = '';">
+                <input type="text" class="text" name="contains" maxlength="99" value="Search this wiki" onfocus="if(this.value=='Search this wiki') this.value = '';" /><input type="submit" name="submit" class="submit" title="submit" value=" " />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this wiki.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Navigation
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/Area+Info%2FMaps" rel="4">Area Info/Maps</a></li>
+                            <li><a href="/page/Classes" rel="6">Classes</a></li>
+                            <li><a href="/page/Crafting">Crafting</a></li>
+                            <li><a href="/page/Items" rel="6">Items</a></li>
+                            <li>
+                              <a href="/page/Guides" rel="10">Guides</a>
+                              <ul>
+                                <li><a href="/page/Job+Combinations">Job Combinations</a></li>
+                                <li><a href="/page/Ferruccio%27s+Boxes">Ferruccio&#039;s Boxes</a></li>
+                                <li><a href="/page/Tree+Stumps+of+Death">Tree Stumps of Death</a></li>
+                                <li><a href="/page/Character+Trading">Character Trading</a></li>
+                                <li><a href="/page/Hengestone+Locations">Hengestone Locations</a></li>
+                                <li><a href="/page/Character+Promotion">Character Promotion</a></li>
+                                <li><a href="/page/Baron+mode+-+items">Baron mode - items</a></li>
+                                <li><a href="/page/Command+Shortcut+List">Command Shortcut List</a></li>
+                                <li><a href="/page/Mission+Lobbies" rel="5">Mission Lobbies</a></li>
+                                <li><a href="/page/Special+Items+location+guide" class="current">Special Items location guide</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Monsters" rel="6">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="37">Quests</a></li>
+                            <li><a href="/page/UPC%27s" rel="2">UPC&#039;s</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Mineral+Refining">Mineral Refining</a></li>
+                            <li><a href="/page/Equipment+Upgrade">Equipment Upgrade</a></li>
+                            <li><a href="/page/Item+Manufacture">Item Manufacture</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/The+Weapon+vs.+Armor+effect">The Weapon vs. Armor effect</a></li>
+                            <li><a href="/page/Character+Attributes">Character Attributes</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div style="margin: 0px -10px 0px -10px;">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="panelButtons">
+              <div class="panel">
+                <div class="panelContent">
+                  <a href="/thread" class="btn_discussion">Discussion Forum</a>
+                </div>
+              </div>
+              <div class="panel">
+                <div class="panelContent">
+                  <a href="/todos/updated" class="btn_reports">To-Dos &amp; Activity Reports</a>
+                </div>
+              </div>
+            </div>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+              //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              //]]>
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png?v=20080124092559" alt="Create your own free Wetpaint wiki" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a wiki
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Tom&#039;s Wiki</span></li>
+            <li><span>eQuotes - A Famous Quotes Wiki</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Better Recipes</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wikis &nbsp;or&nbsp;create your own&nbsp;free Wetpaint&nbsp;wiki.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20080124092559" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js?v=20080124092559"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='web3';s_w.channel='pageDiff';s_w.pageType='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(259/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='pageDiff';s_w.eVar11='registered';s_w.eVar12=(inits['SITES_COUNT']) ? inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(inits['AB_TEST'] == 0) ? 'na' : (inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js?v=20080124092559" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script>
+</body>
+</html>

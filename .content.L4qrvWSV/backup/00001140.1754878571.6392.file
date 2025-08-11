@@ -1,0 +1,1190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Bosses - Wiki of the New World</title>
+  <meta name="keywords" content="Bosses - Wiki of the New World, bosses monsters">
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Bosses">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Bosses',"PAGE_URI" : '/page/Bosses',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Monsters','Bosses']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","Page");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  </script>
+  <script language="JavaScript">
+                
+                GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span class="signup-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0; margin:0 5px;"><span class="signup-button"><span class="signup-button"></span></span></button></span> <span>or<br>
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="pageControls">
+                  <ul class="WPC-toolsMenu">
+                    <li><a href="#edit" id="WPC-action_informJoin?contentKey=AuthenticateToEdit&from=pageControls&nextAction=confirmJoinBeforeEdit%3FcellId%3DBosses" class="WPC-action btn_edit"><span class="WPC-access">EasyEdit</span></a></li>
+                    <li><a href="#mail" id="WPC-action_sendToFriend" title="Email page" class="WPC-tool WPC-tool-mail WPC-action">Email page</a></li>
+                    <li><a href="#AddToDo" title="Add a To-Do" id="WPC-action_informJoin?contentKey=AddToDo&from=pageControlsToDo&nextAction=toDo&view=add" class="WPC-tool WPC-tool-todo WPC-action">Add a To-Do</a></li>
+                  </ul>
+                </div>
+                <div id="editMessage"></div>
+                <div id="contentTitle">
+                  <h1>Bosses</h1>
+                </div>
+                <div id="WPC-areaContainer?cellId=Bosses">
+                  <div id="WPC-area?cellId=Bosses&version=42&savePath=%2Fpage%2FBosses&saveType=page" class="WPC-editableContent">
+                    <div>
+                      <font size="2"><b><font color="#FF0000"><font size="1">Note: Please correct any mispelt or incorrect names and information for each boss. I don&#39;t want to chase each one down just to confirm it. D: -Edyn.</font></font><br>
+                      <br>
+                      <font size="3">Legend</font><br>
+                      Location:</b> Location the boss can be found at. Assume its spawn covers the entire map unless otherwise stated.<br></font><font size="2"><b>HP:</b> Health Points <b>Att:</b> Attack <b>Def:</b> Defence <b>AR:</b> Attack Rating <b>DR:</b> Defence Rating</font><br>
+                      <font size="2"><b>FR:</b> Fire Resist <b>IR:</b> Ice Resist <b>LR:</b> Lightning Resist <b>MR:</b> Mental Resist <b></b><br>
+                      Raid bosses are coloured red. Map bosses are those not highlighted.<br>
+                      <br>
+                      <b><font size="3">Cerbera/Cervera L14</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/UKnvgO5fT23x1AbgP8ptAQ13063" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Al Quelt Moreza - Narthex</b><br>
+                      <b>AR/DR:</b> 9<br>
+                      <b>HP:</b> 11212 <b>Att:</b> 116 <b>Def:</b> 25<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Nesthair Huganoid L16<br></b></font><img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/hOicA_TzIu3zX6ov_xqpZw11145" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Al Quelt Moreza - Parsonage</b><br>
+                      <b>AR/DR:</b> 10<br>
+                      <b>HP:</b> 8971 <b>Att:</b> 171 <b>Def:</b> 27<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Silkhat Huganoid L19</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/4jPluAhPETyy6pYWFMze_w13540" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b></font> <font size="2"><b>Al Quelt Moreza - Parsonage</b></font> <font size="2"><br>
+                      <b>AR/DR:</b> 11<br>
+                      <b>HP:</b> 10665 <b>Att:</b> 264 <b>Def:</b> 29<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font color="#FF0000" size="3">Dios Latemn</font></b> <b><font size="3">L20</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" height="154" src="http://image.wetpaint.com/image/1/ZAYAkb5AJMgYEy_BV3HI0Q16008/GW154H154" title="Bosses - Wiki of the new world" width="154"></font> <font color="red" size="2"><br>
+                      <font color="#333333"><b>Location:</b></font></font><font size="2"><br>
+                      <b>AR/DR:</b> 12<br>
+                      <b>HP:</b> 34525 <b>Att:</b> 120 <b>Def:</b> 24<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 40<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Phobitan Chieftain L31</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/c-ykfCMp_PHkNuvAdV_74Q13944" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 17<br>
+                      <b>HP:</b> 18994 <b>Att:</b> 458 <b>Def:</b> 45<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Pollux L33</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/IgzhL4VOXvJkbzvjX4euxQ11830" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 18<br>
+                      <b>HP:</b> 20657 <b>Att:</b> 287 <b>Def:</b> 42<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR</b>: 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Castor L35</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/aLaa_q9M56pyqikWZ0eSXg9689" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:<br>
+                      AR/DR:</b> 19<br>
+                      <b>HP:</b> 22394 <b>Att:</b> 293 <b>Def:</b> 44<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR</b>: -50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Escudo Pecher L40</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/UTB3yQgDJdihXFyNSudARg11366" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Porto Bello - Deck</b><br>
+                      <b>AR/DR:</b> 22<br>
+                      <b>HP:</b> 8618 <b>Att:</b> 411 <b>Def:</b> 48<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR:</b> -50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font color="#FF0000" size="3"><b>Treasure Golem</b></font> <font color="#000000" size="3"><b>L40</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/7-Fqs3_8I0nANLj24L5EJA14732" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <font color="#333333"><b>Location:</b></font></font><font size="2"><br>
+                      <b>AR/DR:</b> 22<br>
+                      <b>HP:</b> 168000 <b>Att:</b> 1276 <b>Def</b>: 48<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <font size="3"><b><br>
+                      <br>
+                      Merman Chieftain L43</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/NAVlRhxHn9ExKwkFdX1ciQ10587" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Porto Bello - Deck<br>
+                      AR/DR:</b> 23<br>
+                      <b>HP:</b> 30212 <b>Att:</b> 428 <b>Def:</b> 44<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Nosair Captain L45</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" height="154" src="http://image.wetpaint.com/image/1/NMH3NpZh93jHlOK4Alv_-g11428/GW154H154" title="Bosses - Wiki of the new world" width="154"><br>
+                      <b>Location: Porto Bello - Cabin<br>
+                      AR/DR:</b> 24<br>
+                      <b>HP:</b> 26977 <b>Att:</b> 893 <b>Def:</b> 52<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR:</b> -50 <b>MR:</b> 30<br>
+                      <b>[Flying]</b><br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Wahlanche L46</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/fXAkI_m5kU64D9b-NJuF4A9809" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Porto Bello Deserted Quay<br>
+                      <b>AR/DR:</b> 25<br>
+                      <b>HP:</b> 33505 <b>Att:</b> 396 <b>Def:</b> 52<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR:</b> -50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Pasiar Captain L48</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/04o1FQwDSlR6s7UOIYvkeA15238" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Porto Bello - Hold<br>
+                      AR/DR:</b> 26<br>
+                      <b>HP:</b> 29995 <b>Att:</b> 1052 <b>Def:</b> 54<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR:</b> -50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b><font color="#FF0000">Chimera</font> L50</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/CJmkkFTWCPA5opSJlrj06w17834" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <font color="#333333"><b>Location:</b></font></font> <font size="2"><b>Porto Bello - St. Catherine Saloon<br>
+                      AR/DR:</b> 27<br>
+                      <b>HP:</b> 194400 <b>Att:</b> 1100 <b>Def:</b> 49<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <font size="3"><b><br>
+                      <br>
+                      Sunflower Gorilla L50</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/77h8IIcYCSuttMrCZtMwMw12682" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Thueringenwald, El Lago de Tres Hermanas<br>
+                      <b>AR/DR:</b> 27<br>
+                      <b>HP:</b> 13046 <b>Att:</b> 315 <b>Def:</b> 52<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Gehvars L54</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/4QDkxTa9rePkWbsn3wy7OA10735" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Dr. Torsche&#39;s Savage Garden<br>
+                      <b>AR/DR:</b> 29<br>
+                      <b>HP:</b> 55434 <b>Att:</b> 1132 <b>Def:</b> 55<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Captain Shaffenberg L55</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/WRz1iBAkpZxHPc4LK-EW4Q11549" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:<br>
+                      AR/DR:</b> 29<br>
+                      <b>HP:</b> 44684 <b>Att:</b> 459 <b>Def:</b> 63<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <font size="3"><b><br>
+                      <br>
+                      Hollow Footman L60</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/E4OXYexTyZloQLUVVLYbFQ9878" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Dr. Torsche&#39;s Mansion, Reception Hall<br>
+                      <b>AR/DR:</b> 32<br>
+                      <b>HP:</b> 51770 <b>Att:</b> 1411 <b>Def:</b> 76<br>
+                      <b>FR:</b> 30 I<b>R:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Violent Demonische L62</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/n1uI4IzeCtnQyf7wDS6tZw9913" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> El Tejado Verde<br>
+                      <b>AR/DR:</b> 33<br>
+                      <b>HP:</b> 69172 <b>Att:</b> 1379 <b>Def:</b> 69<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Victor L62</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/f8ZdFrSXZ7WzsB9Z2AbAmg11465" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Dr. Torsche&#39;s Mansion, Grand Library<br>
+                      <b>AR/DR:</b> 33<br>
+                      <b>HP:</b> 54783 <b>Att:</b> 1633 <b>Def:</b> 69<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Skeleton Warrior L62</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/LAG-JkDsTKOwnkYjZZHFhg11064" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <font color="#000000"><b>Location:</b></font></font> <font size="2"><br>
+                      <b>AR/DR:</b> 33<br>
+                      <b>HP:</b> 106851 <b>Att:</b> 3818 <b>Def:</b> 49<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Violent Gehcos L65</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/s7nQj6hMc3zOVRFgAE7u_Q10287" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Pradera de Ceniza<br>
+                      <b>AR/DR:</b> 33<br>
+                      <b>HP:</b> 74799 <b>Att:</b> 1572 <b>Def:</b> 36<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <a href="/page/Decarabia" target="_self"><br>
+                      <font size="3"><b><font color="#FF0000">Decarabia</font> Lv.70</b></font></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/JtflvsaO7EEztedc3G3V7w11330" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Old Port of Coimbria<br>
+                      <b>AR/DR:</b> 37<br>
+                      <b>HP:</b> 794392 <b>Att:</b> 3194 <b>Def:</b> 54<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 20 <b>MR:</b> 40<br>
+                      <br>
+                      <font size="3"><b><br>
+                      Giant Cockatrice L70</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/GqgBdB5GMO_8yBSBXEWMVQ10019" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Rion Prairie, Bonavista River<br>
+                      <b>AR/DR</b>: 37<br>
+                      <b>HP:</b> 84798 <b>Att:</b> 1964 <b>Def:</b> 81<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <b>[Splash damage]<br>
+                      <br>
+                      <font size="3"><br>
+                      Violent Joaquin Bear L72</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/q681aYzjnjcqzAbMfhQ6dQ12465" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Joaquin Crater<br>
+                      <b>AR/DR:</b> 38<br>
+                      <b>HP:</b> 89024 <b>Att:</b> 2319 <b>Def:</b> 82<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <font size="3"><b><br>
+                      Powerful Phobitan Imp L72</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/H42MvvRoYRvA6TqLcDdVvg11665" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Vegas Javier<br>
+                      <b>AR/DR:</b> 38<br>
+                      <b>HP:</b> 71524 <b>Att:</b> 1288 <b>Def:</b> 73<br>
+                      <b>FR:</b> -50 <b>IR:</b> 50 <b>LR:</b> 90 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Ice Celberos L75</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/gSZaiNRK4qnLayggF7mGHw15036" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:<br>
+                      AR/DR:</b> 39<br>
+                      <b>HP:</b> 392700 <b>Att:</b> 3078 <b>Def:</b> 142<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR:</b> -50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Dragonhead L77</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/Cscd-S6RarWCAu_WZpOcoQ12316" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Prison de Joaquin 1st area<br>
+                      AR/DR:</b> 40<br>
+                      <b>HP:</b> 80974 <b>Att:</b> 1734 <b>Def:</b> 97<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <font size="3"><b><br>
+                      Jabberwock Captain L79</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/etaP3Ol6d5cVFx3porsy4g12913" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Prison de Joaquin - Altar<br>
+                      AR/DR:</b> 41<br>
+                      <b>HP:</b> 84975 <b>Att:</b> 5062 <b>Def:</b> 99<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Vladimir L81</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/0CbSq5KnDnmyL21g4QV02A21153" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Prison de Joaquin - Torture<br>
+                      AR/DR:</b> 42<br>
+                      <b>HP:</b> 89081 <b>Att:</b> 2248 <b>Def:</b> 101<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Violent Ghost Baron L82</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/ZP7_qms1087dMMO_aMdFNQ10104" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> El Canon de Diabolica, El Runia de Memoria<br>
+                      <b>AR/DR:</b> 43<br>
+                      <b>HP:</b> 71289 <b>Att:</b> 4166 <b>Def:</b> 81<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <b>[Splash damage] [Flying]</b><br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Fallen Champion L83</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/l3Hcy31GBfBzkS3N3xYSLw17878" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Prison de Joaquin Schivalier<b><br>
+                      AR/DR:</b> 43<br>
+                      <b>HP:</b> 93332 <b>Att:</b> 4198 <b>Def:</b> 103<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <font size="3"><b><br>
+                      Thunder Celberos L85</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/fOsMDllChkpwD1Q9E2DE_w13955" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:<br>
+                      AR/DR:</b> 44<br>
+                      <b>HP:</b> 485070 <b>Att:</b> 4252 <b>Def:</b> 157<br>
+                      <b>FR:</b> -50 <b>IR:</b> 50 <b>LR:</b> 90 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b><font color="#FF0000">Crysallis</font> L85</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/oUxNXspjomZkbk4OwPzKHQ19010" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <font color="#000000"><b>Location:</b></font></font> <font size="2"><font color="#000000">Clan L51 Instance Boss<b><br>
+                      AR/DR:</b></font> 45<br>
+                      <b>HP:</b> 506160 <b>Att:</b> 1896 <b>Def:</b> 84<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Saber Tiger L90</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/aA1MY70mdA_Bpa7-rG0cFA17831" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Ustiur Zona Uno, Ustiur Zona Dos, Ustiur Zona Tres<br>
+                      <b>AR/DR</b>: 47<br>
+                      <b>HP:</b> 132969 <b>Att:</b> 4362 <b>Def:</b> 93<br>
+                      <b>FR:</b> 50 <b>IR:</b> 90 <b>LR:</b> -50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Golden Spider L92</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/1/Qb1CB0e8MYV3Eds0_8qQcA12803" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Lago Celeste<br>
+                      <b>AR/DR:</b> 47<br>
+                      <b>HP:</b> 113978 <b>Att:</b> 3943 <b>Def:</b> 106<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <b>[Minions]<br>
+                      <br>
+                      <br>
+                      <font size="3">Giant Comodo L92</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" height="71" src="http://image.wetpaint.com/image/2/qEK1bkMZlM-EKn5ozhiTAQ4121/GW106H71" title="Bosses - Wiki of the new world" width="106"><br>
+                      <b>Location:</b> Rio Albi<br>
+                      <b>AR/DR:</b> 48<br>
+                      <b>HP:</b> 138560 <b>Att:</b> 5717 <b>Def:</b> 106<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <font size="3"><b><br>
+                      <font color="#FF0000">Great Hill Giant</font> L95</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/XDjZQV2URsySQIcjERnDjw2945" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <font color="#000000"><b>Location:</b></font></font> <font size="2"><br>
+                      <b>AR/DR:</b> 49<br>
+                      <b>HP:</b> 997198 <b>Att:</b> 11650 <b>Def:</b> 126<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br></font> <font size="2"><b><font size="3">Flame Celberos</font></b> <font size="3"><b>L95</b></font></font><br>
+                      <font size="2"><img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/wXROyFexcHv2wb2GCAUjnA2812" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR</b>: 49<br>
+                      <b>HP</b>: 737100 <b>Att:</b> 5589 <b>Def:</b> 172<br>
+                      <b>FR</b>: 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Ravyn the Unholy&#39;s Heart L97</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/_3jyWDgK9SWbZs28iiyERA2433" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Room of the Dead (Skeleton Dungeon 4F)<br>
+                      <b>AR/DR:</b> 50<br>
+                      <b>HP:</b> 733549 <b>Att:</b> 1750 <b>Def:</b> 70<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <br>
+                      <br>
+                      <b><font color="#FF0000"><font size="3">Ravyn the Unholy <font color="#000000">L97</font></font></font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/DC3fC1iVZI72Ga5lfcp6tQ4967" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <b><font color="#000000">Location:</font></b> <font color="#000000">Room of the Dead (Skeleton Dungeon 4F)</font><br></font><font size="2"><b>AR/DR:</b> 50<br>
+                      <b>HP:</b> 177063 <b>Att:</b> 1393 <b>Def:</b> 81<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Skeleton Leader L97</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/Ytj7EuRxrAgzmvzUT94rNA1644" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Skeleton Dungeon 1F<br>
+                      <b>AR/DR:</b> 50<br>
+                      <b>HP:</b> 126625 <b>Att:</b> 3247 <b>Def:</b> 111<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <a href="/page/Gerero" target="_self"><b><font color="#FF0000"><font size="3">Gerero <font color="#000000">L100</font></font></font></b></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/yXQZFtk2YM5LQSTx7uwsCw3762" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <b><font color="#000000">Location:</font></b> <font color="#000000">Prison de Joaquin Gehenna Bridge, Poison Yard</font><b><br></b></font><font size="2"><b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 1553798 <b>Att:</b> 5491 <b>Def:</b> 156<br>
+                      <b>FR:</b> 55 <b>IR:</b> 55 <b>LR:</b> 55 <b>MR:</b> 55<br>
+                      <b>[Splash damage]<br>
+                      <br></b><br>
+                      <b><font color="#000000"><font size="3">Boneless L100</font></font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/WazXXPQw932c8aYRpuJczQ2578" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Skeleton Dungeon 3F<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 134640 <b>Att:</b> 5827 <b>Def:</b> 102<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <b>[Splash damage]<br>
+                      <br></b><br>
+                      <b><font color="#FF0000"><font size="3">Dr. Fran Mothtein <font color="#000000">L100</font></font></font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/Fmi1Ed9SqPDenDuLDhXmwg2154" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Prison de Joaquin Torture Chamber<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 750103 <b>Att:</b> 8287 <b>Def:</b> 120<br>
+                      <b>FR:</b> 50 <b>IR:</b> 50 <b>LR:</b> 50 <b>MR:</b> 50<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Thoracotomy L100</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/ci0jp2HVCynoZCAH-4DC2w2053" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Skeleton Dungeon 2F (centre room)<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 134640 <b>Att:</b> 6170 <b>Def:</b> 102<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font color="#FF0000"><font size="3">Crysallis</font></font> <font color="#000000"><font size="3">L100</font></font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/JJ4TTDa4Cxr0unzYI2FNXg4017" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Prison de Joaquin Corridor of Azzies<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 857260 <b>Att:</b> 11330 <b>Def:</b> 96<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Phobitian General L100</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/U0yiZW5n1yBauP-WcDWbHA2200" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Topolo Durga<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 134640 <b>Att:</b> 5598 <b>Def:</b> 126<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font color="#FF0000"><font size="3">Dr. Fran Mothtein <font color="#000000">L100</font></font></font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/M4oeH0aa5ofbsFxeBk0nXw2183" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Prison de Joaquin Corridor of Azzies<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 964418 <b>Att:</b> 9210 <b>Def:</b> 120<br>
+                      <b>FR:</b> 50 <b>IR:</b> 50 <b>LR:</b> 50 <b>MR:</b> 50<br>
+                      <br>
+                      <br>
+                      <font color="#000000"><font size="3"><b>Dreamblade Antelope L101</b></font></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/8ZmHHj4pwmPlL_Xw-zDtWQ3298" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Via Fluvial<br>
+                      <b>AR/DR:</b> 52<br>
+                      <b>HP:</b> 1070927 <b>Att:</b> 7187 <b>Def:</b> 108<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 60<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Golden Bat L103</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/m3Zx4ZK5Ha5GBVkDAw_zHg2941" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Capybara Plantation<br>
+                      <b>AR/DR:</b> 53<br>
+                      <b>HP:</b> 1376340 <b>Att:</b> 5931 <b>Def:</b> 153<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <b>[Slow movement]</b><br>
+                      <br>
+                      <br>
+                      <a href="/page/Diablo" target="_self"><font size="3"><b><font color="#FF0000">Diablo <font color="#000000">L105</font></font></b></font></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/4lbZh5xlbyfBs_dar8ns6A3418" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Pradera de Ceniza<br></font><b><font size="2">AR/DR:</font></b> <font size="2">54<br>
+                      <b>HP:</b> 1378090 <b>Att:</b> 9838 <b>Def:</b> 162<br>
+                      <b>FR:</b> 50 <b>IR:</b> 40 <b>LR:</b> 50 <b>MR:</b> 50<br>
+                      <br>
+                      <br>
+                      <font color="#FF0000"><font size="3"><b>Queen Eater - Leg <font color="#000000">L105</font></b></font></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/LFVda8QMGaMLxkTB5dLZ2Q4110" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Loctaion:</b> Ustiur Zona Uno<br>
+                      <b>AR/DR:</b> 54<br>
+                      <b>HP:</b> 2009721 <b>Att:</b> 39014 <b>Def:</b> 118<br>
+                      <b>FR:</b> 40 <b>IR:</b> 40 <b>LR:</b> 40 <b>MR:</b> 40<br>
+                      <br>
+                      <br>
+                      <a href="/page/Poison+Yard" target="_self"><font color="#FF0000"><font size="3"><b>Chimera <font color="#000000">L105</font></b></font></font></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/DbXqOAX3R0i5bwaZIz4QXA2868" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Poison Yard<br>
+                      <b>AR/DR:</b> 54<br>
+                      <b>HP:</b> 3394800 <b>Att:</b> 6142 <b>Def:</b> 218<br>
+                      <b>FR</b>: 60 <b>IR:</b> 60 <b>LR:</b> 60 <b>MR:</b> 50<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Muertos Chief L106</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/lg0tK0Y8JHocfOSpe5uBrA2724" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Land of the Dead [G9/10]<br>
+                      <b>AR/DR:</b> 55<br>
+                      <b>HP:</b> 143376 <b>Att:</b> 1905 <b>Def:</b> 157<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font size="3"><font color="#FF0000">Elmorc</font> Lv.106</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/gYA5wpMtV4SwRidsdOcoMA2771" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Katovic Snowfield, Frozen Plain<br>
+                      <b>AR/DR:</b> 55<br>
+                      <b>HP:</b> 1720512 <b>Att:</b> 3048 <b>Def:</b> 189<br>
+                      <b>FR:</b> 30 <b>IR:</b> 100 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br></font> <b><font size="3">Merman Eater L106</font></b><br>
+                      <font size="2"><img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/pasgasSRY3mE-vwJ65hmYA2446" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 55<br>
+                      <b>HP:</b> 1003632 <b>Att:</b> 8367 <b>Def:</b> 151<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Swamp Angler L108</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/Us9mPeEb6rEn0G_t-AFhTQ2466" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> All Bahamar maps<br>
+                      <b>AR/DR:</b> 56<br>
+                      <b>HP:</b> 2061696 <b>Att:</b> 5184 <b>Def:</b> 172<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <a href="/page/Gate+of+Flame" target="_self"><b><font color="#FF0000"><font size="3">Lava Leaf <font color="#000000">L108</font></font></font></b></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/i8qirFw8SPL-0CcDzKU82Q4517" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Gate of Fire<br>
+                      <b>AR/DR:</b> 56<br>
+                      <b>HP:</b> 11957011 <b>Att:</b> 43446 <b>Def:</b> 198<br>
+                      <b>FR:</b> 100 <b>IR:</b> -100 <b>LR:</b> 50 <b>MR:</b> 80<br>
+                      <br>
+                      <br>
+                      <a href="/page/Hell+Breaker" target="_self"><b><font color="#FF0000"><font size="3">HellBreaker <font color="#000000">L108</font></font></font></b></a><br>
+                      <img alt="Bosses - Wiki of the new world" height="60" src="http://image.wetpaint.com/image/2/JDZC80Zq0Yh1tkgVLPXZ8g2958/GW90H60" title="Bosses - Wiki of the new world" width="90"></font> <font color="#FF0000"><font size="2"><br>
+                      <b><font color="#000000">Location:</font></b> <font color="#000000">Capybara Dungeon 3F</font><br></font></font><font size="2"><b>AR/DR:</b> 56<br>
+                      <b>HP:</b> 10308480 <b>Att:</b> 3686 <b>Def:</b> 102<br>
+                      <b>FR:</b> 20 <b>IR:</b> 20 <b>LR:</b> 20 <b>MR:</b> 20<br>
+                      <br>
+                      <br></font> <b><font size="3">Merman Eater Lv.110</font></b><br>
+                      <font size="2"><img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/7WN1E3LL7zo40kobx4eIgw2329" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 57<br>
+                      <b>HP:</b> 1209600 <b>Att:</b> 8942 <b>Def:</b> 162<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <a href="/page/Vergo+the+Cursed" target="_self"><b><font color="#FF0000"><font size="3">Vergo the Cursed <font color="#000000">L110</font></font></font></b></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/3k2_hicy6wLNeThapfDEVw2667" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Porto Bello Desolate Cliff<br>
+                      <b>AR/DR:</b> 57<br>
+                      <b>HP:</b> 2639589 <b>Att:</b> 7941 <b>Def:</b> 143<br>
+                      <b>FR:</b> 55 <b>IR:</b> 55 <b>LR:</b> 55 <b>MR:</b> 55<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Dark Celberos L110</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/B0Gy9B-eTnw0REPzfPU74A2955" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 57<br>
+                      <b>HP:</b> 756000 <b>Att:</b> 8424 <b>Def:</b> 195<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font color="#FF0000"><font size="3"><b>Queen Eater - Torso <font color="#000000">L110</font></b></font></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/pqhOAKx3qrA7JYz6ZUAq4g3809" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Ustiur Zona Uno<br>
+                      <b>AR/DR:</b> 57<br>
+                      <b>HP:</b> 1292245 <b>Att:</b> 64818 <b>Def:</b> 123<br>
+                      <b>FR:</b> 45 <b>IR:</b> 45 <b>LR:</b> 45 <b>MR:</b> 45<br>
+                      <br>
+                      <br>
+                      <b><font size="3">King of Covetry L110</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/eL9Xg0D1o4OHMMtpm9ta2Q2391" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Bahamar Caves 1F<br>
+                      <b>AR/DR:</b> 57<br>
+                      <b>HP:</b> 2419200 <b>Att:</b> 5896 <b>Def:</b> 188<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <a href="/page/Gate+of+Lightning" target="_self"><b><font color="#FF0000"><font size="3">Einwind <font color="#000000">L112</font></font></font></b></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/1as4DbNvdvFe9XxvQ0Ec5w2883" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br>
+                      <b><font color="#000000">Location:</font></b> <font color="#000000">Gate of Lightning</font><br></font><font size="2"><b>AR/DR:</b> 58<br>
+                      <b>HP:</b> 15122774 <b>Att:</b> 41587 <b>Def:</b> 191<br>
+                      <b>FR:</b> -100 <b>IR:</b> 0 <b>LR:</b> 100 <b>MR:</b> 80<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Avalanche Apparition L114</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/SjWMpHN_FRdp1NwI9XuY5w2545" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Snowfield of Ice Wizard<br>
+                      <b>AR/DR:</b> 59<br>
+                      <b>HP:</b> 176315 <b>Att:</b> 13203 <b>Def:</b> 134<br>
+                      <b>FR:</b> 30 <b>IR:</b> 30 <b>LR</b>: 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Swamp Silurian L114</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/3WVJVl3qjO94h1-mHbH3ag2863" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 59<br>
+                      <b>HP:</b> 1432944 <b>Att:</b> 9535 <b>Def:</b> 174<br>
+                      <b>FR:</b> 30 <b>IR:</b> 90 <b>LR:</b> 30 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Jormongand L118</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/ytn-4n8Os23gduXDmKR5fA4551" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 61<br>
+                      <b>HP:</b> 6696960 <b>Att:</b> 6607 <b>Def:</b> 248<br>
+                      <b>FR:</b> 70 <b>IR:</b> 70 <b>LR:</b> 70 <b>MR:</b> 70<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Uranus L118</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/Syi6Rc4wgj8wsK09MuiytA3524" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Bahamar Caves 2F<br>
+                      <b>AR/DR:</b> 61<br>
+                      <b>HP:</b> 3181056 <b>Att:</b> 3095 <b>Def:</b> 200<br>
+                      <b>FR:</b> 50 <b>IR:</b> 50 <b>LR:</b> 50 <b>MR:</b> 50<br>
+                      <br>
+                      <br>
+                      <b><font color="#FF0000"><font size="3">Griffon <font color="#000000">L120</font></font></font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/cqdjXNs8O_zQnYHVICmMLA2886" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Vegas Javier<br>
+                      <b>AR/DR:</b> 62<br>
+                      <b>HP:</b> 4598090 <b>Att:</b> 18922 <b>Def:</b> 154<br>
+                      <b>FR:</b> 30 <b>IR:</b> 60 <b>LR:</b> 60 <b>MR:</b> 60<br>
+                      <br>
+                      <br>
+                      <b><font size="3">?? L120</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/1YgDj1XBtCNrZeizjQfd0A2557" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 62<br>
+                      <b>HP:</b> 10639200 <b>Att:</b> 9434 <b>Def:</b> 238<br>
+                      <b>FR:</b> 80 <b>IR:</b> 80 <b>LR:</b> 80 <b>MR:</b> 80<br>
+                      <br>
+                      <br>
+                      <font color="#FF0000"><font size="3"><b>Queen Eater - Egg <font color="#000000">L120</font></b></font></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/IFL4kwj-B6l2jWqiT_VTzg2830" title="Bosses - Wiki of the new world"></font><br>
+                      <b><font size="2">Location:</font></b> <font size="2">Ustiur Zona Uno</font><br>
+                      <font size="2"><b>AR/DR:</b> 62<br>
+                      <b>HP:</b> 2926706 <b>Att:</b> 14221 <b>Def:</b> 133<br>
+                      <b>FR:</b> 60 <b>IR:</b> 60 <b>LR:</b> 60 <b>MR:</b> 60<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Chaos Skullic L120</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/lUNsrEMMTGR2lEtYOqRTrQ3315" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Secret Temple<br>
+                      <b>AR/DR:</b> 62<br>
+                      <b>HP:</b> 2745600 <b>Att:</b> 5140 <b>Def:</b> 210<br>
+                      <b>FR:</b> 60 <b>IR:</b> 60 <b>LR:</b> 60 <b>MR:</b> 70<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Sekhmet L125</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/_u1peBidQZH5L7QdMhNxKA3271" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Fire Isle Caldera<br>
+                      <b>AR/DR:</b> 64<br>
+                      <b>HP:</b> 20047500 <b>Att:</b> 25422 <b>Def:</b> 217<br>
+                      <b>FR:</b> 50 <b>IR:</b> 50 <b>LR:</b> 50 <b>MR:</b> 50<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Bribranta L126</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/snXe0mfvPPROuqVjZeEkDg1816" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 65<br>
+                      <b>HP:</b> 1844160 <b>Att:</b> 4007 <b>Def:</b> 233<br>
+                      <b>FR:</b> 55 <b>IR:</b> 55 <b>LR:</b> 55 <b>MR:</b> 55<br>
+                      <br>
+                      <br>
+                      <a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" target="_self"><b><font color="#FF0000"><font size="3">Novia <font color="#000000">L127</font></font></font></b></a><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/4ykogK0OKZ8XtOYBdSU8Hg2359" title="Bosses - Wiki of the new world"></font> <font color="red" size="2"><br></font><font size="2"><b>Location:</b> Ice Wizard Tower 5F (?)<br>
+                      <b>AR/DR:</b> 65<br>
+                      <b>HP:</b> 20209024 <b>Att:</b> 48723 <b>Def:</b> 213<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font size="3">Argus Lv.128</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/jlKVL85CI4dyQG4Wq1UBIA2539" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b><br>
+                      <b>AR/DR:</b> 66<br>
+                      <b>HP:</b> 3020544 <b>Att:</b> 7032 <b>Def:</b> 251<br>
+                      <b>FR:</b> 90 <b>IR:</b> -50 <b>LR:</b> 50 <b>MR:</b> 30<br>
+                      <br>
+                      <br>
+                      <b><font size="3"><font color="#FF0000">Gate Keeper</font> L128</font></b><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/T1oPNrTSwqNTo6t8ashuGg3064" title="Bosses - Wiki of the new world"><br>
+                      <b>Location:</b> Bahamar Caves Grotto (Channel 1 only)<br>
+                      <b>AR/DR</b>: 66<br>
+                      <b>HP:</b> 11327040 <b>Att</b>: 16729 <b>Def:</b> 259<br>
+                      <b>FR:</b> 50 <b>IR:</b> 50 <b>LR:</b> 50 <b>MR:</b> 60<br>
+                      <b>[Can only be killed once per server]</b><br>
+                      <br>
+                      <br>
+                      <font size="3"><b>Brain of Argus (?) L130</b></font><br>
+                      <img alt="Bosses - Wiki of the new world" src="http://image.wetpaint.com/image/2/kI99r2WgSgC0AGOSCsE-Bg1994" title="Bosses - Wiki of the new world"><br>
+                      <b>Location: Caebolan last area (?)</b><br>
+                      <b>AR/DR:</b> 67<br>
+                      <b>HP:</b> 15842400 <b>Att:</b> 0 <b>Def:</b> 255<br>
+                      <b>FR:</b> 60 <b>IR:</b> 60 <b>LR:</b> 60 <b>MR:</b> 60</font>
+                    </div>
+                    <div>
+                      <font size="2">__________________<br>
+                      <br></font> <font size="2"><font color="#FF0000" size="1">This info was taken from the Iah Granado espada forum, Thread by Peacesprite here -&gt; http://forum.iahgames.com/ge/showthread.php?t=29160</font></font>
+                    </div><br>
+                  </div>
+                </div><br class="clear">
+                <br class="clear">
+                <div id="pageAttributes">
+                  <table cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">http://static.wetpaint.com/img/bg/1.png?v=20090309172702</span> <a href="/account/Swiftburns" id="WPC-action_accountMenu?account=Swiftburns&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Bosses" class="avatarMissing" src="http://static.wetpaint.com/img/bg/1.png" alt="No user avatar"></a><br>
+                      <a href="/account/Swiftburns" id="WPC-action_accountMenu?account=Swiftburns&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Swiftburns</a></td>
+                      <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Bosses"><a href="/account/Swiftburns" id="WPC-action_accountMenu?account=Swiftburns&subject=Bosses&from=lastPageUpdate&pageName=Bosses" class="WPC-action" onclick="return false">Swiftburns</a></span> , <span id="WPC-lastRevisionDate?cellId=Bosses">Dec 25 2008, 6:02 AM EST</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Swiftburns"><img class="avatarMissing" src="http://static.wetpaint.com/img/bg/1.png" alt="Swiftburns"></a> <span class="comment" id="latestEditNoteComment">Added locations of the first 3 bosses</span> <span id="latestEditNoteAccount">- <a href="/account/Swiftburns">Swiftburns</a></span> <span id="latestEditNoteScope"><br>
+                      <br>
+                      <span class="nowrap">15 words added</span><br></span><br>
+                      <a href="/page/Bosses/diff/41,42" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Bosses/history" style="white-space: nowrap">complete history</a>)</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="WPC-tagModule">
+                          <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/bosses+monsters" title="bosses monsters" class="pageTag">bosses monsters</a></span>
+                        </div>
+                        <div id="moreInfo">
+                          <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Bosses/links">links to this page</a>
+                        </div>
+                        <div id="bkmrkLinks">
+                          <span>Bookmark:</span> <img class="sprite-delicioussmall" src="http://static.wetpaint.com/img/bg/1.png">Del.icio.us &nbsp;&nbsp; <img class="sprite-stumbleupon" src="http://static.wetpaint.com/img/bg/1.png">StumbleUpon &nbsp;&nbsp; Facebook
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="threadList" class="pageSection pageSectionOutOfPage">
+                  <div class="pageSectionHeaderContainer">
+                    <h4><a href="/page/Bosses/thread">Threads for this page</a></h4>
+                  </div>
+                  <div class="tableList" id="contentThreadList">
+                    <table>
+                      <tr class="header">
+                        <th><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?parentNodeId=contentThreadList" href="#toggle"></a></th>
+                        <th>Started&nbsp;By</th>
+                        <th width="16"></th>
+                        <th>Thread Subject</th>
+                        <th>Replies</th>
+                        <th class="farRightCell">Last Post</th>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2437799/Spawn+Rate"><b>Spawn Rate</b></a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Mar 6 2009, 11:08 AM EST</span> by <a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Spawn+Rate&from=threadFirstAccount2437799&threadId=2437799" class="WPC-action" onclick="return false">WeazerDevil</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA1">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB1">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Feb 20 2009, 12:34 AM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2437799&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              How long does it take for them to spawn again after you kill 1?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2437799&post=16026473"><span id="agreeCount?thread=2437799&post=16026473">1</span> &nbsp;out of <span id="totalCount?thread=2437799&post=16026473">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2437799&post=16026473" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2437799&post=16026473">Do you? <a id="WPC-action_rateThread?thread=2437799&post=16026473&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2437799&post=16026473&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2437799" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2437799/Spawn+Rate?offset=0&WPC-action=openThreadForm?postId=16532312&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div><a href="#lastReply" onclick="document.getElementById('threadLastReply2437799').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2437799" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Spawn+Rate&from=threadImg2437799&threadId=2437799" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/tOSc9MnnSakEaBr1Bzi_SQ36296/GW050" alt="WeazerDevil"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2437799/Spawn+Rate?offset=0#post16532312"><b>RE: Spawn Rate</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Spawn+Rate&from=threadLastAccount2437799&threadId=2437799" class="WPC-action" onclick="return false">WeazerDevil</a>, Mar 6 2009, 11:08 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          it typically takes an hour for them to respawn
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2437799&post=16532312"><span id="agreeCount?thread=2437799&post=16532312">1</span> &nbsp;out of <span id="totalCount?thread=2437799&post=16532312">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2437799&post=16532312" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2437799&post=16532312">Do you? <a id="WPC-action_rateThread?thread=2437799&post=16532312&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2437799&post=16532312&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2333931/Dios+Latemn"><b>Dios Latemn</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 29 2009, 4:38 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA2">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB2">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 29 2009, 4:38 PM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2333931&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              There is a Dios Latemn lvl 39 as well if you get a certian drop from the other one
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2333931&post=15338517"><span id="agreeCount?thread=2333931&post=15338517">3</span> &nbsp;out of <span id="totalCount?thread=2333931&post=15338517">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2333931&post=15338517" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2333931&post=15338517">Do you? <a id="WPC-action_rateThread?thread=2333931&post=15338517&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2333931&post=15338517&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2333931" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2333931/Dios+Latemn?offset=0&WPC-action=openThreadForm?postId=15338517&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td class="WPC WPC-tool WPC-tool"></td>
+                        <td><a href="/thread/2235687/Pollux"><b>Pollux</b></a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 6 2009, 2:29 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA3">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td></td>
+                        <td colspan="3" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB3">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 6 2009, 2:29 PM EST&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=2235687&isNotify=1">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              there is pollux on 9lvl too
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2235687&post=14638307"><span id="agreeCount?thread=2235687&post=14638307">3</span> &nbsp;out of <span id="totalCount?thread=2235687&post=14638307">4</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2235687&post=14638307" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2235687&post=14638307">Do you? <a id="WPC-action_rateThread?thread=2235687&post=14638307&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=2235687&post=14638307&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2235687" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <div class="controlsNode">
+                                <ul class="WPC-toolsMenu">
+                                  <li><a href="/thread/2235687/Pollux?offset=0&WPC-action=openThreadForm?postId=14638307&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                    <a name="replyToThread"></a>
+                    <div id="threadFormDiv">
+                      <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                        <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                        <table class="threadFormTable">
+                          <tr>
+                            <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                            <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                          </tr>
+                          <tr>
+                            <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                            <td>
+                            <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                            <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                          </tr>
+                          <tr id="quoteRow" style="display:none;">
+                            <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                            <td><span id="quoteContent">
+                            <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                          </tr>
+                          <tr id="tagRow" style="display:none;">
+                            <td class="labelCell">Keyword tags:</td>
+                            <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                          </tr>
+                        </table>
+                        <div id="threadNotification" style="display:none;"></div><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" style="display:none" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                      </form>
+                      <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                        Posting...
+                      </div>
+                      <div id="editLengthWarn" style="display:none;">
+                        Note: You can enter up to [REMCHARS] additional characters.<br>
+                        Did you know you can edit the content of this page by clicking EasyEdit?
+                      </div>
+                    </div><span style="display:none" id="threadFormPlacementDivId" class="WPC-threadFormContainer"></span> 
+                    <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                  </div>
+                  <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                    <div class="controlsNode" id="controlsNode_0">
+                      <ul class="WPC-toolsMenu">
+                        <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action openThreadForm" id="WPC-action_openThreadForm?from=addThread" onclick="return false;">Post a new thread</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                    Showing 3 of 3 threads for this page
+                  </div><span id="threadCounter" title="4" style="display:none"></span>
+                </div>
+                <div class="ads adscontent">
+                  <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                  </script>
+                </div>
+              </div>
+            </div>
+            <script src="http://static.wetpaint.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li>
+                              <a href="/page/Monsters" rel="9">Monsters</a>
+                              <ul>
+                                <li><a href="/page/Monsters+by+Classification">Monsters by Classification</a></li>
+                                <li><a href="/page/Levels+1+-+10">Levels 1 - 10</a></li>
+                                <li><a href="/page/Levels+11+-+20">Levels 11 - 20</a></li>
+                                <li><a href="/page/Levels+21+-+30">Levels 21 - 30</a></li>
+                                <li><a href="/page/Levels+31+-+40">Levels 31 - 40</a></li>
+                                <li><a href="/page/Levels+41+-+50">Levels 41 - 50</a></li>
+                                <li><a href="/page/Levels+51+-+60">Levels 51 - 60</a></li>
+                                <li><a href="/page/Bosses" class="current">Bosses</a></li>
+                                <li><a href="/page/Elites">Elites</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Quests" rel="44">Quests</a></li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology" rel="1">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>GunZ Wiki</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>StarCraft 2</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090309172702" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b9';s_w.channel='page';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(159/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.sProp10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+</body>
+</html>

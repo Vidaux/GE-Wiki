@@ -1,0 +1,904 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Manually Update and Patch Download - Wiki of the New World</title>
+  <meta name="keywords" content="Manually Update and Patch Download - Wiki of the New World, Download,Downloads,Old Patch,Old Patchs,Patch,Patchs,Patchs for Download,Version">
+  <meta name="description" content="Introduction: Unfortunately, GamersFirst has removed the option to download the old patches to your PC via FTP, however you can still download them using these...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Manually Update and Patch Download',"PAGE_URI" : '/page/Manually+Update+and+Patch+Download',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Manually Update and Patch Download']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Manually+Update+and+Patch+Download">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DManually+Update+and+Patch+Download%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Manually Update and Patch Download<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Manually+Update+and+Patch+Download">
+                    <div id="WPC-area?cellId=Manually+Update+and+Patch+Download&version=16&savePath=%2Fpage%2FManually%2BUpdate%2Band%2BPatch%2BDownload&saveType=page" class="WPC-editableContent">
+                      <font size="6">Introduction:</font><br>
+                      Unfortunately, GamersFirst has removed the option to download the old patches to your PC via FTP, however you can still download them using these links below directly from their servers. Notice that it is not illegal.<br>
+                      Sorry about the grammatical errors.<br>
+                      <font size="6">Patches:</font><br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67012.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67028.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67036.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67109.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67251.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67254.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67255.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67256.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67257.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67862.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67899.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67902.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67903.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67904.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67905.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67927.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/67971.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68020.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68022.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68036.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/105191.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68037.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68038.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68039.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68040.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68041.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68042.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68059.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68067.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68068.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68078.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68079.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68081.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68083.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68085.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68597.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68713.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68715.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68716.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68717.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68718.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68723.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68858.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68859.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68862.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68863.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68878.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68879.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68888.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68889.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68893.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68894.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68926.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68929.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68930.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68985.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68996.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/68997.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69077.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69186.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69336.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69337.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69510.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69511.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69792.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69800.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69801.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69804.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69805.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69806.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69807.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69810.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69811.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69813.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69814.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69815.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69816.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69817.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69818.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/69829.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/73912.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/73994.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/73995.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/73996.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/73997.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/73998.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/74946.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76248.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76364.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76365.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76476.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76486.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76488.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/76500.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77001.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77024.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77366.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77380.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77388.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77393.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77395.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77425.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77469.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77720.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77721.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77722.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77779.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77797.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77821.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77850.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77851.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77852.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/78052.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/78053.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/78749.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/78820.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/78898.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79103.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79104.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79184.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79207.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79233.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79473.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79487.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/79794.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80122.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80170.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80351.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80370.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80419.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80427.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80429.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80469.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80619.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/80670.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/81133.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/81250.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/81298.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/81801.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/82274.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/82275.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/82563.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/83017.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/83030.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/83765.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84425.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84469.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84484.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84516.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84544.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84576.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84597.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84656.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84658.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84665.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84674.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84684.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84700.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/84829.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85071.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85076.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85077.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85227.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85248.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85250.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85282.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85283.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85284.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85467.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85478.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85484.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85605.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85752.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85753.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/85754.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/86340.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/86941.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/87049.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/87550.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/87606.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/89223.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90001.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90002.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90005.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90007.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90009.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90011.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90013.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90015.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90017.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90019.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90021.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90023.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90025.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90027.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90029.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90033.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90035.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90037.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90039.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90041.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/95383.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/96830.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/97014.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/98637.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/98665.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/102675.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/103011.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/103033.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/103105.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/103232.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/104421.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/104704.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/104854.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/105436.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/105776.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/105795.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/106172.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/106690.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/107205.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/107216.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/107576.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/107832.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/108022.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/108080.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/108139.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/108289.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/108837.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/109145.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/109346.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/110214.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/110571.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/110571.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/110961.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111047.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111123.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111125.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111163.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111166.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111216.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111248.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111336.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/111643.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/112032.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/112292.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/112453.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/112873.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/113439.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/113972.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/114000.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/114002.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/114004.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/116587.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/116587.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/116956.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/116976.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117047.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117080.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117083.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117445.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117469.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117474.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117855.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/117859.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118263.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118307.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118316.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118595.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118665.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118679.zip<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/118866.zip<br>
+                      <br>
+                      <br>
+                      <font size="6">Note:</font><br>
+                      Some patches are expansions and come with lots of parts, like 90000 one, you can manually download them all if u want,<br>
+                      When you click to extract the file it ask for the parts, to skip, just put all patch parts together in a folder with the main zip file.<br>
+                      <br>
+                      90000<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/90000.z01 to http://patch.swordofthenewworld.com/snwpatch/live/90000.z82<br>
+                      3mb parts<br>
+                      <br>
+                      102675<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/102675.z01 to http://patch.swordofthenewworld.com/snwpatch/live/102675.z42<br>
+                      5mb parts<br>
+                      <br>
+                      110571<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/110571.z01 to http://patch.swordofthenewworld.com/snwpatch/live/110571.z45<br>
+                      5mb parts<br>
+                      <br>
+                      116587<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/116587.z01 to http://patch.swordofthenewworld.com/snwpatch/live/116587.z15<br>
+                      15mb parts<br>
+                      <br>
+                      <br>
+                      I needed to save the patch&#39;s starting at 90000 version, i don&acute;t know if there are more patches with parts.<br>
+                      <br>
+                      <br>
+                      77000 Upon request, here are 77000<br>
+                      http://patch.swordofthenewworld.com/snwpatch/live/77000.z01 to http://patch.swordofthenewworld.com/snwpatch/live/77000.z131<br>
+                      <br>
+                      <br>
+                      <font size="6">How to manually install patches:</font><br>
+                      <br>
+                      You must download and install all patches from your version to the new version (Ex SOTNW vers. 98637, download and install all patches till actually version)<br>
+                      <br>
+                      Step 1: Copy all patches to your game directory<br>
+                      Step 2: Start the game launcher<br>
+                      Step 3: Wait it to finish updating<br>
+                      Step 4: Let&acute;s play<br>
+                      <br>
+                      <br>
+                      <font size="4">Another Way:</font><br>
+                      <br>
+                      Step 1: Create a folder<br>
+                      Step 2: Extract all patches you want on that folder(follow the patch names, Ex: First - Patch00001.zip, Second Patch000002.zip...)<br>
+                      Step 3: Copy all content inside the folder(not the folder itself) and paste on your Sword of The New World Directory<br>
+                      Step 4: Select to overwrite old files when asked to<br>
+                      Step 5: Open the file &quot;updater.revision.xml&quot;(game directory) blank it and put the number of the last patch you extracted on step 2<br>
+                      Step 6: Let&#39;s play :D<br>
+                      <br>
+                      Note: To open the file &quot;updater.revision.xml&quot; use Notepad<br>
+                      Right Click &gt; &quot;Open With&quot; &gt; &quot;Notepad&quot;.<br>
+                      <br>
+                      <font size="6">Tip:</font><br>
+                      You can use a download manager to help you, there are nice ones available for free, One that I prefer is FlashGet.<br>
+                      <br>
+                      FlashGet download link V3.3<br>
+                      http://down5.flashget.com/flashget3.3.0.1092en.exe<br>
+                      <br>
+                      FlashGet download page<br>
+                      http://www.flashget.com/en/download.htm<br>
+                      <br>
+                      FlashGot(plugin for firefox)<br>
+                      https://secure.informaction.com/download/releases/flashgot-1.2.1.15.xpi *<br>
+                      <br>
+                      FlashGot download page<br>
+                      http://flashgot.net/getit<br>
+                      <br>
+                      <br>
+                      *.xpi extension is used by Firefox to install add-ons/plugins. You don&#39;t have to save the file, just open the link with Firefox.<br>
+                      <div align="center">
+                        Sorry about english errors, A Brazilian guy wrote this page :D <font size="4"><br></font><font color="#00FF00" size="4"><br>
+                        Brazil - Soccer World Cup 2014!!</font> <font color="#00FF00" size="4">|</font> <font color="#00FF00" size="4">Summer Olympic Games 2016!!<br>
+                        <br></font>
+                        <div align="left">
+                          <font color="#333333">If you liked it, let other people know.<br></font>
+                        </div>
+                      </div><br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png?v=20111214172750</span> <a href="/account/Staphylococcus" id="WPC-action_accountMenu?account=Staphylococcus&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Manually+Update+and+Patch+Download" src="http://image.wikifoundry.com/image/1/H4wL1XsOxiXQU7cz9cUipg33004/GW050" class="imageSm" alt="Staphylococcus"></a><br>
+                        <a href="/account/Staphylococcus" id="WPC-action_accountMenu?account=Staphylococcus&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Staphylococcus</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Manually+Update+and+Patch+Download"><a href="/account/Staphylococcus" id="WPC-action_accountMenu?account=Staphylococcus&subject=Manually+Update+and+Patch+Download&from=lastPageUpdate&pageName=Manually+Update+and+Patch+Download" class="WPC-action" onclick="return false">Staphylococcus</a></span> , <span id="WPC-lastRevisionDate?cellId=Manually+Update+and+Patch+Download">Aug 8 2010, 3:44 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Staphylococcus"><img src="http://image.wikifoundry.com/image/1/H4wL1XsOxiXQU7cz9cUipg33004/GW050" class="imageSm" alt="Staphylococcus"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/Staphylococcus">Staphylococcus</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">3 words deleted</span><br></span><br>
+                        <a href="/page/Manually+Update+and+Patch+Download/diff/15,16" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Manually+Update+and+Patch+Download/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Download" title="Download" class="pageTag">Download</a> <a href="/tag/Downloads" title="Downloads" class="pageTag">Downloads</a> <a href="/tag/Old+Patch" title="Old Patch" class="pageTag">Old Patch</a> <a href="/tag/Old+Patchs" title="Old Patchs" class="pageTag">Old Patchs</a> <a href="/tag/Patch" title="Patch" class="pageTag">Patch</a> <a href="/tag/Patchs" title="Patchs" class="pageTag">Patchs</a> <a href="/tag/Patchs+for+Download" title="Patchs for Download" class="pageTag">Patchs for Download</a> <a href="/tag/Version" title="Version" class="pageTag">Version</a></span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Manually+Update+and+Patch+Download/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FManually%2BUpdate%2Band%2BPatch%2BDownload&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Manually+Update+and+Patch+Download/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?parentNodeId=contentThreadList" href="#toggle"></a></th>
+                          <th>Started&nbsp;By</th>
+                          <th width="16"></th>
+                          <th>Thread Subject</th>
+                          <th>Replies</th>
+                          <th class="farRightCell">Last Post</th>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/4039961/NdK"><b>NdK</b></a></td>
+                          <td align="center">0</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Jun 28 2010, 6:17 PM EDT</span> by Anonymous</td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA1" style="">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB1">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jun 28 2010, 6:17 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=4039961&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                77000.zip<br>
+                                77000.z01 ---&gt;&gt;&gt; 77000.z131<br>
+                                132 parts &gt;.&lt;
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4039961&post=31927689"><span id="agreeCount?thread=4039961&post=31927689">0</span> &nbsp;out of <span id="totalCount?thread=4039961&post=31927689">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4039961&post=31927689" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4039961&post=31927689">Do you? <a id="WPC-action_rateThread?thread=4039961&post=31927689&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4039961&post=31927689&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Download" title="Download" class="pageTag">Download</a> <a href="/tag/Downloads" title="Downloads" class="pageTag">Downloads</a> <a href="/tag/Old+Patch" title="Old Patch" class="pageTag">Old Patch</a> <a href="/tag/Old+Patchs" title="Old Patchs" class="pageTag">Old Patchs</a> <a href="/tag/Patch" title="Patch" class="pageTag">Patch</a> <a href="/tag/Patchs" title="Patchs" class="pageTag">Patchs</a> <a href="/tag/Patchs+for+Download" title="Patchs for Download" class="pageTag">Patchs for Download</a> <a href="/tag/Version" title="Version" class="pageTag">Version</a></span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread1" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="altRow">
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/4032902/Patches"><b>Patches</b></a></td>
+                          <td align="center">2</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Jun 28 2010, 6:41 AM EDT</span> by <a href="/account/roguen1" id="WPC-action_accountMenu?account=roguen1&subject=Patches&from=threadFirstAccount4032902&threadId=4032902" class="WPC-action" onclick="return false">roguen1</a></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA2" style="">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB2">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jun 25 2010, 1:25 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=4032902&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                Is it necessary to download every single patch, or can I just download the last one, assuming it is the most recent?
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4032902&post=31829334"><span id="agreeCount?thread=4032902&post=31829334">0</span> &nbsp;out of <span id="totalCount?thread=4032902&post=31829334">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4032902&post=31829334" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4032902&post=31829334">Do you? <a id="WPC-action_rateThread?thread=4032902&post=31829334&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4032902&post=31829334&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Download" title="Download" class="pageTag">Download</a> <a href="/tag/Downloads" title="Downloads" class="pageTag">Downloads</a> <a href="/tag/Old+Patch" title="Old Patch" class="pageTag">Old Patch</a> <a href="/tag/Old+Patchs" title="Old Patchs" class="pageTag">Old Patchs</a> <a href="/tag/Patch" title="Patch" class="pageTag">Patch</a> <a href="/tag/Patchs" title="Patchs" class="pageTag">Patchs</a> <a href="/tag/Patchs+for+Download" title="Patchs for Download" class="pageTag">Patchs for Download</a> <a href="/tag/Version" title="Version" class="pageTag">Version</a></span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread2" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div><a href="#lastReply" onclick="document.getElementById('threadLastReply4032902').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                                <div style="margin-top:10px;">
+                                  <div id="threadLastReply4032902" style="display:none;padding-top:10px;">
+                                    <table>
+                                      <tr>
+                                        <td>
+                                          <a href="/account/roguen1" id="WPC-action_accountMenu?account=roguen1&subject=Patches&from=threadImg4032902&threadId=4032902" class="WPC-action" onclick="return false"></a>
+                                          <div title="no profile image available" class="avatarMissing"></div>
+                                        </td>
+                                        <td width="100%">
+                                          <b>Last Reply:</b><br>
+                                          <a href="/thread/4032902/Patches?offset=0#post31904572"><b>RE: Patches</b></a><br>
+                                          <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/roguen1" id="WPC-action_accountMenu?account=roguen1&subject=Patches&from=threadFirstAccount4032902&threadId=4032902" class="WPC-action" onclick="return false">roguen1</a>, Jun 28 2010, 6:41 AM EDT</span>
+                                          <div style="margin-top:10px;">
+                                            Yes, otherwise you would have to download a 1gb patch all the time a new update get released...
+                                          </div>
+                                          <div style="margin-top:10px;">
+                                            <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=4032902&post=31904572"><span id="agreeCount?thread=4032902&post=31904572">0</span> &nbsp;out of <span id="totalCount?thread=4032902&post=31904572">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=4032902&post=31904572" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=4032902&post=31904572">Do you? <a id="WPC-action_rateThread?thread=4032902&post=31904572&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=4032902&post=31904572&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/3972275/77000.z%3F"><b>77000.z?</b></a></td>
+                          <td align="center">0</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">May 30 2010, 12:08 PM EDT</span> by Anonymous</td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA3" style="">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB3">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;May 30 2010, 12:08 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=3972275&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                How do I get all of the parts for the 77000.z
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3972275&post=31119343"><span id="agreeCount?thread=3972275&post=31119343">0</span> &nbsp;out of <span id="totalCount?thread=3972275&post=31119343">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3972275&post=31119343" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=3972275&post=31119343">Do you? <a id="WPC-action_rateThread?thread=3972275&post=31119343&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3972275&post=31119343&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Download" title="Download" class="pageTag">Download</a> <a href="/tag/Downloads" title="Downloads" class="pageTag">Downloads</a> <a href="/tag/Old+Patch" title="Old Patch" class="pageTag">Old Patch</a> <a href="/tag/Old+Patchs" title="Old Patchs" class="pageTag">Old Patchs</a> <a href="/tag/Patch" title="Patch" class="pageTag">Patch</a> <a href="/tag/Patchs" title="Patchs" class="pageTag">Patchs</a> <a href="/tag/Patchs+for+Download" title="Patchs for Download" class="pageTag">Patchs for Download</a> <a href="/tag/Version" title="Version" class="pageTag">Version</a></span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread3" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="http://static.wikifoundry.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      Showing 3 of 3 threads for this page
+                    </div><span id="threadCounter" title="4" style="display:none"></span>
+                  </div>
+                  <div id="relatedContent" class="pageSection">
+                    <div class="pageSectionHeader">
+                      <div class="pageSectionHeaderContainer">
+                        <h4>Related Content</h4>&nbsp; (<span class="WPC-tooltip-trigger"><a href="#tooltip" tabindex="-1" onclick="return false">what's this?</a><span class="WPC-tooltip-title">Related Content</span><span class="WPC-tooltip-content">Thanks to keyword tags, links to related pages and threads are added to the bottom of your pages. Up to 15 links are shown, determined by matching tags and by how recently the content was updated; keeping the most current at the top. Share your feedback on WikiFoundry Central.</span></span>)
+                      </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="tableList">
+                      <table style="border-bottom:0px;">
+                        <tr class="altRow">
+                          <td width="33%"><a href="/page/Patch+v5.0+Changes" class="WPC-tool WPC-tool-content WPC-indicate">Patch v5.0 Changes</a></td>
+                          <td width="33%"><a href="/thread/5092048/The+New+Sword+2+is+now+Granado+Espada+Online" class="WPC-tool WPC-tool-thread WPC-indicate">The New Sword 2 is now Granado Espada Online</a></td>
+                          <td width="33%"><a href="/thread/4972580/Patch+Version" class="WPC-tool WPC-tool-thread WPC-indicate">Patch Version</a></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><a href="/thread/4914513/Admins" class="WPC-tool WPC-tool-thread WPC-indicate">Admins</a></td>
+                          <td width="33%"><a href="/thread/4603954/Leveling+Guides" class="WPC-tool WPC-tool-thread WPC-indicate">Leveling Guides</a></td>
+                          <td width="33%"><a href="/thread/4500473/Report+bugs" class="WPC-tool WPC-tool-thread WPC-indicate">Report bugs</a></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td width="33%"><a href="/thread/4039961/NdK" class="WPC-tool WPC-tool-thread WPC-indicate">NdK</a></td>
+                          <td width="33%"><a href="/thread/4032902/Patches" class="WPC-tool WPC-tool-thread WPC-indicate">Patches</a></td>
+                          <td width="33%"><a href="/thread/3972275/77000.z%3F" class="WPC-tool WPC-tool-thread WPC-indicate">77000.z?</a></td>
+                        </tr>
+                        <tr>
+                          <td width="33%"><a href="/thread/3318378/Fan+Sites" class="WPC-tool WPC-tool-thread WPC-indicate">Fan Sites</a></td>
+                          <td width="33%"></td>
+                          <td width="33%"></td>
+                        </tr>
+                      </table><br>
+                    </div>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download" class="current">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

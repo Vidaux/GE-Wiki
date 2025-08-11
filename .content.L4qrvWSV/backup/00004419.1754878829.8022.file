@@ -1,0 +1,619 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Scout Stances and Skills - Page History - Wiki of the new world</title>
+  <meta name="keywords" content="Scout Stances and Skills - Page History - Wiki of the new world, acceleration,assassin,Bard,Blade Squall,Critical Disease,Cure-all,Dagger Throw,Dance of Death,detection,Dos Cuchillos,Execute,explosion,Fortify">
+  <meta name="description" content="Wiki of the new world">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+        //<![CDATA[
+                var inits = {"BUILD_DATE" : '20080124092559',"WIKI_NAME" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the new world',"WIKI_PPA_URL" : '',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Scout Stances and Skills',"PAGE_URI" : '/page/Scout+Stances+and+Skills',"PAGE_VERSION" : '14',"PAGE_LATEST_VERSION" : '14',"UX" : 'wp',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"ACCOUNT_NAME" : '',"ACTION" : '',"SAVE_PATH" : '/page/Scout+Stances+and+Skills',"SAVE_TYPE" : 'page',"DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"BREADCRUMBS" : ['Wiki Of The New World','Sword of the New World Classes','Scout','Scout Stances and Skills']};
+        //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+</head>
+<body>
+  <script language="JavaScript">
+
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdSense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  </script> 
+  <script language="JavaScript">
+
+
+        wp_ads.noAdSense = '';
+        if( ( ( (self.innerWidth) ? self.innerWidth : document.body.parentNode.clientWidth ) - 470 ) > 728 ){
+                wp_ads.center = 'Center_728x90' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.center);
+                GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_ad_channel","3000000144,3000000109,3000000172,3000000029");
+        } else {
+                wp_ads.center = 'Center_468x60' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.center);
+                GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_ad_channel","3000000144,3000000085,3000000171,3000000008");
+        }
+        wp_ads.left = 'Left_160x600' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+        wp_ads.right = 'Right_160x600' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.right);
+        GA_googleAddAdSenseSlotAttr(wp_ads.right, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("UX","Wetpaint");
+        GA_googleAddAttr("WikiName","sotnw");
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+
+        
+        GA_googleFetchAds();
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Wiki</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li style="float:none; clear:both"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/1/ywnfECjxV_-a2O_NxK-_LQ26973" alt="Wiki of the new world" title="Wiki of the new world" id="headerImage"></a></h1>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <table>
+                  <tr>
+                    <td class="firstInnerCell">
+                      <div id="contentTitle">
+                        <h1><a href="/page/Scout+Stances+and+Skills">Scout Stances and Skills</a> |</h1>
+                        <h2>Version Compare</h2>
+                        <p><a href="/page/Scout+Stances+and+Skills/history">Back to page history</a></p>
+                      </div>
+                    </td>
+                    <td class="secondInnerCell">
+                      <div class="innerColumn">
+                        <div id="userToolbox" class="panel join">
+                          <div class="panelContent">
+                            Become a member of the <i>Wiki of the new world</i> community.
+                            <center>
+                              <button id="action_join" class="submit action" style="margin:.5em 0 .5em 0">Join This Wiki</button>
+                            </center>Already a member?&nbsp;<a href="#signin" id="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;">Sign in</a>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <div id="versionCompareSummary">
+                  <table>
+                    <tr class="header">
+                      <th>Version</th>
+                      <th>User</th>
+                      <th>Scope of changes</th>
+                    </tr>
+                    <tr>
+                      <td><a href="/page/Scout+Stances+and+Skills/revision/14">Dec 4 2007, 2:00 AM EST</a> (current)</td>
+                      <td><a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Scout+Stances+and+Skills&from=revisionDiffstatus1&role=Registered User&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2FJC8IZa7C7IwKnkKxQfGWDQ24692%2FGW050&pageName=Scout+Stances+and+Skills" class="action" onclick="return false">mooferz</a></td>
+                      <td>1 word added, 1 word deleted</td>
+                    </tr>
+                    <tr class="altRow">
+                      <td><a href="/page/Scout+Stances+and+Skills/revision/13">Dec 4 2007, 2:00 AM EST</a></td>
+                      <td><a href="/account/mooferz" id="action_accountMenu?account=mooferz&subject=Scout+Stances+and+Skills&from=revisionDiffstatus2&role=Registered User&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2FJC8IZa7C7IwKnkKxQfGWDQ24692%2FGW050&pageName=Scout+Stances+and+Skills" class="action" onclick="return false">mooferz</a></td>
+                      <td>6 words added, 3 words deleted</td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="versionCompareHead">
+                  <h2>Changes</h2>
+                  <div class="revisionsKey">
+                    Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                  </div>
+                </div>
+                <div id="versionCompareContent">
+                  <table align="bottom" cellpadding="3" class="wp-border-rows" width="400">
+                    <tbody>
+                      <tr>
+                        <td width="33%">Stance Name</td>
+                        <td width="33%">Weapons Equipped</td>
+                        <td width="33%">Level Useable</td>
+                      </tr>
+                      <tr>
+                        <td width="33%">Medic</td>
+                        <td width="33%">&lt;none&gt;</td>
+                        <td align="center" width="33%">1</td>
+                      </tr>
+                      <tr>
+                        <td width="33%">Bard</td>
+                        <td width="33%">&lt;none&gt;</td>
+                        <td align="center" width="33%">18</td>
+                      </tr>
+                      <tr>
+                        <td width="33%">Trapper</td>
+                        <td width="33%">&lt;none&gt;</td>
+                        <td align="center" width="33%">18</td>
+                      </tr>
+                      <tr>
+                        <td width="33%">Assassin</td>
+                        <td width="33%">Dagger</td>
+                        <td align="center" width="33%">1</td>
+                      </tr>
+                      <tr>
+                        <td width="33%">Dos Cuchillos</td>
+                        <td width="33%">Two Daggers</td>
+                        <td align="center" width="33%">1</td>
+                      </tr>
+                    </tbody>
+                  </table><br>
+                  <div align="center">
+                    <b>Skill List at a Glance<br></b>
+                    <div align="left">
+                      <br>
+                      <i><u>Medic</u></i> - *Information is from In-game; Testing needs to be done to determine the exact targets eg. all friendly targets or squad ~Freon*
+                    </div>
+                    <div align="left">
+                      <table align="bottom" cellpadding="3" class="wp-border-rows" height="208" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" class="" width="14%"><b>Skill Name<br></b></td>
+                            <td align="center" class="" width="14%"><b>Stance Level<br></b></td>
+                            <td align="center" class="" width="14%"><b>SP Cost<br></b></td>
+                            <td align="center" class="" width="14%"><b>Item Used<br></b></td>
+                            <td align="center" class="" width="14%"><b>Description<br></b></td>
+                            <td align="center" width="14%"><b>Targets<br></b></td>
+                            <td align="center" class="" width="14%"><b>Classification<br></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="14%"><i><span class="diffRemove">Recover</span><span class="diffAdd">Antidote</span><br></i></td>
+                            <td align="center" class="" width="14%">4</td>
+                            <td align="center" class="" width="14%">25</td>
+                            <td align="center" class="" width="14%">Antidote (1)</td>
+                            <td align="center" class="" width="14%">Cures various maladies of the entire team</td>
+                            <td align="center" width="14%">All Characters within 10m and all Squad Members</td>
+                            <td align="center" class="" width="14%">Condition Removal; 10m effective range</td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="14%"><i>Life&#39;s Breath<br></i></td>
+                            <td align="center" class="" width="14%">8</td>
+                            <td align="center" class="" width="14%">25</td>
+                            <td align="center" class="" width="14%">Resurrective Potion (1)</td>
+                            <td align="center" class="" width="14%">Revives an incapacitated character</td>
+                            <td align="center" width="14%">Incapacitated Character</td>
+                            <td align="center" class="" width="14%">Resurrect; Single-target</td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="14%"><i>Greater Heal<br></i></td>
+                            <td align="center" class="" width="14%">12</td>
+                            <td align="center" class="" width="14%">50</td>
+                            <td align="center" class="" width="14%">Healing Liquor (1)</td>
+                            <td align="center" class="" width="14%">Recovers a large amount of the target&#39;s HP</td>
+                            <td align="center" width="14%">Friendly Target (1)</td>
+                            <td align="center" class="" width="14%">Heal; Single-target</td>
+                          </tr>
+                          <tr>
+                            <td align="center" class="" width="14%"><i>Mass Heal<br></i></td>
+                            <td align="center" class="" width="14%">16</td>
+                            <td align="center" class="" width="14%">100</td>
+                            <td align="center" class="" width="14%">Healing Potion (3)</td>
+                            <td align="center" class="" width="14%">Recovers the HP of the entire team</td>
+                            <td align="center" width="14%">All Characters within 10m</td>
+                            <td align="center" class="" width="14%">Heal; 10m effective range</td>
+                          </tr>
+                        </tbody>
+                      </table><br>
+                      <br>
+                      <div align="left">
+                        <i><u>Bard</u></i>
+                      </div>
+                      <table align="center" cellpadding="3" class="wp-border-rows" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" width="14%"><b>Skill Name</b></td>
+                            <td align="center" width="14%"><b>Stance Level</b></td>
+                            <td align="center" width="14%"><b>SP Cost<br></b></td>
+                            <td align="center" width="14%"><b>Item Used<br></b></td>
+                            <td align="center" width="14%"><b>Description<br></b></td>
+                            <td align="center" width="14%"><b>Targets</b></td>
+                            <td align="center" width="14%"><b>Classification<br></b></td>
+                          </tr>
+                          <tr>
+                            <td align="center" width="14%"><i>Intensify<br></i></td>
+                            <td align="center" width="14%">1</td>
+                            <td align="center" width="14%">100</td>
+                            <td align="center" width="14%">Mitridart (1)</td>
+                            <td align="center" width="14%">Increases Offensive Power of Entire Team</td>
+                            <td align="center" width="14%">All characters within 10m and all squad members</td>
+                            <td align="center" width="14%">Offensive Buff; 10m effective range</td>
+                          </tr>
+                          <tr>
+                            <td align="center" width="14%"><i>Fortify<br></i></td>
+                            <td align="center" width="14%">8</td>
+                            <td align="center" width="14%">100</td>
+                            <td align="center" width="14%">Painkiller (1)</td>
+                            <td align="center" width="14%">Increases maximum HP of the entire team. Does not stack with <i>Acceleration</i></td>
+                            <td align="center" width="14%">All characters within 10m and all squad members</td>
+                            <td align="center" width="14%">HP Buff; 10m effective range</td>
+                          </tr>
+                          <tr>
+                            <td align="center" width="14%"><i>Acceleration<br></i></td>
+                            <td align="center" width="14%">12</td>
+                            <td align="center" width="14%">100</td>
+                            <td align="center" width="14%">Analeptic Remedy (1)</td>
+                            <td align="center" width="14%">Increases attack speed and movement speed of entire team. Does not stack with <i>Fortify</i></td>
+                            <td align="center" width="14%">All characters within 10m and all squad members</td>
+                            <td align="center" width="14%">Offensive Buff; 10m effective range</td>
+                          </tr>
+                          <tr>
+                            <td align="center" width="14%"><i>Meditation<br></i></td>
+                            <td align="center" width="14%">16</td>
+                            <td align="center" width="14%">100</td>
+                            <td align="center" width="14%">Food (1)</td>
+                            <td align="center" width="14%">Increases the Regeneration of HP and Sp of the entire team</td>
+                            <td align="center" width="14%">All characters within 10m and all squad members</td>
+                            <td align="center" width="14%">Regen Buff; 10m effective range</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <div align="left">
+                        <br>
+                        <br>
+                        <i><u>Trapper</u></i><br>
+                        <table align="bottom" cellpadding="3" class="wp-border-rows" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" width="14%"><b>Skill Name<br></b></td>
+                              <td align="center" width="14%"><b>Stance Level<br></b></td>
+                              <td align="center" width="14%"><b>SP Cost<br></b></td>
+                              <td align="center" width="14%"><b>Item Used<br></b></td>
+                              <td align="center" width="14%"><b>Description<br></b></td>
+                              <td align="center" width="14%"><b>Targets<br></b></td>
+                              <td align="center" width="14%"><b>Classification<br></b></td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="14%"><i>Detection<br></i></td>
+                              <td align="center" width="14%">1</td>
+                              <td align="center" width="14%">50</td>
+                              <td align="center" width="14%">&lt;none&gt;</td>
+                              <td align="center" width="14%">Cancels invisibility of all surrounding characters and detects hidden traps</td>
+                              <td align="center" width="14%">All characters and traps within 15m</td>
+                              <td align="center" width="14%">Debuff; 15m effective range</td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="14%"><i>Plague Cloud<br></i></td>
+                              <td align="center" width="14%">8</td>
+                              <td align="center" width="14%">75</td>
+                              <td align="center" width="14%">Integration Equipment Box (1)</td>
+                              <td align="center" width="14%">Trap which causes <u>Poisoning</u> and continues to damage enemies as the poison cloud spreads</td>
+                              <td align="center" width="14%">Installation in the designated ground</td>
+                              <td align="center" width="14%">Trap; Poison Condition</td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="14%"><i>Razor Web<br></i></td>
+                              <td align="center" width="14%">12</td>
+                              <td align="center" width="14%">75</td>
+                              <td align="center" width="14%">Integration Equipment Box (1)</td>
+                              <td align="center" width="14%">Trap of sharp &#39;Silver Needles&#39; which physically damages passing enemies, including air units</td>
+                              <td align="center" width="14%">Installation in the designated ground</td>
+                              <td align="center" width="14%">Trap; Physical damage</td>
+                            </tr>
+                            <tr>
+                              <td align="center" width="14%"><i>Explosion<br></i></td>
+                              <td align="center" width="14%">16</td>
+                              <td align="center" width="14%">100</td>
+                              <td align="center" width="14%">Integration Equipment Box (2)</td>
+                              <td align="center" width="14%">Strong explosive trap designed to defend against multiple enemy attacks</td>
+                              <td align="center" width="14%">Installation in the designated ground</td>
+                              <td align="center" width="14%">Trap; AoE?</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </div><i><u>Assassin</u></i><br>
+                  <table align="bottom" cellpadding="3" class="wp-border-rows" width="100%">
+                    <tbody>
+                      <tr>
+                        <td align="center" width="14%"><b>Skill Name<br></b></td>
+                        <td align="center" width="14%"><b>Stance Level<br></b></td>
+                        <td align="center" width="14%"><b>SP Cost<br></b></td>
+                        <td align="center" width="14%"><b>Weapon Used<br></b></td>
+                        <td align="center" width="14%"><b>Description<br></b></td>
+                        <td align="center" width="14%"><b>Target(s)<br></b></td>
+                        <td align="center" width="14%"><b>Classification<br></b></td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="14%"><i>Scrag<br></i></td>
+                        <td align="center" width="14%">1</td>
+                        <td align="center" width="14%">100</td>
+                        <td align="center" width="14%">Dagger</td>
+                        <td align="center" width="14%">Stab an enemy, slash upward to penetrate defense, then shove backwards to stun</td>
+                        <td align="center" width="14%">Adjacent enemy (1)</td>
+                        <td align="center" width="14%">Armor piercing; Single-target; Single-weapon attack</td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="14%"><i>Execute<br></i></td>
+                        <td align="center" width="14%">10</td>
+                        <td align="center" width="14%">200</td>
+                        <td align="center" width="14%">Dagger</td>
+                        <td align="center" width="14%">Unleash a flurry of slashes against one opponent</td>
+                        <td align="center" width="14%">Adjacent enemy (1)</td>
+                        <td align="center" width="14%">Single-target; Single-weapon attack</td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="14%"><i>Scythe<br></i></td>
+                        <td align="center" width="14%">15</td>
+                        <td align="center" width="14%">250</td>
+                        <td align="center" width="14%">Dagger</td>
+                        <td align="center" width="14%">Slice through a line of enemies with a chance to stun</td>
+                        <td align="center" width="14%">Enemies (5) within the front 8m x width 60cm</td>
+                        <td align="center" width="14%">Straight-line thrust; Single-weapon attack;</td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="14%"><i>Heartjab<br></i></td>
+                        <td align="center" width="14%">20</td>
+                        <td align="center" width="14%">300</td>
+                        <td align="center" width="14%">Dagger</td>
+                        <td align="center" width="14%">Impale an enemy&#39;s weak spots for high damage</td>
+                        <td align="center" width="14%">Adjacent enemy (1)</td>
+                        <td align="center" width="14%">Armor piercing; Single-target; Single-weapon attack</td>
+                      </tr>
+                    </tbody>
+                  </table><br>
+                  <br>
+                  <i><u>Dos Cuchillos</u></i><br>
+                  <table align="bottom" cellpadding="3" class="wp-border-rows" height="204" width="100%">
+                    <tbody>
+                      <tr>
+                        <td width="13%"><i>Slashback</i></td>
+                        <td width="12%">1</td>
+                        <td align="center" width="13%">100</td>
+                        <td align="center" width="13%">Dual Daggers</td>
+                        <td align="center" width="15%">Salsh and stab an enemy with both daggers</td>
+                        <td align="center" width="12%">Adjacent enemy (1)</td>
+                        <td align="center" width="18%">Single-target, dual-weapon attack</td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="13%"><i>Dagger Throw</i></td>
+                        <td align="center" width="12%">10</td>
+                        <td align="center" width="13%">200</td>
+                        <td align="center" width="13%">Dual Daggers</td>
+                        <td align="center" width="15%">Repeatedly throw daggers from both hands at a target</td>
+                        <td align="center" width="12%">Enemy (1) within 8m</td>
+                        <td align="center" width="18%">Single target, dual-weapon attack</td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="13%"><i>Dance of Death</i></td>
+                        <td align="center" width="12%">15</td>
+                        <td align="center" width="13%">250</td>
+                        <td align="center" width="13%">Dual Daggers</td>
+                        <td align="center" width="15%">Lunge at a group of enemies with a powerful spinning attack</td>
+                        <td align="center" width="12%">Enemies (9) within the front 7.2m x width 60cm</td>
+                        <td align="center" width="18%">Straight-line thrust, dual-weapon attack</td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="13%"><i>Blade Squall</i></td>
+                        <td align="center" width="12%">20</td>
+                        <td align="center" width="13%">300</td>
+                        <td align="center" width="13%">Dual Daggers</td>
+                        <td align="center" width="15%">Furious double dagger toss attacks multiple enemies</td>
+                        <td align="center" width="12%">Enemies (6) within 9m and 3m radius</td>
+                        <td align="center" width="18%">Multiple target, dual-weapon attack</td>
+                      </tr>
+                    </tbody>
+                  </table><br>
+                  <br>
+                  Return to: <a href="/page/Scout" target="_self">Scout</a><br>
+                </div><br class="clear">
+                <br class="clear">
+                <div class="ads adscenter">
+                  <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.center);
+                  </script>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch">
+              <form method="get" action="/pageSearch" onsubmit="if(this.contains.value=='Search this wiki') this.contains.value = '';">
+                <input type="text" class="text" name="contains" maxlength="99" value="Search this wiki" onfocus="if(this.value=='Search this wiki') this.value = '';"><input type="submit" name="submit" class="submit" title="submit" value=" ">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this wiki.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Navigation
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/Maps+%2F+Area+Info" rel="4">Maps / Area Info</a></li>
+                            <li>
+                              <a href="/page/Sword+of+the+New+World+Classes" rel="6">Sword of the New World Classes</a>
+                              <ul>
+                                <li><a href="/page/Fighter" rel="1">Fighter</a></li>
+                                <li><a href="/page/Wizard" rel="1">Wizard</a></li>
+                                <li><a href="/page/Musketeer" rel="1">Musketeer</a></li>
+                                <li>
+                                  <a href="/page/Scout" rel="1">Scout</a>
+                                  <ul>
+                                    <li><a href="/page/Scout+Stances+and+Skills" class="current">Scout Stances and Skills</a></li>
+                                  </ul>
+                                </li>
+                                <li><a href="/page/Elementalist" rel="1">Elementalist</a></li>
+                                <li><a href="/page/Inherent+Skill+List">Inherent Skill List</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Crafting" rel="2">Crafting</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Items" rel="6">Sword of the New World Items</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Guides" rel="10">Sword of the New World Guides</a></li>
+                            <li><a href="/page/Monsters" rel="6">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="37">Quests</a></li>
+                            <li><a href="/page/UPC%27s" rel="2">UPC&#039;s</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Equipment+Upgrade">Equipment Upgrade</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/The+Weapon+vs.+Armor+effect">The Weapon vs. Armor effect</a></li>
+                            <li><a href="/page/Character+Attributes">Character Attributes</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div style="margin: 0px -10px 0px -10px;">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div class="panelButtons">
+              <div class="panel">
+                <div class="panelContent">
+                  <a href="/thread" class="btn_discussion">Discussion Forum</a>
+                </div>
+              </div>
+              <div class="panel">
+                <div class="panelContent">
+                  <a href="/todos/updated" class="btn_reports">To-Dos &amp; Activity Reports</a>
+                </div>
+              </div>
+            </div>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint wiki" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a wiki
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Australia Travel Wiki</span></li>
+            <li><span>eQuotes - A Famous Quotes Wiki</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Better Recipes</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wikis &nbsp;or&nbsp;create your own&nbsp;free Wetpaint&nbsp;wiki.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20080124092559" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  </script> 
+  <script type="text/javascript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='web15.wetpaint.com';s_w.channel='pageDiff';s_w.pageType='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(461/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='pageDiff';s_w.eVar11='registered';s_w.eVar12=(inits['SITES_COUNT']) ? inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(inits['AB_TEST'] == 0) ? 'na' : (inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script>
+</body>
+</html>

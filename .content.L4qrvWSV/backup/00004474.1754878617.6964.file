@@ -1,0 +1,681 @@
+<html>
+<head>
+  <title>Selva Norte - Page History - Wiki of the New World</title>
+  <meta name="keywords" content="Selva Norte - Page History - Wiki of the New World, norte,selva" />
+  <meta name="description" content="Wiki of the New World - Selva Norte - Page History" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Selva Norte',"PAGE_URI" : '/page/Selva+Norte',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','UPCs','Character','Selva Norte']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090923163641" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Leaderboard' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnCategory">
+            <li class="gn first"><a href="/">Home</a></li>
+            <li class="gn"><a href="/forum">Discussions</a></li>
+            <li class="gn"><a href="/photos">Photos</a></li>
+            <li class="gn"><a href="/videos">Videos</a></li>
+            <li class="gn"><a href="/news">News</a></li>
+            <li class="gn"><a href="/whatsnew">Updates</a></li>
+            <li class="gn"><a href="/droplets">Droplets</a></li>
+            <li class="gn"><a href="/accountSearch/all">Members</a></li>
+            <li class="gn"><a href="#invite" id="WPC-action_invite?from=gNav" class="WPC-action" name="WPC-action_invite?from=gNav">Invite</a></li>
+          </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png" class="signup-button" /></div>
+            </div>
+          </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+          <div class="clear"></div>
+        </div>
+        <div id="adsTop">
+          <div class="ads adstop">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            //]]>
+            </script>
+          </div>
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+            //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            //]]>
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Selva+Norte">Selva Norte</a> |</h1>
+                    <h2>Version Compare</h2>
+                    <p><a href="/page/Selva+Norte/history">Back to page history</a></p>
+                  </div>
+                  <div id="versionCompareSummary">
+                    <table>
+                      <tr class="header">
+                        <th>Version</th>
+                        <th>User</th>
+                        <th>Scope of changes</th>
+                      </tr>
+                      <tr>
+                        <td><a href="/page/Selva+Norte/revision/14">Jun 16 2009, 11:37 AM EDT</a> (current)</td>
+                        <td><a href="/account/Ashardalon" id="WPC-action_accountMenu?account=Ashardalon&subject=Selva+Norte&from=revisionDiffstatus1&pageName=Selva+Norte" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Ashardalon&subject=Selva+Norte&from=revisionDiffstatus1&pageName=Selva+Norte">Ashardalon</a></td>
+                        <td>262 words added, 182 words deleted</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a href="/page/Selva+Norte/revision/13">Mar 20 2009, 12:14 AM EDT</a></td>
+                        <td><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Selva+Norte&from=revisionDiffstatus2&pageName=Selva+Norte" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Selva+Norte&from=revisionDiffstatus2&pageName=Selva+Norte">Reuper</a></td>
+                        <td>2 words added, 6 words deleted</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="versionCompareHead">
+                    <h2>Changes</h2>
+                    <div class="revisionsKey">
+                      Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                    </div>
+                  </div>
+                  <div id="versionCompareContent" class="WPC-editableContent">
+                    <img align="bottom" alt="Selva Norte" height="150" src="http://image.wetpaint.com/image/1/18ZmoOajhy3-TYazErlMHQ21123/GW120H150" title="Selva Norte" width="120" /><br />
+                    -----------------------------------------------------------------------------------------------------------------------------------------<br />
+                    <br />
+                    <font size="2"><b>Character Level</b>: 60<br />
+                    <b>Location</b>: Katovic Snowfield(?)<br />
+                    <b>Job</b>: Wanderer (Researching Ferruccio&#39;s Legacy)<br />
+                    <b>Armor</b>: <span class="diffRemove">Leather</span><span class="diffAdd">Leather-Fig, Leather-Fig/Sco</span><br />
+                    <b>Weapon Usage</b>: Rapiers, Swords, Armshield<br />
+                    <b>Status</b>:<br /></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="400">
+                      <tbody>
+                        <tr>
+                          <td align="center" width="16%"><font size="2"><b><font color="#FF0000">Str</font></b><br /></font></td>
+                          <td align="center" width="16%"><font size="2"><b><font color="#FF0000">Agi</font></b><br /></font></td>
+                          <td align="center" width="16%"><font size="2"><b><font color="#FF0000">Con</font></b><br /></font></td>
+                          <td align="center" width="16%"><font size="2"><b><font color="#FF0000">Dex</font></b><br /></font></td>
+                          <td align="center" width="16%"><font size="2"><b><font color="#FF0000">Int</font></b><br /></font></td>
+                          <td align="center" width="16%"><font size="2"><b><font color="#FF0000">Cha</font></b><br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="16%"><font size="2">7<br /></font></td>
+                          <td align="center" width="16%"><font size="2">7<br /></font></td>
+                          <td align="center" width="16%"><font size="2">5<br /></font></td>
+                          <td align="center" width="16%"><font size="2">5<br /></font></td>
+                          <td align="center" width="16%"><font size="2">5<br /></font></td>
+                          <td align="center" width="16%"><font size="2">3<br /></font></td>
+                        </tr>
+                      </tbody>
+                    </table><font size="2"><br />
+                    <b>Stances</b>:</font><br />
+                    <ol>
+                      <li><font size="2">Epee Guard (Rapier) (Armshield optional)<br /></font></li>
+                      <li><font size="2">Back Guard (Sword) (Armshield optional)<br /></font></li>
+                      <li><font size="2">High Guard (Sword and Armshield)<br /></font></li>
+                      <li><font size="2">Cauchemar (Rapier and Armshield)<br /></font></li>
+                      <li><font size="2">Rapida Espada (Sword and Armshield)<br /></font></li>
+                    </ol><br />
+                    <img align="left" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/k5FcNC1kJkmXxFITLaSFlg18596/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><font size="3"><b>Cauchemar</b></font><br />
+                    <font size="2">To enable: Equip a rapier and an armshield. Epee Guard must be at LV25.</font><br />
+                    <font size="2">Default Bonus: N/A<br />
+                    Bonus at Stance Level 25: +16% attack speed, +30% crit<br />
+                    <br /></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-rows" width="100%">
+                      <tbody>
+                        <tr>
+                          <td align="center" width="14%"><b><font size="2">Skill Name<br /></font></b></td>
+                          <td align="center" width="14%"><b><font size="2">Stance Level<br /></font></b></td>
+                          <td align="center" width="14%"><b><font size="2">SP Cost<br /></font></b></td>
+                          <td align="center" width="14%"><b><font size="2">Cast/Cool<br />
+                          (sec)<br /></font></b></td>
+                          <td align="center" width="14%"><b><font size="2">Targets<br /></font></b></td>
+                          <td align="center" width="14%"><b><font size="2">Classification<br /></font></b></td>
+                          <td align="center" width="14%"><b><font size="2">Damage/Duration<br /></font></b></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i><font size="2">Vampiric Obsession<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/5YofnSlzrx6D57WVbV2nuQ1669/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></font></i></td>
+                          <td align="center" width="14%"><font size="2">4<br /></font></td>
+                          <td align="center" width="14%"><font size="2">150<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Cast time: 1<br />
+                          Cooldown: 15<br /></font></td>
+                          <td align="center" width="14%"><font size="2">1 enemy within 6m<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Hold, knockdown<br /></font></td>
+                          <td align="center" width="14%"><font size="2">LV1: 249%<br />
+                          LV10: 453%<br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i><font size="2">Insanity<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/cgZodUPfphlRspGRoEBswg2197/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></font></i></td>
+                          <td align="center" width="14%"><font size="2">8<br /></font></td>
+                          <td align="center" width="14%"><font size="2">200<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Cast time: 1.7<br />
+                          Cooldown: 10<br /></font></td>
+                          <td align="center" width="14%"><font size="2">6 enemies within a 6m radius 40</font>&deg; <font size="2">ahead of self</font></td>
+                          <td align="center" width="14%"><font size="2">Hold, AoE, knockdown<br /></font></td>
+                          <td align="center" width="14%"><font size="2">LV1: 284%<br />
+                          LV10: 516%<br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i><font size="2">Death Crest<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/E5P_lHosXKljiPZlIRurkQ2196/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></font></i></td>
+                          <td align="center" width="14%"><font size="2">16<br /></font></td>
+                          <td align="center" width="14%"><font size="2">250<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Cast time: N/A<br />
+                          Cooldown: 15<br /></font></td>
+                          <td align="center" width="14%"><font size="2">1 enemy<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Hold, ignores 30 of enemy&#39;s defense, 15% chance of &quot;Shock&quot; debuff<br /></font></td>
+                          <td align="center" width="14%"><font size="2">LV1: 980%<br />
+                          LV10: 1781%<br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i><font size="2">Eternal Tempest<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/W9gZyq46gnZBqEXuginZGA2030/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></font></i></td>
+                          <td align="center" width="14%"><font size="2">20<br /></font></td>
+                          <td align="center" width="14%"><font size="2">300<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Cast time: N/A<br />
+                          Cooldown: 20<br /></font></td>
+                          <td align="center" width="14%"><font size="2">1 enemy<br /></font></td>
+                          <td align="center" width="14%"><font size="2">Hold, ignores 50 of enemy&#39;s defense<br /></font></td>
+                          <td align="center" width="14%"><font size="2">LV1: 1565%<br />
+                          LV10: 2845%<br /></font></td>
+                        </tr>
+                      </tbody>
+                    </table><br />
+                    <br />
+                    <font size="2"><b><img align="left" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/SMOOwOS0zm3S0oXSEEd1sg16685/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><font size="3">Rapida Espada</font><br /></b>To enable: Equip a sword and an armshield. Back Guard must be at LV25.<br />
+                    Default Bonus: +15 block<b><br /></b>Bonus at Stance Level 25: +35% attack speed, +12% crit, +25 block<br />
+                    <br /></font> <font size="2"></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-rows" width="100%">
+                      <tbody>
+                        <tr>
+                          <td align="center" width="14%"><b>Skill Name<br /></b></td>
+                          <td align="center" width="14%"><b>Stance Level<br /></b></td>
+                          <td align="center" width="14%"><b>SP Cost<br /></b></td>
+                          <td align="center" width="14%"><b>Cast/Cool<br />
+                          (sec)<br /></b></td>
+                          <td align="center" width="14%"><b>Targets<br /></b></td>
+                          <td align="center" width="14%"><b>Classification<br /></b></td>
+                          <td align="center" width="14%"><b>Damage/Duration<br /></b></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i>Espada de la Rotacion<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/3ye_QxU-GH-Zh1AThmL3Sg1958/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></i></td>
+                          <td align="center" width="14%">1</td>
+                          <td align="center" width="14%">100</td>
+                          <td align="center" width="14%">Cast time: N/A<br />
+                          Cooldown: N/A</td>
+                          <td align="center" width="14%">7 enemies within 3m of self</td>
+                          <td align="center" width="14%">Hold, AoE, knockback</td>
+                          <td align="center" width="14%">LV1: 86%<br />
+                          LV10: 157%</td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i>Espada del Viento<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/iG_Tltmz1KMwIOg_7duMkw2038/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></i></td>
+                          <td align="center" width="14%">6</td>
+                          <td align="center" width="14%">150</td>
+                          <td align="center" width="14%"><font size="2">Cast time: N/A<br />
+                          Cooldown: 7<br /></font></td>
+                          <td align="center" width="14%">1 enemy</td>
+                          <td align="center" width="14%">Hold, ignores 20 of enemy&#39;s defense</td>
+                          <td align="center" width="14%"><font size="2">LV1: 632%<br />
+                          LV10: 1149%<br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i>Dragante<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/R2z5Mtj3kTBApH0QVKdhsA2044/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></i></td>
+                          <td align="center" width="14%">12</td>
+                          <td align="center" width="14%">200</td>
+                          <td align="center" width="14%"><font size="2">Cast time: N/A<br />
+                          Cooldown: 10<br /></font></td>
+                          <td align="center" width="14%">1 enemy</td>
+                          <td align="center" width="14%">Hold, ignores 30 defense of enemy&#39;s defense</td>
+                          <td align="center" width="14%"><font size="2">LV1: 746%<br />
+                          LV10: 1357%<br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i>Saltos de Attaques<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/FPmt6cu7LibtWVFEDf8eCA2025/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></i></td>
+                          <td align="center" width="14%">16</td>
+                          <td align="center" width="14%">250</td>
+                          <td align="center" width="14%"><font size="2">Cast time: 1<br />
+                          Cooldown: 15<br /></font></td>
+                          <td align="center" width="14%">5 enemies within 5m of self</td>
+                          <td align="center" width="14%">Hold, AoE, 15% chance of &quot;Shock&quot; debuff</td>
+                          <td align="center" width="14%"><font size="2">LV1: 406%<br />
+                          LV10: 738%<br /></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="14%"><i>Rapida<br />
+                          <img align="bottom" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/Y_kysGZPKWIkdzb9Hk8sNg2093/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><br /></i></td>
+                          <td align="center" width="14%">20</td>
+                          <td align="center" width="14%">300</td>
+                          <td align="center" width="14%"><font size="2">Cast time: N/A<br />
+                          Cooldown: 20<br /></font></td>
+                          <td align="center" width="14%">1 enemy</td>
+                          <td align="center" width="14%">Hold, ignores 50 of enemy&#39;s defense, 75% chance of &quot;Shock&quot; debuff</td>
+                          <td align="center" width="14%"><font size="2">LV1: 1093%<br />
+                          LV10: 1988%<br /></font></td>
+                        </tr>
+                      </tbody>
+                    </table><font size="2"><br />
+                    <br />
+                    <img align="left" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/nYYr4rczjPtqLMdTFosf5w1552/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /><b><font size="3">UNIQUE SKILL: Destino</font></b><br />
+                    Increases immunity. Adds +1 defense rating at LV11 and LV12. Selva starts with LV10 Destino.<br />
+                    SP Cost: 100<b><br /></b>Item Used: 5 magical orbs<b><br />
+                    <br />
+                    Comments:</b> A UPC that appears in 2.9. She came to the New World from Orpesia with Eduardo and Garcia Gygax. She is the fianc&eacute; of Eduardo</font> <font size="2">and is currently researching Ferruccio&#39;s Legacy. She lost her left arm due to a heated conflict with Montoro, one of Ten Nobles of Vespanola.<br />
+                    <b><br /></b><b>How to get:</b><br />
+                    <font color="#000000">You must have completed the following quests:<br /></font></font>
+                    <ul>
+                      <li><font size="2">The Pioneering quest finishing all the way through Bahamar</font></li>
+                      <li><font size="2">The Katovic Snowfield questline</font></li>
+                      <li><font size="2">The Caebolan questline</font></li>
+                    </ul><font size="2"><span class="diffRemove">From here on the rest of Selva&#39;s quest is a little hazy. This is just an approximate outline of what to expect on your way to recruiting Selva. Everything here is subject to change.</span><br />
+                    <span class="diffRemove">1:</span></font>
+                    <ol>
+                      <li><font size="2"><span class="diffFormatting" title="">Once you&#39;ve completed all the</span> <span class="diffRemove">queslines</span><span class="diffAdd">questlines</span> <span class="diffFormatting" title="">above, speak with</span> <span class="diffRemove">Grenmah</span><span class="diffAdd">Eleonore, the pioneering officer</span> <span class="diffFormatting" title="">in</span> <span class="diffRemove">Ustiur</span><span class="diffAdd">Auch,</span> <span class="diffFormatting" title="">to initiate the quest.</span><span class="diffRemove">2.</span></font></li>
+                      <li><font size="2"><span class="diffRemove">You</span><span class="diffAdd">Give</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will need</span><span class="diffAdd">her</span> <span class="diffFormatting" title=""></span></font><font size="2"><span class="diffFormatting" title="">2 Hero Seals. These can be acquired from</span> <span class="diffAdd">the bosses in Secret Temple,</span> <span class="diffFormatting" title="">Poison</span> <span class="diffRemove">Yard</span><span class="diffAdd">Yard,</span> <span class="diffFormatting" title="">and Battle Colosseum. You may also get Old Hero Seals from</span> <span class="diffAdd">Low-Level</span> <span class="diffFormatting" title="">Secret</span> <span class="diffRemove">Temple</span><span class="diffAdd">Temple/Poison Yard/Battle Colosseum</span> <span class="diffFormatting" title=""></span><span class="diffAdd">(to be introduced in v2.9b)</span> <span class="diffFormatting" title="">and exchange 3 of those for 1 Hero Seal.</span><span class="diffRemove">3.</span></font></li>
+                      <li><font size="2"><span class="diffAdd">Speak with</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Acquire</span><span class="diffAdd">Nunez</span> <span class="diffFormatting" title=""></span><span class="diffRemove">a</span><span class="diffAdd">in</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Key</span><span class="diffAdd">Coimbra.</span><br /></font></li>
+                      <li><font size="2"><span class="diffAdd">Go</span> <span class="diffFormatting" title="">to</span> <span class="diffAdd">Prison de Joaquin, Gehenna Bridge and enter</span> <span class="diffFormatting" title="">the Corridor of</span> <span class="diffRemove">Azzize</span><span class="diffAdd">Assize.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">and</span><span class="diffAdd">The</span> <span class="diffFormatting" title=""></span><span class="diffRemove">speak</span><span class="diffAdd">key</span> <span class="diffFormatting" title=""></span><span class="diffRemove">with</span><span class="diffAdd">can</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Nunez</span><span class="diffAdd">be</span> <span class="diffFormatting" title=""></span><span class="diffRemove">in</span><span class="diffAdd">acquired</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Coimbra.</span><span class="diffAdd">from</span> <span class="diffFormatting" title=""></span><span class="diffRemove">He</span><span class="diffAdd">Bellem&#39;s</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will</span><span class="diffAdd">Box</span> <span class="diffFormatting" title=""></span><span class="diffRemove">send</span><span class="diffAdd">or</span> <span class="diffFormatting" title=""></span><span class="diffRemove">you</span><span class="diffAdd">any</span> <span class="diffFormatting" title=""></span><span class="diffRemove">to</span><span class="diffAdd">boss in</span> <span class="diffFormatting" title="">Prison de</span> <span class="diffRemove">Joaquin</span><span class="diffAdd">Joaquin.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">where</span><span class="diffAdd">Defeat</span> <span class="diffFormatting" title=""></span><span class="diffRemove">you</span><span class="diffAdd">Dr.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will</span><span class="diffAdd">Fran</span> <span class="diffFormatting" title=""></span><span class="diffRemove">encounter</span><span class="diffAdd">Mothtein</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Dr.</span><span class="diffAdd">and</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Fran</span><span class="diffAdd">return</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Mothtein.</span><span class="diffRemove">4.</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Head</span><span class="diffAdd">Nunez.</span><br /></font></li>
+                      <li><font size="2"><span class="diffAdd">Talk</span> <span class="diffFormatting" title="">to</span> <span class="diffAdd">Ludeza in</span></font> <font size="2"><span class="diffFormatting" title="">Katovic Snowfield</span> <span class="diffRemove">and</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">speak</span><span class="diffAdd">get</span> <span class="diffFormatting" title=""></span><span class="diffRemove">with</span><span class="diffAdd">a</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Invierno.</span><span class="diffAdd">Ghost</span> <span class="diffFormatting" title=""></span><span class="diffRemove">He</span><span class="diffAdd">Nucleus.</span></font></li>
+                      <li><font size="2"><span class="diffAdd">Drop</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will</span><span class="diffAdd">1</span> <span class="diffFormatting" title=""></span><span class="diffRemove">tell</span><span class="diffAdd">Ghost</span> <span class="diffFormatting" title=""></span><span class="diffRemove">you</span><span class="diffAdd">Nucleus into Ryrin&#39;s Heart in Frozen</span> <span class="diffFormatting" title=""></span><span class="diffAdd">Wastes</span> <span class="diffFormatting" title="">to</span> <span class="diffRemove">defeat</span><span class="diffAdd">summon</span> <span class="diffFormatting" title=""></span><span class="diffRemove">the</span><span class="diffAdd">Huge</span> <span class="diffFormatting" title=""></span><span class="diffAdd">Avalanche</span> <span class="diffFormatting" title="">Apparition</span> <span class="diffRemove">of</span><span class="diffAdd">(Lv.110</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Avalanche.</span><span class="diffAdd">Golem).</span> <span class="diffFormatting" title=""></span><span class="diffRemove">5.</span><span class="diffAdd">The</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Speak</span><span class="diffAdd">summoning</span> <span class="diffFormatting" title=""></span><span class="diffRemove">with</span><span class="diffAdd">is</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Dr.</span><span class="diffAdd">not</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Torsche</span><span class="diffAdd">always</span> <span class="diffFormatting" title=""></span><span class="diffRemove">in</span><span class="diffAdd">successful.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">his</span><span class="diffAdd">If necessary,</span> <span class="diffFormatting" title=""></span><span class="diffRemove">mansion.</span><span class="diffAdd">you</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Inspect</span><span class="diffAdd">can</span> <span class="diffFormatting" title=""></span><span class="diffRemove">one</span><span class="diffAdd">acquire</span> <span class="diffFormatting" title=""></span><span class="diffRemove">of</span><span class="diffAdd">more</span> <span class="diffFormatting" title=""></span><span class="diffRemove">the</span><span class="diffAdd">Ghost</span> <span class="diffFormatting" title=""></span><span class="diffRemove">bookshelves</span><span class="diffAdd">Nuclei</span> <span class="diffFormatting" title=""></span><span class="diffAdd">from Ludeza by trading 20 Wolf Meat</span> <span class="diffFormatting" title="">and</span> <span class="diffRemove">you</span><span class="diffAdd">10</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will</span><span class="diffAdd">Elviot&#39;s</span> <span class="diffFormatting" title=""></span><span class="diffRemove">discover</span><span class="diffAdd">Leather.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">a</span><br /></font></li>
+                      <li><font size="2"><span class="diffAdd">After the</span> <span class="diffFormatting" title=""></span><span class="diffRemove">frozen</span><span class="diffAdd">apparition</span> <span class="diffFormatting" title=""></span><span class="diffRemove">&quot;Cortes&quot;.</span><span class="diffAdd">has</span> <span class="diffFormatting" title=""></span><span class="diffRemove">You</span><span class="diffAdd">been defeated,</span> <span class="diffFormatting" title=""></span><span class="diffAdd">Montoro</span> <span class="diffFormatting" title="">will</span> <span class="diffRemove">need</span><span class="diffAdd">appear</span> <span class="diffFormatting" title=""></span><span class="diffRemove">to</span><span class="diffAdd">nearby.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">revive</span><span class="diffAdd">Defeat</span> <span class="diffFormatting" title=""></span><span class="diffRemove">it</span><span class="diffAdd">him</span> <span class="diffFormatting" title=""></span><span class="diffRemove">with</span><span class="diffAdd">and</span> <span class="diffFormatting" title=""></span><span class="diffRemove">soup</span><span class="diffAdd">return</span> <span class="diffFormatting" title=""></span><span class="diffRemove">from</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Katovic.</span><span class="diffRemove">6.</span><span class="diffAdd">Ludeza.</span></font></li>
+                      <li><font size="2"><span class="diffAdd">Talk</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Collect</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">the</span><span class="diffAdd">Invierno</span> <span class="diffFormatting" title=""></span><span class="diffRemove">ingredients</span><span class="diffAdd">in</span> <span class="diffFormatting" title=""></span><span class="diffRemove">for</span><span class="diffAdd">Frozen</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Katovic</span><span class="diffAdd">Wastes</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Soup</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">which</span><span class="diffAdd">trigger</span> <span class="diffFormatting" title=""></span><span class="diffRemove">is:</span><span class="diffAdd">an instance.</span><br /></font> <span class="diffRemove"></span> <span class="diffRemove"></span></li>
+                      <li><span class="diffRemove"></span><font size="2"><span class="diffRemove">20x</span><span class="diffAdd">Defeat</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Golden</span><span class="diffAdd">Selva, and talk</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Apples</span><span class="diffAdd">to Invierno again.</span></font> <span class="diffRemove"></span></li>
+                      <li><span class="diffRemove"></span><font size="2"><span class="diffRemove">50x</span><span class="diffAdd">Talk</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Wolf</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Meat</span><span class="diffAdd">Dr. Torsche in his laboratory within Dr. Torsche&#39;s Mansion.</span><br /></font> <span class="diffRemove"></span></li>
+                      <li><span class="diffRemove"></span><font size="2"><span class="diffRemove">50x</span><span class="diffAdd">Click on one of the bookshelves to enter a</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Beets</span><span class="diffAdd">secret room and talk to a petrified Cortes.</span><br /></font> <span class="diffRemove"></span></li>
+                      <li><span class="diffRemove"></span><font size="2"><span class="diffRemove">50x</span><span class="diffAdd">Talk</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Cabbages</span><span class="diffRemove">7.</span><span class="diffAdd">to</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Revive</span><span class="diffAdd">Invierno</span> <span class="diffFormatting" title=""></span><span class="diffRemove">&quot;Cortes&quot;</span><span class="diffAdd">and</span> <span class="diffFormatting" title=""></span><span class="diffRemove">with</span><span class="diffAdd">give him 10 Philosopher&#39;s Stones and</span> <span class="diffFormatting" title=""></span><span class="diffAdd">1 Snowfield Soup. You can make</span> <span class="diffFormatting" title="">the soup</span> <span class="diffAdd">by using the pot besides Invierno, with these ingredients - 20 Golden Apples, 50 Wolf Meat, 50 Beets,</span> <span class="diffFormatting" title="">and</span> <span class="diffRemove">you</span><span class="diffAdd">50</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will</span><span class="diffAdd">Cabbages.</span></font></li>
+                      <li><font size="2"><span class="diffAdd">Return</span> <span class="diffFormatting" title=""></span><span class="diffRemove">have</span><span class="diffAdd">to the secret room in Dr. Torsche&#39;s Mansion,</span> <span class="diffFormatting" title=""></span><span class="diffAdd">and talk</span> <span class="diffFormatting" title="">to</span> <span class="diffRemove">fight</span><span class="diffAdd">Cortes.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">it.</span><br />
+                      <span class="diffRemove">8.</span></font></li>
+                      <li><font size="2"><span class="diffAdd">Defeat</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Upon</span><span class="diffAdd">him</span> <span class="diffFormatting" title=""></span><span class="diffRemove">victory,</span><span class="diffAdd">and</span> <span class="diffFormatting" title=""></span><span class="diffRemove">you</span><span class="diffAdd">talk</span> <span class="diffFormatting" title=""></span><span class="diffRemove">will</span><span class="diffAdd">to Dr. Torsche again</span> <span class="diffFormatting" title=""></span><span class="diffRemove">recieve</span><span class="diffAdd">to receive</span> <span class="diffFormatting" title="">Selva&#39;s card,</span> <span class="diffRemove">her</span></font> <font size="2"><span class="diffFormatting" title="">Cauchemar and Rapida Espada stance books, and a recipe for her Armshield.</span></font></li>
+                    </ol><font size="2"><br />
+                    <br />
+                    <b><img align="left" alt="Selva Norte - Wiki of the New World" height="64" src="http://image.wetpaint.com/image/1/_qKbjspVEXw3CuDqTAjsSQ3039/GW64H64" title="Selva Norte - Wiki of the New World" width="64" /></b></font><font size="2"><b><span class="diffFormatting" title="">Notes on Selva&#39;s Armshield</span></b><span class="diffFormatting" title="">: Her armshield</span> <span class="diffAdd">(DEF 25)</span> <span class="diffFormatting" title="">is required for her Cauchemar and Rapida Espada stances.</span> <span class="diffRemove">One of</span><span class="diffAdd">The</span> <span class="diffFormatting" title=""></span><span class="diffRemove">the</span><span class="diffAdd">recipe</span> <span class="diffFormatting" title=""></span><span class="diffRemove">materials</span><span class="diffAdd">requires</span> <span class="diffFormatting" title=""></span><span class="diffRemove">for</span><span class="diffAdd">Chain</span> <span class="diffFormatting" title=""></span><span class="diffRemove">her</span><span class="diffAdd">Bracer,</span> <span class="diffFormatting" title=""></span><span class="diffRemove">armshield</span><span class="diffAdd">Composite</span> <span class="diffFormatting" title=""></span><span class="diffRemove">is</span><span class="diffAdd">Steel</span> <span class="diffFormatting" title=""></span><span class="diffRemove">50</span><span class="diffAdd">x20,</span> <span class="diffFormatting" title=""></span><span class="diffRemove">mysterious</span><span class="diffAdd">Cast</span> <span class="diffFormatting" title=""></span><span class="diffRemove">powders.</span><span class="diffAdd">Iron</span> <span class="diffFormatting" title=""></span><span class="diffRemove">It</span><span class="diffAdd">x20,</span> <span class="diffFormatting" title=""></span><span class="diffRemove">can</span><span class="diffAdd">Solvent</span> <span class="diffFormatting" title=""></span><span class="diffRemove">also</span><span class="diffAdd">x20,</span> <span class="diffFormatting" title=""></span><span class="diffRemove">be</span><span class="diffAdd">and</span> <span class="diffFormatting" title=""></span><span class="diffRemove">enchanted</span><span class="diffAdd">Mystery</span> <span class="diffFormatting" title=""></span><span class="diffRemove">with</span><span class="diffAdd">Powder</span> <span class="diffFormatting" title=""></span><span class="diffRemove">defense/attack</span><span class="diffAdd">x50.</span> <span class="diffFormatting" title=""></span><span class="diffRemove">rating</span><span class="diffAdd">It</span> <span class="diffFormatting" title=""></span><span class="diffRemove">mods</span><span class="diffAdd">can</span> <span class="diffFormatting" title=""></span><span class="diffRemove">as</span><span class="diffAdd">be</span> <span class="diffFormatting" title=""></span><span class="diffRemove">well.</span><span class="diffAdd">crafted</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Selva&#39;s</span><span class="diffAdd">by</span> <span class="diffFormatting" title=""></span><span class="diffRemove">Armshield</span><span class="diffAdd">a</span> <span class="diffFormatting" title=""></span><span class="diffRemove">works</span><span class="diffAdd">Lv.100</span> <span class="diffFormatting" title=""></span><span class="diffRemove">like</span><span class="diffAdd">Idge,</span> <span class="diffFormatting" title=""></span><span class="diffRemove">a</span><span class="diffAdd">and</span> <span class="diffFormatting" title=""></span><span class="diffRemove">regular</span><span class="diffAdd">can</span> <span class="diffFormatting" title=""></span><span class="diffRemove">shield</span><span class="diffAdd">be</span> <span class="diffFormatting" title=""></span><span class="diffRemove">except</span><span class="diffAdd">enchanted</span> <span class="diffFormatting" title=""></span><span class="diffRemove">it</span><span class="diffAdd">with</span> <span class="diffFormatting" title=""></span><span class="diffRemove">adds</span><span class="diffAdd">ATK</span> <span class="diffFormatting" title=""></span><span class="diffRemove">attack</span><span class="diffAdd">Rating</span> <span class="diffFormatting" title=""></span><span class="diffRemove">rating</span><span class="diffAdd">+1</span> <span class="diffFormatting" title="">instead of</span> <span class="diffRemove">defense</span><span class="diffAdd">DEF</span> <span class="diffFormatting" title=""></span><span class="diffRemove">rating.</span><span class="diffAdd">Rating.</span><br />
+                    <br /></font> <font size="2"><br />
+                    <span class="diffFormatting" title="">-----------------------------------------------------------------------------------------------------------------------------------------</span><br /></font> <span class="diffFormatting" title=""></span>
+                    <div align="center"><span class="diffFormatting" title=""></span><img align="bottom" alt="Selva Norte - Wiki of the New World" height="718" src="http://image.wetpaint.com/image/1/5QjJAwL1n-H2Y8dDteIIQw97967/GW592H718" title="Selva Norte - Wiki of the New World" width="592" /></div><br />
+                    <br />
+                    <br />
+                    <span class="diffFormatting" title="">:</span><br />
+                    <b><br /></b>
+                  </div><br class="clear" />
+                  <br class="clear" />
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <div id="siteSearch" class="searchForm">
+                <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                  <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+                </form>
+              </div><noscript><br />
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br />
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="8">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li><a href="/page/Quests" rel="46">Quests</a></li>
+                              <li><a href="/page/Raids" rel="16">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li>
+                                <a href="/page/UPCs" rel="3">UPCs</a>
+                                <ul>
+                                  <li>
+                                    <a href="/page/Character" rel="49">Character</a>
+                                    <ul>
+                                      <li><a href="/page/Lisa+Lynway">Lisa Lynway</a></li>
+                                      <li><a href="/page/Adelina+Esperanza">Adelina Esperanza</a></li>
+                                      <li><a href="/page/M%27Boma">M&#039;Boma</a></li>
+                                      <li><a href="/page/Jack+Shirley">Jack Shirley</a></li>
+                                      <li><a href="/page/Ramiro">Ramiro</a></li>
+                                      <li><a href="/page/Reboldeaux+Soldier">Reboldeaux Soldier</a></li>
+                                      <li><a href="/page/Soho">Soho</a></li>
+                                      <li><a href="/page/Emilia+Giannino">Emilia Giannino</a></li>
+                                      <li><a href="/page/Grace+Bernelli">Grace Bernelli</a></li>
+                                      <li><a href="/page/Lorch+Feurholden">Lorch Feurholden</a></li>
+                                      <li><a href="/page/Tiburon">Tiburon</a></li>
+                                      <li><a href="/page/Andre+Janzur">Andre Janzur</a></li>
+                                      <li><a href="/page/Brunie+Etienne">Brunie Etienne</a></li>
+                                      <li><a href="/page/Claude+Baudez">Claude Baudez</a></li>
+                                      <li><a href="/page/Idge+Imbrulia">Idge Imbrulia</a></li>
+                                      <li><a href="/page/Najib+Sharif">Najib Sharif</a></li>
+                                      <li><a href="/page/Yeganeh">Yeganeh</a></li>
+                                      <li><a href="/page/Rescue+Knight">Rescue Knight</a></li>
+                                      <li><a href="/page/Panfilo+de+Narvaez">Panfilo de Narvaez</a></li>
+                                      <li><a href="/page/Coimbran+Trooper">Coimbran Trooper</a></li>
+                                      <li><a href="/page/Gracielo">Gracielo</a></li>
+                                      <li><a href="/page/Alejandro">Alejandro</a></li>
+                                      <li><a href="/page/Jose+Cortasar">Jose Cortasar</a></li>
+                                      <li><a href="/page/Auch+Infantry">Auch Infantry</a></li>
+                                      <li><a href="/page/Gertrude+Peterson">Gertrude Peterson</a></li>
+                                      <li><a href="/page/Catherines">Catherines</a></li>
+                                      <li><a href="/page/Grenmah">Grenmah</a></li>
+                                      <li><a href="/page/Romina">Romina</a></li>
+                                      <li><a href="/page/Irawain">Irawain</a></li>
+                                      <li><a href="/page/Viki">Viki</a></li>
+                                      <li><a href="/page/Mia+Karjalain">Mia Karjalain</a></li>
+                                      <li><a href="/page/Soso">Soso</a></li>
+                                      <li><a href="/page/Angie+Shirley">Angie Shirley</a></li>
+                                      <li><a href="/page/Kurt+Lyndon+and+Eduardo+Gygax">Kurt Lyndon and Eduardo Gygax</a></li>
+                                      <li><a href="/page/Vincent+Rio">Vincent Rio</a></li>
+                                      <li><a href="/page/Baek+Ho">Baek Ho</a></li>
+                                      <li><a href="/page/Garcia+Gygax">Garcia Gygax</a></li>
+                                      <li><a href="/page/Calypso">Calypso</a></li>
+                                      <li><a href="/page/Claire">Claire</a></li>
+                                      <li><a href="/page/Emilia+the+Sage">Emilia the Sage</a></li>
+                                      <li><a href="/page/Soho+the+Fighter">Soho the Fighter</a></li>
+                                      <li><a href="/page/Battlesmith+Idge">Battlesmith Idge</a></li>
+                                      <li><a href="/page/Iron+Chef+Panfilo">Iron Chef Panfilo</a></li>
+                                      <li><a href="/page/Captain+Adelina">Captain Adelina</a></li>
+                                      <li><a href="/page/Sir+Lyndon">Sir Lyndon</a></li>
+                                      <li><a href="/page/Selva+Norte" class="current">Selva Norte</a></li>
+                                      <li><a href="/page/Nar">Nar</a></li>
+                                      <li><a href="/page/Ania">Ania</a></li>
+                                      <li><a href="/page/Hellena">Hellena</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="/page/Stances">Stances</a></li>
+                                  <li><a href="/page/Unique+UPC+Stances">Unique UPC Stances</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink" name="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              //<![CDATA[
+              wetpaintLoad('scroller');
+              //]]>
+              </script>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                //]]>
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Last Chaos DE Guide</span></li>
+              <li><span>Warrior Cat Clans 2</span></li>
+              <li><span>Last Chaos - Guides &amp; Information</span></li>
+              <li><span>Free Rider</span></li>
+              <li><span>Warriors Fansite.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b17';s_w.channel='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(360/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

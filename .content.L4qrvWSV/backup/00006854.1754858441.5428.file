@@ -1,0 +1,617 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/CSSApplication/wpc.css?v=20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/family/f.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/core/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything"> <label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="Crafting" onfocus="if( this.value == 'Crafting' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+                    </form>
+                  </div><br>
+                  <center>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="2722031972"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                    </script>
+                  </center>
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">All</li>
+                      <li><a href="/search/pages/Crafting">Pages</a></li>
+                      <li><a href="/search/threads/Crafting">Threads</a></li>
+                      <li><a href="/search/photos/Crafting">Photos</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction"></span>
+                                <form name="paginationForm" action="http://swordofthenewworldwiki.com/search/everything/;jsessionid=37B1E2A444782E27ACB8DD1D2B2E6C34" method="get">
+                                  <span class="pagingAction"><input type="hidden" name="contains" value="Crafting"> <input type="hidden" name="offset" value="0"> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;182 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                    <option value="10">
+                                      10
+                                    </option>
+                                    <option value="20" selected>
+                                      20
+                                    </option>
+                                    <option value="50">
+                                      50
+                                    </option>
+                                  </select> items&nbsp;at a time</span>
+                                </form>
+                              </div>
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20&contains=Crafting">2</a>&nbsp;<a href="?offset=40&maxResults=20&contains=Crafting">3</a>&nbsp;<a href="?offset=60&maxResults=20&contains=Crafting">4</a>&nbsp;<a href="?offset=80&maxResults=20&contains=Crafting">5</a> | <a href="?offset=20&maxResults=20&contains=Crafting">Next</a> &gt; <a href="?offset=180&maxResults=20&contains=Crafting">Last</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Secret+Tower+L3" class="WPC-tool WPC-tool-content WPC-indicate">Secret Tower L3</a></span> <span class="resultContent">to the final level. It is crafted by Karjalainen through a recipe bought from the Precious Metals Merchant in City of Auch. To craft the Secret</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Instanced+Raids" title="Instanced Raids">Instanced Raids</a> &gt; <a href="/page/General+Guard" title="General Guard">General Guard</a> &gt; <a href="/page/Secret+Tower+L3" title="Secret Tower L3">Secret Tower L3</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jul 11 2009, 2:31 PM EDT by <a href="/account/Bpapman" id="WPC-action_accountMenu?account=Bpapman&subject=Secret+Tower+L3&pageName=Secret+Tower+L3" class="WPC-action" onclick="return false">Bpapman</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Selva+Norte" class="WPC-tool WPC-tool-content WPC-indicate">Selva Norte</a></span> <span class="resultContent">. The recipe requires a level 80 Chain Bracer, Composite Steel x20, Cast Iron x20, Solvent x20, and Shiny Crystal x4000. It can be crafted by Idge</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Selva+Norte" title="Selva Norte">Selva Norte</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/norte" title="norte">norte,&nbsp;</a> <a href="/tag/selva" title="selva">selva&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Feb 16 2015, 9:23 AM EST by <a href="/account/van_Shrike" id="WPC-action_accountMenu?account=van_Shrike&subject=Selva+Norte&pageName=Selva+Norte" class="WPC-action" onclick="return false">van_Shrike</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Port+Coimbra+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Port Coimbra UPCs Overview</a></span> <span class="resultContent">------ TOTAL: 29 (30) PVPS: 7 ------- LVL: 32 PVPL: 6 ------- Personal Skill: Rifle/Pistol/Bayonet Crafting Armor: Leather, Coat Stances: Hunter, Enforcer</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Port+Coimbra+UPCs+Overview" title="Port Coimbra UPCs Overview">Port Coimbra UPCs Overview</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 7 2008, 6:46 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Port+Coimbra+UPCs+Overview&pageName=Port+Coimbra+UPCs+Overview" class="WPC-action" onclick="return false">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Reboldeux+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Reboldeux UPCs Overview</a></span> <span class="resultContent">------- Personal Skill: Leather/Metal/Shield Crafting Armor: Leather, Metal Stances: Flow Guard, Roof Guard, Tail Guard, Sidewinder (vet), Blandir Cruz, Penetrar</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Reboldeux+UPCs+Overview" title="Reboldeux UPCs Overview">Reboldeux UPCs Overview</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 7 2008, 6:47 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Reboldeux+UPCs+Overview&pageName=Reboldeux+UPCs+Overview" class="WPC-action" onclick="return false">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/City+of+Auch+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">City of Auch UPCs Overview</a></span> <span class="resultContent">PVPL: 8 ------- Personal Skill: Shotgun crafting Armor: Leather Stances: Trapper, Hunting Blaster Notes: Lorch is quite enjoyable to actively level</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/City+of+Auch+UPCs+Overview" title="City of Auch UPCs Overview">City of Auch UPCs Overview</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 7 2008, 6:46 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=City+of+Auch+UPCs+Overview&pageName=City+of+Auch+UPCs+Overview" class="WPC-action" onclick="return false">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Secret+Tower" class="WPC-tool WPC-tool-content WPC-indicate">Secret Tower</a></span> <span class="resultContent">This item can be crafted by Karjalainen through a recipe bought from the Precious Metals Merchant in City of Auch. To craft the Secret Tower - Magic</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Instanced+Raids" title="Instanced Raids">Instanced Raids</a> &gt; <a href="/page/General+Guard" title="General Guard">General Guard</a> &gt; <a href="/page/Secret+Tower" title="Secret Tower">Secret Tower</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: May 19 2012, 8:45 PM EDT by <a href="/account/Shenhieg" id="WPC-action_accountMenu?account=Shenhieg&subject=Secret+Tower&pageName=Secret+Tower" class="WPC-action" onclick="return false">Shenhieg</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Rion+Dungeon%2C+Corridor" class="WPC-tool WPC-tool-content WPC-indicate">Rion Dungeon, Corridor</a></span> <span class="resultContent">Enhancement Gehvars 2.0% Piece of Sapphire Crafting All 0.04% Potions Heal HP/SP Box Common Refined</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/Rion+Dungeon+%28Dungeon%29" title="Rion Dungeon (Dungeon)">Rion Dungeon (Dungeon)</a> &gt; <a href="/page/Rion+Dungeon%2C+Corridor" title="Rion Dungeon, Corridor">Rion Dungeon, Corridor</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 18 2010, 5:39 AM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Rion+Dungeon%2C+Corridor&pageName=Rion+Dungeon%2C+Corridor" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/9072305/Sword+Crafting" class="WPC-tool WPC-tool-photo" title="Sword Crafting"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/yKn9dA-tPPueLjYLv5c_Vw1087/GW073" alt="">Sword Crafting</a></span> <span class="resultContent"></span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: Uncategorized</span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Added: Feb 23 2010, 6:21 AM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Sword+Crafting&from=status&pageName=Sword+Crafting" class="WPC-action" onclick="return false"></a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/BH+-+Merchants" class="WPC-tool WPC-tool-content WPC-indicate">BH - Merchants</a></span> <span class="resultContent">&amp; Tips Token Merchant - Misc 1x Shiny Crystal 1 Crafting Material. Used in several Recipes. Dont&#039; t waste 1</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Instanced+Raids" title="Instanced Raids">Instanced Raids</a> &gt; <a href="/page/Bounty+Hunter" title="Bounty Hunter">Bounty Hunter</a> &gt; <a href="/page/BH+-+Merchants" title="BH - Merchants">BH - Merchants</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Bounty+Hunter" title="Bounty Hunter">Bounty Hunter,&nbsp;</a> <a href="/tag/Rewards" title="Rewards">Rewards&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: May 1 2012, 4:24 AM EDT by <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&subject=BH+-+Merchants&pageName=BH+-+Merchants" class="WPC-action" onclick="return false">Leucesios-kun</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/4554228/Ogre+Craft+Items" class="WPC-tool WPC-tool-thread WPC-indicate">Ogre Craft Items</a></span> <span class="resultContent">Does anyone know WHERE you get the two ingredients "Seal of Hunting" and "Solvent"?? I&#39;ve been searching Wiki for hours and cant seem to find out where to go or what I need to kill. Help!</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Werewolf+%26+Ogre+Series" class="WPC-tool WPC-tool-content">Werewolf &amp; Ogre Series</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Posted: Apr 13 2011, 7:08 PM EDT by <a href="/account/Rainl" id="WPC-action_accountMenu?account=Rainl&subject=Ogre+Craft+Items&from=threadFirstPost4554228&threadId=4554228" class="WPC-action" onclick="return false">Rainl</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Viron+Clocktower" class="WPC-tool WPC-tool-content WPC-indicate">Viron Clocktower</a></span> <span class="resultContent">to Genia to craft [Spell key]. Name: The Door that Finally Opens Location: Viron NPC: Viron Clocktower Reward: None Details: 1. Go</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Viron+Clocktower" title="Viron Clocktower">Viron Clocktower</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Viron+Clocktower+questline" title="Viron Clocktower questline">Viron Clocktower questline&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 1 2015, 3:05 AM EDT by <a href="/account/TatasFachrul" id="WPC-action_accountMenu?account=TatasFachrul&subject=Viron+Clocktower&pageName=Viron+Clocktower" class="WPC-action" onclick="return false">TatasFachrul</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/photo/8514149/Crafted+Elite+Laranja+e+Preto" class="WPC-tool WPC-tool-photo" title="Crafted Elite Laranja e Preto"><img class="imageSm floatRight" src="http://image.wikifoundry.com/image/1/82K8e_mFGeyxKEKyIXmsPg24668/GW073" alt="">Crafted Elite Laranja e Preto</a></span> <span class="resultContent">The Naranja e Preto recipe makes this item.</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Albums: <a href="/photos/album/151847/Recipes" title="Recipes">Recipes</a></span>
+                                  </div>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/armor+leather" title="armor leather">armor leather&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Added: Dec 22 2009, 3:07 PM EST by <a href="/account/" id="WPC-action_accountMenu?account=&subject=Crafted+Elite+Laranja+e+Preto&from=status&pageName=Crafted+Elite+Laranja+e+Preto" class="WPC-action" onclick="return false"></a></span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Dec 22 2009, 3:15 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Crafted+Elite+Laranja+e+Preto&pageName=Crafted+Elite+Laranja+e+Preto" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4105497/Test" class="WPC-tool WPC-tool-thread WPC-indicate">Test</a></span> <span class="resultContent">test</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Crafting%2FEnchanting%2FRefining" class="WPC-tool WPC-tool-content">Crafting/Enchanting/Refining</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Crafting" title="Crafting">Crafting,&nbsp;</a> <a href="/tag/Granado+Espada" title="Granado Espada">Granado Espada,&nbsp;</a> <a href="/tag/Guides" title="Guides">Guides,&nbsp;</a> <a href="/tag/Monsters" title="Monsters">Monsters,&nbsp;</a> <a href="/tag/Quests" title="Quests">Quests,&nbsp;</a> <a href="/tag/SOTNW" title="SOTNW">SOTNW,&nbsp;</a> <a href="/tag/SOTNW+Crafting" title="SOTNW Crafting">SOTNW Crafting,&nbsp;</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki">SOTNW Wiki,&nbsp;</a> <a href="/tag/Sword+of+the+New+World" title="Sword of the New World">Sword of the New World,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki">Sword of the New World Wiki,&nbsp;</a> <a href="/tag/UPC" title="UPC">UPC&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Posted: Jul 24 2010, 12:47 PM EDT by Anonymous</span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/3990494/Elite+Trump+series" class="WPC-tool WPC-tool-thread WPC-indicate">Elite Trump series</a></span> <span class="resultContent">For crafting them, do they just need the recipe and 3 crafted jewelry pieces (heart, seed, scale) or do they also need the 25 Mysterious Powder and 5 Amrita in addition to the 3 crafted jewelry pieces?</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Thread location: <a href="/page/Trump+Uniques" class="WPC-tool WPC-tool-content">Trump Uniques</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Posted: Jun 7 2010, 11:40 AM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Elite+Trump+series&from=threadFirstPost3990494&threadId=3990494" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4517625/Bad+News" class="WPC-tool WPC-tool-thread WPC-indicate">Bad News</a></span> <span class="resultContent">Her summon is being replaced with a self buff that raises her spell casting speed.<br>
+                                  <br>
+                                  Hers is not the only personal skill that will be changed in the future. All of the crafters will receive new personal skills and crafting will soon be done simply by talking to the NPC rather than using their UPC Counterpart.</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/4517625/Bad+News" class="WPC-tool WPC-tool-thread WPC-indicate">Bad News</a> <span style="font-weight:normal">(3&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/page/Hellena" class="WPC-tool WPC-tool-content">Hellena</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: None
+                                  </div>
+                                  <div>
+                                    Posted: Mar 17 2011, 9:22 PM EDT by <a href="/account/Gulfaxi" id="WPC-action_accountMenu?account=Gulfaxi&subject=Bad+News&from=threadFirstPost4517625&threadId=4517625" class="WPC-action" onclick="return false">Gulfaxi</a>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/5036737/Crazy+mission" class="WPC-tool WPC-tool-thread WPC-indicate">Crazy mission</a></span> <span class="resultContent">well hope you already passed it but yeah GE quests is somewhat OP.<br>
+                                  <br>
+                                  You can never pass it with casual gears , you&#39;ll have to craft high end gears and over upgrade it (and break a lot of them in the process) then enchant them to get super stats on that over upgrade gears.<br>
+                                  <br>
+                                  and then you netice the next quest boss has 74 ar/dr -*-. darn....</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/5036737/Crazy+mission" class="WPC-tool WPC-tool-thread WPC-indicate">Crazy mission</a> <span style="font-weight:normal">(2&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/page/Reckless+Emilia" class="WPC-tool WPC-tool-content">Reckless Emilia</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: <a href="/tag/emilia" title="emilia">emilia,&nbsp;</a> <a href="/tag/reckless" title="reckless">reckless&nbsp;</a>
+                                  </div><a href="/tag/emilia" title="emilia"></a>
+                                  <div>
+                                    Posted: Feb 14 2013, 9:21 PM EST by <a href="/account/Impositiomagnus" id="WPC-action_accountMenu?account=Impositiomagnus&subject=Crazy+mission&from=threadFirstPost5036737&threadId=5036737" class="WPC-action" onclick="return false">Impositiomagnus</a>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4620821/does+skill+change+affect+the+item+creation+skill" class="WPC-tool WPC-tool-thread WPC-indicate">does skill change affect the item creation skill</a></span> <span class="resultContent">I read that the NPCs will be able to craft all level equipments in that version of the game instead of being limited to level 72 right now. These are the NPCs that you meet on the streets instead of the NPCs that you control in your family. However, as your version of GE is not up to that later version yet, you will still need to have access to a player controlled NPC (your own or a friend&#39;s) in order to craft high level equipment. Since we don&#39;t know when your version will update to that later version, it&#39;s best to play whichever characters you like instead of thinking so far into the future.</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/4620821/does+skill+change+affect+the+item+creation+skill" class="WPC-tool WPC-tool-thread WPC-indicate">does skill change affect the item creation skill</a> <span style="font-weight:normal">(2&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/thread" class="WPC-tool WPC-tool-forum">Discussion Forum</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: <a href="/tag/Item+Creation" title="Item Creation">Item Creation&nbsp;</a>
+                                  </div><a href="/tag/Item+Creation" title="Item Creation"></a>
+                                  <div>
+                                    Posted: Jun 4 2011, 8:12 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=does+skill+change+affect+the+item+creation+skill&from=threadFirstPost4620821&threadId=4620821" class="WPC-action" onclick="return false">Chrysocolla</a>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/thread/4153544/Bard+%2B+Emilia" class="WPC-tool WPC-tool-thread WPC-indicate">Bard + Emilia</a></span> <span class="resultContent">To use the Bard and Tactical Assistance stances, you need to equip Emilia with the Rosario weapon. Since your Emilia is already Veteran, you just need to buy, find, or craft a Rosario for her to use. If you have any Damaged Ancient Polishers, I think that offers a cheap Rosario in exchange of reduced Int. Personally, I crafted my Rosario via the Sad Old Man (baron elite level 92 weapon person).</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/4153544/Bard+%2B+Emilia" class="WPC-tool WPC-tool-thread WPC-indicate">Bard + Emilia</a> <span style="font-weight:normal">(3&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/page/Emilia+Giannino" class="WPC-tool WPC-tool-content">Emilia Giannino</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: <a href="/tag/Emilia" title="Emilia">Emilia,&nbsp;</a> <a href="/tag/emilia+giannino" title="emilia giannino">emilia giannino,&nbsp;</a> <a href="/tag/emillia" title="emillia">emillia&nbsp;</a>
+                                  </div><a href="/tag/Emilia" title="Emilia"></a>
+                                  <div>
+                                    Posted: Dec 25 2011, 3:38 PM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Bard+%2B+Emilia&from=threadFirstPost4153544&threadId=4153544" class="WPC-action" onclick="return false">Chrysocolla</a>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/thread/4669431/Prison+Series+Weapons" class="WPC-tool WPC-tool-thread WPC-indicate">Prison Series Weapons</a></span> <span class="resultContent">Marcia&#39;s Poleaxe - Polearm &bull; ATK 373 &bull; ATK Rating 32 &bull; ATK Speed -5% &bull; Expert Exclusive<br>
+                                  <br>
+                                  Tormento - Blunt &bull; ATK 282 &bull; ATK Rating 32 &bull; ATK Speed -5% &bull; Expert Exclusive<br>
+                                  <br>
+                                  Eye of Veilant - Great Sword &bull; ATK 465 &bull; ATK Rating 32 &bull; ATK Speed -15% &bull; Expert Exclusive<br>
+                                  <br>
+                                  Material to craft these (5.0.3)<br>
+                                  Dragon Heart x1<br>
+                                  Mega Quartz x500<br>
+                                  Melee Weapon Crystal - 32 Ratings x2<br>
+                                  Iron Ore x300<br>
+                                  <br>
+                                  Sources: http://starstorm-ge.blogspot.com/2010/06/renaissance-weapon-costume.html<br>
+                                  http://bookofwind.blogspot.com/2010/06/silver-server-503.html</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Reply to thread: <a href="/thread/4669431/Prison+Series+Weapons" class="WPC-tool WPC-tool-thread WPC-indicate">Prison Series Weapons</a> <span style="font-weight:normal">(2&nbsp;replies)</span></span>
+                                  </div>
+                                  <div>
+                                    Thread location: <a href="/page/High+End+Equipment" class="WPC-tool WPC-tool-content">High End Equipment</a>
+                                  </div>
+                                  <div class="keywordTags">
+                                    Keyword tags: None
+                                  </div>
+                                  <div>
+                                    Posted: Jul 15 2011, 1:45 PM EDT by <a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&subject=Prison+Series+Weapons&from=threadFirstPost4669431&threadId=4669431" class="WPC-action" onclick="return false">bunkerz</a>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Terminology" class="WPC-tool WPC-tool-content WPC-indicate">Terminology</a></span> <span class="resultContent">, that is crafted in Los Toldos. ELV &#034;Elite La Ventisca&#034;: Lvl 92 Elite Robe. 28 DR. EPJ &#034;Elite Pandera Jacket&#034;: Lvl 92 Elite Wizard Coat. 28 DR</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Instruction+Manual" title="Instruction Manual">Instruction Manual</a> &gt; <a href="/page/Terminology" title="Terminology">Terminology</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/abbreviations" title="abbreviations">abbreviations,&nbsp;</a> <a href="/tag/Granado+Espada" title="Granado Espada">Granado Espada,&nbsp;</a> <a href="/tag/SOTNW" title="SOTNW">SOTNW,&nbsp;</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki">SOTNW Wiki,&nbsp;</a> <a href="/tag/Sword+of+the+New+world" title="Sword of the New world">Sword of the New world,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki">Sword of the New World Wiki,&nbsp;</a> <a href="/tag/terminology" title="terminology">terminology,&nbsp;</a> <a href="/tag/terms" title="terms">terms&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 8 2010, 12:44 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Terminology&pageName=Terminology" class="WPC-action" onclick="return false">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20&contains=Crafting">2</a>&nbsp;<a href="?offset=40&maxResults=20&contains=Crafting">3</a>&nbsp;<a href="?offset=60&maxResults=20&contains=Crafting">4</a>&nbsp;<a href="?offset=80&maxResults=20&contains=Crafting">5</a> | <a href="?offset=20&maxResults=20&contains=Crafting">Next</a> &gt; <a href="?offset=180&maxResults=20&contains=Crafting">Last</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top wikis by WikiFoundry Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="Crafting">
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> 
+  <script src="http://static.wikifoundry.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

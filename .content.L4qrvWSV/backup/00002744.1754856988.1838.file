@@ -1,0 +1,710 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Jormongand - Page History - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Jormongand - Page History">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/CSSApplication/wpc.css?v=20091103105336"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/family/f.css?20091103105336"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css?20091103105336"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/core/c.css?20091103105336"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css?20091103105336"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Other',"PAGE_NAME" : 'Jormongand',"PAGE_URI" : '/page/Jormongand',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Raids','Jormongand']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js?v=20091103105336" type="text/javascript"></script>
+  <script language="JavaScript">
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20091103105336" type="text/javascript"><\/scr' + 'ipt>');
+  </script>
+  <script language="JavaScript">
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+
+                
+                var adChannelPrefix = "FreeSocialWebSite_";
+                                
+                        adChannelPrefix = adChannelPrefix + "OtherPage_";
+                wp_ads.noAdSense = '';
+                wp_ads.top = adChannelPrefix + '728Top1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+
+                wp_ads.topPromo = adChannelPrefix + '237Top2' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.inContent = adChannelPrefix + '300Frame1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.content = adChannelPrefix + '728Bottom1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.left = adChannelPrefix + '160Left1' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000121,1000001021,1000004022");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","Hobby, Games, Technology, Ring Tones, Music, Travel, Politics, Lifestyles, Art");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Flagged","No");
+                GA_googleAddAttr("Topic","Other");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  </script>
+  <script language="JavaScript">
+                
+                GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png?v=20091103105336" alt="IE Logo" width="17" height="18"><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/news">News</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span><a href="/droplets">Droplets</a></span></li>
+            <li class=""><span><a href="/accountSearch/all">Members</a></span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png?v=20091103105336" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Jormongand">Jormongand</a> |</h1>
+                    <h2>Version Compare</h2>
+                    <p><a href="/page/Jormongand/history">Back to page history</a></p>
+                  </div>
+                  <div id="versionCompareSummary">
+                    <table>
+                      <tr class="header">
+                        <th>Version</th>
+                        <th>User</th>
+                        <th>Scope of changes</th>
+                      </tr>
+                      <tr>
+                        <td><a href="/page/Jormongand/revision/4">Sunday, 8:52 AM EST</a> (current)</td>
+                        <td><a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Jormongand&from=revisionDiffstatus1&pageName=Jormongand" class="WPC-action" onclick="return false">Seksiboi</a></td>
+                        <td>6 words added, 1 word deleted</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a href="/page/Jormongand/revision/3">Sunday, 2:46 AM EST</a></td>
+                        <td><a href="/account/Seksiboi" id="WPC-action_accountMenu?account=Seksiboi&subject=Jormongand&from=revisionDiffstatus2&pageName=Jormongand" class="WPC-action" onclick="return false">Seksiboi</a></td>
+                        <td>376 words added, 13 words deleted, 1 photo added</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="versionCompareHead">
+                    <h2>Changes</h2>
+                    <div class="revisionsKey">
+                      Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                    </div>
+                  </div>
+                  <div id="versionCompareContent" class="WPC-editableContent">
+                    Located at an instance accessible at F11 in Vegas Javier, Garim, or Jormongand as he&#39;s known in Sword of the New World, is most infamous for his elusive Belt that supposedly gives a +1 con bonus to the bearer. Jormongand is also a quest for the 2009 Halloween event, obtainable from the Wandering Witch in Auch if you select the boss quest.<br>
+                    <br>
+                    <br>
+                    <img align="bottom" alt="Jormongand - Wiki of the New World" height="321" src="http://image.wetpaint.com/image/1/uL-M-zgxwIxBlo5pbdt5bA22227/GW428H321" title="Jormongand - Wiki of the New World" width="428"><font color="red" size="2"><br>
+                    <font size="4"><br>
+                    <font color="#000000" size="5">Jormongand/Garim</font></font></font><font size="2"><br></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-style-border2 WPC-edit-border-none WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Level: 118<br></b></font></td>
+                          <td class="WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">HP: 66969690<br></font></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Classification: Dinosaur<br></b></font></td>
+                          <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderTopWPC-edit-custom-bgColorWPC-edit-custom-bgColor WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Armor: Light<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Size: Large<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Attack Rating: 61<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense Rating: 61<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">Attack: 6259<br></font></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense: 248<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Fire Resistance: 70<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Ice Resistance: 70<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Lightning Resistance: 70<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Mental Resistance: 70<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table><font size="2"><br></font><br>
+                    <div align="center">
+                      <font size="2">________________________<br>
+                      <br></font>
+                    </div>
+                    <div align="center"></div><font size="2"><br></font><font size="2"><b><img align="right" alt="lair of jormongand" height="336" src="http://image.wetpaint.com/image/1/99LBCiwuj063zOn0oRRqGg312045/GW336H336" title="lair of jormongand" width="336"></b></font><br>
+                    <font size="2"><b><font size="4">Location: Lair of Jormongand</font><br></b></font>
+                    <ul>
+                      <li>The Lair of Jormongand is found at F11 in Vegas Javier.</li>
+                      <li>You will need to have a Symbol of Garim in order to enter. The Symbol&#39;s recipe can be purchased from the accessory merchant in Auch, and must be crafted by a level 100 Mia.</li>
+                      <li>The recipe needs the following items: 1 Spino&#39;s Skull (same item needed for Romina), 50 Bone Sticks (pretty much all over the Skeleton Dungeon), 50 Dragon Leather (Ustiur zones), 50 Dragon Horns (Ustiur dinos as well) and 100 Solvent (bought from NPCs).</li>
+                      <li>You will need 500 reputation to complete the raid.<br></li>
+                    </ul><font size="2"><font size="4"><b>Spawn time: Instanced<br></b></font></font>
+                    <ul>
+                      <li>As the Jormongand raid is instanced, once you complete it, you can redo the quest right away. Note however, that you will need another Symbol of Garim in order to enter the mission.<br></li>
+                    </ul><font size="2"><br></font> <font size="4"><b>Recommended Classes:</b></font><br>
+                    <ul>
+                      <li><font size="3">Standard. Tanks and DPS. The mission can hold about 3 squads worth of players.</font></li>
+                      <li><font size="2"><font size="3">As the mission has a time limit of 2 hours, it is recommended that you pack as much DPS characters as possible. It is possible however, to finish in 20 minutes or less.</font><br></font></li>
+                    </ul><br>
+                    <font color="#000000" size="4"><b>Instructions:</b></font><br>
+                    <ol>
+                      <li>Once the raid leader uses the Symbol of Garim outside his lair, players are required to key into the instance/mission menu. Once the mission starts, you have 120 minutes to complete it. As the raid is an instance, disconnecting inside the Lair of Jormongand will send you back to town.</li>
+                      <li>The raid simply consists of fighting your way through mobs and stationary cannon turrets.</li>
+                      <li>The first monster you&#39;ll face is a King of Coventry look alike, Reydiavaricia.</li>
+                      <li>Upon defeating Reydiavaricia, you will have to advance through a corridor filled with Fire Turrets. The Fire Turrets hit hard. Advance slowly and take them out as you go along. You will also have to contend with Elbleed monsters as well.</li>
+                      <li>The path will eventually fork. Take the road to the left which is supposedly easier. At the end of the road will be another monster using the Pollux or Castor model. I forgot to take a screen shot for stats unfortunately.<br></li>
+                      <li>Your next opponent will be a Daemon, Elminor. Nothing special in this part of the raid. Just beat him down.</li>
+                      <li>Once Elminor goes down, you then have to spend a few minutes defending a crystal from monsters. Monsters will spawn on both ends of the corridor and will try to attack the Sealed Crystal. You&#39;ll be tasked to defend the crystal for a bit until the next portal appears. Take the monsters down fast as the crystal only has 300 HP. The portal will eventually spawn where the crystal previously was.<br></li>
+                      <li>The final step of the raid is Jormongand himself. Jormongand attacks strongly and uses a massive AoE. As long as your tank can keep up, there&#39;s nothing noteworthy about fighting him, save for the fact that due to his regen, you&#39;ll need to do damage quickly. Should Jormongand be inflicted with the Mortal Wound status effect (mainly from Musketeer skills), spam all the skills that you can as fast as possible in order to do maximum damage. As Jormongand is resistant to status effects so Experts using Flintlock would be better off ignoring using the Check Targets skill.</li>
+                      <li>Once Jormongand goes down, a chest will spawn where his corp<img align="right" alt="garim's key" height="109" src="http://image.wetpaint.com/image/1/LY_l4fc6NFIRs2SlR6HbBw75011/GW277H109" title="garim's key" width="277">se previously was. The chest can only be opened via Jormongand&#39;s Key (mislabeled as &quot;Will you open the box with&quot;). The key can be purchased from the cash shop for 125 gold. The chest supposedly drops Jorgmongand&#39;s Belt, which gives a +1 bonus to the user&#39;s Constitution <span class="diffRemove">score.</span><span class="diffAdd">score, in addition to +5 Absorb.</span></li>
+                      <li>Note however, that the chance of getting the Belt is quite low. Typical junk that you can receive in its place include AM Boosts, Triumph Fillers, a Ring Box and an Andre Box. Definitely not worth the 125 gold spent.<br></li>
+                    </ol><font size="3"><b>Reydiavaria</b></font><br>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-all" height="180" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Level: 116</b></font></td>
+                          <td class="WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>HP: 2612736<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Classification: Undead<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>Armor: Light<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>Size: Large<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Attack Rating: 60<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>Defense Rating: 60<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Attack: 8225<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>Defense: 217<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Fire Resistance: 30<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>Ice Resistance: 30<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="51%"><font color="#000000" size="2"><b>Lightning Resistance: 30<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="49%"><font color="#000000" size="2"><b>Mental Resistance: 30<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table><font color="#FFA500"><b><font size="3"><br>
+                    <font color="#000000">Fire Turret</font><br></font></b></font><font size="2"></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-style-border2 WPC-edit-border-none WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Level: 110<br></b></font></td>
+                          <td class="WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">HP: 105840<br></font></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Classification: Other<br></b></font></td>
+                          <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderTopWPC-edit-custom-bgColorWPC-edit-custom-bgColor WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Armor: Soft<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Size: Medium<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Attack Rating: 57<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense Rating: 57<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">Attack: 4212<br></font></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense: 201<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Fire Resistance: 90<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Ice Resistance: 90<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Lightning Resistance: 90<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Mental Resistance: 100<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table><br>
+                    <font color="#FFA500"><b><font size="3"><font color="#000000">Elbleed</font><br></font></b></font><font size="2"></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-style-border2 WPC-edit-border-none WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Level: 114<br></b></font></td>
+                          <td class="WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">HP: 2220902<br></font></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Classification: Daemon<br></b></font></td>
+                          <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderTopWPC-edit-custom-bgColorWPC-edit-custom-bgColor WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Armor: Light<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Size: Medium<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Attack Rating: 59<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense Rating: 59<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">Attack: 4824<br></font></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense: 214<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Fire Resistance: 65<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Ice Resistance: 65<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Lightning Resistance: 65<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Mental Resistance: 80<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-all" width="400">
+                      <tbody>
+                        <tr>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                        </tr>
+                      </tbody>
+                    </table><br>
+                    <font size="3"><b>Elminor</b></font><br>
+                    <font size="2"></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-style-border2 WPC-edit-border-none WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Level: 118<br></b></font></td>
+                          <td class="WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">HP: 181440<br></font></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Classification: Daemon<br></b></font></td>
+                          <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderTopWPC-edit-custom-bgColorWPC-edit-custom-bgColor WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Armor: Light<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Size: Medium<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Attack Rating: 57<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense Rating: 57<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">Attack: 5265<br></font></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense: 248<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Fire Resistance: 65<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Ice Resistance: 65<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Lightning Resistance: 65<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Mental Resistance: 80<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table><br>
+                    <font size="3"><b>Elnoogard</b></font><br>
+                    <font size="2"></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-style-border2 WPC-edit-border-none WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Level: 110<br></b></font></td>
+                          <td class="WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">HP: 66969690<br></font></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Classification: Dinosaur<br></b></font></td>
+                          <td bgcolor="#FFFFFF" class="WPC-edit-custom-borderTopWPC-edit-custom-bgColorWPC-edit-custom-bgColor WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Armor: Light<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Size: Large<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Attack Rating: 61<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense Rating: 61<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">Attack: 6259<br></font></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense: 248<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Fire Resistance: 70<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Ice Resistance: 70<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Lightning Resistance: 70<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Mental Resistance: 70<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table><br>
+                    <font size="3"><b>Sealed Crysal</b></font><br>
+                    <font size="2"></font>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-style-grid1 WPC-edit-border-all WPC-edit-styleData-color1=%23ebebeb&color2=%23c7c7c7" width="400">
+                      <tbody>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Level: 44<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">HP: 300<br></font></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Classification: Other<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Armor: Soft<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Element: No Attribute<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Size: Medium<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Attack Rating: 152<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense Rating: 152<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b><font size="2">Attack: 0<br></font></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Defense: 9999<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Fire Resistance: 90<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderTop WPC-edit-custom-borderBottom WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Ice Resistance: 90<br></b></font></td>
+                        </tr>
+                        <tr>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-custom-borderRight WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Lightning Resistance: 90<br></b></font></td>
+                          <td class="WPC-edit-custom-borderTop WPC-edit-custom-borderTop WPC-edit-custom-borderLeft WPC-edit-borderLeft-solid2px WPC-edit-custom-borderLeft WPC-edit-borderRight-solid2px WPC-edit-custom-borderRight WPC-edit-borderTop-solid2px WPC-edit-custom-borderTop WPC-edit-borderBottom-solid2px WPC-edit-custom-borderBottom" width="50%"><font color="#000000"><b>Mental Resistance: 100<br></b></font></td>
+                        </tr>
+                      </tbody>
+                    </table><br>
+                    <br>
+                  </div><br class="clear">
+                  <br class="clear">
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="5">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="9">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li><a href="/page/Quests" rel="46">Quests</a></li>
+                              <li>
+                                <a href="/page/Raids" rel="17">Raids</a>
+                                <ul>
+                                  <li><a href="/page/Raid+Point+System">Raid Point System</a></li>
+                                  <li><a href="/page/Battle+Colosseum">Battle Colosseum</a></li>
+                                  <li><a href="/page/Decarabia">Decarabia</a></li>
+                                  <li><a href="/page/Diablo">Diablo</a></li>
+                                  <li><a href="/page/Gate+of+Flame">Gate of Flame</a></li>
+                                  <li><a href="/page/Gate+of+Hell">Gate of Hell</a></li>
+                                  <li><a href="/page/Gate+of+Lightning">Gate of Lightning</a></li>
+                                  <li><a href="/page/Gerero">Gerero</a></li>
+                                  <li><a href="/page/Hell+Breaker" rel="1">Hell Breaker</a></li>
+                                  <li><a href="/page/Ice+Wizard%27s+Tower+%28Gate%29">Ice Wizard&#039;s Tower (Gate)</a></li>
+                                  <li><a href="/page/Queen+Eater">Queen Eater</a></li>
+                                  <li><a href="/page/Poison+Yard">Poison Yard</a></li>
+                                  <li><a href="/page/Secret+Temple">Secret Temple</a></li>
+                                  <li><a href="/page/Vergo+the+Cursed" rel="1">Vergo the Cursed</a></li>
+                                  <li><a href="/page/Corridor+of+Assize">Corridor of Assize</a></li>
+                                  <li><a href="/page/General+Guard" rel="4">General Guard</a></li>
+                                  <li><a href="/page/Jormongand" class="current">Jormongand</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png?v=20091103105336" alt="Create your own free Wetpaint site" width="123" height="77">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Top Chef Fansite</span></li>
+              <li><span>Stargate Universe</span></li>
+              <li><span>Sam&#039;s Space</span></li>
+              <li><span>Zombie Survival &amp; Defense Wiki</span></li>
+              <li><span><a href="/">Wiki of the New World</a>.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js?v=20091103105336"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b9';s_w.channel='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Other';s_w.prop4=location.hostname;s_w.prop8=(Math.round(273/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Other';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Other"}
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : 'Wetpaint'
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> 
+  <script type="text/javascript">
+
+
+        WPC.Logger.ComscoreData = { c1 : 2, c3 : 20021 }
+        WPC.Logger.LogToComscore();
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    </script>
+  </div>
+</body>
+</html>

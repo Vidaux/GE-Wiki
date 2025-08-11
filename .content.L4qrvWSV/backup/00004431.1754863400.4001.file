@@ -1,0 +1,573 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Secret of Moonlight - Page History - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Secret of Moonlight - Page History">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Secret of Moonlight',"PAGE_URI" : '/page/Secret+of+Moonlight',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Game Stances','Expert Stances','Secret of Moonlight']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span><a href="/accountSearch/all">Members</a></span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Secret+of+Moonlight">Secret of Moonlight</a> |</h1>
+                    <h2>Version Compare</h2>
+                    <p><a href="/page/Secret+of+Moonlight/history">Back to page history</a></p>
+                  </div>
+                  <div id="versionCompareSummary">
+                    <table>
+                      <tr class="header">
+                        <th>Version</th>
+                        <th>User</th>
+                        <th>Scope of changes</th>
+                      </tr>
+                      <tr>
+                        <td><a href="/page/Secret+of+Moonlight/revision/9">Jun 19 2012, 5:50 PM EDT</a> (current)</td>
+                        <td><a href="/account/clexe" id="WPC-action_accountMenu?account=clexe&subject=Secret+of+Moonlight&from=revisionDiffstatus1&pageName=Secret+of+Moonlight" class="WPC-action" onclick="return false">clexe</a></td>
+                        <td>1 word added, 1 word deleted</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a href="/page/Secret+of+Moonlight/revision/8">Jun 19 2012, 4:13 PM EDT</a></td>
+                        <td><a href="/account/clexe" id="WPC-action_accountMenu?account=clexe&subject=Secret+of+Moonlight&from=revisionDiffstatus2&pageName=Secret+of+Moonlight" class="WPC-action" onclick="return false">clexe</a></td>
+                        <td></td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="versionCompareHead">
+                    <h2>Changes</h2>
+                    <div class="revisionsKey">
+                      Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                    </div>
+                  </div>
+                  <div id="versionCompareContent" class="WPC-editableContent">
+                    <img align="left" alt="Sect of Moonlight - Wiki of the New World" src="http://image.wikifoundry.com/image/1/c_VtInw27Ls5O3Fu47e_5g2145" title="Sect of Moonlight - Wiki of the New World"><font color="#0000FF"><b><font size="2">Secret of Moonlight<br>
+                    <br></font></b> <font size="2"><font size="3"><font color="#333333"><br>
+                    <br>
+                    Who can use:<br></font></font></font></font> <span class="diffAdd"></span>
+                    <ul>
+                      <li style="list-style: none"><span class="diffAdd"></span></li>
+                      <li><span class="diffAdd"></span><a href="/page/Asoka" target="_self"><font color="#333333" size="2">Asoka</font></a></li>
+                    </ul><font color="#0000FF"><font size="2"><font size="3"><font color="#333333"><font size="2"><span class="diffAdd"></span><br>
+                    <font size="3">Weapon:<br>
+                    <font size="2">Greatsword<br>
+                    <br>
+                    <font size="3">Attack Cycle:</font><br>
+                    2 hit Splash<br>
+                    <br>
+                    <font size="3">Prerequisite:<br>
+                    <font size="2">Level: <font color="#FF0000"><span class="diffFormatting" title="">Expert</span></font><br>
+                    Stance: None<br>
+                    <br>
+                    <font size="3">Acquisition:<br>
+                    <font size="2">Item Exchange: Symbol of Leo + 3 <span class="diffRemove">Great</span><span class="diffAdd">Growth</span> Stones, Emilia (after quest)<br>
+                    <br>
+                    <font size="3">Bonuses:<font size="2"><br>
+                    Stance Level 25:</font></font></font></font></font></font></font></font></font></font></font></font></font> <font size="2">Accuracy +20, Aspd +15%, Critical +15%, Block +15, Penetration +20<br>
+                    Stance Feature:</font> <font color="#0000FF"><font size="2"><font size="3"><font color="#333333"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2"><font size="3"><font size="2">10% damage increase by magic attacks, 30% decrease in chance <span class="diffRemove"></span> <span class="diffAdd"></span>to get debuffed<br>
+                    <br></font></font></font></font></font></font></font></font></font></font></font></font></font> <font size="2"><br></font> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span>
+                    <table align="bottom" cellpadding="3" class="WPC-edit-border-rows" width="100%">
+                      <tbody>
+                        <tr>
+                          <td align="center" width="16%"><span class="diffAdd"></span><b>Skill Name<br></b></td>
+                          <td align="center" width="12%"><span class="diffAdd"></span><b>Stance Level<br></b></td>
+                          <td align="center" width="15%"><span class="diffAdd"></span><b>SP Cost<br></b></td>
+                          <td align="center" width="13%"><span class="diffAdd"></span><b>Cast/Cool<br>
+                          (sec)<br></b></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><b>Targets<br></b></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><b>Classification/Effects<br></b></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><b>Damage/Duration<br></b></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="16%">
+                            <span class="diffAdd"></span><i>Double Slicer<br></i><br>
+                            <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffRemove"></span>
+                            <table>
+                              <tbody>
+                                <tr>
+                                  <td colspan="2" width="100%"><span class="diffAdd"></span><img alt="Sect of Moonlight - Wiki of the New World" src="http://image.wikifoundry.com/image/1/rREB2liORUwHleh9QzEKVQ1981" title="Sect of Moonlight - Wiki of the New World"></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                          <td align="center" width="12%"><span class="diffAdd"></span>1</td>
+                          <td align="center" width="15%"><span class="diffAdd"></span>240</td>
+                          <td align="center" width="13%"><span class="diffAdd"></span>Cast time:<br>
+                          Cooldown: 5</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>1 nearby enemy</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>Ignores 30 DEF on target<br>
+                          Chance of double damage to targets afflicted with<br>
+                          [<a href="/page/Character+Status+List" target="_self">Moon&#39;s Curse</a>]</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>LV1: 404%<br>
+                          5% chance<br>
+                          LV10: 734%<br>
+                          19% chance</td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="16%">
+                            <span class="diffAdd"></span><i>Piercing Dimension<br></i><br>
+                            <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffRemove"></span>
+                            <table>
+                              <tbody>
+                                <tr>
+                                  <td colspan="2" width="100%"><span class="diffAdd"></span><img alt="Sect of Moonlight - Wiki of the New World" src="http://image.wikifoundry.com/image/1/BMVE7MjcaXPgxe5toRwXcw2027" title="Sect of Moonlight - Wiki of the New World"></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                          <td align="center" width="12%"><span class="diffAdd"></span>5</td>
+                          <td align="center" width="15%"><span class="diffAdd"></span>340</td>
+                          <td align="center" width="13%"><span class="diffAdd"></span><font size="2">Cast time:<br>
+                          <span class="diffRemove"></span>Cooldown: 10<br></font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>3 enemies in 2m radius<br>
+                          AoE within 10m</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>Ignores 30 DEF on target<br>
+                          Ignore Block<br>
+                          Ignore 50% shield DEF<br>
+                          60% Chance to inflict [<a href="/page/Character+Status+List" target="_self">Bleed</a>]</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><font size="2">LV1: 415%<br>
+                          <span class="diffRemove"></span>LV10: 754%<br></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="16%">
+                            <span class="diffAdd"></span><i>Moon Decision<br></i><br>
+                            <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffAdd"></span> <span class="diffRemove"></span>
+                            <table>
+                              <tbody>
+                                <tr>
+                                  <td colspan="2" width="100%"><span class="diffAdd"></span><img alt="Sect of Moonlight - Wiki of the New World" src="http://image.wikifoundry.com/image/1/Fcqs4CVnEjxg3F37gpBnig2360" title="Sect of Moonlight - Wiki of the New World"></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                          <td align="center" width="12%"><span class="diffAdd"></span>10</td>
+                          <td align="center" width="15%"><span class="diffAdd"></span>440<br>
+                          5 Ancient Star Orb</td>
+                          <td align="center" width="13%"><span class="diffAdd"></span><font size="2">Cast time:<br>
+                          <span class="diffRemove"></span>Cooldown: 12<br></font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><font size="2">5 adjacent enemies<br></font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>Ignore 30 DEF on target<br>
+                          <font size="2">Ignore Block<br>
+                          Ignore 50% shield DEF<br>
+                          60% Chance to <span class="diffRemove"></span> <span class="diffAdd"></span>inflict [<a href="/page/Character+Status+List" target="_self">Moon Curse</a>]</font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><font size="2">LV1: 425%<br>
+                          <span class="diffRemove"></span>LV10: 773%<br></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="16%"><span class="diffAdd"></span><i>Acrobatic Evil Slicer<br></i><img alt="Sect of Moonlight - Wiki of the New World" src="http://image.wikifoundry.com/image/1/o3bd3kmzjlVOi0WrVPFGKw2125" title="Sect of Moonlight - Wiki of the New World"></td>
+                          <td align="center" width="12%"><span class="diffAdd"></span>15</td>
+                          <td align="center" width="15%"><span class="diffAdd"></span>540</td>
+                          <td align="center" width="13%"><span class="diffAdd"></span><font size="2">Cast time:<br>
+                          <span class="diffRemove"></span>Cooldown: 20<br></font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><font size="2">1 nearby enemy<br></font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>Ignore 40 DEF on target</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><font size="2">LV1: 959%<br>
+                          <span class="diffRemove"></span>LV10: 1744%<br></font></td>
+                        </tr>
+                        <tr>
+                          <td align="center" width="16%"><span class="diffAdd"></span><i>Asura<br></i><img alt="Sect of Moonlight - Wiki of the New World" src="http://image.wikifoundry.com/image/1/-PaTSBVZJh63A6sY_zyRgA2340" title="Sect of Moonlight - Wiki of the New World"></td>
+                          <td align="center" width="12%"><span class="diffAdd"></span>25</td>
+                          <td align="center" width="15%"><span class="diffAdd"></span>650<br>
+                          8 Ancient Star Orb</td>
+                          <td align="center" width="13%"><span class="diffAdd"></span><font size="2"><font size="2">Cast time:<br>
+                          <span class="diffRemove"></span>Cooldown: 25</font></font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>5 enemies in 4m radius<br>
+                          AoE within 6m</td>
+                          <td align="center" width="14%"><span class="diffAdd"></span>Ignore 50 DEF on target<br>
+                          <font size="2">Chance of double damage to targets <span class="diffRemove"></span> <span class="diffAdd"></span>afflicted with<br>
+                          [<a href="/page/Character+Status+List" target="_self">Moon&#39;s Curse</a>]</font></td>
+                          <td align="center" width="14%"><span class="diffAdd"></span><font size="2">LV1: 746%<br>
+                          5% chance<br>
+                          LV10: 1357%<br>
+                          19% chance</font></td>
+                        </tr>
+                      </tbody>
+                    </table><span class="diffAdd"></span><br>
+                  </div><br class="clear">
+                  <br class="clear">
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li>
+                                <a href="/page/Game+Stances" rel="93">Game Stances</a>
+                                <ul>
+                                  <li>
+                                    <a href="/page/Expert+Stances" rel="46">Expert Stances</a>
+                                    <ul>
+                                      <li><a href="/page/Abyss">Abyss</a></li>
+                                      <li><a href="/page/Arnis">Arnis</a></li>
+                                      <li><a href="/page/Augury">Augury</a></li>
+                                      <li><a href="/page/Augury+%28Hellena%29">Augury (Hellena)</a></li>
+                                      <li><a href="/page/Blitz+Assault" rel="1">Blitz Assault</a></li>
+                                      <li><a href="/page/Bloody+Feast">Bloody Feast</a></li>
+                                      <li><a href="/page/Croisement">Croisement</a></li>
+                                      <li><a href="/page/Crusader">Crusader</a></li>
+                                      <li><a href="/page/Cutlass">Cutlass</a></li>
+                                      <li><a href="/page/Darkness">Darkness</a></li>
+                                      <li><a href="/page/Death+Chopping">Death Chopping</a></li>
+                                      <li><a href="/page/Duel+Blaster">Duel Blaster</a></li>
+                                      <li><a href="/page/Efreet">Efreet</a></li>
+                                      <li><a href="/page/Enhanced+Tactics">Enhanced Tactics</a></li>
+                                      <li><a href="/page/Equites">Equites</a></li>
+                                      <li><a href="/page/Flintlock">Flintlock</a></li>
+                                      <li><a href="/page/Frost">Frost</a></li>
+                                      <li><a href="/page/Furious">Furious</a></li>
+                                      <li><a href="/page/Gorgeous">Gorgeous</a></li>
+                                      <li><a href="/page/Hanging+Guard">Hanging Guard</a></li>
+                                      <li><a href="/page/Hermetisme">Hermetisme</a></li>
+                                      <li><a href="/page/Innocentio">Innocentio</a></li>
+                                      <li><a href="/page/Madness">Madness</a></li>
+                                      <li><a href="/page/Master+Martial+Arts">Master Martial Arts</a></li>
+                                      <li><a href="/page/Occultism">Occultism</a></li>
+                                      <li><a href="/page/Peltast">Peltast</a></li>
+                                      <li><a href="/page/Phythonis">Phythonis</a></li>
+                                      <li><a href="/page/Prelude">Prelude</a></li>
+                                      <li><a href="/page/Punisher">Punisher</a></li>
+                                      <li><a href="/page/Rapida+Espada">Rapida Espada</a></li>
+                                      <li><a href="/page/Rapiere">Rapiere</a></li>
+                                      <li><a href="/page/Rapiere+of+Grim">Rapiere of Grim</a></li>
+                                      <li><a href="/page/Secret+of+Moonlight" class="current">Secret of Moonlight</a></li>
+                                      <li><a href="/page/Semilunar">Semilunar</a></li>
+                                      <li><a href="/page/Shadow+Sting" rel="1">Shadow Sting</a></li>
+                                      <li><a href="/page/Shining+Sting">Shining Sting</a></li>
+                                      <li><a href="/page/Superior+Blaster">Superior Blaster</a></li>
+                                      <li><a href="/page/Tempest">Tempest</a></li>
+                                      <li><a href="/page/Tested+Burst">Tested Burst</a></li>
+                                      <li><a href="/page/Tested+Guard">Tested Guard</a></li>
+                                      <li><a href="/page/Therapy">Therapy</a></li>
+                                      <li><a href="/page/Tronada+Cruz">Tronada Cruz</a></li>
+                                      <li><a href="/page/Unlimited+Shot">Unlimited Shot</a></li>
+                                      <li><a href="/page/Wanted+Shot">Wanted Shot</a></li>
+                                      <li><a href="/page/Sniper">Sniper</a></li>
+                                      <li><a href="/page/Trance+Robo+stance+quest">Trance Robo stance quest</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="/page/Aiming+Shot">Aiming Shot</a></li>
+                                  <li><a href="/page/Amicus">Amicus</a></li>
+                                  <li><a href="/page/Anathema">Anathema</a></li>
+                                  <li><a href="/page/Arbalest">Arbalest</a></li>
+                                  <li><a href="/page/Avant+Garde">Avant Garde</a></li>
+                                  <li><a href="/page/Avant+Garde+of+Grim">Avant Garde of Grim</a></li>
+                                  <li><a href="/page/Back+Guard">Back Guard</a></li>
+                                  <li><a href="/page/Ballista">Ballista</a></li>
+                                  <li><a href="/page/Bard">Bard</a></li>
+                                  <li><a href="/page/Bareknuckle+v2">Bareknuckle v2</a></li>
+                                  <li><a href="/page/Blandir+Cruz">Blandir Cruz</a></li>
+                                  <li><a href="/page/Cauchemar">Cauchemar</a></li>
+                                  <li><a href="/page/Close+Encounters">Close Encounters</a></li>
+                                  <li><a href="/page/Combatant">Combatant</a></li>
+                                  <li><a href="/page/Construction">Construction</a></li>
+                                  <li><a href="/page/Defender">Defender</a></li>
+                                  <li><a href="/page/Defending+Guard">Defending Guard</a></li>
+                                  <li><a href="/page/Defending+Shot">Defending Shot</a></li>
+                                  <li><a href="/page/Defensive+Construction">Defensive Construction</a></li>
+                                  <li><a href="/page/Demolition+Burst">Demolition Burst</a></li>
+                                  <li><a href="/page/Dobalada+Corte">Dobalada Corte</a></li>
+                                  <li><a href="/page/Domination+Fire">Domination Fire</a></li>
+                                  <li><a href="/page/Domination+Ice">Domination Ice</a></li>
+                                  <li><a href="/page/Domination+Lightning">Domination Lightning</a></li>
+                                  <li><a href="/page/Double-Gun+Shot">Double-Gun Shot</a></li>
+                                  <li><a href="/page/Elemental+Lord">Elemental Lord</a></li>
+                                  <li><a href="/page/Epee+Garde">Epee Garde</a></li>
+                                  <li><a href="/page/Epee+Garde+of+Grim">Epee Garde of Grim</a></li>
+                                  <li><a href="/page/Epee+Glacier">Epee Glacier</a></li>
+                                  <li><a href="/page/Escrima">Escrima</a></li>
+                                  <li><a href="/page/ESP">ESP</a></li>
+                                  <li><a href="/page/Evocation+Fire">Evocation Fire</a></li>
+                                  <li><a href="/page/Evocation+Ice">Evocation Ice</a></li>
+                                  <li><a href="/page/Evocation+Lightning">Evocation Lightning</a></li>
+                                  <li><a href="/page/Flame+Guard">Flame Guard</a></li>
+                                  <li><a href="/page/Forgotten+Magic">Forgotten Magic</a></li>
+                                  <li><a href="/page/Freestyle+Shot">Freestyle Shot</a></li>
+                                  <li><a href="/page/Gigantic+Blaster">Gigantic Blaster</a></li>
+                                  <li><a href="/page/Gigantic+Marksmanship">Gigantic Marksmanship</a></li>
+                                  <li><a href="/page/Grim+Guard">Grim Guard</a></li>
+                                  <li><a href="/page/Hack+and+Slash">Hack and Slash</a></li>
+                                  <li><a href="/page/Heaven+and+Hell">Heaven and Hell</a></li>
+                                  <li><a href="/page/Heaven+or+Hell+of+Grim">Heaven or Hell of Grim</a></li>
+                                  <li><a href="/page/High+Guard">High Guard</a></li>
+                                  <li><a href="/page/Hunting+Blaster">Hunting Blaster</a></li>
+                                  <li><a href="/page/Illusionist">Illusionist</a></li>
+                                  <li><a href="/page/Incantation">Incantation</a></li>
+                                  <li><a href="/page/Install+Traps">Install Traps</a></li>
+                                  <li><a href="/page/Kneeling+Shot">Kneeling Shot</a></li>
+                                  <li><a href="/page/Levitation">Levitation</a></li>
+                                  <li><a href="/page/Low+Guard">Low Guard</a></li>
+                                  <li><a href="/page/Main+Gauche+Garde">Main Gauche Garde</a></li>
+                                  <li><a href="/page/Main+Gauche+Garde+of+Grim">Main Gauche Garde of Grim</a></li>
+                                  <li><a href="/page/Marionette">Marionette</a></li>
+                                  <li><a href="/page/Martial+Elements%3A+Earth">Martial Elements: Earth</a></li>
+                                  <li><a href="/page/Martial+Elements%3A+Fire">Martial Elements: Fire</a></li>
+                                  <li><a href="/page/Martial+Elements%3A+Ice">Martial Elements: Ice</a></li>
+                                  <li><a href="/page/Martial+Elements%3A+Mind">Martial Elements: Mind</a></li>
+                                  <li><a href="/page/Martial+Elements%3A+Wind">Martial Elements: Wind</a></li>
+                                  <li><a href="/page/Medic">Medic</a></li>
+                                  <li><a href="/page/Middle+Guard">Middle Guard</a></li>
+                                  <li><a href="/page/Middle+Guard+of+Spirit">Middle Guard of Spirit</a></li>
+                                  <li><a href="/page/Mighty+Cruz">Mighty Cruz</a></li>
+                                  <li><a href="/page/Minstrel">Minstrel</a></li>
+                                  <li><a href="/page/Outrage+Shot">Outrage Shot</a></li>
+                                  <li><a href="/page/Penetrar+Cruz">Penetrar Cruz</a></li>
+                                  <li><a href="/page/Plow+Guard">Plow Guard</a></li>
+                                  <li><a href="/page/Possession+Fire">Possession Fire</a></li>
+                                  <li><a href="/page/Possession+Ice">Possession Ice</a></li>
+                                  <li><a href="/page/Possession+Lightning">Possession Lightning</a></li>
+                                  <li><a href="/page/Psychokinesis">Psychokinesis</a></li>
+                                  <li><a href="/page/Raid+Assault">Raid Assault</a></li>
+                                  <li><a href="/page/Roof+Guard">Roof Guard</a></li>
+                                  <li><a href="/page/Sabre+Garde">Sabre Garde</a></li>
+                                  <li><a href="/page/Sabre+Glacier">Sabre Glacier</a></li>
+                                  <li><a href="/page/Sagitta">Sagitta</a></li>
+                                  <li><a href="/page/Schiavona">Schiavona</a></li>
+                                  <li><a href="/page/Serenade">Serenade</a></li>
+                                  <li><a href="/page/Shotgun+Blaster">Shotgun Blaster</a></li>
+                                  <li><a href="/page/Sidewinder">Sidewinder</a></li>
+                                  <li><a href="/page/Siege+Burst">Siege Burst</a></li>
+                                  <li><a href="/page/Sight+Shot">Sight Shot</a></li>
+                                  <li><a href="/page/Standing+Shot">Standing Shot</a></li>
+                                  <li><a href="/page/Stave+Guard">Stave Guard</a></li>
+                                  <li><a href="/page/Straight+Shot">Straight Shot</a></li>
+                                  <li><a href="/page/Tactical+Assistance">Tactical Assistance</a></li>
+                                  <li><a href="/page/Tail+Guard">Tail Guard</a></li>
+                                  <li><a href="/page/Targan+Shot">Targan Shot</a></li>
+                                  <li><a href="/page/Testis">Testis</a></li>
+                                  <li><a href="/page/Twin+Blades">Twin Blades</a></li>
+                                  <li><a href="/page/Twin+Blades+of+Spirit">Twin Blades of Spirit</a></li>
+                                  <li><a href="/page/How+to+get+the+veteran+stance+books">How to get the veteran stance books</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

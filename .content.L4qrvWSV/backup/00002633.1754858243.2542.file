@@ -1,0 +1,560 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Instruction Manual - History Page - Wiki of the New World</title>
+  <meta name="keywords" content="Instruction Manual - History Page - Wiki of the New World, account,combat,controls,guide,instrucctions,instructions,manual,newbie,noob,party">
+  <meta name="description" content="Wiki of the New World - Instruction Manual - History Page">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/CSSApplication/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/family/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/core/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Instruction Manual',"PAGE_URI" : '/page/Instruction+Manual',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageHistory',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Instruction Manual']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1><a href="/page/Instruction+Manual">Instruction Manual</a></h1>
+                  </div>
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">Page Versions</li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <div class="clear"></div><span class="revisionsKey">Key:&nbsp;&nbsp;<span class="diffAdd">additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">deletions</span></span>
+                  <div id="compareVersionError" class="error" style="display:none">
+                    Please select two page versions to compare - check the checkbox to the right of each version.
+                  </div>
+                  <div id="history">
+                    <div class="pagingWrapper">
+                      <div class="pagingActionWrapper">
+                        <span class="pagingAction"></span>
+                        <form action="/page/Instruction+Manual/history;jsessionid=D18980A7599723D5C69C5467A53E8C43" method="get">
+                          <span class="pagingAction"><input type="hidden" name="offset" value="0"> Showing&nbsp;1&nbsp;-&nbsp;11&nbsp;of&nbsp;11 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit()" style="font-size:80%">
+                            <option value="10">
+                              10
+                            </option>
+                            <option value="20" selected>
+                              20
+                            </option>
+                            <option value="50">
+                              50
+                            </option>
+                          </select> pages&nbsp;at a time</span>
+                        </form>
+                      </div>
+                    </div>
+                    <form id="historyCheckboxForm" onsubmit="return false">
+                      <div class="tableList">
+                        <table>
+                          <tr class="header">
+                            <th><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?parentNodeId=history" href="#toggle"></a></th>
+                            <th>Date/Time</th>
+                            <th>Made&nbsp;By</th>
+                            <th>Edit Note</th>
+                            <th>Type</th>
+                            <th>Scope</th>
+                            <th class="header compareCell farRightCell"><button id="WPC-action_compareRevisions" class="compareButton WPC-action" onclick="return false">Compare</button></th>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual">Apr 12 2010, 11:56 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Instruction+Manual&from=status1&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Rosengarde</a></td>
+                            <td>
+                              <div class="historyComment">
+                                I should probably rewrite this into an actual article with the manual&#039;s info...&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">35 words added</span><br>
+                            <span class="nowrap">19 words deleted</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox11"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA1" style="display: ;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">information posted on</span> <span class="diffRemove">HERE</span><span class="diffAdd">their</span> <span class="diffAdd">Getting Started page</span>.<span class="diffRemove">I</span><span class="diffAdd">Keyboard Map</span><span class="diffAdd">Granado Espada Singapore</span> <span class="diffRemove">know</span><span class="diffAdd">provides</span> <span class="diffAdd">us with</span> this <span class="diffRemove">is</span><span class="diffAdd">keyboard</span> <span class="diffRemove">also</span><span class="diffAdd">map</span> <span class="diffRemove">in</span><span class="diffAdd">on</span> <span class="diffRemove">the</span><span class="diffAdd">their</span> <span class="diffRemove">original</span><span class="diffAdd">Getting</span> <span class="diffRemove">webpage,</span><span class="diffAdd">Started</span> <span class="diffRemove">but</span><span class="diffAdd">page</span><span class="diffAdd">,</span> <span class="diffRemove">it</span><span class="diffAdd">which</span> may be very helpful for the visual learners out there.________________________________Some &nbsp; <a href="/page/Instruction+Manual/diff/10,11">View changes from previous version.</a> (Word count: 206)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/10">Sep 2 2008, 3:56 PM EDT</a></td>
+                            <td class="nowrap"><a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&subject=Instruction+Manual&from=status2&pageName=Instruction+Manual" class="WPC-action" onclick="return false">friedrice8791</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Rename&nbsp;
+                              </div>
+                            </td>
+                            <td>rename</td>
+                            <td class="scopeCell">No content added or deleted.</td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox10"></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA2" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;Renamed from Sword of the New World Instruction Manual by <a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&from=diffAuthor1" class="WPC-action" onclick="return false">friedrice8791</a> Sep 2 2008, 3:56 PM EDT for: Rename
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/9">Aug 16 2008, 3:59 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status3&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">1 word added</span><br>
+                            <span class="nowrap">2 words deleted</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox9"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA3" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffRemove">that&#39;s</span> posted on the <span class="diffRemove">game</span><span class="diffAdd">game&#39;s</span> home site, so I&#39;m going to post it here aswell. The manual has all the information you need as a newbie, if you don&#39;t read it you&#39;ll find yourself a little lost when you begin the game, so enjoy =P ~LothNote: Make &nbsp; <a href="/page/Instruction+Manual/diff/8,9">View changes from previous version.</a> (Word count: 191)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=4" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/8">Jul 14 2008, 9:15 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status4&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox8"></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA4" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;There were only format changes (bold, italics, etc.) in this version. <a href="/page/Instruction+Manual/diff/7,8">See this version for details.</a> (Word count: 192)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=5" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/7">Jul 14 2008, 9:15 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status5&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">6 words added</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox7"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA5" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp; you begin the game, so enjoy =P ~LothNote: Make sure to right click the link, and select &quot;save target as&quot; to save the manual; if you just click it the Adobe Reader might run ahead.<span class="diffAdd">Alternate Download Links:</span><span class="diffAdd">http://countercurse.periphrasis.net/muse/GE_MiniManual_web.pdf</span><span class="diffAdd">http://countercurse.periphrasis.net/muse/quest_guide.pdf</span><span class="diffAdd">http://countercurse.periphrasis.net/muse/SotNW_Manual_4C.pdf</span> &nbsp; <a href="/page/Instruction+Manual/diff/6,7">View changes from previous version.</a> (Word count: 192)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=6" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/6">Jul 13 2008, 10:07 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status6&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">28 words added</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox6"></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA6" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp; little lost when you begin the game, so enjoy =P ~Loth<span class="diffAdd">Note: Make sure to right click the link, and select &quot;save target as&quot; to save the manual; if you just click it the Adobe Reader might run ahead.</span> &nbsp; <a href="/page/Instruction+Manual/diff/5,6">View changes from previous version.</a> (Word count: 168)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=7" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/5">Jul 11 2008, 3:30 AM EDT</a></td>
+                            <td class="nowrap"><a href="/account/Quilesca" id="WPC-action_accountMenu?account=Quilesca&subject=Instruction+Manual&from=status7&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Quilesca</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Added Keyboard&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">21 words added</span><br>
+                            <span class="nowrap">1 image added</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox5"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA7" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">I know this is also in the original webpage, but it may be very helpful for the visual learners out there.</span>________________________________Some new players ignore the instruction manual that&#39;s posted on the game home site, &nbsp; <a href="/page/Instruction+Manual/diff/4,5">View changes from previous version.</a> (Word count: 140)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=8" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/4">Feb 28 2008, 6:48 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Wild-Kat" id="WPC-action_accountMenu?account=Wild-Kat&subject=Instruction+Manual&from=status8&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Wild-Kat</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Rename&nbsp;
+                              </div>
+                            </td>
+                            <td>rename</td>
+                            <td class="scopeCell">No content added or deleted.</td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox4"></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA8" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;Renamed from Sword of the new world Instruction Manual by <a href="/account/Wild-Kat" id="WPC-action_accountMenu?account=Wild-Kat&from=diffAuthor7" class="WPC-action" onclick="return false">Wild-Kat</a> Feb 28 2008, 6:48 AM EST for: Rename
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=9" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/3">Feb 27 2008, 4:53 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status9&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                Added the instruction manual&nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">61 words added</span><br>
+                            <span class="nowrap">1 image added</span><br>
+                            <span class="nowrap">1 image deleted</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox3"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA9" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">With detailed sections on getting started, quests, combat, controls, classes, account management, and more, this in-depth instruction manual spans a total of 59 pages. We hope you find it an important resource for your swashbuckling adventures in the New World.</span> <span class="diffAdd">Click</span> <span class="diffAdd">here</span> <span class="diffAdd">to download.</span> <span class="diffAdd">(7.9 MB PDF file)</span> <span class="diffAdd">You</span> &nbsp; <a href="/page/Instruction+Manual/diff/2,3">View changes from previous version.</a> (Word count: 119)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected altRow">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=10" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/2">Feb 27 2008, 4:51 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status10&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>edit</td>
+                            <td class="scopeCell"><span class="nowrap">53 words added</span><br>
+                            <span class="nowrap">1 image added</span><br></td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox2"></td>
+                          </tr>
+                          <tr class="altRow">
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA10" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;<span class="diffAdd">Some new players ignore the instruction manual that&#39;s posted on the game home site, so I&#39;m going to post it here aswell. The manual has</span> &nbsp; <a href="/page/Instruction+Manual/diff/1,2">View changes from previous version.</a> (Word count: 57)
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="unselected">
+                            <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=11" href="#toggle"></a></td>
+                            <td class="nowrap"><a href="/page/Instruction+Manual/revision/1">Feb 27 2008, 4:48 AM EST</a></td>
+                            <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Instruction+Manual&from=status11&pageName=Instruction+Manual" class="WPC-action" onclick="return false">Lothmak</a></td>
+                            <td>
+                              <div class="historyComment">
+                                &nbsp;
+                              </div>
+                            </td>
+                            <td>create</td>
+                            <td class="scopeCell">No content added or deleted.</td>
+                            <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox1"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="7" class="colspan">
+                              <div class="historyRevision" id="expandToggleItemA11" style="display: none;">
+                                <div class="historyRevisionAbstract">
+                                  <b>Change:</b>&nbsp;Created by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&from=diffAuthor10" class="WPC-action" onclick="return false">Lothmak</a> Feb 27 2008, 4:48 AM EST for: no reason given
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                      </div>
+                    </form>
+                    <div class="pagingWrapper"></div>
+                  </div><br>
+                  <br>
+                  <script src="http://static.wikifoundry.com/scripts/wpjsPage/pagehistory/p.js" type="text/javascript"></script>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li>
+                                <a href="/page/Instruction+Manual" rel="5" class="current">Instruction Manual</a>
+                                <ul>
+                                  <li><a href="/page/Command+Shortcut+List">Command Shortcut List</a></li>
+                                  <li><a href="/page/Terminology">Terminology</a></li>
+                                  <li><a href="/page/Hints+%2F+Tips" rel="5">Hints / Tips</a></li>
+                                  <li><a href="/page/Machinima+Guide+%28Make+a+SoTnW+movie%21%29">Machinima Guide (Make a SoTnW movie!)</a></li>
+                                  <li><a href="/page/Char+V2">Char V2</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

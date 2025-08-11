@@ -1,0 +1,1058 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>SotNW-Wiki Directory - Wiki of the New World</title>
+  <meta name="description" content="This page displays the entire contents of the site navigation on the left of the screen. All child pages are expanded so you can see all the pages currently on...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'SotNW-Wiki Directory',"PAGE_URI" : '/page/SotNW-Wiki+Directory',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "IS_CONTENT_LOCKED" : true,"DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','SotNW-Wiki Directory']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/SotNW-Wiki+Directory">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script> 
+                  <script type='text/javascript'>
+
+
+                  var abtest = "7521087570";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DSotNW-Wiki+Directory%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>SotNW-Wiki Directory<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="/image/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=SotNW-Wiki+Directory">
+                    <div id="WPC-area?cellId=SotNW-Wiki+Directory&version=14&savePath=%2Fpage%2FSotNW-Wiki%2BDirectory&saveType=page" class="WPC-editableContent">
+                      <font size="3"><i><font size="2">This page displays the entire contents of the site navigation on the left of the screen. All child pages are expanded so you can see all the pages currently on sotnwwiki. It&#39;s was mainly created for users uncomfortable with using the main navigation, to make finding information a little faster.</font></i><br></font><b><font size="3"><br>
+                      <br>
+                      <a href="/" target="_self">Home</a> - <a href="/forum" target="_self">Discussions</a> - <a href="/photos" target="_self">Photo Gallery</a> - <a href="/whatsnew" target="_self">Daily Updates</a></font></b><br>
+                      <blockquote>
+                        <font size="3">SotNW-Wiki Directory<br>
+                        <a href="/page/NEWEST+UPDATES" target="_self">Newest Updates</a><br>
+                        <a href="/page/Quests" target="_self">Quests</a></font><br>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Quest:+Walkthrough" target="_self">Quest: Walkthrough</a><br>
+                          <a href="/page/Pioneering+Quests" target="_self">Pioneering Quests</a></b></font><br>
+                          <blockquote>
+                            <font size="2"><a href="/page/Pioneering+Quest+-+Reboldeaux" target="_self">Pioneering Quest - Reboldeaux</a><br>
+                            <a href="/page/Pioneering+Quest+-+Port+of+Coimbra" target="_self">Pioneering Quest - Port of Coimbra</a><br>
+                            <a href="/page/Pioneering+Quest+-+City+of+Auch" target="_self">Pioneering Quest - City of Auch</a><br>
+                            <a href="/page/Pioneering+Quest+-+Ustiur+Base+Camp" target="_self">Pioneering Quest - Ustiur Base Camp</a><br>
+                            <a href="/page/Bahamar+Quests" target="_self">Bahamar Quests</a><br>
+                            <a href="/page/Katovic+Snowfield+Quests" target="_self">Katovic Snowfield Quests</a><br>
+                            <a href="/page/Caebolan+Quests" target="_self">Caebolan Quests</a><br>
+                            <a href="/page/Errac+Questline" target="_self">Errac Questline</a><br>
+                            <a href="/page/Chateau+de+Bourgogne" target="_self">Chateau de Bourgogne</a></font><br>
+                            <a href="/page/Holy+Water+Chamber" target="_self"><font size="2">Holy Water Chamber</font></a><br>
+                          </blockquote><font size="2"><b><a href="/page/Other+Quest" target="_self">Other Quest</a></b></font><br>
+                          <blockquote>
+                            <font size="2"><a href="/page/Other+Quest+-+Reboldeaux" target="_self">Other Quest - Reboldeaux</a><br>
+                            <a href="/page/Other+Quest+-+Port+of+Coimbra" target="_self">Other Quest - Port of Coimbra</a><br>
+                            <a href="/page/Other+Quest+-+Ustiur+Base+Camp" target="_self">Other Quest - Ustiur Base Camp</a><br>
+                            <a href="/page/Quests+-+Level+100+-+Veteran" target="_self">Quests - Level 100 - Veteran</a></font><br>
+                            <blockquote>
+                              <a href="/page/Elemental+Keys+%28Gates%29" target="_self">Elemental Keys (Gates)</a><br>
+                            </blockquote><font size="2"><a href="/page/Baron+Questline" target="_self">Baron Questline</a><br>
+                            <a href="/page/Garcia+Questline" target="_self">Garcia Questline</a><br>
+                            <a href="/page/Selva+Questline" target="_self">Selva Questline</a></font><br>
+                            <a href="/page/Master+Martial+Artist+Stance+Quest" target="_self"><font size="2">Master Martial Artist Stance Quest</font></a><br>
+                          </blockquote><font size="2"><b><a href="/page/Repeatable+Quest" target="_self">Repeatable Quest</a></b></font><br>
+                          <blockquote>
+                            <font size="2"><a href="/page/Secret+Tower+Certificate" target="_self">Secret Tower Certificate</a><br>
+                            <a href="/page/Sigmund+Voucher+Hunt" target="_self">Sigmund Voucher Hunt</a><br>
+                            <a href="/page/Raid+Cliff+Protector" target="_self">Raid Cliff Protector</a><br>
+                            <a href="/page/Repeatable+Quest+-+El+Tejado+Verde" target="_self">Repeatable Quest - El Tejado Verde</a><br>
+                            <a href="/page/Gardener" target="_self">Gardener</a><br>
+                            <a href="/page/Man+Eating+Bear+Hunt" target="_self">Man Eating Bear Hunt</a><br>
+                            <a href="/page/Repeatable+Quest+-+El+Canon+de+Diabolica" target="_self">Repeatable Quest - El Canon de Diabolica</a><br>
+                            <a href="/page/Suppression+of+the+Monsters+in+the+Lake" target="_self">Suppression of the Monsters in the Lake</a><br>
+                            <a href="/page/Crocodile+Threats" target="_self">Crocodile Threats</a><br>
+                            <a href="/page/A+Powerful+Foe:+The+Tyrannosaurus" target="_self">A Powerful Foe: The Tyrannosaurus</a><br>
+                            <a href="/page/Repeatable+Quest+-+City+of+Auch" target="_self">Repeatable Quest - City of Auch</a><br>
+                            <a href="/page/Repeatable+Quest+-+Abertal" target="_self">Repeatable Quest - Abertal</a><br>
+                            <a href="/page/Food+Research" target="_self">Food Research</a></font><br>
+                          </blockquote>
+                        </blockquote><font size="3"><a href="/page/Game+Characters" target="_self">Game Characters</a><br></font>
+                        <blockquote>
+                          <b><font size="2"><a href="/page/Character+Status+List" target="_self">Character Status List</a><br>
+                          <a href="/page/Inherent+Skill+List" target="_self">Inherent Skill List</a><br>
+                          <a href="/page/Character+Attributes" target="_self">Character Attributes</a><br>
+                          <a href="/page/Points+at+Vet+and+Expert" target="_self">Points at Vet and Expert</a> - needs update for master+<br>
+                          <a href="/page/Character+Promotion" target="_self">Character Promotion</a><br>
+                          <a href="/page/Character+Trading" target="_self">Character Trading</a><br>
+                          <a href="/page/Character+Comparison" target="_self">Character Comparison</a><br>
+                          <a href="/page/Combination+Buffs" target="_self">Combination Buffs</a><br>
+                          <a href="/page/Adelina+Esperanza" target="_self">Adelina Esperanza</a><br>
+                          <a href="/page/Alejandro" target="_self">Alejandro</a><br>
+                          <a href="/page/Andre+Janzur" target="_self">Andre Janzur</a><br>
+                          <a href="/page/Angie+Shirley" target="_self">Angie Shirley</a><br>
+                          <a href="/page/Ania" target="_self">Ania</a><br>
+                          <a href="/page/Asoka" target="_self">Asoka</a><br>
+                          <a href="/page/Auch+Infantry" target="_self">Auch Infantry</a><br>
+                          <a href="/page/Baek+Ho" target="_self">Baek Ho</a><br>
+                          <a href="/page/Battlesmith+Idge" target="_self">Battlesmith Idge</a><br>
+                          <a href="/page/Brunie+Etienne" target="_self">Brunie Etienne</a><br>
+                          <a href="/page/Calypso" target="_self">Calypso</a><br>
+                          <a href="/page/Captain+Adelina" target="_self">Captain Adelina</a><br>
+                          <a href="/page/Catherines" target="_self">Catherine</a><br>
+                          <a href="/page/Catherine+of+Combat" target="_self">Catherine of Combat</a><br>
+                          <a href="/page/Catherine+Torsche" target="_self">Catherine Torsche</a><br>
+                          <a href="/page/Claire" target="_self">Claire</a><br>
+                          <a href="/page/Claude+Baudez" target="_self">Claude Baudez</a><br>
+                          <a href="/page/Coimbran+Trooper" target="_self">Coimbran Trooper</a><br>
+                          <a href="/page/Eduardo+Gygax" target="_self">Eduardo Gygax</a><br>
+                          <a href="/page/Elementalist" target="_self">Elementalist</a><br>
+                          <a href="/page/Emilia+Giannino" target="_self">Emilia Giannino</a><br>
+                          <a href="/page/Emilia+the+Sage" target="_self">Emilia the Sage</a><br>
+                          <a href="/page/Fighter" target="_self">Fighter</a><br>
+                          <a href="/page/Garcia+Gygax" target="_self">Garcia Gygax</a><br>
+                          <a href="/page/Gertrude+Peterson" target="_self">Gertrude Peterson</a><br>
+                          <a href="/page/Grace+Bernelli" target="_self">Grace Bernelli</a><br>
+                          <a href="/page/Gracielo" target="_self">Gracielo</a><br>
+                          <a href="/page/Grenmah" target="_self">Grenmah</a><br>
+                          <a href="/page/Hellena" target="_self">Hellena</a><br>
+                          <a href="/page/Idge+Imbrulia" target="_self">Idge Imbrulia</a><br>
+                          <a href="/page/Irawain" target="_self">Irawain</a><br>
+                          <a href="/page/Iron+Chef+Panfilo" target="_self">Iron Chef Panfilo</a><br>
+                          <a href="/page/Jack+Shirley" target="_self">Jack Shirley</a><br>
+                          <a href="/page/Jose+Cortasar" target="_self">Jose Cortasar</a><br>
+                          <a href="/page/Kurt+Lyndon" target="_self">Kurt Lyndon</a><br>
+                          <a href="/page/Lisa+Lynway" target="_self">Lisa Lynway</a><br>
+                          <a href="/page/Lorch+Feurholden" target="_self">Lorch Feurholden</a><br>
+                          <a href="/page/M%27Boma" target="_self">M&#39;Boma</a><br>
+                          <a href="/page/Mia+Karjalain" target="_self">Mia Karjalain</a><br>
+                          <a href="/page/Musketeer" target="_self">Musketeer</a><br>
+                          <a href="/page/Najib+Sharif" target="_self">Najib Sharif</a><br>
+                          <a href="/page/Nar" target="_self">Nar</a><br>
+                          <a href="/page/Panfilo+de+Narvaez" target="_self">Panfilo de Narvaez</a><br>
+                          <a href="/page/Ramiro" target="_self">Ramiro</a><br>
+                          <a href="/page/Reboldeaux+Soldier" target="_self">Reboldeaux Soldier</a><br>
+                          <a href="/page/Reckless+Emilia" target="_self">Reckless Emilia</a><br>
+                          <a href="/page/Rescue+Knight" target="_self">Rescue Knight</a><br>
+                          <a href="/page/Romina" target="_self">Romina</a><br>
+                          <a href="/page/Scout" target="_self">Scout</a><br>
+                          <a href="/page/Selva+Norte" target="_self">Selva Norte</a><br>
+                          <a href="/page/Sir+Lyndon" target="_self">Sir Lyndon</a><br>
+                          <a href="/page/Soho" target="_self">Soho</a><br>
+                          <a href="/page/Soho+the+Fighter" target="_self">Soho the Fighter</a><br>
+                          <a href="/page/Soso" target="_self">Soso</a><br>
+                          <a href="/page/Tiburon" target="_self">Tiburon</a><br>
+                          <a href="/page/Valeria" target="_self">Valeria</a><br>
+                          <a href="/page/Viki" target="_self">Viki</a><br>
+                          <a href="/page/Vincent+Rio" target="_self">Vincent Rio</a><br>
+                          <a href="/page/Wizard" target="_self">Wizard</a><br>
+                          <a href="/page/Yeganeh" target="_self">Yeganeh</a><br>
+                          <a href="/page/Class+Guides" target="_self">Class Guides</a> - all of these guides are very old and in need of update<br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Job+Combinations" target="_self">Job Combinations</a><br>
+                            <a href="/page/Fighter+Guide" target="_self">Fighter Guide</a><br>
+                            <a href="/page/Musketeer+Guide" target="_self">Musketeer Guide</a><br>
+                            <a href="/page/Scout+Guide" target="_self">Scout Guide</a><br>
+                            <a href="/page/Elementalist+Guide" target="_self">Elementalist Guide</a><br>
+                            <a href="/page/Wizard+Guide" target="_self">Wizard Guide</a><br></font>
+                            <blockquote>
+                              <a href="/page/The+Wizard+-+Training+your+player+skills" target="_self">The Wizard - Training your player skills</a><br>
+                            </blockquote><font size="2"><a href="/page/UPC+Guide" target="_self">UPC Guide</a><br></font>
+                            <blockquote>
+                              <a href="/page/Reboldeux+UPCs+Overview" target="_self">Reboldeaux UPCs overview</a><br>
+                              <a href="/page/Port+Coimbra+UPCs+overview" target="_self">Port Coimbra UPCs overview</a><br>
+                              <a href="/page/City+of+Auch+UPCs+overview" target="_self">City of Auch UPCs overview</a><br>
+                              <a href="/page/Ustiur+UPCs+overview" target="_self">Ustiur UPCs overview</a><br>
+                              <a href="/page/Basic+Characters+overview" target="_self">Basic Characters overview</a><br>
+                            </blockquote>
+                          </blockquote>
+                        </blockquote><font size="3"><a href="/page/Game+Stances" target="_self">Game Stances</a><br></font>
+                        <blockquote>
+                          <b><font size="2"><a href="/page/Expert+Stances" target="_self">Expert Stances</a><br>
+                          <a href="/page/Aiming+Shot" target="_self">Aiming Shot</a><br>
+                          <a href="/page/Amicus" target="_self">Amicus</a><br>
+                          <a href="/page/Anathema" target="_self">Anathema</a><br>
+                          <a href="/page/Arbalest" target="_self">Arbalest</a><br>
+                          <a href="/page/Arnis" target="_self">Arnis</a><br>
+                          <a href="/page/Avant+Garde" target="_self">Avant Garde</a><br>
+                          <a href="/page/Avant+Garde+of+Grim" target="_self">Avant Garde of Grim</a><br>
+                          <a href="/page/Back+Guard" target="_self">Back Guard</a><br>
+                          <a href="/page/Ballista" target="_self">Ballista</a><br>
+                          <a href="/page/Bard" target="_self">Bard</a><br>
+                          <a href="/page/Bareknuckle+v2" target="_self">Bareknuckle v2</a><br>
+                          <a href="/page/Blandir+Cruz" target="_self">Blandir Cruz</a><br>
+                          <a href="/page/Bloody+Feast" target="_self">Bloody Feast</a><br>
+                          <a href="/page/Cauchemar" target="_self">Cauchemar</a><br>
+                          <a href="/page/Close+Encounters" target="_self">Close Encounters</a><br>
+                          <a href="/page/Combatant" target="_self">Combatant</a><br>
+                          <a href="/page/Construction" target="_self">Construction</a><br>
+                          <a href="/page/Crusader" target="_self">Crusader</a><br>
+                          <a href="/page/Death+Chopping" target="_self">Death Chopping</a><br>
+                          <a href="/page/Defender" target="_self">Defender</a><br>
+                          <a href="/page/Defending+Guard" target="_self">Defending Guard</a><br>
+                          <a href="/page/Defending+Shot" target="_self">Defending Shot</a><br>
+                          <a href="/page/Defensive+Construction" target="_self">Defensive Construction</a><br>
+                          <a href="/page/Demolition+Burst" target="_self">Demolition Burst</a><br>
+                          <a href="/page/Dobalada+Corte" target="_self">Dobalada Corte</a><br>
+                          <a href="/page/Domination+Fire" target="_self">Domination Fire</a><br>
+                          <a href="/page/Domination+Ice" target="_self">Domination Ice</a><br>
+                          <a href="/page/Domination+Lightning" target="_self">Domination Lightning</a><br>
+                          <a href="/page/Double-Gun+Shot" target="_self">Double-Gun Shot</a><br>
+                          <a href="/page/Duel+Blaster" target="_self">Duel Blaster</a><br>
+                          <a href="/page/Elemental+Lord" target="_self">Elemental Lord</a><br>
+                          <a href="/page/Enhanced+Tactics" target="_self">Enhanced Tactics</a><br>
+                          <a href="/page/Epee+Garde" target="_self">Epee Garde</a><br>
+                          <a href="/page/Epee+Garde+of+Grim" target="_self">Epee Garde of Grim</a><br>
+                          <a href="/page/Epee+Glacier" target="_self">Epee Glacier</a><br>
+                          <a href="/page/Escrima" target="_self">Escrima</a><br>
+                          <a href="/page/Equites" target="_self">Equites</a><br>
+                          <a href="/page/ESP" target="_self">ESP</a><br>
+                          <a href="/page/Evocation+Fire" target="_self">Evocation Fire</a><br>
+                          <a href="/page/Evocation+Ice" target="_self">Evocation Ice</a><br>
+                          <a href="/page/Evocation+Lightning" target="_self">Evocation Lightning</a><br>
+                          <a href="/page/Flame+Guard" target="_self">Flame Guard</a><br>
+                          <a href="/page/Flintlock" target="_self">Flintlock</a><br>
+                          <a href="/page/Forgotten+Magic" target="_self">Forgotten Magic</a><br>
+                          <a href="/page/Freestyle+Shot" target="_self">Freestyle Shot</a><br>
+                          <a href="/page/Gigantic+Blaster" target="_self">Gigantic Blaster</a><br>
+                          <a href="/page/Gigantic+Marksmanship" target="_self">Gigantic Marksmanship</a><br>
+                          <a href="/page/Gorgeous" target="_self">Gorgeous</a><br>
+                          <a href="/page/Grim+Guard" target="_self">Grim Guard</a><br>
+                          <a href="/page/Hack+and+Slash" target="_self">Hack and Slash</a><br>
+                          <a href="/page/Hanging+Guard" target="_self">Hanging Guard</a><br>
+                          <a href="/page/Heaven+or+Hell" target="_self">Heaven or Hell</a><br>
+                          <a href="/page/Heaven+or+Hell+of+Grim" target="_self">Heaven or Hell of Grim</a><br>
+                          <a href="/page/High+Guard" target="_self">High Guard</a><br>
+                          <a href="/page/Hunting+Blaster" target="_self">Hunting Blaster</a><br>
+                          <a href="/page/Illusionist" target="_self">Illusionist</a><br>
+                          <a href="/page/Incantation" target="_self">Incantation</a><br>
+                          <a href="/page/Innocentio" target="_self">Innocentio</a><br>
+                          <a href="/page/Install+Traps" target="_self">Install Traps</a><br>
+                          <a href="/page/Kneeling+Shot" target="_self">Kneeling Shot</a><br>
+                          <a href="/page/Levitation" target="_self">Levitation</a><br>
+                          <a href="/page/Low+Guard" target="_self">Low Guard</a><br>
+                          <a href="/page/Madness" target="_self">Madness</a><br>
+                          <a href="/page/Magic+of+Occultism" target="_self">Magic of Occultism</a><br>
+                          <a href="/page/Main+Gauche+Garde" target="_self">Main Gauche Garde</a><br>
+                          <a href="/page/Main+Gauche+Garde+of+Grim" target="_self">Main Gauche Garde of Grim</a><br>
+                          <a href="/page/Marionette" target="_self">Marionette</a><br>
+                          <a href="/page/Martial+Elements:+Earth" target="_self">Martial Elements: Earth</a><br>
+                          <a href="/page/Martial+Elements:+Fire" target="_self">Martial Elements: Fire</a><br>
+                          <a href="/page/Martial+Elements:+Ice" target="_self">Martial Elements: Ice</a><br>
+                          <a href="/page/Martial+Elements:+Mind" target="_self">Martial Elements: Mind</a><br>
+                          <a href="/page/Martial+Elements:+Wind" target="_self">Martial Elements: Wind</a><br>
+                          <a href="/page/Master+Martial+Arts" target="_self">Master Martial Arts</a><br>
+                          <a href="/page/Medic" target="_self">Medic</a><br>
+                          <a href="/page/Middle+Guard" target="_self">Middle Guard</a><br>
+                          <a href="/page/Middle+Guard+of+Spirit" target="_self">Middle Guard of Spirit</a><br>
+                          <a href="/page/Mighty+Cruz" target="_self">Mighty Cruz</a><br>
+                          <a href="/page/Minstrel" target="_self">Minstrel</a><br>
+                          <a href="/page/Occultism+Assistance+%28E%29" target="_self">Occultism Assistance (E)</a><br>
+                          <a href="/page/Occultism+Assistance+%28H%29" target="_self">Occultism Assistance (H)</a><br>
+                          <a href="/page/Outrage+Shot" target="_self">Outrage Shot</a><br>
+                          <a href="/page/Penetrar+Cruz" target="_self">Penetrar Cruz</a><br>
+                          <a href="/page/Plow+Guard" target="_self">Plow Guard</a><br>
+                          <a href="/page/Possession+Fire" target="_self">Possession Fire</a><br>
+                          <a href="/page/Possession+Ice" target="_self">Possession Ice</a><br>
+                          <a href="/page/Possession+Lightning" target="_self">Possession Lightning</a><br>
+                          <a href="/page/Power+of+Darkness" target="_self">Power of Darkness</a><br>
+                          <a href="/page/Prelude" target="_self">Prelude</a><br>
+                          <a href="/page/Psychokinesis" target="_self">Psychokinesis</a><br>
+                          <a href="/page/Raid+Assault" target="_self">Raid Assault</a><br>
+                          <a href="/page/Rapida+Espada" target="_self">Rapida Espada</a><br>
+                          <a href="/page/Rapiere" target="_self">Rapiere</a><br>
+                          <a href="/page/Rapiere+of+Grim" target="_self">Rapiere of Grim</a><br>
+                          <a href="/page/Roof+Guard" target="_self">Roof Guard</a><br>
+                          <a href="/page/Sabre+Garde" target="_self">Sabre Garde</a><br>
+                          <a href="/page/Sabre+Glacier" target="_self">Sabre Glacier</a><br>
+                          <a href="/page/Sagitta" target="_self">Sagitta</a><br>
+                          <a href="/page/Schiavona" target="_self">Schiavona</a><br>
+                          <a href="/page/Sect+of+Moonlight" target="_self">Sect of Moonlight</a><br>
+                          <a href="/page/Semilunar" target="_self">Semilunar</a><br>
+                          <a href="/page/Serenade" target="_self">Serenade</a><br>
+                          <a href="/page/Shotgun+Blaster" target="_self">Shotgun Blaster</a><br>
+                          <a href="/page/Sidewinder" target="_self">Sidewinder</a><br>
+                          <a href="/page/Siege+Burst" target="_self">Siege Burst</a><br>
+                          <a href="/page/Sight+Shot" target="_self">Sight Shot</a><br>
+                          <a href="/page/Standing+Shot" target="_self">Standing Shot</a><br>
+                          <a href="/page/Stave+Guard" target="_self">Stave Guard</a><br>
+                          <a href="/page/Straight+Shot" target="_self">Straight Shot</a><br>
+                          <a href="/page/Superior+Blaster" target="_self">Superior Blaster</a><br>
+                          <a href="/page/Tactical+Assistance" target="_self">Tactical Assistance</a><br>
+                          <a href="/page/Tail+Guard" target="_self">Tail Guard</a><br>
+                          <a href="/page/Targan+Shot" target="_self">Targan Shot</a><br>
+                          <a href="/page/Tested+Burst" target="_self">Tested Burst</a><br>
+                          <a href="/page/Tested+Guard" target="_self">Tested Guard</a><br>
+                          <a href="/page/Testis" target="_self">Testis</a><br>
+                          <a href="/page/Tronada+Cruz" target="_self">Tronada Cruz</a><br>
+                          <a href="/page/Twin+Blades" target="_self">Twin Blades</a><br>
+                          <a href="/page/Twin+Blades+of+Spirit" target="_self">Twin Blades of Spirit</a><br>
+                          <a href="/page/How+to+get+the+Veteran+stance+books" target="_self">How to get the Veteran stance books</a><br></font></b>
+                        </blockquote><font size="3"><a href="/page/Maps+and+Area+Info" target="_self">Maps and Area Info</a><br></font>
+                        <blockquote>
+                          <b><font size="2"><a href="/page/World+Map" target="_self">World Map</a><br>
+                          <a href="/page/Cities" target="_self">Cities</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Reboldeaux" target="_self">Reboldeaux</a><br></font>
+                            <blockquote>
+                              <a href="/page/Queen%27s+Gate" target="_self">Queen&#39;s Gate</a><br>
+                            </blockquote><font size="2"><a href="/page/Port+of+Coimbra" target="_self">Port of Coimbra</a><br></font>
+                            <blockquote>
+                              <a href="/page/Nimraldi+Bridge" target="_self">Nimraldi Bridge</a><br>
+                            </blockquote><font size="2"><a href="/page/Gigante+Island" target="_self">Gigante Island</a><br>
+                            <a href="/page/City+of+Auch" target="_self">City of Auch</a><br></font>
+                            <blockquote>
+                              <a href="/page/Thueringen+Lakeside" target="_self">Thueringen Lakeside</a><br>
+                            </blockquote><font size="2"><a href="/page/Ustiur+Base+Camp" target="_self">Ustiur Base Camp</a><br>
+                            <a href="/page/Los+Toldos" target="_self">Los Toldos</a><br>
+                            <a href="/page/New+Opoluto" target="_self">New Opoluto</a><br>
+                            <a href="/page/El+Dorado" target="_self">El Dorado</a><br></font>
+                          </blockquote><b><font size="2"><a href="/page/Zones" target="_self">Zones</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Gigante+Beach" target="_self">Gigante Beach</a><br>
+                            <a href="/page/Reboldeaux,+Stone+Pit" target="_self">Reboldeaux, Stone Pit</a><br>
+                            <a href="/page/Ferrucio+Junction" target="_self">Ferruccio Junction</a><br>
+                            <a href="/page/Cathari+Falls" target="_self">Cathari Falls</a><br>
+                            <a href="/page/King%27s+Garden" target="_self">King&#39;s Garden</a><br>
+                            <a href="/page/Tetra+Hill" target="_self">Tetra Hill</a><br>
+                            <a href="/page/Jezebel+Glen" target="_self">Jezebel Glen</a><br>
+                            <a href="/page/Porto+Bello,+Deserted+Quay" target="_self">Porto Bello, Deserted Quay</a><br>
+                            <a href="/page/Porto+Bello,+Desolate+Cliff" target="_self">Porto Bello, Desolate Cliff</a><br>
+                            <a href="/page/Thueringenwald" target="_self">Thueringenwald</a><br>
+                            <a href="/page/El+Lago+de+Tres+Hermanas" target="_self">El Lago de Tres Hermanas</a><br>
+                            <a href="/page/El+Tejado+Verde" target="_self">El Tejado Verde</a><br>
+                            <a href="/page/Pradera+de+Ceniza" target="_self">Pradera de Ceniza</a><br>
+                            <a href="/page/Rion+Prairie" target="_self">Rion Prairie</a><br>
+                            <a href="/page/Bonavista+River" target="_self">Bonavista River</a><br>
+                            <a href="/page/Vegas+Javier" target="_self">Vegas Javier</a><br>
+                            <a href="/page/Fire+Isle" target="_self">Fire Isle</a><br></font>
+                            <blockquote>
+                              <a href="/page/Fire+Isle+%28zone+one%29+100K" target="_self">Fire Isle (zone one) 100k</a><br>
+                              <a href="/page/Fire+Isle+%28zone+two%29+500K" target="_self">Fire Isle (zone two) 500k</a><br>
+                              <a href="/page/Fire+Isle+%28zone+three%29+800k" target="_self">Fire Isle (zone three) 800k</a><br>
+                            </blockquote><font size="2"><a href="/page/Joaquin+Crater" target="_self">Joaquin Crater</a><br>
+                            <a href="/page/El+Ruina+de+Memoria" target="_self">El Ruina de Memoria</a><br>
+                            <a href="/page/Old+Port+of+Coimbra" target="_self">Old Port of Coimbra</a><br>
+                            <a href="/page/El+Canon+de+Diabolica" target="_self">El Canon de Diabolica</a><br>
+                            <a href="/page/Ustiur+Zona+Uno" target="_self">Ustiur Zona Uno</a><br>
+                            <a href="/page/Lago+Celeste" target="_self">Lago Celeste</a><br>
+                            <a href="/page/Ustiur+Zona+Dos" target="_self">Ustiur Zona Dos</a><br>
+                            <a href="/page/Rio+Albi" target="_self">Rio Albi</a><br>
+                            <a href="/page/Ustiur+Zona+Tres" target="_self">Ustiur Zona Tres</a><br>
+                            <a href="/page/Topolo+Durga" target="_self">Topolo Durga</a><br>
+                            <a href="/page/Ustiur+Zona+Cuatro" target="_self">Ustiur Zona Cuatro</a><br>
+                            <a href="/page/Scorching+Plateau" target="_self">Scorching Plateau</a><br>
+                            <a href="/page/Land+of+the+Dead" target="_self">Land of the Dead</a><br>
+                            <a href="/page/Abertal" target="_self">Abertal</a><br>
+                            <a href="/page/Via+Fluvial" target="_self">Via Fluvial</a><br>
+                            <a href="/page/Ferruccio+Wall" target="_self">Ferruccio Wall</a><br>
+                            <a href="/page/Deprimida+Valley" target="_self">Deprimida Valley</a><br>
+                            <a href="/page/Bahamar,+Wetlands" target="_self">Bahamar, Wetlands</a><br>
+                            <a href="/page/Katovic+Snowfield" target="_self">Katovic Snowfield</a><br>
+                            <a href="/page/Bahamar,+Marsh" target="_self">Bahamar, Marsh</a><br>
+                            <a href="/page/Frozen+Waste" target="_self">Frozen Wastes</a><br>
+                            <a href="/page/Scarlet+Underground+%28Reboldeaux+Sewers%29" target="_self">Scarlet Underground (Reboldeaux Sewers)</a><br>
+                            <a href="/page/Bahamar,+Deep+Swamp" target="_self">Bahamar, Deep Swamp</a><br>
+                            <a href="/page/Glacial+Fortress,+Forecourt" target="_self">Glacial Fortress, Forecourt</a><br>
+                            <a href="/page/Bahamar,+Murky+Bayou" target="_self">Bahamar, Murky Bayou</a><br>
+                            <a href="/page/Caebolan" target="_self">Caebolan</a><br>
+                            <a href="/page/Errac+Tierra+Dias" target="_self">Errac Tierra Dias</a><br>
+                            <a href="/page/Errac+Tierra+Noche" target="_self">Errac Tierra Noche</a><br></font>
+                          </blockquote><b><font size="2"><a href="/page/Dungeons" target="_self">Dungeons</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Al+Quelt+Moreza+%28Dungeon%29" target="_self">Al Quelt Moreza</a><br></font>
+                            <blockquote>
+                              <a href="/page/Al+Quelt+Moreza" target="_self">Al Quelt Moreza</a><br>
+                              <a href="/page/Al+Quelt+Moreza,+Narthex" target="_self">Al Quelt Moreza, Narthex</a><br>
+                              <a href="/page/Al+Quelt+Moreza,+Parsonage" target="_self">Al Quelt Moreza, Parsonage</a><br>
+                              <a href="/page/Al+Quelt+Moreza,+Arcade" target="_self">Al Quelt Moreza, Arcade</a><br>
+                              <a href="/page/Al+Quelt+Moreza,+Hollow" target="_self">Al Quelt Moreza, Hollow</a><br>
+                              <a href="/page/Squad+Raid+Instance:+Accursed+Al+Quelt+Moreza" target="_self">Squad Raid Instance: Accursed Al Quelt Moreza</a><br>
+                            </blockquote><font size="2"><a href="/page/The+Tetra+Ruins+%28Dungeon%29" target="_self">The Tetra Ruins</a><br></font>
+                            <blockquote>
+                              <a href="/page/The+Tetra+Ruins" target="_self">The Tetra Ruins</a><br>
+                              <a href="/page/The+Tetra+Ruins,+Grand+Corridor" target="_self">The Tetra Ruins, Grand Corridor</a><br>
+                              <a href="/page/The+Tetra+Ruins,+Catacombs" target="_self">The Tetra Ruins, Catacombs</a><br>
+                              <a href="/page/The+Tetra+Ruins,+Golden+Road" target="_self">The Tetra Ruins, Golden Road</a><br>
+                              <a href="/page/The+Tetra+Ruins,+Antiquities+Chamber" target="_self">The Tetra Ruins, Antiquities Chamber</a><br>
+                              <a href="/page/The+Tetra+Ruins%2C+Grand+Chapel+%28Forgotten+Area%29" target="_self">The Tetra Ruins, Grand Chapel (Forgotten Area)</a><br>
+                              <a href="/page/Squad+Raid+Instance:+Accursed+Tetra+Ruins" target="_self">Squad Raid Instance: Accursed Tetra Ruins</a><br>
+                            </blockquote><font size="2"><a href="/page/Porto+Bello+%28Dungeon%29" target="_self">Porto Bello</a><br></font>
+                            <blockquote>
+                              <a href="/page/Porto+Bello" target="_self">Porto Bello</a><br>
+                              <a href="/page/Porto+Bello,+The+Deck" target="_self">Porto Bello, The Deck</a><br>
+                              <a href="/page/Porto+Bello,+The+Cabin" target="_self">Porto Bello, The Cabin</a><br>
+                              <a href="/page/Porto+Bello,+The+Hold" target="_self">Porto Bello, The Hold</a><br>
+                              <a href="/page/Porto+Bello%2C+St.+Cathrine%27s+Saloon" target="_self">Porto Bello, St. Cathrina Saloon</a><br>
+                              <a href="/page/Porto+Bello%2C+The+Hidden+Deck+%28Forgotten+Area%29" target="_self">Porto Bello, The Hidden Deck (Forgotten Area)</a><br>
+                              <a href="/page/Squad+Raid+Instance:+Accursed+Porto+Bello" target="_self">Squad Raid Instance: Accursed Porto Bello</a><br>
+                            </blockquote><font size="2"><a href="/page/Dr+Torsche%27s+Mansion+%28Dungeon%29" target="_self">Dr Torsche&#39;s Mansion</a><br></font>
+                            <blockquote>
+                              <a href="/page/Dr+Torsche%27s+Mansion%2C+Savage+Garden" target="_self">Dr Torsche&#39;s Mansion, Savage Garden</a><br>
+                              <a href="/page/Dr+Torche%27s+Mansion%2C+Reception+Hall" target="_self">Dr Torsche&#39;s Mansion, Reception Hall</a><br>
+                              <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library" target="_self">Dr Torsche&#39;s Mansion, Grand Library</a><br>
+                              <a href="/page/Dr+Torche%27s+Mansion%2C+Laboratory" target="_self">Dr Torsche&#39;s Mansion, Laboratory</a><br>
+                              <a href="/page/Dr+Torsche%27s+Mansion%2C+Annex+%28Forgotten+Area%29" target="_self">Dr Torsche&#39;s Mansion, Annex (Forgotten Area)</a><br>
+                            </blockquote><font size="2"><a href="/page/Underground+Relics" target="_self">Underground Relics</a><br>
+                            <a href="/page/Rion+Dungeon+%28Dungeon%29" target="_self">Rion Dungeon</a><br></font>
+                            <blockquote>
+                              <a href="/page/Rion+Dungeon,+Corridor" target="_self">Rion Dungeon, Corridor</a><br>
+                              <a href="/page/Rion+Dungeon,+Hollow" target="_self">Rion Dungeon, Hollow</a><br>
+                            </blockquote><font size="2"><a href="/page/Prison+de+Joaquin+%28Dungeon%29" target="_self">Prison de Joaquin</a><br></font>
+                            <blockquote>
+                              <a href="/page/Joaquin+Lava+Plateau" target="_self">Joaquin Lava Plateau</a><br>
+                              <a href="/page/Prison+de+Joaquin,+the+Mohrgus" target="_self">Prison de Joaquin, the Mohrgus</a><br>
+                              <a href="/page/Prison+de+Joaquin%2C+The+Altar+of+Despair" target="_self">Prison de Joaquin, the Alter of Despair</a><br>
+                              <a href="/page/Prison+de+Joaquin,+Torture+Chamber" target="_self">Prison de Joaquin, Torture Chamber</a><br>
+                              <a href="/page/Prison+de+Joaquin,+Schivarliere" target="_self">Prison de Joaquin, Schivarliere</a><br>
+                              <a href="/page/Prison+de+Joaquin,+Gehenna+Bridge" target="_self">Prison de Joaquin, Gehenna Bridge</a><br>
+                              <a href="/page/Prison+de+Joaquin,+Corridor+of+Assize" target="_self">Prison de Joaquin, Corridor of Assize</a><br>
+                              <a href="/page/Prison+de+Joaquin%2C+Laboratory+Block+%28Forgotten+Area%29" target="_self">Prison de Joaquin, Laboratory Block (Forgotten Area)</a><br>
+                            </blockquote><font size="2"><a href="/page/The+Skeleton+Dungeon+%28Dungeon%29" target="_self">The Skeleton Dungeon</a><br></font>
+                            <blockquote>
+                              <a href="/page/The+Skeleton+Dungeon,+First+Floor" target="_self">The Skeleton Dungeon, First Floor</a><br>
+                              <a href="/page/The+Skeleton+Dungeon,+Second+Floor" target="_self">The Skeleton Dungeon, Second Floor</a><br>
+                              <a href="/page/The+Skeleton+Dungeon,+Third+Floor" target="_self">The Skeleton Dungeon, Third Floor</a><br>
+                              <a href="/page/The+Skeleton+Dungeon,+Barrow+de+la+Muerte" target="_self">The Skeleton Dungeon, Barrow de la Muerte</a><br>
+                              <a href="/page/Ancient/Secret+Area:+Skeleton+Dungeon+-+Floor+1" target="_self">Ancient/Secret Area: Skeleton Dungeon - Floor 1</a><br>
+                              <a href="/page/Ancient/Secret+Area:+Skeleton+Dungeon+-+Floor+2" target="_self">Ancient/Secret Area: Skeleton Dungeon - Floor 2</a><br>
+                            </blockquote><font size="2"><a href="/page/Capybara+Plantation+%28Dungeon%29" target="_self">Capybara Plantation</a><br></font>
+                            <blockquote>
+                              <a href="/page/Capybara+Plantation" target="_self">Capybara Plantation</a><br>
+                              <a href="/page/Capybara+Plantation,+Mine+Passage" target="_self">Capybara Plantation, Mine Passage</a><br>
+                              <a href="/page/Capybara+Plantation,+Toubkal+Mine" target="_self">Capybara Plantation, Toubkal Mine</a><br>
+                            </blockquote><font size="2"><a href="/page/Bahamar+Caves+%28Dungeon%29" target="_self">Bahamar Caves</a><br></font>
+                            <blockquote>
+                              <a href="/page/Bahamar+Caves,+First+Floor" target="_self">Bahamar Caves, First Floor</a><br>
+                              <a href="/page/Bahamar+Caves,+Second+Floor" target="_self">Bahamar Caves, Second Floor</a><br>
+                              <a href="/page/Bahamar,+Ancient/Secret+Mineral+Cave" target="_self">Bahamar, Ancient/Secret Mineral Cave</a><br>
+                            </blockquote><font size="2"><a href="/page/Glacial+Fortress+%28Dungeon%29" target="_self">Glacial Fortress</a><br></font>
+                            <blockquote>
+                              <a href="/page/Glacial+Fortress,+First+Floor" target="_self">Glacial Fortress, First Floor</a><br>
+                              <a href="/page/Glacial+Fortress,+Second+Floor" target="_self">Glacial Fortress, Second Floor</a><br>
+                              <a href="/page/Glacial+Fortress,+Third+Floor" target="_self">Glacial Fortress, Third Floor</a><br>
+                              <a href="/page/Glacial+Fortress,+Fourth+Floor" target="_self">Glacial Fortress, Fourth Floor</a><br>
+                              <a href="/page/Glacial+Fortress,+Fifth+Floor" target="_self">Glacial Fortress, Fifth Floor</a><br>
+                              <a href="/page/Glacial+Fortress%2C+Novia%27s+Parlor" target="_self">Glacial Fortress, Novia&#39;s Parlor</a><br>
+                            </blockquote><font size="2"><a href="/page/Titan%27s+Remorse+%28Dungeon%29" target="_self">Titan&#39;s Remorse</a><br></font>
+                            <blockquote>
+                              <a href="/page/Interna+de+Gigante" target="_self">Interna de Gigante</a><br>
+                              <a href="/page/Corazon+de+Gigante" target="_self">Corazon de Gigante</a><br>
+                              <a href="/page/Titan%27s+Remorse" target="_self">Titan&#39;s Remorse</a><br>
+                              <a href="/page/Ancient%2FSecret+Sacred+Titan%27s+Remorse" target="_self">Ancient/Secret Sacred Titan&#39;s Remorse</a><br>
+                            </blockquote><font size="2"><a href="/page/Oculta+Fortress+%28Dungeon%29" target="_self">Oculta Fortress</a><br></font>
+                            <blockquote>
+                              <a href="/page/Oculta+Fortress" target="_self">Oculta Fortress</a><br>
+                              <a href="/page/Oculta+Fortress%2C+General%27s+Room" target="_self">Oculta Fortress, General&#39;s Room</a><br>
+                            </blockquote>
+                          </blockquote><b><font size="2"><a href="/page/Zone+Features" target="_self">Zone Features</a> - these 4 pages are old and need updating.<br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Ferruccio%27s+Boxes" target="_self">Ferruccio&#39;s Boxes</a><br>
+                            <a href="/page/Ferruccio+Forges" target="_self">Ferruccio Forges</a><br>
+                            <a href="/page/Hengestone+Locations" target="_self">Hengestone Locations</a><br>
+                            <a href="/page/Tree+Stumps+of+Death" target="_self">Tree Stumps of Death</a><br></font>
+                          </blockquote>
+                        </blockquote><font size="3"><a href="/page/Game+Bosses" target="_self">Game Bosses</a><br></font>
+                        <blockquote>
+                          <b><font size="2"><a href="/page/Insect" target="_self">Insect</a><br>
+                          <a href="/page/Golem" target="_self">Golem</a><br>
+                          <a href="/page/Human" target="_self">Human</a><br>
+                          <a href="/page/Undead" target="_self">Undead</a><br>
+                          <a href="/page/Wild+Beast" target="_self">Wild Beast</a><br>
+                          <a href="/page/Dinosaur" target="_self">Dinosaur</a><br>
+                          <a href="/page/Plant" target="_self">Plant (currently no plant bosses)</a><br>
+                          <a href="/page/Devil" target="_self">Devil</a><br>
+                          <a href="/page/Unknown+game+boss" target="_self">Unknown game boss</a><br></font></b>
+                        </blockquote><font size="3"><a href="/page/Raids" target="_self">Raids</a><br></font>
+                        <blockquote>
+                          <b><font size="2"><a href="/page/Raid+Point+System" target="_self">Raid Point System</a><br>
+                          <a href="/page/PvP+Enabled+Raids" target="_self">PvP Enabled Raids</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Battle+Colosseum" target="_self">Battle Colosseum</a><br>
+                            <a href="/page/Poison+Yard" target="_self">Poison Yard</a><br>
+                            <a href="/page/Secret+Temple" target="_self">Secret Temple</a><br>
+                            <a href="/page/Team+Arena" target="_self">Team Arena</a><br></font>
+                          </blockquote><b><font size="2"><a href="/page/Instanced+Raids" target="_self">Instanced Raids</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Bourgogne+Palace" target="_self">Bourgogne Palace</a><br>
+                            <a href="/page/General+Guard" target="_self">General Guard</a><br></font>
+                            <blockquote>
+                              <a href="/page/Secret+Tower" target="_self">Secret Tower</a><br>
+                              <a href="/page/Secret+Tower+L1" target="_self">Secret Tower L1</a><br>
+                              <a href="/page/Secret+Tower+L2" target="_self">Secret Tower L2</a><br>
+                              <a href="/page/Secret+Tower+L3" target="_self">Secret Tower L3</a><br>
+                            </blockquote><font size="2"><a href="/page/Jormongand" target="_self">Jormongand</a><br>
+                            <a href="/page/Mufasa" target="_self">Mufasa</a><br></font>
+                          </blockquote><b><font size="2"><a href="/page/Boss-Only+Raids" target="_self">Boss-Only Raids</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Argus%27+Brain" target="_self">Argus&#39; Brain</a><br>
+                            <a href="/page/Decarabia" target="_self">Decarabia</a><br>
+                            <a href="/page/Diablo" target="_self">Diablo</a><br>
+                            <a href="/page/Gerero" target="_self">Gerero</a><br>
+                            <a href="/page/Giant+Keeper" target="_self">Giant Keeper</a><br>
+                            <a href="/page/Griffon" target="_self">Griffon</a><br>
+                            <a href="/page/Hell+Breaker" target="_self">Hell Breaker</a><br></font>
+                            <blockquote>
+                              <a href="/page/finalzanmato%27s+Guide+to+Golden+Bat" target="_self">finalzanmato&#39;s Guide to Golden Bat</a><br>
+                            </blockquote><font size="2"><a href="/page/King+of+Covetry" target="_self">King of Covetry</a><br>
+                            <a href="/page/Soul+Mothtein" target="_self">Soul Mothtein</a><br>
+                            <a href="/page/Undertaker" target="_self">Undertaker</a><br>
+                            <a href="/page/Uraeus" target="_self">Ureaus</a><br>
+                            <a href="/page/Vergo+the+Cursed" target="_self">Vergo the Cursed</a><br></font>
+                            <blockquote>
+                              <a href="/page/Treasure+Chest+of+the+Quay" target="_self">Treasure Chest of the Quay</a><br>
+                            </blockquote>
+                          </blockquote><b><font size="2"><a href="/page/Zone/Area+Raids" target="_self">Zone/Area Raids</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Sacred+Dungeon" target="_self">Sacred Dungeon</a><br>
+                            <a href="/page/Corridor+of+Assize" target="_self">Corridor of Assize</a><br>
+                            <a href="/page/Barrow+de+la+Muerte" target="_self">Barrow de la Muerte</a><br>
+                            <a href="/page/Faction+Fight" target="_self">Faction Fight</a><br>
+                            <a href="/page/Gate+of+Flame" target="_self">Gate of Flame</a><br>
+                            <a href="/page/Gate+of+Hell" target="_self">Gate of Hell</a><br>
+                            <a href="/page/Gate+of+Lightning" target="_self">Gate of Lightning</a><br>
+                            <a href="/page/Ice+Wizard%27s+Tower+%28Gate%29" target="_self">Ice Wizard&#39;s Tower (Gate)</a><br>
+                            <a href="/page/Queen+Eater" target="_self">Queen Eater</a><br>
+                            <a href="/page/Sehkmet" target="_self">Sehkmet</a><br></font>
+                          </blockquote><b><font size="2"><a href="/page/Mission+Lobbies" target="_self">Mission Lobbies</a><br></font></b>
+                          <blockquote>
+                            <font size="2"><a href="/page/Mission+Lobby:+Interchange" target="_self">Mission Lobby: Interchange</a><br>
+                            <a href="/page/Mission+Lobby:+Spotlight" target="_self">Mission Lobby: Spotlight</a><br>
+                            <a href="/page/Mission+Lobby:+Highway" target="_self">Mission Lobby: Highway</a><br>
+                            <a href="/page/Mission+Lobby:+Trinity" target="_self">Mission Lobby: Trinity</a><br>
+                            <a href="/page/Mission+Lobby%3A+Jaoquin+Barrier" target="_self">Mission Lobby: Joaquin Barrier</a><br></font>
+                          </blockquote>
+                        </blockquote><font size="3"><a href="/page/PvP" target="_self">PvP</a><br></font>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Dueling+&+PvP+Rooms" target="_self">Dueling &amp; PvP Rooms</a><br>
+                          <a href="/page/Baron+Mode+-+Items" target="_self">Baron Mode - Items</a><br>
+                          <a href="/page/Colony+War" target="_self">Colony War</a><br>
+                          <a href="/page/The+Weapon+vs.+Armor+Effect" target="_self">The Weapon vs. Armor Effect</a><br></b></font>
+                        </blockquote><font size="3"><a href="/page/Crafting/Enchanting/Refining" target="_self">Crafting/Enchanting/Refining</a><br></font>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Crafting+Items" target="_self">Crafting Items</a><br></b></font>
+                          <blockquote>
+                            <font size="2"><a href="/page/Crafted+Recipe+Items" target="_self">Crafted Recipe Items</a><br>
+                            <a href="/page/Manufactured+/+Purchased+Crafting+Items" target="_self">Manufactured / Purchased Crafting Items</a><br>
+                            <a href="/page/Ready+to+Use+Crafting+Items" target="_self">Ready to Use Crafting Items</a><br></font>
+                          </blockquote><font size="2"><b><a href="/page/Item+Manufacture" target="_self">Item Manufacture</a><br>
+                          <a href="/page/Mineral+Refining" target="_self">Mineral Refining</a><br>
+                          <a href="/page/Enchanting" target="_self">Enchanting</a><br>
+                          <a href="/page/Equipment+Upgrade" target="_self">Equipment Upgrade</a><br>
+                          <a href="/page/Equipment+Sockets" target="_self">Equipment Sockets</a><br></b></font>
+                          <blockquote>
+                            <a href="/page/Rough+Stones+and+Jewels" target="_self"><font size="2">Rough Stones and Jewels</font></a><br>
+                          </blockquote><font size="2"><b><a href="/page/Katovic+Item+Production" target="_self">Katovic Item Production</a><br></b></font>
+                        </blockquote><a href="/page/Items+&+Equipment" target="_self"><font size="3">Items &amp; Equipment</font></a><br>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Weapons" target="_self">Weapons</a><br></b></font>
+                          <blockquote>
+                            <a href="/page/UPC-Only+Weapons" target="_self"><font size="2">UPC-Only Weapons</font></a><br>
+                          </blockquote><font size="2"><b><a href="/page/Accessories" target="_self">Accessories</a><br></b></font>
+                          <blockquote>
+                            <font size="2"><a href="/page/Belts" target="_self">Belts</a><br>
+                            <a href="/page/Earrings" target="_self">Earrings</a><br></font><a href="/page/Necklace" target="_self"><font size="2">Necklace</font></a><br>
+                            <a href="/page/Rings" target="_self"><font size="2">Rings</font></a><br>
+                          </blockquote><font size="2"><b><a href="/page/Costumes" target="_self">Costumes</a><br></b></font>
+                          <blockquote>
+                            <font size="2"><a href="/page/Face" target="_self">Face</a><br>
+                            <a href="/page/Body" target="_self">Body</a><br></font>
+                            <blockquote>
+                              <a href="/page/Fighter+Body+Costumes" target="_self">Fighter Body Costumes</a><br>
+                              <a href="/page/Elementalist+Body+Costumes" target="_self">Elementalist Body Costumes</a><br>
+                              <a href="/page/Musketeer+Body+Costumes" target="_self">Musketeer Body Costumes</a><br>
+                              <a href="/page/Scout+Body+Costumes" target="_self">Scout Body Costumes</a><br>
+                              <a href="/page/Wizard+Body+Costumes" target="_self">Wizard Body Costumes</a><br>
+                              <a href="/page/UPC+Body+Costumes" target="_self">UPC Body Costumes</a><br>
+                            </blockquote><font size="2"><a href="/page/Back" target="_self">Back</a><br>
+                            <a href="/page/Hats" target="_self">Hats</a></font><br>
+                          </blockquote><font size="2"><b><a href="/page/Consumption+/+Misc+Items" target="_self">Consumption / Misc Items</a><br></b></font>
+                          <blockquote>
+                            <font size="2"><a href="/page/Pose+Guides" target="_self">Pose Guides</a><a href="/page/Andre%27s+Pose+Guide+No.+2" target="_self"><br></a></font>
+                            <blockquote>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+2" target="_self">Andre&#39;s Pose Guide No. 2</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+3" target="_self">Andre&#39;s Pose Guide No. 3</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+4" target="_self">Andre&#39;s Pose Guide No. 4</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+5" target="_self">Andre&#39;s Pose Guide No. 5</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+6" target="_self">Andre&#39;s Pose Guide No. 6</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+7" target="_self">Andre&#39;s Pose Guide No. 7</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+8" target="_self">Andre&#39;s Pose Guide No. 8</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+9" target="_self">Andre&#39;s Pose Guide No. 9</a><br>
+                              <a href="/page/Andre%27s+Pose+Guide+No.+10" target="_self">Andre&#39;s Pose Guide No. 10</a><br>
+                            </blockquote><font size="2"><a href="/page/HP/SP+Potions" target="_self">HP/SP Potions</a><br>
+                            <a href="/page/Food" target="_self">Food</a><br>
+                            <a href="/page/Tools/Special+Items" target="_self">Tools/Special Items</a><br>
+                            <a href="/page/Bullets" target="_self">Bullets</a><br>
+                            <a href="/page/EXP+Cards" target="_self">EXP Cards</a><br>
+                            <a href="/page/Keys" target="_self">Keys</a><br>
+                            <a href="/page/Other" target="_self">Other</a><br></font>
+                          </blockquote><font size="2"><b><a href="/page/Cash+Shop+Items" target="_self">Cash Shop Items</a><br></b></font>
+                          <blockquote>
+                            <font size="2"><a href="/page/Feso" target="_self">Feso</a><br>
+                            <a href="/page/OoPs+Boxes" target="_self">OoPs Boxes</a><br>
+                            <a href="/page/Portmanteau+Boxes" target="_self">Portmanteau Boxes</a><br>
+                            <a href="/page/Premium+Mystery+Boxes" target="_self">Premium Mystery Boxes</a><br>
+                            <a href="/page/Premium+Treasure+Chest+Service" target="_self">Premium Treasure Chest Service</a></font><br>
+                          </blockquote><font size="2"><b><a href="/page/Bellem%27s+Box" target="_self">Bellem&#39;s Box</a><br>
+                          <a href="/page/Guide+to+Pioneer+%2F+Ancestral+gear+%28Polishers%29" target="_self">Guide to Pioneer / Ancestral gear (Polishers)</a> - old guide needs updating. should work until new polish system comes<br>
+                          <a href="/page/High+End+Equipment" target="_self">High End Equipment</a></b></font><br>
+                          <blockquote>
+                            <font size="2"><a href="/page/Constellation+Series" target="_self">Constellation Series</a><br>
+                            <a href="/page/Serpent+Series" target="_self">Serpent Series</a><br>
+                            <a href="/page/Chess+Series" target="_self">Chess Series</a><br>
+                            <a href="/page/Elite+Series" target="_self">Elite Series</a><br>
+                            <a href="/page/Golden+Series" target="_self">Golden Series</a><br>
+                            <a href="/page/Elemental+Gate+Series" target="_self">Elemental Gate Series</a><br>
+                            <a href="/page/Trump+Uniques" target="_self">Trump Uniques</a><br>
+                            <a href="/page/Werewolf+&+Ogre+Series" target="_self">Werewolf &amp; Ogre Series</a><br>
+                            <a href="/page/Level+100+Weapons" target="_self">Level 100 Weapons</a><br>
+                            <a href="/page/Elite+Baron+Items+%28Level+92%29" target="_self">Elite Baron Items (Level 92)</a><br>
+                            <a href="/page/High+End+Armor" target="_self">High End Armor</a><br></font>
+                            <blockquote>
+                              <font size="1"><a href="/page/High+End+Basic+Coat" target="_self">High End Basic Coat</a><br></font><font size="1"><a href="/page/High+End+Basic+Leather" target="_self">High End Basic Leather</a><br></font><font size="1"><a href="/page/High+End+Fighter+Leather" target="_self">High End Fighter Leather</a><br></font><font size="1"><a href="/page/High+End+Metal+Armor" target="_self">High End Metal Armor</a><br></font><font size="1"><a href="/page/High+End+Musketeer+Coat" target="_self">High End Musketeer Coat</a><br></font><font size="1"><a href="/page/High+End+Robes" target="_self">High End Robes</a><br></font><font size="1"><a href="/page/High+End+Scout+Leather" target="_self">High End Scout Leather</a><br></font><a href="/page/High+End+Wizard+Coat" target="_self"><font size="1">High End Wizard Coat</font></a><br>
+                            </blockquote>
+                          </blockquote>
+                        </blockquote><a href="/page/In-Game+Events" target="_self"><font size="3">In-Game Events</font></a><br>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Server+Timetable" target="_self">Server Timetable</a><br>
+                          <a href="/page/PvP+Tournaments" target="_self">PvP Tournaments</a><br>
+                          <a href="/page/Boss+Events" target="_self">Boss Events</a><br>
+                          <a href="/page/Find+the+AM" target="_self">Find the AM</a><br>
+                          <a href="/page/UPC+Day" target="_self">UPC Day</a><br>
+                          <a href="/page/Spring+Fever+Festival" target="_self">Spring Fever Festival</a></b></font><br>
+                        </blockquote><a href="/page/The+Barracks" target="_self"><font size="3">The Barracks</font></a><br>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Family+Level" target="_self">Family Level</a><br>
+                          <a href="/page/Family+Reputation" target="_self">Family Reputation</a><br>
+                          <a href="/page/Experience" target="_self">Experience</a></b></font><br>
+                        </blockquote><a href="/page/Pets" target="_self"><font size="3">Pets</font></a><br>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Tiger+Pets" target="_self">Tiger Pets</a><br>
+                          <a href="/page/Cash+Shop+Pets" target="_self">Cash Shop Pets</a></b></font><br>
+                        </blockquote><a href="/page/Instruction+Manual" target="_self"><font size="3">Instruction Manual</font></a><br>
+                        <blockquote>
+                          <font size="2"><b><a href="/page/Command+Shortcut+List" target="_self">Command Shortcut List</a><br>
+                          <a href="/page/Terminology" target="_self">Terminology</a><br>
+                          <a href="/page/Clans" target="_self">Clans</a><br>
+                          <a href="/page/Elections" target="_self">Elections</a><br>
+                          <a href="/page/Hints+%2F+Tips" target="_self">Hints / Tips</a></b></font> - <b><font size="2">More old guides in need of updating</font></b><br>
+                          <blockquote>
+                            <font size="2"><a href="/page/Power+Leveling" target="_self">Power Leveling</a><br>
+                            <a href="/page/The+Vis+Making+Guide" target="_self">The Vis Making Guide</a><br>
+                            <a href="/page/New+Vis+Making+Guide" target="_self">New Vis Making Guide</a></font><br>
+                          </blockquote><font size="2"><b><a href="/page/Machinima+Guide+%28Make+a+SoTnW+movie%21%29" target="_self">Machinima Guide (Make a SotNW movie!)</a></b></font><br>
+                        </blockquote><a href="/page/Sword+of+the+New+World+Soundtrack" target="_self"><font size="3">Sword of the New World Soundtrack</font></a><br>
+                        <a href="/page/Sword%27s+Fun+Facts" target="_self"><font size="3">Sword&#39;s Fun Facts</font></a><br>
+                        <blockquote>
+                          <b><font size="2"><a href="/page/Murphy%27s+Laws+of+the+New+World" target="_self">Murphy&#39;s Laws of the New World</a><br>
+                          <a href="/page/Andre" target="_self">Andre</a><br>
+                          <a href="/page/Mboma" target="_self">Mboma</a><br>
+                          <a href="/page/Everybody+likes+Trivia" target="_self">Everybody likes Trivia</a><br>
+                          <a href="/page/Rafflesia" target="_self">Rafflesia</a><br>
+                          <a href="/page/Master+Fritz+has+an+identity+crisis." target="_self">Master Fritz has an identity crisis.</a><br>
+                          <a href="/page/Real+Baek+Ho" target="_self">Real Baek Ho</a><br>
+                          <a href="/page/Talt" target="_self">Talt</a></font></b><br>
+                        </blockquote><font size="3"><a href="/page/News+Archive" target="_self">News Archive</a><br>
+                        <a href="/page/Miscellaneous" target="_self">Miscellaneous</a><br>
+                        <a href="/page/Manually+Update+and+Patch+Download" target="_self">Manually Update and Patch Download</a></font><br>
+                      </blockquote><br>
+                      <br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">/image/bg/1.png?v=20111214172750</span> <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=SotNW-Wiki+Directory" src="http://image.wikifoundry.com/image/1/ZuGcaG718-TjurRgYAmlaQ37809/GW050" class="imageSm" alt="Fabrisio"></a><br>
+                        <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&from=pageLastUpdateLink" class="WPC-action" onclick="return false">Fabrisio</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=SotNW-Wiki+Directory"><a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=SotNW-Wiki+Directory&from=lastPageUpdate&pageName=SotNW-Wiki+Directory" class="WPC-action" onclick="return false">Fabrisio</a></span> , <span id="WPC-lastRevisionDate?cellId=SotNW-Wiki+Directory">Jun 3 2010, 8:40 PM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/Fabrisio"><img src="http://image.wikifoundry.com/image/1/ZuGcaG718-TjurRgYAmlaQ37809/GW050" class="imageSm" alt="Fabrisio"></a> <span class="comment" id="latestEditNoteComment">added Holy Water Chamber</span> <span id="latestEditNoteAccount">- <a href="/account/Fabrisio">Fabrisio</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">3 words added</span><br></span><br>
+                        <a href="/page/SotNW-Wiki+Directory/diff/13,14" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/SotNW-Wiki+Directory/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/SotNW-Wiki+Directory/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FSotNW-Wiki%2BDirectory&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/SotNW-Wiki+Directory/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?parentNodeId=contentThreadList" href="#toggle"></a></th>
+                          <th>Started&nbsp;By</th>
+                          <th width="16"></th>
+                          <th>Thread Subject</th>
+                          <th>Replies</th>
+                          <th class="farRightCell">Last Post</th>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                          <td><a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Site+Map..&from=threadAccount3904744&threadId=3904744" class="WPC-action" onclick="return false">Rosengarde</a></td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/3904744/Site+Map.."><b>Site Map..</b></a></td>
+                          <td align="center">1</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">May 3 2010, 1:49 AM EDT</span> by <a href="/account/Hercasi" id="WPC-action_accountMenu?account=Hercasi&subject=Site+Map..&from=threadFirstAccount3904744&threadId=3904744" class="WPC-action" onclick="return false">Hercasi</a></td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA1" style="">
+                              <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Site+Map..&from=threadImg3904744&threadId=3904744" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wikifoundry.com/image/1/8Be2qK74x2O_zNGmpwX-2w3317/GW090" alt="Rosengarde"></a>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB1">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;May 3 2010, 12:26 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=3904744&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                For the same thing in alphabetical order, check out the site map: <a href="/sitemap">http://swordofthenewworldwiki.com/sitemap</a>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3904744&post=30449843"><span id="agreeCount?thread=3904744&post=30449843">1</span> &nbsp;out of <span id="totalCount?thread=3904744&post=30449843">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3904744&post=30449843" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=3904744&post=30449843">Do you? <a id="WPC-action_rateThread?thread=3904744&post=30449843&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3904744&post=30449843&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="#loginThreadReply" id="WPC-action_informJoin?contentKey=AddThread&from=thread1" class="loginThread WPC-tool WPC-tool-replyThread indicate WPC-action" onclick="return false">Post reply</a></li>
+                                  </ul>
+                                </div><a href="#lastReply" onclick="document.getElementById('threadLastReply3904744').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                                <div style="margin-top:10px;">
+                                  <div id="threadLastReply3904744" style="display:none;padding-top:10px;">
+                                    <table>
+                                      <tr>
+                                        <td><a href="/account/Hercasi" id="WPC-action_accountMenu?account=Hercasi&subject=Site+Map..&from=threadImg3904744&threadId=3904744" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wikifoundry.com/image/1/tCO_cR2YL15ND70ax6YaOA27371/GW090" alt="Hercasi"></a></td>
+                                        <td width="100%">
+                                          <b>Last Reply:</b><br>
+                                          <a href="/thread/3904744/Site+Map..?offset=0#post30450192"><b>RE: Site Map..</b></a><br>
+                                          <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Hercasi" id="WPC-action_accountMenu?account=Hercasi&subject=Site+Map..&from=threadFirstAccount3904744&threadId=3904744" class="WPC-action" onclick="return false">Hercasi</a>, May 3 2010, 1:49 AM EDT</span>
+                                          <div style="margin-top:10px;">
+                                            very well :)
+                                          </div>
+                                          <div style="margin-top:10px;">
+                                            <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3904744&post=30450192" style="display:none;"><span id="agreeCount?thread=3904744&post=30450192"></span> &nbsp;out of <span id="totalCount?thread=3904744&post=30450192"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3904744&post=30450192">Do you find this valuable?</span> <span id="voteHolder?thread=3904744&post=30450192"><a id="WPC-action_rateThread?thread=3904744&post=30450192&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3904744&post=30450192&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="http://static.wikifoundry.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      Showing 1 of 1 threads for this page
+                    </div><span id="threadCounter" title="2" style="display:none"></span>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory" class="current">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

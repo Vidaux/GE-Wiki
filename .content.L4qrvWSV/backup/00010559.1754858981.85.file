@@ -1,0 +1,265 @@
+
+@page{
+	position:relative;
+	display:block;
+	size 8.5in 11in portrait;
+	margin: .5in .75in .5in .75;
+	width:7in;
+	orphans:3;
+	widows:2;
+	page-break-after:avoid;
+}
+
+body {
+	font:normal 10.5pt  Arial, Verdana, Helvetica, sans-serif;
+}
+img{border:none;}
+
+
+#WPC-controlElement,
+#pageControls,
+#userHeader,
+#leftColumn,
+#siteSearch,
+#subFooter,
+#footer,
+#threadFormDiv,
+#incompatibleBrowserMessage,
+#gNav,
+#bkmrkLinks,
+#moreInfo,
+.WPC-toolsMenu,
+.threadRater,
+.panel,
+.ads,
+.tabNavigation li,
+.subNavigation li,
+.WPC-tooltip-title,
+.WPC-tooltip-content
+{
+	visibility:collapse !important;
+	display:none;
+}
+
+
+
+.tabNavigation ul, .subNavigation ul{
+	display:inline
+}
+.tabNavigation li.selected, .subNavigation li.selected{
+	visibility:visible !important;
+	display:block;
+	font-weight:bold
+}
+.threadTags, .tool, .postAReply{font-size:90%}
+.tip{font-size:80%; font-style:italic}
+
+#pageAttributes{
+	border:solid 1px #666; padding:5px;
+	font-size:90%;
+	line-height:1.5em;
+}
+.pageSection{
+	border-top:solid 1px #666; padding-top:10px; margin-top:10px;
+}
+#wikiContent{
+	page-break-inside:auto;
+	orphans:3;
+	widows:2;
+}
+#siteHeader h1#WPC-title a{
+ text-decoration:none;
+}
+#siteHeader h1#WPC-title a{
+ text-decoration:none;
+}
+#siteHeader h1#WPC-title a{
+ 	text-decoration:none;
+ 	color:#000;
+}
+#contentTitle h1{
+	font-size:1.6em;
+}
+ 
+
+.WPC-editableContent {
+	border:0px;
+	margin:0px;
+	padding:1px 0px 0px 1px;
+}
+.WPC-editableContent p {
+	margin:0px;
+	display:block;
+}
+
+.WPC-editableContent td, .WPC-editableContent p, 
+.WPC-editableContent div, .WPC-editableContent span{
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+
+.WPC-editableContent ul, 
+.WPC-editableContent ol {
+	margin: 0.1em 0 0.8em 0; 
+	padding: 0 0 0 40px;
+	list-style-position: outside;
+	list-style-image: none;
+}
+.WPC-editableContent li { margin: 0; padding: 0; }
+.WPC-editableContent ul { list-style-type: disc; }
+.WPC-editableContent ul ul { list-style-type: circle; }
+.WPC-editableContent ul ul ul { list-style-type: square; }
+.WPC-editableContent ol { list-style: decimal; }
+
+.WPC-editableContent blockquote {
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:0px;
+}
+.WPC-editableContent img {
+	clear:both;
+	padding:0em 0.3em;
+}
+
+.WPC-editableContent object {
+	display:inline;
+}
+
+.WPC-editableContent table {
+	border-collapse: collapse;
+	border-spacing:0px;
+	font-size:100.1%;
+	margin:0px 0px 0px 0px;
+	display: table;
+	clear:both;
+}
+.WPC-editableContent td {
+	vertical-align:top;
+}
+.WPC-editableContent table td {
+	border-width: 1px;
+}
+.WPC-editableContent h2,
+.WPC-editableContent h3 {
+	clear:both;
+}
+
+
+.WPC-editableContent table.WPC-edit-border-all > tbody > tr > td { border-style: solid; }
+.WPC-editableContent table.WPC-edit-border-rows > tbody > tr > td { border-style: solid none solid none; }
+.WPC-editableContent table.WPC-edit-border-cols > tbody > tr > td { border-style: none solid none solid; }
+.WPC-editableContent table.WPC-edit-border-none > tbody > tr > td { border-style: none; }
+
+
+* html .WPC-editableContent table.WPC-edit-border-all td { border-style: solid; }
+* html .WPC-editableContent table.WPC-edit-border-rows td { border-style: solid none solid none; }
+* html .WPC-editableContent table.WPC-edit-border-cols td { border-style: none solid none solid; }
+* html .WPC-editableContent table.WPC-edit-border-none td { border-style: none; }
+
+
+* html .WPC-editableContent table table.WPC-edit-border-all td { border-style: solid; }
+* html .WPC-editableContent table table.WPC-edit-border-rows td { border-style: solid none solid none; }
+* html .WPC-editableContent table table.WPC-edit-border-cols td { border-style: none solid none solid; }
+* html .WPC-editableContent table table.WPC-edit-border-none td { border-style: none; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-solid { border-top-style: solid; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-solid { border-right-style: solid; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-solid { border-bottom-style: solid; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-solid { border-left-style: solid; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-double { border-top-style: double;  border-top-width: 3px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-double { border-right-style: double;  border-right-width: 3px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-double { border-bottom-style: double;  border-bottom-width: 3px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-double { border-left-style: double;  border-left-width: 3px; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-solid2px { border-top-style: solid;  border-top-width: 2px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-solid2px { border-right-style: solid;  border-right-width: 2px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-solid2px { border-bottom-style: solid;  border-bottom-width: 2px; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-solid2px { border-left-style: solid;  border-left-width: 2px; }
+
+.WPC-editableContent table tbody tr td.WPC-edit-borderTop-none { border-top-style: none; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderRight-none { border-right-style: none; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderBottom-none { border-bottom-style: none; }
+.WPC-editableContent table tbody tr td.WPC-edit-borderLeft-none { border-left-style: none; }
+
+
+.WPC-editableContent table.wp-border-all > tbody > tr > td { border-style: solid; }
+.WPC-editableContent table.wp-border-rows > tbody > tr > td { border-style: solid none solid none; }
+.WPC-editableContent table.wp-border-cols > tbody > tr > td { border-style: none solid none solid; }
+.WPC-editableContent table.wp-border-none > tbody > tr > td { border-style: none; }
+* html .WPC-editableContent table.wp-border-all td { border-style: solid; }
+* html .WPC-editableContent table.wp-border-rows td { border-style: solid none solid none; }
+* html .WPC-editableContent table.wp-border-cols td { border-style: none solid none solid; }
+* html .WPC-editableContent table.wp-border-none td { border-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderTop-solid { border-top-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderRight-solid { border-right-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-solid { border-bottom-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-solid { border-left-style: solid; }
+.WPC-editableContent table tbody tr td.wp-borderTop-double { border-top-style: double;  border-top-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderRight-double { border-right-style: double;  border-right-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-double { border-bottom-style: double;  border-bottom-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-double { border-left-style: double;  border-left-width: 3px; }
+.WPC-editableContent table tbody tr td.wp-borderTop-solid2px { border-top-style: solid;  border-top-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderRight-solid2px { border-right-style: solid;  border-right-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-solid2px { border-bottom-style: solid;  border-bottom-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-solid2px { border-left-style: solid;  border-left-width: 2px; }
+.WPC-editableContent table tbody tr td.wp-borderTop-none { border-top-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderRight-none { border-right-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderBottom-none { border-bottom-style: none; }
+.WPC-editableContent table tbody tr td.wp-borderLeft-none { border-left-style: none; }
+
+
+.WPC-editableContent .WPC-edit-field {
+	padding: 4px;
+}
+.WPC-editableContent .WPC-edit-rss-total-1 { height: 2em; }
+.WPC-editableContent .WPC-edit-rss-total-2 { height: 3em; }
+.WPC-editableContent .WPC-edit-rss-total-3 { height: 4em; }
+.WPC-editableContent .WPC-edit-rss-total-4 { height: 5em; }
+.WPC-editableContent .WPC-edit-rss-total-5 { height: 6em; }
+
+.WPC-editableContent font[size="1"] { font-size:7pt; }
+.WPC-editableContent font[size="2"] { font-size:10pt; }
+.WPC-editableContent font[size="3"] { font-size:12pt; }
+.WPC-editableContent font[size="4"] { font-size:14pt; }
+.WPC-editableContent font[size="5"] { font-size:18pt; }
+.WPC-editableContent font[size="6"] { font-size:24pt; }
+.WPC-editableContent font[size="7"] { font-size:36pt; }
+
+.WPC-editableContent font[face="Arial"] { font-family:Arial, sans-serif; }
+.WPC-editableContent font[face="Courier"] { font-family:Courier, monospace; }
+.WPC-editableContent font[face="Garamond"] { font-family:Garamond, Skia, "Century Schoolbook L", serif; }
+.WPC-editableContent font[face="Helvetica"] { font-family:Helvetica, Verdana, sans-serif; }
+.WPC-editableContent font[face="Impact"] { font-family:Impact, "Arial Black", monospace; }
+.WPC-editableContent font[face="Times"] { font-family:Times, "Times New Roman", serif; }
+.WPC-editableContent font[face="Georgia"] { font-family:Georgia, "Nimbus Mono L", serif; }
+
+
+.WPC-editableContent .WPC-findInstance {
+	font-size: inherit;
+	background-color: #FFFF00;
+	color: #000000;
+}
+
+/*
+     FILE ARCHIVED ON 17:28:44 Jan 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:44:49 Aug 10, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.636
+  exclusion.robots: 0.036
+  exclusion.robots.policy: 0.023
+  esindex: 0.013
+  cdx.remote: 123.159
+  LoadShardBlock: 44.847 (3)
+  PetaboxLoader3.datanode: 64.246 (5)
+  load_resource: 250.768 (2)
+  PetaboxLoader3.resolve: 141.794 (2)
+*/

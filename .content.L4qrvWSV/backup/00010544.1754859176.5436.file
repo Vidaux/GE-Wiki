@@ -1,0 +1,464 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Wiki of the New World Site Updates - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Wiki of the New World Site Updates">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/CSSApplication/wpc.css?v=20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/family/f.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/core/c.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/print/p.css?20111214172750"; /*]]>*/
+  </style>
+  <link rel="alternate" type="application/rss+xml" href="/whatsnew/rss">
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'whatsnew',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Wiki of the New World Site Updates</h1>
+                  <div style='text-align:center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="7973571576"></ins> 
+                    <script>
+
+
+                                 (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                    </script>
+                  </div>
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">Dashboard</li>
+                      <li><a href="/pageSearch/updated">Pages</a></li>
+                      <li><a href="/pageReport/updatedThreads">Threads</a></li>
+                      <li><a href="/pageSearch/attachments">Attachments</a></li>
+                      <li><a href="/pageReport/noOutboundLinks">Links</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <div class="rssFeed">
+                    <a href="/whatsnew/rss"><img border="0" alt="RSS Feed" title="RSS Feed" src="http://dmiqhxtnnyjjh.cloudfront.net/img/icon/feed-icon-16x16.png"></a><a href="/whatsnew/rss">RSS Feed</a>
+                  </div>
+                  <div class="subNavigation">
+                    <ul>
+                      <li class="selected"></li>
+                    </ul>
+                  </div>
+                  <div class="clear"></div>
+                  <table width="100%">
+                    <tr>
+                      <td>
+                        <div style="float:none;clear:both;" id="siteActivity" class="sortableList" rel='time'>
+                          <div class="tableList bordered">
+                            <div class="header">
+                              <h4>Site Activity</h4>
+                            </div>
+                            <div class="content">
+                              <div class="sortOptions">
+                                Organize by <a href="#time" rel="time" onclick="return false;" style="font-weight:bold;text-decoration:none;" title="Group items by date and time">time</a> | <a href="#type" rel="type" onclick="return false;" title="Group items by type of activity">type</a> | <a href="#member" rel="userName" onclick="return false;" title="Group items by member name ">member</a>
+                              </div>
+                              <div class="ulList" style="clear: both; height:833px; overflow: auto;">
+                                <ul>
+                                  <li class="groupSeparator">
+                                    <div>
+                                      <b>Older</b>
+                                    </div>
+                                  </li>
+                                  <li class="feed" rel="Page"><span class="WPC-tool WPC-tool-page">&nbsp;</span> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity1" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> made formatting changes on the <a href="/page/Claire" type="url"><span class="sortTitle">Claire</span> page, Sep 9 2016, 4:48 AM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Claire" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Claire" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity2" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added 97 words, deleted 44 words, deleted 1 image, added 1 image, <span><a href="/page/Claire"><img src="http://image.wikifoundry.com/image/3/bbde46efbfa496477ae3e2b8e5c2e55d/GH50" height="50" style="max-width:150px;"></a></span> on the <a href="/page/Claire" type="url"><span class="sortTitle">Claire</span> page, Sep 9 2016, 4:21 AM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Photo"><a href="/page/Claire" type="url"><span class="WPC-tool WPC-tool-photo">&nbsp;</span></a><a href="/page/Claire" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PHOTOActivity3" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added a <a href="/photo/15400811/-"><span class="sortTitle">Photo</span></a> <span><a href="/photo/15400811/-"><img src="http://image.wikifoundry.com/image/3/bbde46efbfa496477ae3e2b8e5c2e55d/GH50" height="50" style="max-width:150px;"></a></span>, Sep 9 2016, 4:15 AM EDT<br style="clear:both;"></li>
+                                  <li class="feed" rel="Photo"><span class="WPC-tool WPC-tool-photo">&nbsp;</span> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PHOTOActivity4" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added a <a href="/photo/15400811/-"><span class="sortTitle">Photo</span></a> <span><a href="/photo/15400811/-"><img src="http://image.wikifoundry.com/image/3/bbde46efbfa496477ae3e2b8e5c2e55d/GH50" height="50" style="max-width:150px;"></a></span>, Sep 9 2016, 4:15 AM EDT<br style="clear:both;"></li>
+                                  <li class="feed" rel="Page"><span class="WPC-tool WPC-tool-page">&nbsp;</span> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity5" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added 4 words, deleted 1 word, on the <a href="/page/Elisa" type="url"><span class="sortTitle">Elisa</span> page, Sep 2 2016, 3:58 AM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Elisa" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Elisa" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity6" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added 51 words, on the <a href="/page/Raids+v2" type="url"><span class="sortTitle">Raids v2</span> page, Aug 26 2016, 9:32 PM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Raids+v2" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Raids+v2" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity7" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> created the <a href="/page/Raids+v2" type="url"><span class="sortTitle">Raids v2</span> page, Aug 26 2016, 8:01 PM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Raids+v2" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Raids+v2" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity8" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added 26 words, deleted 19 words, on the <a href="/page/Angie+Shirley" type="url"><span class="sortTitle">Angie Shirley</span> page, Aug 24 2016, 11:48 AM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Angie+Shirley" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Angie+Shirley" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity9" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added 15 words, on the <a href="/page/Char+V2" type="url"><span class="sortTitle">Char V2</span> page, Aug 24 2016, 10:24 AM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Char+V2" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Char+V2" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity10" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> added 4185 words, on the <a href="/page/Char+V2" type="url"><span class="sortTitle">Char V2</span> page, Aug 24 2016, 10:08 AM EDT<br style="clear:both;"></a></li>
+                                  <li class="feed" rel="Page"><a href="/page/Char+V2" type="url"><span class="WPC-tool WPC-tool-page">&nbsp;</span></a><a href="/page/Char+V2" type="url"></a> <a href="/account/Leucesios-kun" id="WPC-action_accountMenu?account=Leucesios-kun&from=PAGEActivity11" class="WPC-action" onclick="return false;"><span class="sortUserName">Leucesios-kun</span></a> created the <a href="/page/Char+V2" type="url"><span class="sortTitle">Char V2</span> page, Aug 24 2016, 10:02 AM EDT<br style="clear:both;"></a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div style='text-align: center; margin-top: 10px;'>
+                          <a href="/page/Char+V2" type="url">
+                          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="1787437171"></ins> 
+                          <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                          </script></a>
+                        </div><a href="/page/Char+V2" type="url"></a>
+                      </td>
+                      <td style="width:.5em"></td>
+                      <td style="width: 300px">
+                        <div class="ads adsinContent">
+                          <script type="text/javascript">
+
+                          if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.inContent);
+                          </script>
+                        </div><br>
+                        <div style="float:none;clear:both;" id="newestMembers" class="friendList">
+                          <div class="tableList bordered">
+                            <div class="header">
+                              <h4>Newest Members</h4>
+                            </div>
+                            <div class="content">
+                              <div style="padding-bottom:.5em;">
+                                Showing most recent 4 of <a href="/accountSearch/all">1862</a>
+                              </div>
+                              <ul>
+                                <li>
+                                  <a href="/account/mysticque" id="WPC-action_accountMenu?account=mysticque&from=newestMembers1" class="WPC-action" onclick="return false"></a>
+                                  <div class="avatarHolder"><img class="avatarMissing" src="http://static.wikifoundry.com/img/bg/1.png" alt="No profile image available"></div>
+                                  <div>
+                                    mysticque
+                                  </div>
+                                  <div class="dateJoinedHolder">
+                                    Dec 3 2017, 5:00 PM EST
+                                  </div>
+                                </li>
+                                <li>
+                                  <a href="/account/wergame" id="WPC-action_accountMenu?account=wergame&from=newestMembers2" class="WPC-action" onclick="return false"></a>
+                                  <div class="avatarHolder"><img class="avatarMissing" src="http://static.wikifoundry.com/img/bg/1.png" alt="No profile image available"></div>
+                                  <div>
+                                    wergame
+                                  </div>
+                                  <div class="dateJoinedHolder">
+                                    Dec 1 2017, 9:11 AM EST
+                                  </div>
+                                </li>
+                                <li>
+                                  <a href="/account/pizzzeda" id="WPC-action_accountMenu?account=pizzzeda&from=newestMembers3" class="WPC-action" onclick="return false"></a>
+                                  <div class="avatarHolder"><img class="avatarMissing" src="http://static.wikifoundry.com/img/bg/1.png" alt="No profile image available"></div>
+                                  <div>
+                                    pizzzeda
+                                  </div>
+                                  <div class="dateJoinedHolder">
+                                    Jun 19 2017, 4:06 PM EDT
+                                  </div>
+                                </li>
+                                <li>
+                                  <a href="/account/yaboki" id="WPC-action_accountMenu?account=yaboki&from=newestMembers4" class="WPC-action" onclick="return false"></a>
+                                  <div class="avatarHolder"><img class="avatarMissing" src="http://static.wikifoundry.com/img/bg/1.png" alt="No profile image available"></div>
+                                  <div>
+                                    yaboki
+                                  </div>
+                                  <div class="dateJoinedHolder">
+                                    Jun 7 2017, 10:52 AM EDT
+                                  </div>
+                                </li>
+                              </ul>
+                              <div style="clear: both; float: none;">
+                                <div class="pagingWrapper">
+                                  <div class="commandHolder">
+                                    <a href="/accountSearch/all?sort=joinDate">more</a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div style="float:none;clear:both;" id="communityActivity" class="sortableList" rel='time'>
+                          <div class="tableList bordered">
+                            <div class="header">
+                              <h4>Community Activity</h4>
+                            </div>
+                            <div class="content">
+                              <div class="sortOptions">
+                                Organize by <a href="#time" rel="time" onclick="return false;" style="font-weight:bold;text-decoration:none;" title="Group items by date and time">time</a> | <a href="#type" rel="type" onclick="return false;" title="Group items by type of activity">type</a> | <a href="#member" rel="userName" onclick="return false;" title="Group items by member name ">member</a>
+                              </div>
+                              <div class="ulList" style="clear: both; height:833px; overflow: auto;">
+                                <ul>
+                                  <li class="groupSeparator">
+                                    <div>
+                                      <b>Older</b>
+                                    </div>
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/mysticque" id="WPC-action_accountMenu?account=mysticque&from=iconActivity1" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/mysticque" id="WPC-action_accountMenu?account=mysticque&from=ACCOUNTActivity1" class="WPC-action" onclick="return false;"><span class="sortUserName">mysticque</span></a> joined our community, Dec 3 2017, 5:09 PM EST<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/wergame" id="WPC-action_accountMenu?account=wergame&from=iconActivity2" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/wergame" id="WPC-action_accountMenu?account=wergame&from=ACCOUNTActivity2" class="WPC-action" onclick="return false;"><span class="sortUserName">wergame</span></a> joined our community, Dec 1 2017, 9:20 AM EST<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/pizzzeda" id="WPC-action_accountMenu?account=pizzzeda&from=iconActivity3" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/pizzzeda" id="WPC-action_accountMenu?account=pizzzeda&from=ACCOUNTActivity3" class="WPC-action" onclick="return false;"><span class="sortUserName">pizzzeda</span></a> joined our community, Jun 19 2017, 4:15 PM EDT<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/yaboki" id="WPC-action_accountMenu?account=yaboki&from=iconActivity4" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/yaboki" id="WPC-action_accountMenu?account=yaboki&from=ACCOUNTActivity4" class="WPC-action" onclick="return false;"><span class="sortUserName">yaboki</span></a> joined our community, Jun 7 2017, 11:00 AM EDT<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/omrayk" id="WPC-action_accountMenu?account=omrayk&from=iconActivity5" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/omrayk" id="WPC-action_accountMenu?account=omrayk&from=ACCOUNTActivity5" class="WPC-action" onclick="return false;"><span class="sortUserName">omrayk</span></a> joined our community, Sep 10 2016, 10:36 PM EDT<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/hutch62" id="WPC-action_accountMenu?account=hutch62&from=iconActivity6" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/hutch62" id="WPC-action_accountMenu?account=hutch62&from=ACCOUNTActivity6" class="WPC-action" onclick="return false;"><span class="sortUserName">hutch62</span></a> joined our community, Apr 17 2016, 12:08 PM EDT<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/irfanari" id="WPC-action_accountMenu?account=irfanari&from=iconActivity7" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/irfanari" id="WPC-action_accountMenu?account=irfanari&from=ACCOUNTActivity7" class="WPC-action" onclick="return false;"><span class="sortUserName">irfanari</span></a> joined our community, Apr 13 2016, 11:59 AM EDT<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/St.Rider" id="WPC-action_accountMenu?account=St.Rider&from=iconActivity8" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/St.Rider" id="WPC-action_accountMenu?account=St.Rider&from=ACCOUNTActivity8" class="WPC-action" onclick="return false;"><span class="sortUserName">St.Rider</span></a> joined our community, Apr 13 2016, 6:33 AM EDT<br style="clear:both;">
+                                  </li>
+                                  <li class="feed" rel="New Member">
+                                    <div class="avatarHolder">
+                                      <a href="/account/xnevan" id="WPC-action_accountMenu?account=xnevan&from=iconActivity9" class="WPC-action" onclick="return false;"><img class="avatarMissing" src="http://dmiqhxtnnyjjh.cloudfront.net/img/bg/1.png" alt="No profile image available"></a>
+                                    </div><a href="/account/xnevan" id="WPC-action_accountMenu?account=xnevan&from=ACCOUNTActivity9" class="WPC-action" onclick="return false;"><span class="sortUserName">xnevan</span></a> joined our community, Feb 16 2016, 2:39 PM EST<br style="clear:both;">
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                  <script src="http://static.wikifoundry.com/scripts/wpjsPage/whatsnew/p.js" type="text/javascript"></script>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                        chan += "+3598918770";
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>

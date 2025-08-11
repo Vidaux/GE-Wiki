@@ -1,0 +1,597 @@
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Wiki of the New World Droplets - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Wiki of the New World Droplets" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"FACEBOOK_API_KEY" : '2d1eb4e17fac67b271042da4fd42a3e1',"FACEBOOK_FEED_TEMPLATE" : '78947714267',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'widgetGallery',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090814125003" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a> <span class="logo">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/forum">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/news">News</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <div class="alreadyMember">
+              Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a>
+            </div>
+            <div class="joinButtons">
+              <a class="WPC-action hidden fbconnect_login_button" id="WPC-action_pre-login-facebook" name="WPC-action_pre-login-facebook"><img src="/img/3rdparty/facebook_medium.png" alt="Facebook Connect" width="89px" height="21px" /></a> <span class="join-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="join-button"><span class="join-button"></span></span></button></span>
+            </div>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="adsTop">
+        <div class="ads adstop">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+          //]]>
+          </script>
+        </div>
+        <div class="ads adstopPromo">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+          //]]>
+          </script>
+        </div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <h1>Wiki of the New World Droplets</h1>
+                <div class="pageSection pageSectionOutOfPage">
+                  <h3>Broadcast your site activity with Wetpaint Droplets!</h3>
+                </div>
+                <div class="pageSection pageSectionOutOfPage">
+                  <table width="100%">
+                    <tr>
+                      <td width="351"><img id="droplet-infographic" src="http://static.wetpaint.com/img/icon/infographic_droplet.png" width="351" height="159" name="droplet-infographic" /></td>
+                      <td style="padding-left:5px;">Wetpaint Droplets broadcast your photos, videos, and threads to social networks including Facebook, MySpace, iGoogle, and more! All you have to do is select the Droplet to share, copy the embed code and share it with your social networks! (<span class="WPC-moreHelp">help</span>)</td>
+                    </tr>
+                  </table>
+                </div><input type="hidden" id="widgetGallery-hostName" value="attached-wapi.wetpaint.com" /><input type="hidden" id="widgetGallery-namespace" value="sotnw" />
+                <div id="widgetGallery-mobile" class="pageSection">
+                  <input type="hidden" id="widgetGallery-mobile-horizontal-source" value="/swf/widget/mobile_h.swf" /><input type="hidden" id="widgetGallery-mobile-vertical-source" value="/swf/widget/mobile_v.swf" />
+                  <h3>Site at a Glance</h3>Now you <em>can</em> take it with you when you go! Anyone can adopt this interactive showcase widget that displays all the latest contributions, threads, stats, and photos from your favorite community.<br />
+                  <br />
+                  <table>
+                    <tr>
+                      <td width="380" valign="middle" align="center">
+                        <div id="widgetGallery-mobile-widget">
+                          <object type="application/x-shockwave-flash" id="mobile-horizontal-white" height="272" width="300" data="/swf/widget/mobile_h.swf" flashvars="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" allowscriptaccess="always">
+                            <param name="movie" value="/swf/widget/mobile_h.swf" />
+                             <param name="wmode" value="transparent" />
+                             <param name="flashvars" value="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" />
+                             <param name="allowScriptAccess" value="always" />
+                          </object>
+                        </div>
+                      </td>
+                      <td>
+                        <b>1. Select a format:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-mobile-orientation" value="vertical" id="widgetGallery-mobile-orientation-vertical" /></td>
+                            <td><label for="widgetGallery-mobile-orientation-vertical">Vertical</label></td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-mobile-orientation" value="horizontal" id="widgetGallery-mobile-orientation-horizontal" checked="checked" /></td>
+                            <td><label for="widgetGallery-mobile-orientation-horizontal">Horizontal</label></td>
+                          </tr>
+                        </table><b>2. Select a design:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-mobile-design-white"><img id="widgetGallery-mobile-design-sample-white" src="/img/widget/widget_dropletstyle_white.png" width="100" height="100" name="widgetGallery-mobile-design-sample-white" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-mobile-design-black"><img id="widgetGallery-mobile-design-sample-black" src="/img/widget/widget_dropletstyle_black.png" width="100" height="100" name="widgetGallery-mobile-design-sample-black" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-mobile-design-wood"><img id="widgetGallery-mobile-design-sample-wood" src="/img/widget/widget_dropletstyle_wood.png" width="100" height="100" name="widgetGallery-mobile-design-sample-wood" /></label>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-mobile-design" value="white" id="widgetGallery-mobile-design-white" checked="checked" />&nbsp;<label for="widgetGallery-mobile-design-white">Lightbox</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-mobile-design" value="black" id="widgetGallery-mobile-design-black" />&nbsp;<label for="widgetGallery-mobile-design-black">Blackground</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-mobile-design" value="wood" id="widgetGallery-mobile-design-wood" />&nbsp;<label for="widgetGallery-mobile-design-wood">Sauna Chic</label>&nbsp;</td>
+                          </tr>
+                        </table><button style="margin-left:10px" onclick="document.getElementById('widgetGallery-mobile-widget').getElementsByTagName('object')[0].showCsMenu();">Get This Droplet</button>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="widgetGallery-photos" class="pageSection">
+                  <input type="hidden" id="widgetGallery-photos-horizontal-source" value="/swf/widget/photos_h.swf" /><input type="hidden" id="widgetGallery-photos-vertical-source" value="/swf/widget/photos_v.swf" />
+                  <h3>Picture This</h3>Better than photo-sharing is photo-bragging! Showcase all the snaptastic photos from this site with this interactive photo collage widget.<br />
+                  <br />
+                  <table>
+                    <tr>
+                      <td width="380" valign="middle" align="center">
+                        <div id="widgetGallery-photos-widget">
+                          <object type="application/x-shockwave-flash" id="photos-horizontal-white" height="272" width="300" data="/swf/widget/photos_h.swf" flashvars="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" allowscriptaccess="always">
+                            <param name="movie" value="/swf/widget/photos_h.swf" />
+                             <param name="wmode" value="transparent" />
+                             <param name="flashvars" value="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" />
+                             <param name="allowScriptAccess" value="always" />
+                          </object>
+                        </div>
+                      </td>
+                      <td>
+                        <b>1. Select a format:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-photos-orientation" value="vertical" id="widgetGallery-photos-orientation-vertical" /></td>
+                            <td><label for="widgetGallery-photos-orientation-vertical">Vertical</label></td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-photos-orientation" value="horizontal" id="widgetGallery-photos-orientation-horizontal" checked="checked" /></td>
+                            <td><label for="widgetGallery-photos-orientation-horizontal">Horizontal</label></td>
+                          </tr>
+                        </table><b>2. Select a design:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-photos-design-white"><img id="widgetGallery-photos-design-sample-white" src="/img/widget/widget_dropletstyle_white.png" width="100" height="100" name="widgetGallery-photos-design-sample-white" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-photos-design-black"><img id="widgetGallery-photos-design-sample-black" src="/img/widget/widget_dropletstyle_black.png" width="100" height="100" name="widgetGallery-photos-design-sample-black" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-photos-design-wood"><img id="widgetGallery-photos-design-sample-wood" src="/img/widget/widget_dropletstyle_wood.png" width="100" height="100" name="widgetGallery-photos-design-sample-wood" /></label>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-photos-design" value="white" id="widgetGallery-photos-design-white" checked="checked" />&nbsp;<label for="widgetGallery-photos-design-white">Lightbox</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-photos-design" value="black" id="widgetGallery-photos-design-black" />&nbsp;<label for="widgetGallery-photos-design-black">Blackground</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-photos-design" value="wood" id="widgetGallery-photos-design-wood" />&nbsp;<label for="widgetGallery-photos-design-wood">Sauna Chic</label>&nbsp;</td>
+                          </tr>
+                        </table><button style="margin-left:10px" onclick="document.getElementById('widgetGallery-photos-widget').getElementsByTagName('object')[0].showCsMenu();">Get This Droplet</button>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="widgetGallery-eavesdrop" class="pageSection">
+                  <input type="hidden" id="widgetGallery-eavesdrop-horizontal-source" value="/swf/widget/eavesdrop_h.swf" /><input type="hidden" id="widgetGallery-eavesdrop-vertical-source" value="/swf/widget/eavesdrop_v.swf" />
+                  <h3>Wiretap</h3>Tap into the chatter that matters. You'll never know what you'll overhear...<br />
+                  <br />
+                  <table>
+                    <tr>
+                      <td width="380" valign="middle" align="center">
+                        <div id="widgetGallery-eavesdrop-widget">
+                          <object type="application/x-shockwave-flash" id="eavesdrop-horizontal-white" height="272" width="300" data="/swf/widget/eavesdrop_h.swf" flashvars="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" allowscriptaccess="always">
+                            <param name="movie" value="/swf/widget/eavesdrop_h.swf" />
+                             <param name="wmode" value="transparent" />
+                             <param name="flashvars" value="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" />
+                             <param name="allowScriptAccess" value="always" />
+                          </object><br />
+                        </div>
+                      </td>
+                      <td>
+                        <b>1. Select a format:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-eavesdrop-orientation" value="vertical" id="widgetGallery-eavesdrop-orientation-vertical" /></td>
+                            <td><label for="widgetGallery-eavesdrop-orientation-vertical">Vertical</label></td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-eavesdrop-orientation" value="horizontal" id="widgetGallery-eavesdrop-orientation-horizontal" checked="checked" /></td>
+                            <td><label for="widgetGallery-eavesdrop-orientation-horizontal">Horizontal</label></td>
+                          </tr>
+                        </table><b>2. Select a design:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-eavesdrop-design-white"><img id="widgetGallery-eavesdrop-design-sample-white" src="/img/widget/widget_dropletstyle_white.png" width="100" height="100" name="widgetGallery-eavesdrop-design-sample-white" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-eavesdrop-design-black"><img id="widgetGallery-eavesdrop-design-sample-black" src="/img/widget/widget_dropletstyle_black.png" width="100" height="100" name="widgetGallery-eavesdrop-design-sample-black" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-eavesdrop-design-wood"><img id="widgetGallery-eavesdrop-design-sample-wood" src="/img/widget/widget_dropletstyle_wood.png" width="100" height="100" name="widgetGallery-eavesdrop-design-sample-wood" /></label>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-eavesdrop-design" value="white" id="widgetGallery-eavesdrop-design-white" checked="checked" />&nbsp;<label for="widgetGallery-eavesdrop-design-white">Lightbox</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-eavesdrop-design" value="black" id="widgetGallery-eavesdrop-design-black" />&nbsp;<label for="widgetGallery-eavesdrop-design-black">Blackground</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-eavesdrop-design" value="wood" id="widgetGallery-eavesdrop-design-wood" />&nbsp;<label for="widgetGallery-eavesdrop-design-wood">Sauna Chic</label>&nbsp;</td>
+                          </tr>
+                        </table><button style="margin-left:10px" onclick="document.getElementById('widgetGallery-eavesdrop-widget').getElementsByTagName('object')[0].showCsMenu();">Get This Droplet</button>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="widgetGallery-latest" class="pageSection">
+                  <input type="hidden" id="widgetGallery-latest-horizontal-source" value="/swf/widget/latest_h.swf" /><input type="hidden" id="widgetGallery-latest-vertical-source" value="/swf/widget/latest_v.swf" />
+                  <h3>Site Satellite</h3>You won't miss a thing with this dynamic ticker of latest threads, updates, photos, and compliments.<br />
+                  <br />
+                  <table>
+                    <tr>
+                      <td width="380" valign="middle" align="center">
+                        <div id="widgetGallery-latest-widget">
+                          <object type="application/x-shockwave-flash" id="latest-horizontal-white" height="272" width="300" data="/swf/widget/latest_h.swf" flashvars="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" allowscriptaccess="always">
+                            <param name="movie" value="/swf/widget/latest_h.swf" />
+                             <param name="wmode" value="transparent" />
+                             <param name="flashvars" value="THEME=white&HOST=attached-wapi.wetpaint.com&NAMESPACE=sotnw&SITEURL=swordofthenewworldwiki.com" />
+                             <param name="allowScriptAccess" value="always" />
+                          </object>
+                        </div>
+                      </td>
+                      <td>
+                        <b>1. Select a format:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-latest-orientation" value="vertical" id="widgetGallery-latest-orientation-vertical" /></td>
+                            <td><label for="widgetGallery-latest-orientation-vertical">Vertical</label></td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-latest-orientation" value="horizontal" id="widgetGallery-latest-orientation-horizontal" checked="checked" /></td>
+                            <td><label for="widgetGallery-latest-orientation-horizontal">Horizontal</label></td>
+                          </tr>
+                        </table><b>2. Select a design:</b>
+                        <table style="margin:10px 0 20px 10px;">
+                          <tr>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-latest-design-white"><img id="widgetGallery-latest-design-sample-white" src="/img/widget/widget_dropletstyle_white.png" width="100" height="100" name="widgetGallery-latest-design-sample-white" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-latest-design-black"><img id="widgetGallery-latest-design-sample-black" src="/img/widget/widget_dropletstyle_black.png" width="100" height="100" name="widgetGallery-latest-design-sample-black" /></label>
+                              </div>
+                            </td>
+                            <td>
+                              <div style="cursor:pointer;padding-right:5px;">
+                                <label for="widgetGallery-latest-design-wood"><img id="widgetGallery-latest-design-sample-wood" src="/img/widget/widget_dropletstyle_wood.png" width="100" height="100" name="widgetGallery-latest-design-sample-wood" /></label>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-latest-design" value="white" id="widgetGallery-latest-design-white" checked="checked" />&nbsp;<label for="widgetGallery-latest-design-white">Lightbox</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-latest-design" value="black" id="widgetGallery-latest-design-black" />&nbsp;<label for="widgetGallery-latest-design-black">Blackground</label>&nbsp;</td>
+                            <td style="padding-left:10px;"><input type="radio" class="radio" name="widgetGallery-latest-design" value="wood" id="widgetGallery-latest-design-wood" />&nbsp;<label for="widgetGallery-latest-design-wood">Sauna Chic</label>&nbsp;</td>
+                          </tr>
+                        </table><button style="margin-left:10px" onclick="document.getElementById('widgetGallery-latest-widget').getElementsByTagName('object')[0].showCsMenu();">Get This Droplet</button>
+                      </td>
+                    </tr>
+                  </table>
+                </div><br class="clear" />
+                <div class="ads adscontent">
+                  <script type="text/javascript">
+                  //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                  //]]>
+                  </script>
+                </div>
+              </div>
+            </div>
+            <script src="http://static.wetpaint.com/scripts/wpjsPage/widgetGallery/p.js" type="text/javascript"></script>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="45">Quests</a></li>
+                            <li><a href="/page/Raids" rel="16">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                            <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              //]]>
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Fracture Game Community</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>StarCraft 2</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b15';s_w.channel='widgetGallery';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(21/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

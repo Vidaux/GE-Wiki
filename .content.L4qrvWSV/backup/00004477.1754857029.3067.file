@@ -1,0 +1,702 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Selva Norte - Threads - Wiki of the New World</title>
+  <meta name="keywords" content="Selva Norte - Threads - Wiki of the New World, norte,selva">
+  <meta name="description" content="Wiki of the New World - Selva Norte - Threads">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css?v=20090923163641">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css?20090923163641">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css?20090923163641">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css?20090923163641">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css?20090923163641"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Selva Norte',"PAGE_URI" : '/page/Selva+Norte',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageThreads',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','UPCs','Character','Selva Norte']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js?v=20090923163641" type="text/javascript"></script>
+  <script language="JavaScript">
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090923163641" type="text/javascript"><\/scr' + 'ipt>');
+  </script>
+  <script language="JavaScript">
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Leaderboard' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000003000,1000003001,1000006001,1000006002,1000000107,1000001007,1000003008,1000006009");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+                
+                wp_ads.backgroundData = 'BackgroundData';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.backgroundData);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","PThreadLst");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  </script>
+  <script language="JavaScript">
+                
+                GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions">
+              <ul>
+                <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+              </ul>
+            </div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:left">
+                    Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span>
+                  </div><span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="/img/3rdparty/ie_logo.png?v=20090923163641" alt="IE Logo" width="17" height="18"><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnCategory">
+            <li class="gn first"><a href="/">Home</a></li>
+            <li class="gn"><a href="/forum">Discussions</a></li>
+            <li class="gn"><a href="/photos">Photos</a></li>
+            <li class="gn"><a href="/videos">Videos</a></li>
+            <li class="gn"><a href="/news">News</a></li>
+            <li class="gn"><a href="/whatsnew">Updates</a></li>
+            <li class="gn"><a href="/droplets">Droplets</a></li>
+            <li class="gn"><a href="/accountSearch/all">Members</a></li>
+            <li class="gn"><a href="#invite" id="WPC-action_invite?from=gNav" class="WPC-action">Invite</a></li>
+          </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wetpaint.com/img/bg/1.png?v=20090923163641" class="signup-button"></div>
+            </div>
+          </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+          <div class="clear"></div>
+        </div>
+        <div id="adsTop">
+          <div class="ads adstop">
+            <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <div class="hierarchy">
+                      <h3><span class="WPC-tool WPC-tool-content">Location</span>: <a href="/page/Selva+Norte">Selva Norte</a></h3>
+                      <h1>Page Threads</h1>
+                    </div>
+                  </div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeader pageLink">
+                      <span class="controlsNode" id="controlsNode_0"></span>
+                      <ul class="WPC-toolsMenu">
+                        <li><span class="controlsNode" id="controlsNode_0"><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_openThreadForm?from=addThread" onclick="return false;">Post a new thread</a></span></li>
+                      </ul><a name="replyToThread"></a>
+                      <div id="threadFormDiv" style="display:none">
+                        <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                          <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                          <table class="threadFormTable">
+                            <tr>
+                              <td rowspan="10" class="avatarCell">
+                                <div class="avatarAnonymous"></div>
+                              </td>
+                              <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                              <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                            </tr>
+                            <tr>
+                              <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                              <td>
+                              <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                              <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                            </tr>
+                            <tr id="quoteRow" style="display:none;">
+                              <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                              <td><span id="quoteContent">
+                              <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                            </tr>
+                            <tr id="tagRow" style="display:none;">
+                              <td class="labelCell">Tags:</td>
+                              <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                            </tr>
+                            <tr>
+                              <td class="labelCell"><label class="threadFormForum" for="threadFormForum">Category:</label></td>
+                              <td><select style="margin-right:12px;width:150px;" class="WPC-select threadFormForum" id="threadFormForum">
+                                <option style="font-style:italic;" value="">
+                                  General Discussion
+                                </option>
+                              </select> <span id="forumNameForGeneralDiscussion" style="display:none;">General Discussion</span></td>
+                            </tr>
+                          </table><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" style="display:none" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                        </form>
+                        <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                          Posting...
+                        </div>
+                        <div id="editLengthWarn" style="display:none;">
+                          Note: You can enter up to [REMCHARS] additional characters.<br>
+                          Did you know you can edit the content of this page by clicking EasyEdit?
+                        </div>
+                      </div><span style="display:none" id="threadFormPlacementDivId" class=""></span> 
+                      <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js?v=20090923163641" type="text/javascript"></script>
+                    </div>
+                    <div class="pagingWrapper" style="clear:both;">
+                      <div class="pagingActionWrapper">
+                        <span class="pagingAction">Showing&nbsp;4&nbsp;threads</span>
+                      </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                    <div class="tableList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?parentNodeId=threadList" href="#toggle"></a></th>
+                          <th>Started&nbsp;By</th>
+                          <th width="18"></th>
+                          <th>Thread Subject</th>
+                          <th>Replies</th>
+                          <th class="farRightCell">Last Post</th>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/3288145/Confused+with+AR"><b>Confused with AR</b></a></td>
+                          <td align="center">0</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Sep 16 2009, 3:40 PM EDT</span> by Anonymous</td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA1" style="display:none;">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB1" style="display:none">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Sep 16 2009, 3:40 PM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=3288145&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                e84 is only good when its has REALY good stats for me because a normal e84 weapons SUCKS ASS and theyre easily ran down by the a80 who takes alot more and atack alot faster, so it all comes down to the +AR of the weapon cus a80 cant have it, so i if im wrong in any way or something else, please post a comment below explaining me diference :)<br>
+                                thank you<br>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3288145&post=24055077"><span id="agreeCount?thread=3288145&post=24055077">2</span> &nbsp;out of <span id="totalCount?thread=3288145&post=24055077">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3288145&post=24055077" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=3288145&post=24055077">Do you? <a id="WPC-action_rateThread?thread=3288145&post=24055077&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3288145&post=24055077&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=3288145" class="WPC-action">edit keyword tags</a>)
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="/thread/3288145/Confused+with+AR?offset=0&WPC-action=openThreadForm?postId=24055077&isWatching=" class="WPC-tool WPC-tool-replyThread indicate">Post reply</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/3039540/hero+seal"><b>hero seal</b></a></td>
+                          <td align="center">2</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Jul 30 2009, 4:39 AM EDT</span> by Anonymous</td>
+                        </tr>
+                        <tr class="altRow">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA2" style="display:none;">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB2" style="display:none">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jul 6 2009, 1:09 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=3039540&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                is it that hard to get the seal?<br>
+                                <br>
+                                those assholes keep on killing me in Poison Yard :(
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3039540&post=21273449"><span id="agreeCount?thread=3039540&post=21273449">7</span> &nbsp;out of <span id="totalCount?thread=3039540&post=21273449">13</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3039540&post=21273449" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=3039540&post=21273449">Do you? <a id="WPC-action_rateThread?thread=3039540&post=21273449&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3039540&post=21273449&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=3039540" class="WPC-action">edit keyword tags</a>)
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="/thread/3039540/hero+seal?offset=0&WPC-action=openThreadForm?postId=22340541&isWatching=" class="WPC-tool WPC-tool-replyThread indicate">Post reply</a></li>
+                                  </ul>
+                                </div><a href="#lastReply" onclick="document.getElementById('threadLastReply3039540').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                                <div style="margin-top:10px;">
+                                  <div id="threadLastReply3039540" style="display:none;padding-top:10px;">
+                                    <table>
+                                      <tr>
+                                        <td>
+                                          <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                        </td>
+                                        <td width="100%">
+                                          <b>Last Reply:</b><br>
+                                          <a href="/thread/3039540/hero+seal?offset=0#post22340541"><b>RE: hero seal</b></a><br>
+                                          <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Posted Anonymously, Jul 30 2009, 4:39 AM EDT</span>
+                                          <div style="margin-top:10px;">
+                                            They&#39;re not so hard to get really. Just make friends with everyone going into PY and get into a squad. Hopefully your squad will be able to claim the bosses. Then just hope that through round robin you get one of the hero seal drops. Seriously though it can&#39;t be too hard, I have 5 hero seals already from 3 PYs, and I am a pretty low vet team.
+                                          </div>
+                                          <div style="margin-top:10px;">
+                                            <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3039540&post=22340541"><span id="agreeCount?thread=3039540&post=22340541">2</span> &nbsp;out of <span id="totalCount?thread=3039540&post=22340541">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3039540&post=22340541" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=3039540&post=22340541">Do you? <a id="WPC-action_rateThread?thread=3039540&post=22340541&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3039540&post=22340541&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle"></a></td>
+                          <td>Anonymous</td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/3102581/Hero+Seal"><b>Hero Seal</b></a></td>
+                          <td align="center">0</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Jul 24 2009, 2:57 AM EDT</span> by Anonymous</td>
+                        </tr>
+                        <tr class="">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA3" style="display:none;">
+                              <div title="Posted Anonymously" class="avatarAnonymous" style="">
+                                &nbsp;
+                              </div>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB3" style="display:none">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jul 24 2009, 2:57 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=3102581&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                Seal is impossible to get without a squad. Even if you made it into poison yard for Chimera, the bosses is not soloable as other players / mobs will be around to mess things up.<br>
+                                <br>
+                                I went with a squad of around 7 families all the time, 5 would do if the team is real imba. Chimera will drop only 1~2 Hero Seals.<br>
+                                <br>
+                                Poison Yard - 5 ~ 7 veteran families with decent / imba equips, good pvp skills. Definition of imba : elite 84 armors / weapons + 3 dr/ar<br>
+                                Bosses:<br>
+                                1) Geroro - Weak, can even solo but does not drop seals. Drops e84 equips/ 84 and above chips/ e84 recipes (1 ~ 2 spawns per raid)<br>
+                                2) Chimera - Major aoe damage and debuffs like Burn( Can pot, no atk), Frozen( No pot, no atk). Musks with kneeling stances are highly recommended to hit from a safe distance. Fighters without (imba) armor will need at least 500 Healing Liquors. Do not use scouts to heal, spam recover to prevent fighters from freezing. Elementalists won&#39;t be of much help, same for wizards. Spawns at center, one only, kill before raid time is up.<br>
+                                <br>
+                                Secret Temple - Don&#39;t even bother without 8+ family members. Too lazy for guide details.<br>
+                                Battle Colleseum - This may be the easiest way to get it.<br>
+                                <br>
+                                Hero Seals ARE NOT tradable.
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=3102581&post=22068862"><span id="agreeCount?thread=3102581&post=22068862">8</span> &nbsp;out of <span id="totalCount?thread=3102581&post=22068862">8</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=3102581&post=22068862" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=3102581&post=22068862">Do you? <a id="WPC-action_rateThread?thread=3102581&post=22068862&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=3102581&post=22068862&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=3102581" class="WPC-action">edit keyword tags</a>)
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="/thread/3102581/Hero+Seal?offset=0&WPC-action=openThreadForm?postId=22068862&isWatching=" class="WPC-tool WPC-tool-replyThread indicate">Post reply</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=4" href="#toggle"></a></td>
+                          <td><a href="/account/TiaielSorrow" id="WPC-action_accountMenu?account=TiaielSorrow&subject=Selva&from=threadAccount1959152&threadId=1959152" class="WPC-action" onclick="return false">TiaielSorrow</a></td>
+                          <td class="WPC WPC-tool WPC-tool"></td>
+                          <td><a href="/thread/1959152/Selva"><b>Selva</b></a></td>
+                          <td align="center">1</td>
+                          <td class="farRightCell"><span style="white-space:nowrap">Oct 12 2008, 10:34 AM EDT</span> by <a href="/account/Ashlord" id="WPC-action_accountMenu?account=Ashlord&subject=Selva&from=threadFirstAccount1959152&threadId=1959152" class="WPC-action" onclick="return false">Ashlord</a></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td></td>
+                          <td colspan="2">
+                            <div class="historyRevision" id="expandToggleItemA4" style="display:none;">
+                              <a href="/account/TiaielSorrow" id="WPC-action_accountMenu?account=TiaielSorrow&subject=Selva&from=threadImg1959152&threadId=1959152" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/4/VCFsqmx--PIezsfzMJUeww249380/GW090" alt="TiaielSorrow"></a>
+                            </div>
+                          </td>
+                          <td colspan="3" class="colspan farRightCell">
+                            <div class="historyRevision" id="expandToggleItemB4" style="display:none">
+                              <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Oct 12 2008, 7:55 AM EDT&nbsp; <a href="#watch" rel='watch' class="WPC-action" id="WPC-action_watchThread?threadId=1959152&isNotify=1">Watch</a></span>
+                              <div style="margin-top:10px;">
+                                She will be available in the new expansion?
+                              </div>
+                              <div style="margin-top:10px;">
+                                <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=1959152&post=12649527"><span id="agreeCount?thread=1959152&post=12649527">25</span> &nbsp;out of <span id="totalCount?thread=1959152&post=12649527">36</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1959152&post=12649527" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=1959152&post=12649527">Do you? <a id="WPC-action_rateThread?thread=1959152&post=12649527&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=1959152&post=12649527&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                <div class="threadTags">
+                                  <div class="WPC-tagModule">
+                                    <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Selva+update+epansion+note" title="Selva update epansion note" class="pageTag">Selva update epansion note</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=1959152" class="WPC-action">edit keyword tags</a>)
+                                  </div>
+                                </div>
+                              </div>
+                              <div style="margin-top:10px;">
+                                <div class="controlsNode" style="display:inline">
+                                  <ul class="WPC-toolsMenu">
+                                    <li><a href="/thread/1959152/Selva?offset=0&WPC-action=openThreadForm?postId=12651242&isWatching=" class="WPC-tool WPC-tool-replyThread indicate">Post reply</a></li>
+                                  </ul>
+                                </div><a href="#lastReply" onclick="document.getElementById('threadLastReply1959152').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                                <div style="margin-top:10px;">
+                                  <div id="threadLastReply1959152" style="display:none;padding-top:10px;">
+                                    <table>
+                                      <tr>
+                                        <td><a href="/account/Ashlord" id="WPC-action_accountMenu?account=Ashlord&subject=Selva&from=threadImg1959152&threadId=1959152" class="WPC-action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/VQ4ENSHG1_hJxDwTsspt8A704431/GW090" alt="Ashlord"></a></td>
+                                        <td width="100%">
+                                          <b>Last Reply:</b><br>
+                                          <a href="/thread/1959152/Selva?offset=0#post12651242"><b>RE: Selva</b></a><br>
+                                          <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Ashlord" id="WPC-action_accountMenu?account=Ashlord&subject=Selva&from=threadFirstAccount1959152&threadId=1959152" class="WPC-action" onclick="return false">Ashlord</a>, Oct 12 2008, 10:34 AM EDT</span>
+                                          <div style="margin-top:10px;">
+                                            nope.. but i hope we get her before 3.0 =)
+                                          </div>
+                                          <div style="margin-top:10px;">
+                                            <span class="threadRater" style="font-style:italic;"><span id="voteCountHolder?thread=1959152&post=12651242"><span id="agreeCount?thread=1959152&post=12651242">1</span> &nbsp;out of <span id="totalCount?thread=1959152&post=12651242">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1959152&post=12651242" style="display:none;">Do you find this valuable?</span> <span id="voteHolder?thread=1959152&post=12651242">Do you? <a id="WPC-action_rateThread?thread=1959152&post=12651242&vote=agree" class="agree WPC-action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="WPC-action_rateThread?thread=1959152&post=12651242&vote=disagree" class="disagree WPC-action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div class="pagingWrapper" style="clear:both;"></div>
+                    <div style="clear:both;"></div>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <div id="siteSearch" class="searchForm">
+                <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                  <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+                </form>
+              </div><noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                              <li><a href="/page/Guides" rel="5">Guides</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="12">Items &amp; Equipment</a></li>
+                              <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                              <li><a href="/page/Jobs%2FClasses" rel="8">Jobs/Classes</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                              <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                              <li><a href="/page/Quests" rel="46">Quests</a></li>
+                              <li><a href="/page/Raids" rel="16">Raids</a></li>
+                              <li><a href="/page/Pets">Pets</a></li>
+                              <li>
+                                <a href="/page/UPCs" rel="3">UPCs</a>
+                                <ul>
+                                  <li>
+                                    <a href="/page/Character" rel="49">Character</a>
+                                    <ul>
+                                      <li><a href="/page/Lisa+Lynway">Lisa Lynway</a></li>
+                                      <li><a href="/page/Adelina+Esperanza">Adelina Esperanza</a></li>
+                                      <li><a href="/page/M%27Boma">M&#039;Boma</a></li>
+                                      <li><a href="/page/Jack+Shirley">Jack Shirley</a></li>
+                                      <li><a href="/page/Ramiro">Ramiro</a></li>
+                                      <li><a href="/page/Reboldeaux+Soldier">Reboldeaux Soldier</a></li>
+                                      <li><a href="/page/Soho">Soho</a></li>
+                                      <li><a href="/page/Emilia+Giannino">Emilia Giannino</a></li>
+                                      <li><a href="/page/Grace+Bernelli">Grace Bernelli</a></li>
+                                      <li><a href="/page/Lorch+Feurholden">Lorch Feurholden</a></li>
+                                      <li><a href="/page/Tiburon">Tiburon</a></li>
+                                      <li><a href="/page/Andre+Janzur">Andre Janzur</a></li>
+                                      <li><a href="/page/Brunie+Etienne">Brunie Etienne</a></li>
+                                      <li><a href="/page/Claude+Baudez">Claude Baudez</a></li>
+                                      <li><a href="/page/Idge+Imbrulia">Idge Imbrulia</a></li>
+                                      <li><a href="/page/Najib+Sharif">Najib Sharif</a></li>
+                                      <li><a href="/page/Yeganeh">Yeganeh</a></li>
+                                      <li><a href="/page/Rescue+Knight">Rescue Knight</a></li>
+                                      <li><a href="/page/Panfilo+de+Narvaez">Panfilo de Narvaez</a></li>
+                                      <li><a href="/page/Coimbran+Trooper">Coimbran Trooper</a></li>
+                                      <li><a href="/page/Gracielo">Gracielo</a></li>
+                                      <li><a href="/page/Alejandro">Alejandro</a></li>
+                                      <li><a href="/page/Jose+Cortasar">Jose Cortasar</a></li>
+                                      <li><a href="/page/Auch+Infantry">Auch Infantry</a></li>
+                                      <li><a href="/page/Gertrude+Peterson">Gertrude Peterson</a></li>
+                                      <li><a href="/page/Catherines">Catherines</a></li>
+                                      <li><a href="/page/Grenmah">Grenmah</a></li>
+                                      <li><a href="/page/Romina">Romina</a></li>
+                                      <li><a href="/page/Irawain">Irawain</a></li>
+                                      <li><a href="/page/Viki">Viki</a></li>
+                                      <li><a href="/page/Mia+Karjalain">Mia Karjalain</a></li>
+                                      <li><a href="/page/Soso">Soso</a></li>
+                                      <li><a href="/page/Angie+Shirley">Angie Shirley</a></li>
+                                      <li><a href="/page/Kurt+Lyndon+and+Eduardo+Gygax">Kurt Lyndon and Eduardo Gygax</a></li>
+                                      <li><a href="/page/Vincent+Rio">Vincent Rio</a></li>
+                                      <li><a href="/page/Baek+Ho">Baek Ho</a></li>
+                                      <li><a href="/page/Garcia+Gygax">Garcia Gygax</a></li>
+                                      <li><a href="/page/Calypso">Calypso</a></li>
+                                      <li><a href="/page/Claire">Claire</a></li>
+                                      <li><a href="/page/Emilia+the+Sage">Emilia the Sage</a></li>
+                                      <li><a href="/page/Soho+the+Fighter">Soho the Fighter</a></li>
+                                      <li><a href="/page/Battlesmith+Idge">Battlesmith Idge</a></li>
+                                      <li><a href="/page/Iron+Chef+Panfilo">Iron Chef Panfilo</a></li>
+                                      <li><a href="/page/Captain+Adelina">Captain Adelina</a></li>
+                                      <li><a href="/page/Sir+Lyndon">Sir Lyndon</a></li>
+                                      <li><a href="/page/Selva+Norte" class="current">Selva Norte</a></li>
+                                      <li><a href="/page/Nar">Nar</a></li>
+                                      <li><a href="/page/Ania">Ania</a></li>
+                                      <li><a href="/page/Hellena">Hellena</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="/page/Stances">Stances</a></li>
+                                  <li><a href="/page/Unique+UPC+Stances">Unique UPC Stances</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/Terminology">Terminology</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent" class="wetpaintBranding">
+            <img src="http://static.wetpaint.com/img/bg/1.png?v=20090923163641" alt="Create your own free Wetpaint site" width="123" height="77">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+            <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span>Feedback</span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+          </ul>
+          <div id="promotedFooter">
+            <ul>
+              <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+              <li class="first"><span>Last Chaos DE Guide</span></li>
+              <li><span>Last Chaos - Guides &amp; Information</span></li>
+              <li><span>Kerrydale Street</span></li>
+              <li><span>Free Rider</span></li>
+              <li><span>Warriors Fansite.</span></li>
+              <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js?v=20090923163641"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b13';s_w.channel='pageThreads';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(186/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+  <div class="ads adsbackgroundData">
+    <script type="text/javascript">
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.backgroundData);
+    </script>
+  </div>
+</body>
+</html>

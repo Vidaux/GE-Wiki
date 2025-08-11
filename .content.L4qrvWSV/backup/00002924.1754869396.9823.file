@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Lorch Furuholmen - Page History - Wiki of the new world</title>
+  <meta name="description" content="Wiki of the new world">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+        //<![CDATA[
+                var inits = {"BUILD_DATE" : '20080124092559',"WIKI_NAME" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the new world',"WIKI_PPA_URL" : '',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Lorch Furuholmen',"PAGE_URI" : '/page/Lorch+Furuholmen',"PAGE_VERSION" : '7',"PAGE_LATEST_VERSION" : '7',"UX" : 'wp',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"ACCOUNT_NAME" : '',"ACTION" : '',"SAVE_PATH" : '/page/Lorch+Furuholmen',"SAVE_TYPE" : 'page',"DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"BREADCRUMBS" : ['Wiki Of The New World','UPC\'s','Character','Lorch Furuholmen']};
+        //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+</head>
+<body>
+  <script language="JavaScript">
+
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdSense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  </script> 
+  <script language="JavaScript">
+
+
+        wp_ads.noAdSense = '';
+        if( ( ( (self.innerWidth) ? self.innerWidth : document.body.parentNode.clientWidth ) - 470 ) > 728 ){
+                wp_ads.center = 'Center_728x90' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.center);
+                GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_ad_channel","3000000144,3000000109,3000000172,3000000029");
+        } else {
+                wp_ads.center = 'Center_468x60' + wp_ads.noAdSense;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.center);
+                GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_ad_channel","3000000144,3000000085,3000000171,3000000008");
+        }
+        wp_ads.left = 'Left_160x600' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+        wp_ads.right = 'Right_160x600' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.right);
+        GA_googleAddAdSenseSlotAttr(wp_ads.right, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("UX","Wetpaint");
+        GA_googleAddAttr("WikiName","sotnw");
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.center, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+
+        
+        GA_googleFetchAds();
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Wiki</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li style="float:none; clear:both"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/1/ywnfECjxV_-a2O_NxK-_LQ26973" alt="Wiki of the new world" title="Wiki of the new world" id="headerImage"></a></h1>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <table>
+                  <tr>
+                    <td class="firstInnerCell">
+                      <div id="contentTitle">
+                        <h1><a href="/page/Lorch+Furuholmen">Lorch Furuholmen</a> |</h1>
+                        <h2>Version Compare</h2>
+                        <p><a href="/page/Lorch+Furuholmen/history">Back to page history</a></p>
+                      </div>
+                    </td>
+                    <td class="secondInnerCell">
+                      <div class="innerColumn">
+                        <div id="userToolbox" class="panel join">
+                          <div class="panelContent">
+                            Become a member of the <i>Wiki of the new world</i> community.
+                            <center>
+                              <button id="action_join" class="submit action" style="margin:.5em 0 .5em 0">Join This Wiki</button>
+                            </center>Already a member?&nbsp;<a href="#signin" id="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;">Sign in</a>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <div id="versionCompareSummary">
+                  <table>
+                    <tr class="header">
+                      <th>Version</th>
+                      <th>User</th>
+                      <th>Scope of changes</th>
+                    </tr>
+                    <tr>
+                      <td><a href="/page/Lorch+Furuholmen/revision/7">Tuesday, 6:18 PM EST</a> (current)</td>
+                      <td><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Lorch+Furuholmen&from=revisionDiffstatus1&role=Creator&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2Fpjy1XBw5E16VlPV1BO1LpQ6109%2FGW050&pageName=Lorch+Furuholmen" class="action" onclick="return false">Lothmak</a></td>
+                      <td>2 words added, 1 widget added</td>
+                    </tr>
+                    <tr class="altRow">
+                      <td><a href="/page/Lorch+Furuholmen/revision/6">Nov 23 2007, 10:24 AM EST</a></td>
+                      <td><a href="/account/Lothmak" id="action_accountMenu?account=Lothmak&subject=Lorch+Furuholmen&from=revisionDiffstatus2&role=Creator&imgUrl=http%3A%2F%2Fimage.wetpaint.com%2Fimage%2F1%2Fpjy1XBw5E16VlPV1BO1LpQ6109%2FGW050&pageName=Lorch+Furuholmen" class="action" onclick="return false">Lothmak</a></td>
+                      <td>1 word added, 1 word deleted</td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="versionCompareHead">
+                  <h2>Changes</h2>
+                  <div class="revisionsKey">
+                    Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                  </div>
+                </div>
+                <div id="versionCompareContent">
+                  <span class="diffRemove"></span> <span class="diffAdd"></span><img align="bottom" alt="Lorch Furuholnen" height="153" src="http://image.wetpaint.com/image/1/fsJNj5dg3hX1W5MRfTsr_g17810/GW120H153" title="Lorch Furuholnen" width="120"><br>
+                  -----------------------------------------------------------------------------------------------------------------------------------------<br>
+                  <b>Character Level</b>: 52<br>
+                  <b>Location</b>: Auch City<br>
+                  <b>Job</b>: Shot Gun Production<br>
+                  <b>Armor</b>: Leather Armor, Coat<br>
+                  <b>Weapon Usage</b>: Shotgun<br>
+                  <b>Status</b>:<br>
+                  <table align="bottom" cellpadding="3" class="wp-border-all" width="400">
+                    <tbody>
+                      <tr>
+                        <td align="center" width="16%"><b><font color="#FF0000">Str</font></b></td>
+                        <td align="center" width="16%"><b><font color="#FF0000">Agi</font></b></td>
+                        <td align="center" width="16%"><b><font color="#FF0000">HP</font></b></td>
+                        <td align="center" width="16%"><b><font color="#FF0000">Dex</font></b></td>
+                        <td align="center" width="16%"><b><font color="#FF0000">Int</font></b></td>
+                        <td align="center" width="16%"><b><font color="#FF0000">Cha</font></b></td>
+                      </tr>
+                      <tr>
+                        <td align="center" width="16%">4</td>
+                        <td align="center" width="16%">6</td>
+                        <td align="center" width="16%">5</td>
+                        <td align="center" width="16%">8</td>
+                        <td align="center" width="16%">5</td>
+                        <td align="center" width="16%">3</td>
+                      </tr>
+                    </tbody>
+                  </table><br>
+                  <b>Stances</b>:<br>
+                  <ol>
+                    <li><font color="#000000">No Weapon - Install Trap</font></li>
+                    <li><font color="#000000">Shotgun - Hunting Blaster</font></li>
+                  </ol><br>
+                  <div align="center">
+                    <b><font size="2"><span class="diffAdd">Hunting Blaster</span></font></b><br>
+                    <embed height="207" src="http://widget.wetpaintserv.us/wiki/sotnw/page/Lorch+Furuholmen/widget/youtubevideo/1937016415" type="application/x-shockwave-flash" width="249" wmode="transparent">
+                  </div><br>
+                  <b>Comments:</b><br>
+                  Lorch is the gun seller of Auch City. He&#39;s specialized in shotguns and has a unique stance called Hunting Blaster, mixing the Shotgun Blaster stance and the Trapper stance.<br>
+                  <br>
+                  <b>How to get:<br></b><font color="#FF0000"><font color="#FF0000" size="2">Required Lvl - 50</font><font size="2"><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 1</span></b><br>
+                  <span class="diffFormatting" title="">First, you need to do the Tiburon quest.</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 2</span></b><br>
+                  <span class="diffFormatting" title="">Turtle&#39;s Land</span><br>
+                  <span class="diffFormatting" title="">Once you got your reward , Talk Again to Lorch and choose the option : &quot;How have you been?&quot;</span><br>
+                  <span class="diffFormatting" title="">You will begin to build a friendship with Lorch and he will ask you to bring him 120 Shining Totis Powder~</span><br>
+                  <span class="diffFormatting" title="">You will have to go in Porto Bello Deserted Quay (level 50 monsters) and hunt the : Steel Armed Turtle</span><br>
+                  <span class="diffFormatting" title="">This the rarest Turtle in the aera and its not a 100 % drop....so Good Luck on collecting the 50 powder.</span><br>
+                  <span class="diffFormatting" title="">Once you got it go back to Lorch for Your Reward</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 3</span><br></b><span class="diffFormatting" title="">Lorch and the New World</span><br>
+                  <span class="diffFormatting" title="">Once you got the Reward , you will have to run over this place in Auch City :</span></font><br>
+                  <img align="bottom" alt="Lorch Furuholmen - Wiki of the new world" height="400" src="http://image.wetpaint.com/image/1/xQdMmwoZnZ5ZfYlguE9ghg55749/GW500H400" title="Lorch Furuholmen - Wiki of the new world" width="500"><br>
+                  <font size="2"><span class="diffFormatting" title="">This is the place near the Zone</span><br>
+                  <span class="diffFormatting" title="">You will have a message and a new Quest will start.</span><br>
+                  <span class="diffFormatting" title="">You will start an easy fight against some soldier , after the battle Lorch will reward you.</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 4</span></b><br>
+                  <span class="diffFormatting" title="">The Love Letter</span><br>
+                  <span class="diffFormatting" title="">A girl in Auch City want to date Lorch. This is Isabella the Cake&#39;s Seller.</span><br>
+                  <span class="diffFormatting" title="">Talk to her &amp; start the next Quest</span><br>
+                  <span class="diffFormatting" title="">She will give you a love Letter for Lorch , and you will have to go back talk to Isabella after Lorch&#39;s answer.</span><br>
+                  <span class="diffFormatting" title="">Lorch respectfully declined...the offer.</span><br>
+                  <span class="diffFormatting" title="">So Isabella very angry provoke you in Duel... its time to beat the girl.</span><br>
+                  <span class="diffFormatting" title="">After your victory Isabella will give you 1 k vis.</span><br>
+                  <span class="diffFormatting" title="">Go back to lorch for end the quest.</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 5</span></b><br>
+                  <span class="diffFormatting" title="">Lorch and the New World Part 2</span><br>
+                  <span class="diffFormatting" title="">To start this new quest you will have to go there :</span></font><br>
+                  <img align="bottom" alt="Lorch Furuholmen - Wiki of the new world" height="400" src="http://image.wetpaint.com/image/1/gCr9Um3qJFQHRJaJy1puAQ50822/GW500H400" title="Lorch Furuholmen - Wiki of the new world" width="500"><br>
+                  <br>
+                  <font size="2"><span class="diffFormatting" title="">Choose the second option for start another easy fight</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 6</span></b><br>
+                  <span class="diffFormatting" title="">The Shotgun &#39;s Quest</span><br>
+                  <span class="diffFormatting" title="">Go back to Lorch once you won the fight and he will ask you to collect</span><br>
+                  <span class="diffFormatting" title="">items for make a new shotgun ,he will ask you to bring 3 serie of different items (its will depend on the shotgun you will choose) :</span><br>
+                  <span class="diffFormatting" title="">I took the first option : &quot;A Function that Horrifies the Ennemy&quot; Terror Shotgun~</span><br>
+                  <span class="diffFormatting" title="">For this one you will have to grab in order :</span><br>
+                  <span class="diffFormatting" title="">30 Broken Mask dropped by the hermit in Dr.Torsche&#39;s Mansion Savage Garden~</span><br>
+                  <span class="diffFormatting" title="">Drop rate is really poor on this one so good luck &gt;&lt;</span><br>
+                  <span class="diffFormatting" title="">50 Silver Strings dropped by the big bear in Rion Prairie</span><br>
+                  <span class="diffFormatting" title="">And 65 Transparent Ottite Piece that you can find in Dr.Torche&#39;s Mansion Reception Hall</span><br>
+                  <span class="diffFormatting" title="">Good Luck its really not a party of pleasure Mad</span><br>
+                  <span class="diffFormatting" title="">Once you got all the item go back to Lorch and</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 7</span></b><br>
+                  <span class="diffFormatting" title="">Lorch&#39;s Fight</span><br>
+                  <span class="diffFormatting" title="">You have to wait till Lorch finished the Shotgun. Walk near the city entrance till the quest triggers.</span><br>
+                  <span class="diffFormatting" title="">Talk to lorch and join him in the square place,</span><br>
+                  <span class="diffFormatting" title="">Lorch want to try out his new Shotgun on you.... Surprised</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 8</span></b><br>
+                  <span class="diffFormatting" title="">The Last Fight</span><br>
+                  <span class="diffFormatting" title="">After The Lorch&#39;s fight, go back near city entrance and wait again for Lorch to call you. You will have to defeat some Soldier after the battle go back to Lorch~</span><br>
+                  <br>
+                  <b><span class="diffFormatting" title="">Step 9</span></b><br>
+                  <span class="diffFormatting" title="">The Father&#39;s Letter</span><br>
+                  <span class="diffFormatting" title="">Lorch is now waiting a Letter from his Father , you will have to wait 15 min before he get his letter, walk in F8 and you will have a jingle bell when Lorch get the letter.</span><br>
+                  <span class="diffFormatting" title="">So come back to him and he will FINALLY join your Family.</span><br>
+                  <br></font><br>
+                  -----------------------------------------------------------------------------------------------------------------------------------------<br>
+                  <b>Quest Tips</b><br>
+                  <br>
+                  <br>
+                  <br>
+                  :<br>
+                  -----------------------------------------------------------------------------------------------------------------------------------------<br>
+                  <img align="bottom" alt="Lorch Furuholmen - Wiki of the new world" height="766" src="http://image.wetpaint.com/image/1/KiJAroPITw15mfJwAUrJOw60820/GW650H766" title="Lorch Furuholmen - Wiki of the new world" width="650"><br></font>
+                </div><font color="#FF0000"><br class="clear">
+                <br class="clear"></font>
+                <div class="ads adscenter">
+                  <font color="#FF0000">
+                  <script type="text/javascript">
+
+
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.center);
+                  </script></font>
+                </div><font color="#FF0000"></font>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <font color="#FF0000"></font>
+            <div id="siteSearch">
+              <font color="#FF0000"></font>
+              <form method="get" action="/pageSearch" onsubmit="if(this.contains.value=='Search this wiki') this.contains.value = '';">
+                <font color="#FF0000"><input type="text" class="text" name="contains" maxlength="99" value="Search this wiki" onfocus="if(this.value=='Search this wiki') this.value = '';"><input type="submit" name="submit" class="submit" title="submit" value=" "></font>
+              </form>
+            </div><font color="#FF0000"><noscript><br>
+            <div class="browserWarning small">
+              <font color="#FF0000"><font color="#FF0000">JavaScript must be enabled in order for you to contribute to this wiki.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.</font></font>
+            </div></noscript></font>
+            <div id="drillDownSiteNavigation" class="panel">
+              <font color="#FF0000"></font>
+              <div class="panelHeader close">
+                <font color="#FF0000"></font>
+                <div title="expand | collapse this panel" class="panelControl">
+                  <font color="#FF0000"></font>
+                </div><font color="#FF0000">Navigation</font>
+              </div>
+              <div class="panelContent">
+                <font color="#FF0000"></font>
+                <div id="leftDrillDownSiteNavigation">
+                  <font color="#FF0000"></font>
+                  <div id="treeNavScroller">
+                    <font color="#FF0000"></font>
+                    <div id="leftNavTree" class="treeList">
+                      <font color="#FF0000"></font>
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root"><font color="#FF0000">Home</font></a>
+                          <ul>
+                            <li><a href="/page/Maps+%2F+Area+Info" rel="4"><font color="#FF0000">Maps / Area Info</font></a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Classes" rel="6"><font color="#FF0000">Sword of the New World Classes</font></a></li>
+                            <li><a href="/page/Crafting" rel="2"><font color="#FF0000">Crafting</font></a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Items" rel="6"><font color="#FF0000">Sword of the New World Items</font></a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Guides" rel="10"><font color="#FF0000">Sword of the New World Guides</font></a></li>
+                            <li><a href="/page/Monsters" rel="6"><font color="#FF0000">Monsters</font></a></li>
+                            <li><a href="/page/Quests" rel="37"><font color="#FF0000">Quests</font></a></li>
+                            <li>
+                              <a href="/page/UPC%27s" rel="2"><font color="#FF0000">UPC&#039;s</font></a>
+                              <ul>
+                                <li>
+                                  <a href="/page/Character" rel="33"><font color="#FF0000">Character</font></a>
+                                  <ul>
+                                    <li><a href="/page/Lisa+Lynway"><font color="#FF0000">Lisa Lynway</font></a></li>
+                                    <li><a href="/page/Adelina+Esperanza"><font color="#FF0000">Adelina Esperanza</font></a></li>
+                                    <li><a href="/page/M%27Boma"><font color="#FF0000">M&#039;Boma</font></a></li>
+                                    <li><a href="/page/Jack"><font color="#FF0000">Jack</font></a></li>
+                                    <li><a href="/page/Ramiro"><font color="#FF0000">Ramiro</font></a></li>
+                                    <li><a href="/page/Roboldoeux+Soldier"><font color="#FF0000">Roboldoeux Soldier</font></a></li>
+                                    <li><a href="/page/Soho"><font color="#FF0000">Soho</font></a></li>
+                                    <li><a href="/page/Emilia+Giannino"><font color="#FF0000">Emilia Giannino</font></a></li>
+                                    <li><a href="/page/Grace+Berneli"><font color="#FF0000">Grace Berneli</font></a></li>
+                                    <li><a href="/page/Lorch+Furuholmen" class="current"><font color="#FF0000">Lorch Furuholmen</font></a></li>
+                                    <li><a href="/page/Tiburon"><font color="#FF0000">Tiburon</font></a></li>
+                                    <li><a href="/page/Andre+Janzur"><font color="#FF0000">Andre Janzur</font></a></li>
+                                    <li><a href="/page/Brunie+Etienne"><font color="#FF0000">Brunie Etienne</font></a></li>
+                                    <li><a href="/page/Claude+Baudez"><font color="#FF0000">Claude Baudez</font></a></li>
+                                    <li><a href="/page/Idge"><font color="#FF0000">Idge</font></a></li>
+                                    <li><a href="/page/Najib+Sharif"><font color="#FF0000">Najib Sharif</font></a></li>
+                                    <li><a href="/page/Yeganeh"><font color="#FF0000">Yeganeh</font></a></li>
+                                    <li><a href="/page/Rescue+Knight"><font color="#FF0000">Rescue Knight</font></a></li>
+                                    <li><a href="/page/Panfilo+de+Narvaez"><font color="#FF0000">Panfilo de Narvaez</font></a></li>
+                                    <li><a href="/page/Coimbra+Trooper"><font color="#FF0000">Coimbra Trooper</font></a></li>
+                                    <li><a href="/page/Gracielo"><font color="#FF0000">Gracielo</font></a></li>
+                                    <li><a href="/page/Alejandro"><font color="#FF0000">Alejandro</font></a></li>
+                                    <li><a href="/page/Jose+Cortasar"><font color="#FF0000">Jose Cortasar</font></a></li>
+                                    <li><a href="/page/Auch+Infantry"><font color="#FF0000">Auch Infantry</font></a></li>
+                                    <li><a href="/page/Gurtrude+Peterson"><font color="#FF0000">Gurtrude Peterson</font></a></li>
+                                    <li><a href="/page/Catherines"><font color="#FF0000">Catherines</font></a></li>
+                                    <li><a href="/page/Grandice+%28aka+Grand+Ma%29"><font color="#FF0000">Grandice (aka Grand Ma)</font></a></li>
+                                    <li><a href="/page/Romina"><font color="#FF0000">Romina</font></a></li>
+                                    <li><a href="/page/Irawain"><font color="#FF0000">Irawain</font></a></li>
+                                    <li><a href="/page/Viki"><font color="#FF0000">Viki</font></a></li>
+                                    <li><a href="/page/Mi+Karjalainen"><font color="#FF0000">Mi Karjalainen</font></a></li>
+                                    <li><a href="/page/Soso"><font color="#FF0000">Soso</font></a></li>
+                                    <li><a href="/page/Angie"><font color="#FF0000">Angie</font></a></li>
+                                  </ul>
+                                </li>
+                                <li><a href="/page/Stances"><font color="#FF0000">Stances</font></a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Terminology"><font color="#FF0000">Terminology</font></a></li>
+                            <li><a href="/page/Equipment+Upgrade"><font color="#FF0000">Equipment Upgrade</font></a></li>
+                            <li><a href="/page/Family+Level+-+Barracks"><font color="#FF0000">Family Level - Barracks</font></a></li>
+                            <li><a href="/page/The+Weapon+vs.+Armor+effect"><font color="#FF0000">The Weapon vs. Armor effect</font></a></li>
+                            <li><a href="/page/Character+Attributes"><font color="#FF0000">Character Attributes</font></a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack"><font color="#FF0000">Sword of the New World Soundtrack</font></a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div style="margin: 0px -10px 0px -10px;">
+                  <font color="#FF0000"></font>
+                  <div id="navigationGrippy" title="drag to resize">
+                    <font color="#FF0000"></font>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink"><font color="#FF0000">new page</font></a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink"><font color="#FF0000">(Uncategorized)</font></a>
+            </div><font color="#FF0000">
+            <script type="text/javascript">
+
+            wetpaintLoad('scroller');
+            </script></font>
+            <div class="panelButtons">
+              <font color="#FF0000"></font>
+              <div class="panel">
+                <font color="#FF0000"></font>
+                <div class="panelContent">
+                  <a href="/thread" class="btn_discussion"><font color="#FF0000">Discussion Forum</font></a>
+                </div><font color="#FF0000"></font>
+              </div>
+              <div class="panel">
+                <font color="#FF0000"></font>
+                <div class="panelContent">
+                  <a href="/todos/updated" class="btn_reports"><font color="#FF0000">To-Dos &amp; Activity Reports</font></a>
+                </div><font color="#FF0000"></font>
+              </div>
+            </div>
+            <div id="topContributors" class="panel">
+              <font color="#FF0000"></font>
+              <div class="panelHeader close">
+                <font color="#FF0000"></font>
+                <div title="expand | collapse this panel" class="panelControl">
+                  <font color="#FF0000"></font>
+                </div><font color="#FF0000">Top Contributors</font>
+              </div>
+              <div class="panelContent">
+                <font color="#FF0000"></font>
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  <font color="#FF0000">Loading...</font>
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <font color="#FF0000">
+              <script type="text/javascript">
+
+
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script></font>
+            </div><font color="#FF0000"></font>
+          </div>
+        </div>
+      </div>
+      <div class="clear">
+        <font color="#FF0000"></font>
+      </div>
+      <div id="footer">
+        <font color="#FF0000"></font>
+        <div id="createdWithContent">
+          <font color="#FF0000"><img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint wiki" width="123" height="77"></font>
+          <div style="text-align:center;padding-bottom:.5em">
+            <font color="#FF0000">start a wiki</font>
+          </div>
+        </div>
+        <ul>
+          <li class="first"><font color="#FF0000"><span><a href="/contact">Contact Wetpaint</a></span></font></li>
+          <li><font color="#FF0000"><span>Help</span></font></li>
+          <li><font color="#FF0000"><span><a href="/sitemap">Sitemap</a></span></font></li>
+          <li><font color="#FF0000"><span>Feedback</span></font></li>
+          <li><font color="#FF0000"><span><a href="/privacy">Privacy</a></span></font></li>
+          <li><font color="#FF0000"><span><a href="/terms">Terms of Use</a></span></font></li>
+        </ul>
+        <div id="promotedFooter">
+          <font color="#FF0000"></font>
+          <ul>
+            <li class="first footerText"><font color="#FF0000"><span>Other Sites:&nbsp;</span></font></li>
+            <li class="first"><font color="#FF0000"><span>eQuotes - A Famous Quotes Wiki</span></font></li>
+            <li><font color="#FF0000"><span>Ideas Grande</span></font></li>
+            <li><font color="#FF0000"><span>Wetpaint Central</span></font></li>
+            <li><font color="#FF0000"><span>Free Rider</span></font></li>
+            <li><font color="#FF0000"><span>Xbox 360.</span></font></li>
+            <li class="first promotedViewMore"><font color="#FF0000"><span>View more Wikis &nbsp;or&nbsp;create your own&nbsp;free Wetpaint&nbsp;wiki.</span></font></li>
+          </ul>
+        </div>
+      </div><font color="#FF0000"></font>
+    </div><font color="#FF0000"></font>
+  </div><font color="#FF0000">
+  <script type="text/javascript">
+
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20080124092559" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  </script> 
+  <script type="text/javascript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='web5.wetpaint.com';s_w.channel='pageDiff';s_w.pageType='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(599/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='pageDiff';s_w.eVar11='registered';s_w.eVar12=(inits['SITES_COUNT']) ? inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(inits['AB_TEST'] == 0) ? 'na' : (inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script></font>
+</body>
+</html>

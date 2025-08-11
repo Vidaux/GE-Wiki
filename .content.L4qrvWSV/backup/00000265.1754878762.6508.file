@@ -1,0 +1,774 @@
+<html>
+<head>
+  <title>Join - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Join" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'accountnew',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        wp_ads.noAdSense = '';
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        
+        GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photo Gallery</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner" class="accountEdit">
+                <table>
+                  <tr>
+                    <td class="firstInnerCell">
+                      <div id="contentTitle">
+                        <h1>Join Wiki of the New World! New members welcome.</h1>
+                      </div>
+                      <p class="indentLogo"><em>Wiki of the New World</em> is powered by&nbsp;<img src="http://static.wetpaint.com/img/bg/1.png" alt="" class="logo small" style="margin-right:-8px" />Wetpaint.</p>
+                      <p>Already have a Wetpaint account?&nbsp; <a href="#signIn" class="action" id="action_login?from=accountNew&nextAction=join" name="action_login?from=accountNew&nextAction=join">Sign in</a>.</p>
+                    </td>
+                    <td class="secondInnerCell">
+                      <div class="innerColumn">
+                        <div id="openIDPanel" class="panel">
+                          <div class="panelContent">
+                            <h4>Join With OpenID</h4><a href="#openIdLogin" id="action_login?view=openId&purpose=signUp&from=openidimg" class="action inlineLink" onclick="return false;" name="action_login?view=openId&purpose=signUp&from=openidimg"><img src="http://static.wetpaint.com/img/3rdparty/openid_30x30.png" width="30" height="30" align="left" style="padding:0 10px 1em 0" />Use your OpenID</a> &nbsp;&nbsp;to create a Wetpaint account.<br />
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <div id="accountForm">
+                  <div id="signupForm">
+                    <form method="post" action="/accountNew" id="accountNewForm" class="accountForm" onsubmit="this.action=location.href.split('?')[0];return true;" name="accountNewForm">
+                      <input type="hidden" name="forward" value="/joinAvatar" />
+                      <div id="requiredNote" class="accountEditRow">
+                        <span class="required">*</span><span>&nbsp;indicates a required field</span>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="userName"><span class="required">*</span>Username:</label>
+                        <div class="input">
+                          <input type="text" id="userName" name="userName" size="20" maxlength="20" value="" style="margin-right:0.5em;" /><button class="cancel secondary" style="display:none; position:relative; margin:0; vertical-align:center" id="checkUsername" tabindex="-1">Check Username</button> <span id="nameError" class="error"></span> <span id="nameErrorExists" class="error" style="display:none">&#171; Username is already taken</span> <span id="nameErrorAvailable" style="display:none">&#171; Username is available</span><br />
+                          <span class="tip">This is the name others will see on this wiki.</span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="password"><span class="required">*</span>New Password:</label>
+                        <div class="input">
+                          <input type="password" name="password" size="20" maxlength="20" value="" /><span id="passwordError" class="error"></span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="passwordverification"><span class="required">*</span>Retype New Password:</label>
+                        <div class="input">
+                          <input type="password" name="passwordverification" size="20" maxlength="20" value="" /><span id="passwordverificationError" class="error"></span><br />
+                          <span class="tip">Passwords must be at least six characters in length. Keep this private!</span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="emailaddress"><span class="required">*</span>Email Address:</label>
+                        <div class="input">
+                          <input type="text" name="emailaddress" size="20" maxlength="255" value="" /><span id="emailaddressError" class="error"></span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="emailaddressverification"><span class="required">*</span>Retype Email Address:</label>
+                        <div class="input">
+                          <input type="text" name="emailaddressverification" size="20" maxlength="255" value="" /><span id="emailaddressverificationError" class="error"></span><br />
+                          <span class="tip">Example: myname@company.com</span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="firstname"><span class="required">*</span>First Name:</label>
+                        <div class="input">
+                          <input type="text" name="firstname" size="20" maxlength="50" value="" /><span id="firstnameError" class="error"></span><br />
+                          <span class="tip">Not publicly displayed</span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="lastname"><span class="required">*</span>Last Name:</label>
+                        <div class="input">
+                          <input type="text" name="lastname" size="20" maxlength="50" value="" /><span id="lastnameError" class="error"></span><br />
+                          <span class="tip">Not publicly displayed</span>
+                        </div>
+                      </div>
+                      <div class="accountEditRow">
+                        <label for="dateofbirth"><span class="required">*</span>Date of Birth:</label>
+                        <div class="input">
+                          <select name="birthMonth">
+                            <option value="month">
+                              Month
+                            </option>
+                            <option value="1">
+                              1
+                            </option>
+                            <option value="2">
+                              2
+                            </option>
+                            <option value="3">
+                              3
+                            </option>
+                            <option value="4">
+                              4
+                            </option>
+                            <option value="5">
+                              5
+                            </option>
+                            <option value="6">
+                              6
+                            </option>
+                            <option value="7">
+                              7
+                            </option>
+                            <option value="8">
+                              8
+                            </option>
+                            <option value="9">
+                              9
+                            </option>
+                            <option value="10">
+                              10
+                            </option>
+                            <option value="11">
+                              11
+                            </option>
+                            <option value="12">
+                              12
+                            </option>
+                          </select> <select name="birthDay">
+                            <option value="day">
+                              Day
+                            </option>
+                            <option value="1">
+                              1
+                            </option>
+                            <option value="2">
+                              2
+                            </option>
+                            <option value="3">
+                              3
+                            </option>
+                            <option value="4">
+                              4
+                            </option>
+                            <option value="5">
+                              5
+                            </option>
+                            <option value="6">
+                              6
+                            </option>
+                            <option value="7">
+                              7
+                            </option>
+                            <option value="8">
+                              8
+                            </option>
+                            <option value="9">
+                              9
+                            </option>
+                            <option value="10">
+                              10
+                            </option>
+                            <option value="11">
+                              11
+                            </option>
+                            <option value="12">
+                              12
+                            </option>
+                            <option value="13">
+                              13
+                            </option>
+                            <option value="14">
+                              14
+                            </option>
+                            <option value="15">
+                              15
+                            </option>
+                            <option value="16">
+                              16
+                            </option>
+                            <option value="17">
+                              17
+                            </option>
+                            <option value="18">
+                              18
+                            </option>
+                            <option value="19">
+                              19
+                            </option>
+                            <option value="20">
+                              20
+                            </option>
+                            <option value="21">
+                              21
+                            </option>
+                            <option value="22">
+                              22
+                            </option>
+                            <option value="23">
+                              23
+                            </option>
+                            <option value="24">
+                              24
+                            </option>
+                            <option value="25">
+                              25
+                            </option>
+                            <option value="26">
+                              26
+                            </option>
+                            <option value="27">
+                              27
+                            </option>
+                            <option value="28">
+                              28
+                            </option>
+                            <option value="29">
+                              29
+                            </option>
+                            <option value="30">
+                              30
+                            </option>
+                            <option value="31">
+                              31
+                            </option>
+                          </select> <select name="birthYear">
+                            <option value="year">
+                              Year
+                            </option>
+                            <option value="2008">
+                              2008
+                            </option>
+                            <option value="2007">
+                              2007
+                            </option>
+                            <option value="2006">
+                              2006
+                            </option>
+                            <option value="2005">
+                              2005
+                            </option>
+                            <option value="2004">
+                              2004
+                            </option>
+                            <option value="2003">
+                              2003
+                            </option>
+                            <option value="2002">
+                              2002
+                            </option>
+                            <option value="2001">
+                              2001
+                            </option>
+                            <option value="2000">
+                              2000
+                            </option>
+                            <option value="1999">
+                              1999
+                            </option>
+                            <option value="1998">
+                              1998
+                            </option>
+                            <option value="1997">
+                              1997
+                            </option>
+                            <option value="1996">
+                              1996
+                            </option>
+                            <option value="1995">
+                              1995
+                            </option>
+                            <option value="1994">
+                              1994
+                            </option>
+                            <option value="1993">
+                              1993
+                            </option>
+                            <option value="1992">
+                              1992
+                            </option>
+                            <option value="1991">
+                              1991
+                            </option>
+                            <option value="1990">
+                              1990
+                            </option>
+                            <option value="1989">
+                              1989
+                            </option>
+                            <option value="1988">
+                              1988
+                            </option>
+                            <option value="1987">
+                              1987
+                            </option>
+                            <option value="1986">
+                              1986
+                            </option>
+                            <option value="1985">
+                              1985
+                            </option>
+                            <option value="1984">
+                              1984
+                            </option>
+                            <option value="1983">
+                              1983
+                            </option>
+                            <option value="1982">
+                              1982
+                            </option>
+                            <option value="1981">
+                              1981
+                            </option>
+                            <option value="1980">
+                              1980
+                            </option>
+                            <option value="1979">
+                              1979
+                            </option>
+                            <option value="1978">
+                              1978
+                            </option>
+                            <option value="1977">
+                              1977
+                            </option>
+                            <option value="1976">
+                              1976
+                            </option>
+                            <option value="1975">
+                              1975
+                            </option>
+                            <option value="1974">
+                              1974
+                            </option>
+                            <option value="1973">
+                              1973
+                            </option>
+                            <option value="1972">
+                              1972
+                            </option>
+                            <option value="1971">
+                              1971
+                            </option>
+                            <option value="1970">
+                              1970
+                            </option>
+                            <option value="1969">
+                              1969
+                            </option>
+                            <option value="1968">
+                              1968
+                            </option>
+                            <option value="1967">
+                              1967
+                            </option>
+                            <option value="1966">
+                              1966
+                            </option>
+                            <option value="1965">
+                              1965
+                            </option>
+                            <option value="1964">
+                              1964
+                            </option>
+                            <option value="1963">
+                              1963
+                            </option>
+                            <option value="1962">
+                              1962
+                            </option>
+                            <option value="1961">
+                              1961
+                            </option>
+                            <option value="1960">
+                              1960
+                            </option>
+                            <option value="1959">
+                              1959
+                            </option>
+                            <option value="1958">
+                              1958
+                            </option>
+                            <option value="1957">
+                              1957
+                            </option>
+                            <option value="1956">
+                              1956
+                            </option>
+                            <option value="1955">
+                              1955
+                            </option>
+                            <option value="1954">
+                              1954
+                            </option>
+                            <option value="1953">
+                              1953
+                            </option>
+                            <option value="1952">
+                              1952
+                            </option>
+                            <option value="1951">
+                              1951
+                            </option>
+                            <option value="1950">
+                              1950
+                            </option>
+                            <option value="1949">
+                              1949
+                            </option>
+                            <option value="1948">
+                              1948
+                            </option>
+                            <option value="1947">
+                              1947
+                            </option>
+                            <option value="1946">
+                              1946
+                            </option>
+                            <option value="1945">
+                              1945
+                            </option>
+                            <option value="1944">
+                              1944
+                            </option>
+                            <option value="1943">
+                              1943
+                            </option>
+                            <option value="1942">
+                              1942
+                            </option>
+                            <option value="1941">
+                              1941
+                            </option>
+                            <option value="1940">
+                              1940
+                            </option>
+                            <option value="1939">
+                              1939
+                            </option>
+                            <option value="1938">
+                              1938
+                            </option>
+                            <option value="1937">
+                              1937
+                            </option>
+                            <option value="1936">
+                              1936
+                            </option>
+                            <option value="1935">
+                              1935
+                            </option>
+                            <option value="1934">
+                              1934
+                            </option>
+                            <option value="1933">
+                              1933
+                            </option>
+                            <option value="1932">
+                              1932
+                            </option>
+                            <option value="1931">
+                              1931
+                            </option>
+                            <option value="1930">
+                              1930
+                            </option>
+                            <option value="1929">
+                              1929
+                            </option>
+                            <option value="1928">
+                              1928
+                            </option>
+                            <option value="1927">
+                              1927
+                            </option>
+                            <option value="1926">
+                              1926
+                            </option>
+                            <option value="1925">
+                              1925
+                            </option>
+                            <option value="1924">
+                              1924
+                            </option>
+                            <option value="1923">
+                              1923
+                            </option>
+                            <option value="1922">
+                              1922
+                            </option>
+                            <option value="1921">
+                              1921
+                            </option>
+                            <option value="1920">
+                              1920
+                            </option>
+                          </select> <span id="dateofbirthError" class="error"></span><br />
+                        </div>
+                      </div>
+                      <div class="accountEditRow rev" id="wetpaintNewsLetterRow">
+                        <div class="input">
+                          <input type="checkbox" class="checkbox" name="wetpaintNewsLetter" id="wetpaintNewsLetter" checked="checked" />
+                        </div><label for="wetpaintNewsLetter">Receive updates about new Wetpaint features.<br />
+                        <span class="tip">Wetpaint will never share your email address. (<a href="/privacy" tabindex="-1">Privacy Policy</a>)</span></label>
+                      </div>
+                      <div class="accountEditRow rev" id="rememberMeRow">
+                        <div class="input">
+                          <input type="checkbox" class="checkbox" name="rememberMe" id="rememberMe" />
+                        </div><label for="rememberMe">Keep me signed in.<br />
+                        <span class="tip">You won't have to sign in from this computer again.</span></label>
+                      </div>
+                      <div class="actionButtons">
+                        <input type="submit" id="accountNewSubmitBtn" class="button" value="Join" />
+                      </div>
+                    </form>
+                  </div>
+                </div>
+                <div style="display:none" id="errorCodeFromServer">
+                  0
+                </div>
+                <script src="http://static.wetpaint.com/scripts/wpjsPage/accountNew/p.js" type="text/javascript"></script> <noscript>
+                <div class="announcement">
+                  <div>
+                    <b>Although you may be able to create an account on this wiki without Javascript, you will not be able to contribute to this wiki or use many Wetpaint features.</b> Please enable Javascript by changing your browser options and refresh this page.
+                  </div>
+                </div></noscript>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Site pages
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="8">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="8">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li><a href="/page/Raids" rel="14">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="6">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+              //<![CDATA[
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              //]]>
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Pregnancy</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20081103160048" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b11';s_w.channel='accountnew';s_w.pageType='accountnew';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(15/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='accountnew';s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(global_inits['AB_TEST'] == 0) ? 'na' : (global_inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script>
+</body>
+</html>

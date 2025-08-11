@@ -1,0 +1,530 @@
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Bahamar Quests - Page History - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Bahamar Quests - Page History" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="/css/wpc.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="/css/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Bahamar Quests',"PAGE_URI" : '/page/Bahamar+Quests',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"FACEBOOK_API_KEY" : '2d1eb4e17fac67b271042da4fd42a3e1',"FACEBOOK_FEED_TEMPLATE" : '78947714267',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Quests','Bahamar Quests']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090831145704" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span></a> <span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+          <div id="userUnsupportedBrowser" style="display: none;">
+            <img src="/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/forum">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/news">News</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <div class="alreadyMember">
+              Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a>
+            </div>
+            <div class="joinButtons">
+              <a class="WPC-action hidden fbconnect_login_button" id="WPC-action_pre-login-facebook" name="WPC-action_pre-login-facebook"><img src="/img/3rdparty/facebook_medium.png" alt="Facebook Connect" width="89px" height="21px" /></a> <span class="join-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="join-button"><span class="join-button"></span></span></button></span>
+            </div>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="adsTop">
+        <div class="ads adstop">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+          //]]>
+          </script>
+        </div>
+        <div class="ads adstopPromo">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+          //]]>
+          </script>
+        </div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <h1><a href="/page/Bahamar+Quests">Bahamar Quests</a> |</h1>
+                  <h2>Version Compare</h2>
+                  <p><a href="/page/Bahamar+Quests/history">Back to page history</a></p>
+                </div>
+                <div id="versionCompareSummary">
+                  <table>
+                    <tr class="header">
+                      <th>Version</th>
+                      <th>User</th>
+                      <th>Scope of changes</th>
+                    </tr>
+                    <tr>
+                      <td><a href="/page/Bahamar+Quests/revision/21">Mar 3 2009, 3:31 PM EST</a> (current)</td>
+                      <td><a href="/account/Reuper" id="WPC-action_accountMenu?account=Reuper&subject=Bahamar+Quests&from=revisionDiffstatus1&pageName=Bahamar+Quests" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Reuper&subject=Bahamar+Quests&from=revisionDiffstatus1&pageName=Bahamar+Quests">Reuper</a></td>
+                      <td>5 words added, 3 words deleted</td>
+                    </tr>
+                    <tr class="altRow">
+                      <td><a href="/page/Bahamar+Quests/revision/20">Mar 2 2009, 3:08 PM EST</a></td>
+                      <td><a href="/account/omerst" id="WPC-action_accountMenu?account=omerst&subject=Bahamar+Quests&from=revisionDiffstatus2&pageName=Bahamar+Quests" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=omerst&subject=Bahamar+Quests&from=revisionDiffstatus2&pageName=Bahamar+Quests">omerst</a></td>
+                      <td>1 word added, 1 word deleted</td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="versionCompareHead">
+                  <h2>Changes</h2>
+                  <div class="revisionsKey">
+                    Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                  </div>
+                </div>
+                <div id="versionCompareContent" class="WPC-editableContent">
+                  <font size="2"><b><font color="darkred">Bahamar Quests</font></b><br />
+                  tnx to Rosemary (iah forums and Gilliam)<br />
+                  <br />
+                  These quests continue on from the <a href="/page/Pioneering+Quests" target="_self" title="Pioneering Questline">Pioneering Questline</a><br />
+                  <br />
+                  <b>Quest: Bahamar Pioneering</b></font><font size="2"><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: 3x Exp Card, 3x Polish: Veteran and 3x Health Regen Potion<br /></i>After giving the Letter of recommendation to the Igorne, he will ask you to collect 6 Seal of the Pioneer Lv 9 from the Bahamas Swamp. [For extra info, these are also ingredients needed for necklace recipes]. You need to kill 150 Swamp Spider Crab per seal so 900 spiders in total. Some people will also sell these in the Market Manager.<br />
+                  After getting all 6 Seals of the Pioneer Lv 9 return and talk to Igorne again.<br /></font><br />
+                  <font size="2"><br />
+                  <b>Quest: Pioneering of the Bahamar Swamp</b><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: 3x Exp Card, ?x Hermes Potion, ?x Health Regen Potion and 3x Polish: Veteran<br /></i>Igorne&rsquo;s secretary, Sharon will come and report about a troubling monster lurking in the Bahamar Swamp. Igorne then gives you the task to kill the Swamp Angler: a rare boss that can be found throughout the Bahamar region. It is somewhat difficult to take it on alone and since it&rsquo;s a quest item, it&rsquo;s recommended to do it in squads.<br />
+                  After killing it, return and talk to Igorne to receive your reward.<br />
+                  <br /></font> <font size="2"><img align="bottom" alt="Pioneering Quests - Wiki of the new world" height="757" src="http://image.wetpaint.com/image/1/RhMDm0Enc8zM92kqYcBPig121969/GW1011H757" title="Pioneering Quests - Wiki of the new world" width="1011" /></font><br />
+                  <font size="2"><br />
+                  <br />
+                  <b>Quest: Unexpected Enemy</b><br /></font><font size="2"><i>NPC+ Location: Igorne, Bahamar Base Camp</i></font><br />
+                  <font size="2"><i>Reward:</i></font> <font size="2"><i>3x Polish:Veteran.</i></font><br />
+                  <font size="2">After completing the Swamp Angler quest, leave the map and return to trigger this quest.</font><br />
+                  <font size="2">Igorne and Sharon now task you to look for the land of the witches. They think that the Bahamar Swamp of Eternity is a possible place where the witches are hiding, so they ask you to go investigate. Head to the Witch&#39;s House at G6 in Bahamar Swamp of Eternity.<br />
+                  Once you step inside the Witch&rsquo;s House you will be sent to an instance so be prepared before you enter. The witches will summon 3 Bahamar enemies; L110 Taurus, L110 Locke and a L110 Pink wing frog and you need to eliminate all of them.<br />
+                  After some dialogue, return back to Igorne to receive your reward.<br />
+                  <br />
+                  <br />
+                  <b>Quest: Land of Witch</b><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: 3x Exp Card (100k), 20x Mithridart, 5x Teleport Scroll and 3x Polish:Veteran.<br /></i>Returning to the Witch&rsquo;s house, you will find that it&rsquo;s being sealed by the witch to stop trespassers (i.e. you). It&rsquo;s then suggested that in order to remove the seal, you need to go to various monuments scattered across Bahamar, and use Otites to absorb the magic that is binding the seal. The Otites are provided as a quest item by Igorne.<br />
+                  <br />
+                  Bahamar Wetlands:<br />
+                  <img alt="Bahamar - Wiki of the new world" src="http://image.wetpaint.com/image/1/izYDTntkeLQf_6jPaiX3CQ60875" title="Bahamar - Wiki of the new world" /><br />
+                  <br />
+                  Bahamar Deep Swamp:<br />
+                  <img alt="Bahamar - Wiki of the new world" src="http://image.wetpaint.com/image/1/-K_SefgwXY1zD7XI2x_qRA62601" title="Bahamar - Wiki of the new world" /><br />
+                  <br />
+                  Bahamar Marsh:<br />
+                  <img alt="Bahamar - Wiki of the new world" src="http://image.wetpaint.com/image/1/YxBI3jm1kPeIqg5v6jfr8g58599" title="Bahamar - Wiki of the new world" /><br />
+                  <br />
+                  Bahamar Marky Bayou:<br />
+                  <img alt="Bahamar - Wiki of the new world" src="http://image.wetpaint.com/image/1/T0gNDv7YFXwXUlvSHUPSVg61191" title="Bahamar - Wiki of the new world" /><br />
+                  <br />
+                  Just go up the monument with the Otites in hand and the magic will be sealed. After visiting all 8 monuments, return to Igorne and receive your reward. The next quest will immediately start.<br />
+                  <br />
+                  <br />
+                  <b>Quest: Witch Suppression</b><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: 3x Exp Card (100k), 3x Defensive, Fillers 3x Polish: Veteran and 1x Gift Box (quest item).<br /></i>Igorne will send you to the Witch&#39;s House to fight them. When you enter the warp, you&#39;ll be sent to an instance and fight several Bahamar monsters. Afterwards, talk to Igorne. When he&#39;s done you&#39;ll be sent to an instance involving a conversation between Sharon, Igorne and the two witches. After they stop talking you&#39;ll fight Sharon, who&#39;s pretty easy. When she&#39;s dead, more talking.<br />
+                  <br />
+                  <img align="bottom" alt="Sharon Part 1" height="194" src="http://image.wetpaint.com/image/1/gg2TVjWUNsXIRm_cxhjIGg93487/GW340H194" title="Sharon Part 1" width="340" /><br />
+                  <br />
+                  <br />
+                  <b>Quest: Sierra&#39;s House</b><br />
+                  <i>NPC+ Location: Ignorne, Bahamar Base Camp<br />
+                  Reward: 1x Invisible Potion, 3x Exp Card (100k) and 3x Polish: Veteran.<br /></i>Continuing from Witch Suppression go to the Witch&#39;s House and talk to Leonora. She&#39;ll warp you to Sierra&#39;s house. Talk to her to give her the Gift Box. She&#39;ll reward you with an Invisible Potion.<br />
+                  Talk to Igorne again to receive your reward.<br />
+                  <br />
+                  <br />
+                  <b>Quest: Status of Lenora</b><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: 3x Hermes Potion, 3x Exp Card (100k) and 6x Polish: Veteran.<br /></i>Talk to Igorne and he will ask you to visit the Witch&rsquo;s House to see how they are doing.<br />
+                  Leonora tells you that Sierra is down with a fever, and she will ask for your help to create a remedy.<br />
+                  &ldquo;Mysterious Medicine&rdquo; quest will start (see below quest).<br />
+                  Once you have collected completed the medicine quest, give the medicine to Sierra. Return to Igorne and the quest will be complete.<br />
+                  <br />
+                  <br />
+                  <b>Quest: Mysterious Medicine</b><br />
+                  <i>NPC+ Location: Leonora, Witch&#39;s House<br />
+                  Reward: Mysterious medicine of Leonora, 3x Exp Cards (100k) and 3x Polish: Veteran.<br /></i>The medicine requires: Mysterious water, Pure Etreniaum x100, Aidanium x100 and Quartz x 100.<br />
+                  The Mysterious Water is dropped by Elite Wasp that appears in Bahamar Swamp of Eternity (Deep Swamp).<br />
+                  Once you gather all the materials, talk to Leonora and she will give you the Mysterious medicine of Leonora and warp you to Sierra&#39;s House<br />
+                  <br />
+                  <br />
+                  <b>Quest: Visit</b><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: Blade of the Emperor recipe, 3x Exp Card (100k), 6x Polish: Veteran and 3x Enchant Boosters.<br /></i>Knowing that Sierra is sick, Igorne goes to visit her and wants you to come along. Go to the Witch&#39;s House and talk to Leonora. You will discovered that Sierra has been kidnapped. You will be warped immediately to an instance called &ldquo;Kidnapped Sierra&rdquo;. After some dialogue with Fritz joining your side of the battle you will have to fight against Sharon and three Bahamar monsters. Afterwards there&#39;ll be some more dialogue and then talk to Fritz to end the instance.<br />
+                  <br />
+                  <img align="bottom" alt="Sharon Part 2" height="193" src="http://image.wetpaint.com/image/1/Z_Rgap34Wm4eW1tH8xqxlQ97095/GW340H193" title="Sharon Part 2" width="340" /><br />
+                  <br />
+                  After defeating her, you will return to the Witch&rsquo;s home and Leonora will give you a Chess Series recipe - Blade of the Emperor(<i>well, actually, it will give one of the recipes at random - I got the Steel Fortress - Iberison</i>) . The Chess Series recipes can then be purchased from here on for 10m each. Also Leonora can warp you to Sierra&#39;s House.<br />
+                  Return to Igorne to complete the quest.<br />
+                  <br />
+                  <br />
+                  <b>Quest: Ten Nobles of Vespanola</b><br />
+                  <i>NPC+ Location: Igorne, Bahamar Base Camp<br />
+                  Reward: Witch&#39;s Hat, 3x Polish: Veteran and a Triumph Filler.<br /></i>After talking Igorne, you will receive Grenmah&rsquo;s Letter. Feeling suspicious and troubled with the ways of Vespanola, Igorne decides to return to Auch for answers. Before returning to Auch, Igorne wants to bid farewell to Sierra. After talking to Leonora you&#39;ll be warped to an instance where Grenmah and Fritz will be talking. After, talk to Leonora again and warp to Sierra&#39;s House. Talk to Sierra and she will reward you will the Witch&#39;s Hat as a farewell gift.<br />
+                  Return to Auch and talk to Elenore for your reward.<br />
+                  <br />
+                  <b>Quest? - Serpent Series</b><br />
+                  <i>NPC+Location: Sierra, Bahamar Swamp</i><br />
+                  <i>Reward: Ability to <span class="diffRemove">make</span><span class="diffAdd">buy</span> Serpent Series <span class="diffRemove">weapons</span><span class="diffAdd">weapon recipes</span></i><br />
+                  <br />
+                  Go to the Bahamar Cave and hunt there until a cave stone piece and snake scale drop. Bring these items to Sierra and she will allow you to buy Serpent series <span class="diffRemove">weapons</span><span class="diffAdd">weapon recipes</span> from her.<br />
+                  <br /></font> <font size="2"><br /></font>
+                </div><br class="clear" />
+                <br class="clear" />
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li>
+                              <a href="/page/Quests" rel="45">Quests</a>
+                              <ul>
+                                <li><a href="/page/Sword+of+the+New+World+Walkthrough">Sword of the New World Walkthrough</a></li>
+                                <li><a href="/page/Pioneering+Quests">Pioneering Quests</a></li>
+                                <li><a href="/page/Bernelli+Quests">Bernelli Quests</a></li>
+                                <li><a href="/page/Quests+-+Level+1" rel="6">Quests - Level 1</a></li>
+                                <li><a href="/page/Quests+-+Level+4" rel="1">Quests - Level 4</a></li>
+                                <li><a href="/page/Quests+-+Level+6" rel="3">Quests - Level 6</a></li>
+                                <li><a href="/page/Quests+-+Level+8" rel="1">Quests - Level 8</a></li>
+                                <li><a href="/page/Quests+-+Level+10" rel="2">Quests - Level 10</a></li>
+                                <li><a href="/page/Quests+-+Level+12" rel="2">Quests - Level 12</a></li>
+                                <li><a href="/page/Quests+-+Level+16" rel="1">Quests - Level 16</a></li>
+                                <li><a href="/page/Quests+-+Level+17" rel="5">Quests - Level 17</a></li>
+                                <li><a href="/page/Quests+-+Level+20" rel="6">Quests - Level 20</a></li>
+                                <li><a href="/page/Quests+-+Level+22" rel="1">Quests - Level 22</a></li>
+                                <li><a href="/page/Quests+-+Level+24" rel="4">Quests - Level 24</a></li>
+                                <li><a href="/page/Quests+-+Level+25" rel="5">Quests - Level 25</a></li>
+                                <li><a href="/page/Quests+-+Level+28" rel="3">Quests - Level 28</a></li>
+                                <li><a href="/page/Quests+-+Level+29" rel="1">Quests - Level 29</a></li>
+                                <li><a href="/page/Quests+-+Level+30" rel="4">Quests - Level 30</a></li>
+                                <li><a href="/page/Quests+-+Level+31" rel="2">Quests - Level 31</a></li>
+                                <li><a href="/page/Quests+-+Level+32" rel="4">Quests - Level 32</a></li>
+                                <li><a href="/page/Quests+-+Level+35" rel="2">Quests - Level 35</a></li>
+                                <li><a href="/page/Quests+-+Level+36" rel="3">Quests - Level 36</a></li>
+                                <li><a href="/page/Quests+-+Level+38" rel="1">Quests - Level 38</a></li>
+                                <li><a href="/page/Quests+-+Level+40" rel="9">Quests - Level 40</a></li>
+                                <li><a href="/page/Quests+-+Level+41" rel="2">Quests - Level 41</a></li>
+                                <li><a href="/page/Quests+-+Level+44" rel="6">Quests - Level 44</a></li>
+                                <li><a href="/page/Quests+-+Level+46" rel="2">Quests - Level 46</a></li>
+                                <li><a href="/page/Quests+-+Level+48">Quests - Level 48</a></li>
+                                <li><a href="/page/Quests+-+Level+50">Quests - Level 50</a></li>
+                                <li><a href="/page/Quests+-+Level+55">Quests - Level 55</a></li>
+                                <li><a href="/page/Quests+-+Level+57">Quests - Level 57</a></li>
+                                <li><a href="/page/Quests+-+Level+60">Quests - Level 60</a></li>
+                                <li><a href="/page/Quests+-+Level+65">Quests - Level 65</a></li>
+                                <li><a href="/page/Quests+-+Level+71">Quests - Level 71</a></li>
+                                <li><a href="/page/Quests+-+Level+72">Quests - Level 72</a></li>
+                                <li><a href="/page/Quests+-+Level+75">Quests - Level 75</a></li>
+                                <li><a href="/page/Quests+-+Level+78">Quests - Level 78</a></li>
+                                <li><a href="/page/Quests+-+Level+80">Quests - Level 80</a></li>
+                                <li><a href="/page/Quests+-+Level+84">Quests - Level 84</a></li>
+                                <li><a href="/page/Quests+-+Level+100+-+Veteran">Quests - Level 100 - Veteran</a></li>
+                                <li><a href="/page/Elemental+Keys+%28Gates%29">Elemental Keys (Gates)</a></li>
+                                <li><a href="/page/Bahamar+Quests" class="current">Bahamar Quests</a></li>
+                                <li><a href="/page/Katovic+Snowfield+Quests">Katovic Snowfield Quests</a></li>
+                                <li><a href="/page/Garcia+Questline">Garcia Questline</a></li>
+                                <li><a href="/page/Caebolan+Quests">Caebolan Quests</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Raids" rel="16">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                            <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              //]]>
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent" class="wetpaintBranding">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Scribblenauts</span></li>
+            <li><span>Fracture Game Community</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b8';s_w.channel='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(283/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

@@ -1,0 +1,581 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Search Results - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Search Results">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/CSSApplication/wpc.css?v=20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/family/f.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/core/c.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'search',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <h1>Search Results</h1>
+                  <div id="everythingSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="everything"> <label>Search again:</label> <input type="text" class="text" id="searchQuery" name="searchQuery" value="Soul Guard" onfocus="if( this.value == 'Soul Guard' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+                    </form>
+                  </div><br>
+                  <center>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="2722031972"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                    </script>
+                  </center>
+                  <div class="tabNavigation">
+                    <ul>
+                      <li class="selected">All</li>
+                      <li><a href="/search/pages/Soul+Guard">Pages</a></li>
+                      <li><a href="/search/threads/Soul+Guard">Threads</a></li>
+                      <li><a href="/search/photos/Soul+Guard">Photos</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                  </div>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="100%" style="padding:0px;">
+                        <div id="contentWrapper">
+                          <div id="searchResults">
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="pagingActionWrapper">
+                                <span class="pagingAction"></span>
+                                <form name="paginationForm" action="http://swordofthenewworldwiki.com/search/everything/;jsessionid=61970EE5B666A3F1D9C8729CB91F9843" method="get">
+                                  <span class="pagingAction"><input type="hidden" name="offset" value="0"> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;21 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit();" style="font-size:80%">
+                                    <option value="10">
+                                      10
+                                    </option>
+                                    <option value="20" selected>
+                                      20
+                                    </option>
+                                    <option value="50">
+                                      50
+                                    </option>
+                                  </select> items&nbsp;at a time</span>
+                                </form>
+                              </div>
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a> | <a href="?offset=20&maxResults=20">Next</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                            <div class="ulList">
+                              <ul>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Ustiur+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Ustiur UPCs Overview</a></span> <span class="resultContent">: Provoke Armor: Leather, Metal Stances: Flow Guard, Roof Guard, Tail Guard, Sidewinder Notes: First off, no one in SotNW has Grenmah yet. To obtain her</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Ustiur+UPCs+Overview" title="Ustiur UPCs Overview">Ustiur UPCs Overview</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 7 2008, 6:46 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Ustiur+UPCs+Overview&pageName=Ustiur+UPCs+Overview" class="WPC-action" onclick="return false">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Reboldeux+UPCs+Overview" class="WPC-tool WPC-tool-content WPC-indicate">Reboldeux UPCs Overview</a></span> <span class="resultContent">Guard and Flow Guard are decent for boss hunting, but expect to use several pots if you don&#039;t have protection field, even with Highlander Soul active</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Class+Guides" title="Class Guides">Class Guides</a> &gt; <a href="/page/UPC+Guide" title="UPC Guide">UPC Guide</a> &gt; <a href="/page/Reboldeux+UPCs+Overview" title="Reboldeux UPCs Overview">Reboldeux UPCs Overview</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 7 2008, 6:47 AM EDT by <a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Reboldeux+UPCs+Overview&pageName=Reboldeux+UPCs+Overview" class="WPC-action" onclick="return false">Lothmak</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Points+at+Vet+and+Expert" class="WPC-tool WPC-tool-content WPC-indicate">Points at Vet and Expert</a></span> <span class="resultContent">Fillers in most cases if you use it), while Hanging Guard can cycle between 3 skills or so (definitely needing Soul Fillers). Will the stance</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Points+at+Vet+and+Expert" title="Points at Vet and Expert">Points at Vet and Expert</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 11 2012, 4:29 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Points+at+Vet+and+Expert&pageName=Points+at+Vet+and+Expert" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/The+Barracks" class="WPC-tool WPC-tool-content WPC-indicate">The Barracks</a></span> <span class="resultContent">by clicking the links below. Secret Guard: Secret Guard is a contract between two players for the purpose of leveling lower leveled families</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/The+Barracks" title="The Barracks">The Barracks</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: May 19 2012, 4:03 PM EDT by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=The+Barracks&pageName=The+Barracks" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Raids" class="WPC-tool WPC-tool-content WPC-indicate">Raids</a></span> <span class="resultContent">Optional 2hrs 50+ Soul Mothein Prison de Joaquin, Torture Chamber 12-14hrs Vet Skeleton Knight</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 25 2012, 3:45 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Raids&pageName=Raids" class="WPC-action" onclick="return false">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Terminology" class="WPC-tool WPC-tool-content WPC-indicate">Terminology</a></span> <span class="resultContent">first letters in their name; there are few acronyms for stances. For example, HG means &#034;Hanging Guard&#034; and SS means &#034;Sight Shot&#034;. It helps</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Instruction+Manual" title="Instruction Manual">Instruction Manual</a> &gt; <a href="/page/Terminology" title="Terminology">Terminology</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/abbreviations" title="abbreviations">abbreviations,&nbsp;</a> <a href="/tag/Granado+Espada" title="Granado Espada">Granado Espada,&nbsp;</a> <a href="/tag/SOTNW" title="SOTNW">SOTNW,&nbsp;</a> <a href="/tag/SOTNW+Wiki" title="SOTNW Wiki">SOTNW Wiki,&nbsp;</a> <a href="/tag/Sword+of+the+New+world" title="Sword of the New world">Sword of the New world,&nbsp;</a> <a href="/tag/Sword+of+the+New+World+Wiki" title="Sword of the New World Wiki">Sword of the New World Wiki,&nbsp;</a> <a href="/tag/terminology" title="terminology">terminology,&nbsp;</a> <a href="/tag/terms" title="terms">terms&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 8 2010, 12:44 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Terminology&pageName=Terminology" class="WPC-action" onclick="return false">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Character+Comparison" class="WPC-tool WPC-tool-content WPC-indicate">Character Comparison</a></span> <span class="resultContent">the Musketeer but is able to wear Fighter Leather and attacks faster in Flintlock due to his Agi. Able to use Sabers decently with Low Guard due to his Agi</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Character+Comparison" title="Character Comparison">Character Comparison</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Aug 4 2011, 5:19 AM EDT by <a href="/account/herothing11" id="WPC-action_accountMenu?account=herothing11&subject=Character+Comparison&pageName=Character+Comparison" class="WPC-action" onclick="return false">herothing11</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Errac+Questline" class="WPC-tool WPC-tool-content WPC-indicate">Errac Questline</a></span> <span class="resultContent">. [III] El Dorado A Soldier in El Dorado 8. Speak with the guard upon entering the new map. He will be alarmed by your presence</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Quests" title="Quests">Quests</a> &gt; <a href="/page/Pioneering+Quests" title="Pioneering Quests">Pioneering Quests</a> &gt; <a href="/page/Errac+Questline" title="Errac Questline">Errac Questline</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/constellation+stance+quest" title="constellation stance quest">constellation stance quest,&nbsp;</a> <a href="/tag/emilia+quest" title="emilia quest">emilia quest,&nbsp;</a> <a href="/tag/errac" title="errac">errac,&nbsp;</a> <a href="/tag/Occulta+Dungeon" title="Occulta Dungeon">Occulta Dungeon,&nbsp;</a> <a href="/tag/rhodolite+piece" title="rhodolite piece">rhodolite piece,&nbsp;</a> <a href="/tag/Te+rune" title="Te rune">Te rune,&nbsp;</a> <a href="/tag/Ti+rune" title="Ti rune">Ti rune,&nbsp;</a> <a href="/tag/zeia" title="zeia">zeia&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: May 1 2012, 3:42 AM EDT by <a href="/account/Azazel%E2%84%A2" id="WPC-action_accountMenu?account=Azazel%E2%84%A2&subject=Errac+Questline&pageName=Errac+Questline" class="WPC-action" onclick="return false">Azazel™</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Elite+Baron+Items+%28Level+92%29" class="WPC-tool WPC-tool-content WPC-indicate">Elite Baron Items (Level 92)</a></span> <span class="resultContent">Enchantment Chip Lv 92 3 Elite Soul of Steel Crafting Items: Crafter: Sad Old Man</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/High+End+Equipment" title="High End Equipment">High End Equipment</a> &gt; <a href="/page/Elite+Baron+Items+%28Level+92%29" title="Elite Baron Items (Level 92)">Elite Baron Items (Level 92)</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Sep 2 2011, 4:34 PM EDT by <a href="/account/bunkerz" id="WPC-action_accountMenu?account=bunkerz&subject=Elite+Baron+Items+%28Level+92%29&pageName=Elite+Baron+Items+%28Level+92%29" class="WPC-action" onclick="return false">bunkerz</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Grim+Guard" class="WPC-tool WPC-tool-content WPC-indicate">Grim Guard</a></span> <span class="resultContent">Grim-Guard Who can use: Eduardo Gygax Kurt Lyndon Weapon: Sabre Attack Cycle: 1 hit 1 target Prerequisite: Level</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Stances" title="Game Stances">Game Stances</a> &gt; <a href="/page/Grim+Guard" title="Grim Guard">Grim Guard</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 9 2010, 8:49 PM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Grim+Guard&pageName=Grim+Guard" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Plow+Guard" class="WPC-tool WPC-tool-content WPC-indicate">Plow Guard</a></span> <span class="resultContent">Plow Guard Who can use: Alejandro Asoka Catherine of Combat Claude Baudez</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Stances" title="Game Stances">Game Stances</a> &gt; <a href="/page/Plow+Guard" title="Plow Guard">Plow Guard</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 10 2010, 3:13 PM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Plow+Guard&pageName=Plow+Guard" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Rings" class="WPC-tool WPC-tool-content WPC-indicate">Rings</a></span> <span class="resultContent">Penetrar Cruz Ring Harpoon, Falange Locura, Ciento Penetrar Plow Guard Ring Charge, Vertical Slash, Skyliner, Highlander Soul</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Accessories" title="Accessories">Accessories</a> &gt; <a href="/page/Rings" title="Rings">Rings</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/accessory" title="accessory">accessory&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 8 2010, 7:23 PM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Rings&pageName=Rings" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/SotNW-Wiki+Directory" class="WPC-tool WPC-tool-content WPC-indicate">SotNW-Wiki Directory</a></span> <span class="resultContent">. Home - Discussions - Photo Gallery - Daily Updates SotNW-Wiki Directory Newest Updates Quests Quest: Walkthrough Pioneering</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/SotNW-Wiki+Directory" title="SotNW-Wiki Directory">SotNW-Wiki Directory</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 3 2010, 8:40 PM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=SotNW-Wiki+Directory&pageName=SotNW-Wiki+Directory" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Mission+Lobbies" class="WPC-tool WPC-tool-content WPC-indicate">Mission Lobbies</a></span> <span class="resultContent">, 2, and 3 are not solo-able. The reason being that you need at least one person to guard the base while another person destroys the towers on the map</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/Mission+Lobbies" title="Mission Lobbies">Mission Lobbies</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/interchange" title="interchange">interchange,&nbsp;</a> <a href="/tag/lobby" title="lobby">lobby,&nbsp;</a> <a href="/tag/mission" title="mission">mission,&nbsp;</a> <a href="/tag/missionlobby" title="missionlobby">missionlobby,&nbsp;</a> <a href="/tag/spotlight" title="spotlight">spotlight,&nbsp;</a> <a href="/tag/trinity" title="trinity">trinity&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Apr 18 2010, 1:33 PM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Mission+Lobbies&pageName=Mission+Lobbies" class="WPC-action" onclick="return false">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Capybara+Plantation%2C+Mine+Passage" class="WPC-tool WPC-tool-content WPC-indicate">Capybara Plantation, Mine Passage</a></span> <span class="resultContent">Who Drops Drop Ratio Branch Capybara Guard Capybara Saw Capybara Sickle Flowpot Shovel Crafting/84 Steel Capybara Capybara</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Maps+and+Area+Info" title="Maps and Area Info">Maps and Area Info</a> &gt; <a href="/page/Dungeons" title="Dungeons">Dungeons</a> &gt; <a href="/page/Capybara+Plantation+%28Dungeon%29" title="Capybara Plantation (Dungeon)">Capybara Plantation (Dungeon)</a> &gt; <a href="/page/Capybara+Plantation%2C+Mine+Passage" title="Capybara Plantation, Mine Passage">Capybara Plantation, Mine Passage</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/capybara" title="capybara">capybara,&nbsp;</a> <a href="/tag/dungeon" title="dungeon">dungeon,&nbsp;</a> <a href="/tag/zone" title="zone">zone&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 24 2010, 4:03 AM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Capybara+Plantation%2C+Mine+Passage&pageName=Capybara+Plantation%2C+Mine+Passage" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Character+Status+List" class="WPC-tool WPC-tool-content WPC-indicate">Character Status List</a></span> <span class="resultContent">of skills Psychokinesis Apocalypse Armor Crasher Reduces DEF of target to 0 for 20 sec Crusader Schiavona Tail Guard Temple</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Game+Characters" title="Game Characters">Game Characters</a> &gt; <a href="/page/Character+Status+List" title="Character Status List">Character Status List</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Apocalypse" title="Apocalypse">Apocalypse,&nbsp;</a> <a href="/tag/Armor+Crasher" title="Armor Crasher">Armor Crasher,&nbsp;</a> <a href="/tag/Axon" title="Axon">Axon,&nbsp;</a> <a href="/tag/Bleed" title="Bleed">Bleed,&nbsp;</a> <a href="/tag/Debuff" title="Debuff">Debuff,&nbsp;</a> <a href="/tag/Debuffs" title="Debuffs">Debuffs,&nbsp;</a> <a href="/tag/Status+Ailment" title="Status Ailment">Status Ailment,&nbsp;</a> <a href="/tag/Whole+Cancellation" title="Whole Cancellation">Whole Cancellation&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Jun 20 2012, 6:17 PM EDT by <a href="/account/clexe" id="WPC-action_accountMenu?account=clexe&subject=Character+Status+List&pageName=Character+Status+List" class="WPC-action" onclick="return false">clexe</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Team+Arena" class="WPC-tool WPC-tool-content WPC-indicate">Team Arena</a></span> <span class="resultContent">and making your team stronger. Take the other base and win. The Map The two bases are linked together by 3 path lanes guarded by towers and bosses</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Raids" title="Raids">Raids</a> &gt; <a href="/page/PvP+Enabled+Raids" title="PvP Enabled Raids">PvP Enabled Raids</a> &gt; <a href="/page/Team+Arena" title="Team Arena">Team Arena</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/TA" title="TA">TA,&nbsp;</a> <a href="/tag/Team+Arena" title="Team Arena">Team Arena&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: May 2 2010, 11:35 PM EDT by <a href="/account/Hercasi" id="WPC-action_accountMenu?account=Hercasi&subject=Team+Arena&pageName=Team+Arena" class="WPC-action" onclick="return false">Hercasi</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Manufactured+%2F+Purchased+Crafting+Items" class="WPC-tool WPC-tool-content WPC-indicate">Manufactured / Purchased Crafting Items</a></span> <span class="resultContent">Golden Feet Golden Fists Golden Guard Katana Le Noir for Fighter Le Noir for Scout Metal Belt Natachi Ogre Dagger Ogre</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Crafting%2FEnchanting%2FRefining" title="Crafting/Enchanting/Refining">Crafting/Enchanting/Refining</a> &gt; <a href="/page/Crafting+Items" title="Crafting Items">Crafting Items</a> &gt; <a href="/page/Manufactured+%2F+Purchased+Crafting+Items" title="Manufactured / Purchased Crafting Items">Manufactured / Purchased Crafting Items</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: May 23 2010, 12:44 AM EDT by <a href="/account/Fabrisio" id="WPC-action_accountMenu?account=Fabrisio&subject=Manufactured+%2F+Purchased+Crafting+Items&pageName=Manufactured+%2F+Purchased+Crafting+Items" class="WPC-action" onclick="return false">Fabrisio</a></span>
+                                  </div>
+                                </li>
+                                <li class="">
+                                  <span class="resultLink"><a href="/page/Bellem%27s+Box" class="WPC-tool WPC-tool-content WPC-indicate">Bellem&#039;s Box</a></span> <span class="resultContent">. Dreyse .40 Cal. Finisher Albaes Alegrias Amber Rod Arm Guard Armor Breaker Arondight Automatic Cannon Assault Rifle Aurora Bracelet Balmoong Baselard</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment">Items &amp; Equipment</a> &gt; <a href="/page/Bellem%27s+Box" title="Bellem&#039;s Box">Bellem&#039;s Box</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: <a href="/tag/Bellem" title="Bellem">Bellem&nbsp;</a></span>
+                                  </div><span class="resultData"><span class="resultData"></span></span>
+                                  <div>
+                                    <span class="resultData">Last updated: Jan 13 2010, 5:44 AM EST by <a href="/account/Chrysocolla" id="WPC-action_accountMenu?account=Chrysocolla&subject=Bellem%27s+Box&pageName=Bellem%27s+Box" class="WPC-action" onclick="return false">Chrysocolla</a></span>
+                                  </div>
+                                </li>
+                                <li class="altRow">
+                                  <span class="resultLink"><a href="/page/Ready+to+Use+Crafting+Items" class="WPC-tool WPC-tool-content WPC-indicate">Ready to Use Crafting Items</a></span> <span class="resultContent">for Wizard Elite Le Noir for Wizard Elite Pendera Jacket Le Noir for Wizard Elite Rescue Suit Golden Feet Golden Guard</span> <span class="resultData"></span>
+                                  <div>
+                                    <span class="resultData">Page location: <a href="/page/Wiki+Of+The+New+World" title="Wiki Of The New World">Wiki Of The New World</a> &gt; <a href="/page/Crafting%2FEnchanting%2FRefining" title="Crafting/Enchanting/Refining">Crafting/Enchanting/Refining</a> &gt; <a href="/page/Crafting+Items" title="Crafting Items">Crafting Items</a> &gt; <a href="/page/Ready+to+Use+Crafting+Items" title="Ready to Use Crafting Items">Ready to Use Crafting Items</a></span>
+                                  </div><span class="resultData"></span>
+                                  <div class="keywordTags">
+                                    <span class="resultData">Keyword tags: None</span>
+                                  </div>
+                                  <div>
+                                    <span class="resultData">Last updated: Mar 20 2012, 4:35 AM EDT by <a href="/account/Rosengarde" id="WPC-action_accountMenu?account=Rosengarde&subject=Ready+to+Use+Crafting+Items&pageName=Ready+to+Use+Crafting+Items" class="WPC-action" onclick="return false">Rosengarde</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="pagingWrapper" style="clear:both;">
+                              <div class="paging">
+                                1&nbsp;<a href="?offset=20&maxResults=20">2</a> | <a href="?offset=20&maxResults=20">Next</a>
+                              </div>
+                            </div>
+                            <div style="clear:both;"></div>
+                          </div>
+                        </div>
+                      </td>
+                      <td style="padding:0px;">
+                        <div class="innerColumn">
+                          <div id="tagCloud" class="panel">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl"></div>Browse by Keywords
+                            </div>
+                            <div class="panelContent">
+                              Loading...
+                            </div>
+                          </div>
+                          <div class="panel" id="allWikiPageSearchResultsHolder" style="display:none;">
+                            <div class="panelHeader close">
+                              <div title="expand | collapse this panel" class="panelControl">
+                                &nbsp;&nbsp;
+                              </div>Top wikis by WikiFoundry Sites
+                            </div>
+                            <div class="panelContent" id="allWikiPageSearchResults" style="padding-bottom:0px;"></div>
+                            <form onsubmit="return false">
+                              <input type="hidden" name="containsField" id="containsField" value="Soul Guard">
+                            </form>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> 
+  <script src="http://static.wikifoundry.com/scripts/wpjsPage/pagesearch/p.js" type="text/javascript"></script>
+</body>
+</html>

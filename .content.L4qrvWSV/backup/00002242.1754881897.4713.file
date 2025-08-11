@@ -1,0 +1,525 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Gate of Lightning - Wiki of the New World</title>
+  <meta name="description" content="Gate of lightning-Silent maze Main-Boss is Einschwer AR : 58, DR: 58 Race: Deamon HP: 15122774, Atk: 41587, defense: 191 Flame resistance: -100, Ice...">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/wpc.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/f.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/s.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "/css/c.css"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "/css/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Gate of Lightning',"PAGE_URI" : '/page/Gate+of+Lightning',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'page',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Raids','Zone/Area Raids','Gate of Lightning']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+  <link rel="canonical" href="/page/Gate+of+Lightning">
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="/image/1/GW1200H95.jpg" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <script type='text/javascript'>
+                  var abtest = "6044354373";
+                  </script>
+                  <div id="pageControls">
+                    <ul class="WPC-toolsMenu">
+                      <li><button class="submit WPC-action" id="WPC-action_informJoin?contentKey=ApplyWriter&from=pageControls&nextAction=redirect&URI=%2FrequestInvite%2Fwriter">Apply to be a Writer</button></li>
+                      <li class="WPC-flagItem"><a href="#reportPage" rel="reportPage" id="WPC-action_informJoin?contentKey=ReportPage&nextAction=flagPage%3FpageName%3DGate+of+Lightning%26flagged%3Dfalse" class="WPC-tool WPC-tool-alert WPC-action" title="Report page" onclick="return false"><span>Report page</span></a></li>
+                      <li class="sharingLink">
+                        <div class="addthis_toolbox addthis_default_style">
+                          <div class="custom_images">
+                            <img src="/img/3rdparty/share/btn_addthis_orange.png" width="14" height="14" alt="Share" align="top"> Share this
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="editMessage"></div>
+                  <div id="contentTitle">
+                    <h1>Gate of Lightning<span style="background:none;padding-left:6px"><img id="WPC-featuredPageImage" class="WPC-tool" style="margin-left:0" title="This is a featured page" alt="This is a featured page" src="/image/bg/1.png"></span></h1>
+                    <center>
+                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px; margin-bottom: 10px;" data-ad-client="ca-pub-8928680931862603" data-ad-slot="9351626377"></ins> 
+                      <script>
+
+
+                                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                      </script>
+                    </center>
+                  </div>
+                  <div id="WPC-areaContainer?cellId=Gate+of+Lightning">
+                    <div id="WPC-area?cellId=Gate+of+Lightning&version=7&savePath=%2Fpage%2FGate%2Bof%2BLightning&saveType=page" class="WPC-editableContent">
+                      <div align="center">
+                        <b><font size="3">Gate of lightning-Silent maze</font></b><br>
+                        <b><font size="3">Main-Boss is <font size="2">Einschwer</font></font></b>
+                      </div><br>
+                      <font size="2">AR : 58, DR: 58 Race: Deamon<br>
+                      HP: 15122774, Atk: 41587, defense: 191<br>
+                      Flame resistance: -100, Ice resistance: 0, Lightning resistance: 100, Mind resistance: 80<br>
+                      <img align="bottom" alt="Einschwer" height="298" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/zLlbK93Oa6NUB7D4WmgiqA202207/GW298H298" title="Einschwer" width="298"></font>
+                      <div align="center"></div><font size="2"><br>
+                      <br>
+                      To enter the gate of lightning, you will need a Lightning orb so start the Elemental keys quest. Once you enter the Gate, you will be warped to a square room with 4 warps, each warp will take you to another square room with 4 more warps in each one. The map itself is a maze, so to get to the boss follow these instructions.</font><br>
+                      <br>
+                      <div align="center">
+                        <font size="2"><img align="bottom" alt="Gate of Lightning - Wiki of the new world" height="692" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/jCGx5BUYloiEyUf1ejR9Jw113697/GW674H692" title="Gate of Lightning - Wiki of the new world" width="674"><br>
+                        <br>
+                        From Room 1 you need to follow the red arrows to room 11 (the boss)<br>
+                        <br>
+                        --------------------------------<br></font><br>
+                        <i><b><font size="4"><font face="Book Antiqua"><font color="sienna"><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/JNFeBbXCcXa6EOx5SmYQnQ62589" title="Bosses Part 2 - Wiki of the New World"></font></font></font></b></i><br>
+                        <br>
+                        <div>
+                          <div class="smallfont">
+                            Quote:
+                          </div>
+                          <table cellpadding="6" cellspacing="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td class="alt2"><b><font color="red">Race: Deamon</font></b><br>
+                                <b><font color="red">Armor: Element: Size:</font></b></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div><b><font color="red"><br>
+                        Attack Rating: 58</font></b><br>
+                        <b><font color="red">Defense Rating: 58<br>
+                        LVL: 112<br></font></b><b><font color="red">Hp:</font></b><br>
+                        <b><font color="red">Attack:</font></b><br>
+                        <b><font color="red">Defense:<br></font></b> <b><font color="red">Fire Resistance:</font></b><br>
+                        <b><font color="red">Ice Resistance:</font></b><br>
+                        <b><font color="red">Lighting Resistance:</font></b><br>
+                        <b><font color="red">Mental Resistance:</font></b><br>
+                        <b><font color="blue">Name:</font></b> Einwind <b><font color="blue"><br>
+                        Location:</font></b> Rio Albi CH1 (Gates Of Lighting)<br>
+                        <b><font color="blue">Strategy</font></b><font color="#FF0000"><b><br>
+                        MAIN DPS TEAM:</b></font> (<font color="#FF0000"><b>MIN. DR58</b></font> without Buffs/Triumphs)<br>
+                        <ol>
+                          <li>MUST HAVE AT LEAST 1 ELE (60AR / 58DR) WITH FIRE BRACELETS (Domination Fire)</li>
+                          <li>2 ELE (58AR / 58DR) WITH FIRE BRACELETS (Domination Fire)</li>
+                          <li>ETS / WIZARD</li>
+                          <li>SCOUT</li>
+                        </ol><b><font color="#FF0000">TANKER/MOB CONTROL SQUAD:</font></b> (<font color="#FF0000"><b>MIN. DR58</b></font> without Buffs/Triumphs)<br>
+                        <ol>
+                          <li>FIGHTER (MIN. 60DR WITH LIGHTING RESS OF 30) - USE HIGH GUARD/DEFENDER STANCE ONLY</li>
+                          <li>ROMINA / ETS / WIZARD</li>
+                          <li>ELEMENTALIST (FIRE BRACELETS OR LIGHTING FOR BUFFS)</li>
+                          <li>RIO</li>
+                        </ol><b><font color="blue">Spawn Time</font></b>: You are required lightning orb x 1 EA to open the Gate. Do note that once the gate is open, you only have a few minutes of time to go in before it auto closes.<br>
+                        <font color="blue"><b>Drops:</b></font><br>
+                        <ul>
+                          <li>Elite Le Noir</li>
+                          <li>Elite Le Blanc</li>
+                          <li>Le Noir</li>
+                          <li>Elite 84 Equipments</li>
+                          <li>AR 26 Weapons</li>
+                          <li>AR 29 Weapons</li>
+                          <li>Lightning Weapons</li>
+                          <li>Lightning Elemental Key</li>
+                          <li>Random Enchantment Chip</li>
+                          <li>Random Ring</li>
+                          <li>Random Glove</li>
+                          <li>Random Shoe</li>
+                        </ul>
+                        <div class="smallfont">
+                          Quote:
+                        </div>
+                        <div>
+                          <div class="smallfont">
+                            Quote:
+                          </div>
+                          <table cellpadding="6" cellspacing="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td class="alt2"><font color="#0040FF">Uraeus ~ How to get there ?<br>
+                                =======================</font></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div><b>The Silent Maze 1st Floor</b>
+                        <ul>
+                          <li>Once you are inside Silent Maze 1st Floor after entering Gate Of Lightning, you see total of four warp gates around you, do not panic, follow the below mentioned navigation guide properly and you will reach Einwind&#39;s room aka Silent Maze Sanctuary.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/_UuntoOxUsg9tJCcEMbTaA61387" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Firstly, proceed to each warp gate(DO NOT ENTER) and type /where to show your exact coordinates. The first correct warp gate&#39;s coordinate is x:37000,y:-35000.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/SWiHKQSZ6QGO1l0pwvoDCw59523" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Once you enter the first warp you will reach the start of the Colours warp maze consisting of 2 x Blue,1 x White,1 x Red warp gate per room. Do not enter the wrong warp or you will have to redo the whole process again by using Teleport scroll back to first room. Locate Elite Einbint, kill it and warp gates will spawn at every side of the square room maze.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/7yNsS89DzVrQtCVBfQzTqA61517" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Room Number 1 - Red Warp Gate</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/GofPzww8PqzL9Lk7nv1X0w61792" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Room Number 2 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/b0h4wXN8YDbVooxX71YsRw58568" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Room Number 3 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                          <li>Room Number 4 - White Warp Gate</li>
+                          <li>Room Number 5 - Red Warp Gate</li>
+                          <li>Room Number 6 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                          <li>Room Number 7 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                          <li>Room Number 8 - Red Warp Gate</li>
+                          <li>Room Number 9 - Right Blue Warp Gate, Back facing white warp gate, the right blue is the correct gate.</li>
+                          <li>Room Number 10 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                          <li>Room Number 11 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                          <li>Room Number 12 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate. This is the last room of level one , locate Elite Einapt, defeat it and warp gates will spawn.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/ntIaGOqSVgSf6zBTdtvghw60734" title="Bosses Part 2 - Wiki of the New World"> <img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/QtSx9Pk7VTCo9ULLeMNnjQ57225" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Congratulations, if you have follow the navigation guide as aboved mentioned properly, you have successfully reached Silent Maze 2F which is the second level.</li>
+                        </ul><b>The Silent Maze 2nd Floor</b><br>
+                        <br>
+                        <img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/KpM_cgZ79d6uqsKiOU3VKg74430" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Firstly, type /where and check your location. There is two rooms, the correct one is x:-40000,y:-30000. If you are in the wrong room, teleport by using teleport scroll until you get to the correct room.</li>
+                          <li>Secondly, proceed to each warp gate(DO NOT ENTER) and type /where to show your exact coordinates. The first correct warp gate&#39;s coordinate is x:-400000,y:-28000.</li>
+                          <li>Once you enter the first warp of 2nd Floor you will reach the start of the Colours warp maze consisting of 2 x Blue,1 x White,1 x Red warp gate per room. Do not enter the wrong warp or you will have to redo the whole process again by using Teleport scroll back to first room of 2nd Floor. Locate Elite Einapt, defeat it and warp gates will spawn at every side of the square room maze.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/R8obETVaErXJX4Py-MrJ2Q62838" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Room Number 1 - White Warp Gate</li>
+                          <li>Room Number 2 - Red Warp Gate</li>
+                          <li>Room Number 3 - Red Warp Gate</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/Duzu3Jw3muYkLNsk29_eJw82803" title="Bosses Part 2 - Wiki of the New World">
+                        <ul>
+                          <li>Room Number 4 - Left Blue Warp Gate, Back facing white warp gate, the left blue is the correct gate.</li>
+                          <li>Room Number 5 - Red Warp Gate</li>
+                          <li>Room Number 6 - Red Warp Gate</li>
+                          <li>Room Number 7 - Right Blue Warp Gate, Back facing white warp gate, the right blue is the correct gate.</li>
+                        </ul>
+                        <ul>
+                          <li>Congratulations, if you have follow the navigation guide as aboved mentioned properly, you have successfully reached Einapt Chieftain Room, last room before Silent Maze Sanctuary. Locate Einapt Chieftain, defeat it and warp gates will spawn, the correct one is x:-14,y:-4200.</li>
+                        </ul><img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/wDMiNCo-qVOMchtckynIqg60856" title="Bosses Part 2 - Wiki of the New World"><br>
+                        <b>The Silent Maze Sanctuary</b><br>
+                        <br>
+                        <img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/qmtx8w436hO30bA97S7L7A65890" title="Bosses Part 2 - Wiki of the New World"> <img alt="Bosses Part 2 - Wiki of the New World" src="https://web.archive.org/web/20170604191419im_/http://image.wikifoundry.com/image/1/lnt0MqPvzeBcQ38ahCqRhA59014" title="Bosses Part 2 - Wiki of the New World"><br>
+                        <font size="2">Video Coming Soon~<br></font>
+                      </div><br>
+                    </div>
+                  </div><br class="clear">
+                  <br class="clear">
+                  <div style='margin-bottom: 25px; text-align: center;'>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8928680931862603" data-ad-slot="8458253970"></ins> 
+                    <script>
+
+
+                    (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan}});
+                    </script>
+                  </div>
+                  <div id="pageAttributes">
+                    <table cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td rowspan="2" style="padding-right:4px;text-align:center;"><span style="display:none" id="WPC-lastRevisionAnonymousAvatarURL">/image/bg/1.png?v=20111214172750</span> <a href="/account/kliever" id="WPC-action_accountMenu?account=kliever&from=pageLastUpdateAvatar" class="WPC-action" onclick="return false"><img id="WPC-lastRevisionUserAvatar?cellId=Gate+of+Lightning" class="avatarMissing" src="/image/bg/1.png" alt="No user avatar"></a><br>
+                        <a href="/account/kliever" id="WPC-action_accountMenu?account=kliever&from=pageLastUpdateLink" class="WPC-action" onclick="return false">kliever</a></td>
+                        <td><span id="pageUpdateLabel">Latest page update:</span> made by <span id="WPC-lastRevisionUser?cellId=Gate+of+Lightning"><a href="/account/kliever" id="WPC-action_accountMenu?account=kliever&subject=Gate+of+Lightning&from=lastPageUpdate&pageName=Gate+of+Lightning" class="WPC-action" onclick="return false">kliever</a></span> , <span id="WPC-lastRevisionDate?cellId=Gate+of+Lightning">May 12 2012, 3:41 AM EDT</span> (<span class="WPC-tooltip-trigger WPC-normal"><a href="#update">about this update</a> <span class="WPC-tooltip-title">About This Update</span> <span class="WPC-tooltip-content"><span id="latestEditNote"><a href="/account/kliever"><img class="avatarMissing" src="/image/bg/1.png" alt="kliever"></a> <span id="latestEditNoteAccount">Edited by <a href="/account/kliever">kliever</a></span> <span id="latestEditNoteScope"><br>
+                        <br>
+                        <span class="nowrap">18 words added</span><br>
+                        <span class="nowrap">15 words deleted</span><br></span><br>
+                        <a href="/page/Gate+of+Lightning/diff/6,7" style="white-space: nowrap">view changes</a></span><br class="clear"></span></span> - <a href="/page/Gate+of+Lightning/history" style="white-space: nowrap">complete history</a>)</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div class="WPC-tagModule">
+                            <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span>
+                          </div>
+                          <div id="moreInfo">
+                            <span id="moreInfoLabel">More Info:&nbsp;</span><a href="/page/Gate+of+Lightning/links">links to this page</a>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="fb-like">
+                    <iframe allowtransparency="true" src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.swordofthenewworldwiki.com%2Fpage%2FGate%2Bof%2BLightning&amp;action=like&amp;width=260&amp;height=80&amp;show_faces=false&amp;colorscheme=dark" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px"></iframe>
+                  </div>
+                  <div id="WPC-fullSharingMenu">
+                    <div class="addthis_toolbox addthis_default_style">
+                      <div class="custom_images">
+                        Share this <a class="addthis_button_twitter"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_twitter.png" width="32" height="32" alt="Twitter"></a> <a class="addthis_button_facebook"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_facebook.png" width="32" height="32" alt="Facebook"></a> <a class="addthis_button_myspace"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_myspace.png" width="32" height="32" alt="MySpace"></a> <a class="addthis_button_stumbleupon"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_stumbleupon.png" width="32" height="32" alt="Stumble Upon"></a> <a class="addthis_button_delicious"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_delicious.png" width="32" height="32" alt="Delicious"></a> <a class="addthis_button_favorites"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_favorite.png" width="32" height="32" alt="Add to Favorites"></a> <a class="addthis_button_email"><img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/share/bkmark_icon_32x32_email.png" width="32" height="32" alt="Email"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                  <div id="threadList" class="pageSection pageSectionOutOfPage">
+                    <div class="pageSectionHeaderContainer">
+                      <h4><a href="/page/Gate+of+Lightning/thread">Threads for this page</a></h4>
+                    </div>
+                    <div class="tableList" id="contentThreadList"></div>
+                    <div id="WPC-threadFormContainer" class="pageSectionHeader">
+                      <a name="replyToThread"></a> 
+                      <script src="http://static.wikifoundry.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                    </div>
+                    <div class="pageSectionHeader pageLink openThreadForm" style="margin-top:8px;">
+                      <div class="controlsNode" id="controlsNode_0">
+                        <ul class="WPC-toolsMenu">
+                          <li><a href="#addThread" class="WPC-tool WPC-tool-addThread WPC-action" id="WPC-action_informJoin?contentKey=AddThread" onclick="return false;">Post a new thread</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="pageSectionShowingContainer" style="margin-top:8px;">
+                      <div id="firstToReplyDiv">
+                        There are no threads for this page. &nbsp;Be the first to start a new thread.
+                      </div>
+                    </div><span id="threadCounter" title="" style="display:none"></span>
+                  </div>
+                  <div class="ads adscontent">
+                    <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.content);
+                    </script>
+                  </div>
+                </div>
+              </div>
+              <script src="http://static.wikifoundry.com/scripts/wpjsPage/page/p.js" type="text/javascript"></script>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li>
+                                <a href="/page/Raids" rel="7">Raids</a>
+                                <ul>
+                                  <li><a href="/page/Raid+Point+System">Raid Point System</a></li>
+                                  <li><a href="/page/PvP+Enabled+Raids" rel="4">PvP Enabled Raids</a></li>
+                                  <li><a href="/page/Instanced+Raids" rel="13">Instanced Raids</a></li>
+                                  <li><a href="/page/Boss-Only+Raids" rel="13">Boss-Only Raids</a></li>
+                                  <li>
+                                    <a href="/page/Zone%2FArea+Raids" rel="9">Zone/Area Raids</a>
+                                    <ul>
+                                      <li><a href="/page/Sacred+Dungeon">Sacred Dungeon</a></li>
+                                      <li><a href="/page/Corridor+of+Assize">Corridor of Assize</a></li>
+                                      <li><a href="/page/Barrow+de+la+Muerte">Barrow de la Muerte</a></li>
+                                      <li><a href="/page/Gate+of+Flame">Gate of Flame</a></li>
+                                      <li><a href="/page/Gate+of+Hell">Gate of Hell</a></li>
+                                      <li><a href="/page/Gate+of+Lightning" class="current">Gate of Lightning</a></li>
+                                      <li><a href="/page/Ice+Wizard%27s+Tower+%28Gate%29">Ice Wizard&#039;s Tower (Gate)</a></li>
+                                      <li><a href="/page/Queen+Eater">Queen Eater</a></li>
+                                      <li><a href="/page/Sehkmet">Sehkmet</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="/page/Mission+Lobbies" rel="5">Mission Lobbies</a></li>
+                                  <li><a href="/page/Raids+v2">Raids v2</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="/js/250/addthis_widget.js"></script>
+</body>
+</html>

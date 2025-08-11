@@ -1,0 +1,655 @@
+<html>
+<head>
+  <title>Raids - Page History - Wiki of the new world</title>
+  <meta name="description" content="Wiki of the new world - Raids - Page History" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+        //<![CDATA[
+                var inits = {"BUILD_DATE" : '20080513205753',"WIKI_NAME" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the new world',"WIKI_PPA_URL" : '',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Raids',"PAGE_URI" : '/page/Raids',"PAGE_VERSION" : '37',"PAGE_LATEST_VERSION" : '37',"UX" : 'wp',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_WETPAINT_USER" : false,"ACCOUNT_NAME" : '',"ACTION" : '',"SAVE_PATH" : '/page/Raids',"SAVE_TYPE" : 'page',"DISPLAY_TYPE" : 'pageDiff',"IS_READONLY" : false,"BREADCRUMBS" : ['Wiki Of The New World','Raids']};
+        //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        wp_ads.noAdSense = '';
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","3000000144,3000000109,3000000172,3000000029");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","3000000144,3000000061,3000000170,6550727729");
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+        
+        GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;" name="action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/1/ywnfECjxV_-a2O_NxK-_LQ26973" alt="Wiki of the new world" title="Wiki of the new world" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photo Gallery</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="#inviteOthers" id="action_informJoin?contentKey=Invite" class="action" name="action_informJoin?contentKey=Invite">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join" class="submit action secondary wetpaintAnnounce"><span><span>Join This Wiki</span></span></button></span> <span>Already a member?<br />
+            <a href="#signin" id="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="action" onclick="return false;" name="action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <h1><a href="/page/Raids">Raids</a> |</h1>
+                  <h2>Version Compare</h2>
+                  <p><a href="/page/Raids/history">Back to page history</a></p>
+                </div>
+                <div id="versionCompareSummary">
+                  <table>
+                    <tr class="header">
+                      <th>Version</th>
+                      <th>User</th>
+                      <th>Scope of changes</th>
+                    </tr>
+                    <tr>
+                      <td><a href="/page/Raids/revision/23">Apr 21 2008, 11:39 PM EDT</a></td>
+                      <td><a href="/account/Akiokrest" id="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus1&pageName=Raids" class="action" onclick="return false" name="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus1&pageName=Raids">Akiokrest</a></td>
+                      <td></td>
+                    </tr>
+                    <tr class="altRow">
+                      <td><a href="/page/Raids/revision/22">Apr 21 2008, 11:38 PM EDT</a></td>
+                      <td><a href="/account/Akiokrest" id="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus2&pageName=Raids" class="action" onclick="return false" name="action_accountMenu?account=Akiokrest&subject=Raids&from=revisionDiffstatus2&pageName=Raids">Akiokrest</a></td>
+                      <td>30 words added, 6 words deleted, 9 photos added</td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="versionCompareHead">
+                  <h2>Changes</h2>
+                  <div class="revisionsKey">
+                    Key:&nbsp;&nbsp;<span class="diffAdd">Additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">Deletions</span>
+                  </div>
+                </div>
+                <div id="versionCompareContent">
+                  <font size="2">Raids are a kind of &quot;quest&quot; that you can do with a group of people to get special items. Usually the objective of a raid is to kill the specific boss; so the drop can be obtained. The Raids are a part of any serious clan because without the raids you can&#39;t get the end game gear, and therefor can&#39;t complete the game.<br />
+                  <br />
+                  <font color="#0000FF"></font></font>
+                  <div align="center">
+                    <font size="2"><font color="#0000FF"><font color="#0000FF" size="6"><b><font size="3"><u><i><span class="diffFormatting" title="Formatting Changed: Italic">Raid</span> <span class="diffRemove"></span> <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic">List</span></i></u></font><u><b><i><font color="#0000FF" size="6"></font></i><font color="#0000FF" size="6"></font></b><font color="#0000FF" size="6"><b></b></font><br />
+                    <span class="diffRemove"></span><br /></u></b></font></font></font>
+                  </div><font size="2"><font color="#0000FF"><span class="diffAdd"></span></font></font>
+                  <div align="center">
+                    <font size="2"><font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                    <table align="bottom" cellpadding="3" class="wp-border-all" width="600">
+                      <tbody>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /><span class="diffAdd"></span></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                            <div align="center">
+                              <font color="#0000FF"><span class="diffAdd"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Hill Giant</span></font></font>
+                            </div><span class="diffAdd"></span>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Sool</span></font>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><a href="/page/Gerero" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Gerero</span></font></a>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><a href="/page/Diablo" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Diablo</span></font></a>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                            <div align="center">
+                              <font color="#0000FF" size="5"><span class="diffAdd"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Gryffon</span></font></font>
+                            </div><span class="diffAdd"></span>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><a href="/page/Decarabia" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Decarabia</span></font></a>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><a href="/page/Queen+Eater" target="_self"><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Queen Eater</span></font></a>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffAdd"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Hell Breaker</span></font>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="20%"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><img align="bottom" alt="Place Holder" height="124" src="http://image.wetpaint.com/image/1/p2KqM8AqOZyrB6W3MQHOFA6025/GW118H124" title="Place Holder" width="118" /></td>
+                          <td width="46%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#0000FF" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Vergo the Cursed one</span></font>
+                            </div>
+                          </td>
+                          <td width="33%">
+                            <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br />
+                            <br />
+                            <div align="center">
+                              <span class="diffAdd"></span><font color="#808080" size="5"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">##</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            </div><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span>
+                            <div align="center">
+                              <span class="diffAdd"></span><span class="diffFormatting" title="Formatting Changed: Italic, Italic">suggested Lvl</span>
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table><font size="2"><font color="#0000FF"><br /></font></font>
+                    <div align="center">
+                      <font size="2"><font color="#0000FF"><span class="diffAdd"></span></font></font>
+                    </div><font size="2"><font color="#0000FF"><span class="diffRemove"></span><br />
+                    <br /></font></font>
+                    <div align="center">
+                      <font size="2"><font color="#0000FF"><span class="diffRemove"></span></font></font>
+                    </div><font size="2"><font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Bold, Italic, Italic"></span></font></font>
+                  </div>
+                </div><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                <ul></ul><font size="2"><br />
+                <b><font color="#FFA500"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Dungeon</span> <a href="/page/Bosses" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Bosses</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic">(spawnable with</span> <a href="/page/keys" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">keys</span></a><span class="diffFormatting" title="Formatting Changed: Italic, Italic">):</span></font></b><br /></font>
+                <ol>
+                  <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><a href="/page/Al+Quelt+Moreza,+Hollow" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Dios Latem</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><a href="/page/The+Tetra+Ruins%2C+Antiquities+Chamber" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Treasure Golem</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><a href="/page/Porto+Bello%2C+St.+Cathrine%27s+Saloon" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Chimera</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Skeleton Warrior</span><br />
+                  <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Corridor of Azasie</span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Nest of Skeleton 4th room</span><br /></font></li>
+                </ol><font size="2"><br />
+                <b><font color="#FF0000"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">The Gates Raids:</span><br /></font></b> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                <ol>
+                  <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><a href="/page/Gate+of+Flame" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Gate of Flame - Whirpool of Flame</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Gate of Ice - Ice Wizard Tower</span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><a href="/page/Gate+of+Lightning" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Gate of Lighting - Silence Maze</span></a></font></li>
+                </ol><font size="2"><font color="#FF0000" size="1"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Note: The first 3 gates, require you to start the</span> <a href="/page/Elemental+Keys+%28Gates%29" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Elemental Keys</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic">quest.</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br /></font>
+                <ol>
+                  <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                  <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><a href="/page/Gate+of+Hell" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Gate of Hell</span></a></font></li>
+                </ol><font size="2"><br /></font>
+                <div align="center">
+                  <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">___________________________</span><br />
+                  <br /></font>
+                  <div align="center">
+                    <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                    <div align="left">
+                      <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="3"><b><font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Raid Boss Killing Techniques:</span><br /></font></b></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ol>
+                        <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                        <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Tank Solo</span></font></li>
+                        <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">The Circle</span></font></li>
+                        <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Double Tank</span></font></li>
+                        <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Seek and Kill</span></font></li>
+                        <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Stay away, aggro first</span></font></li>
+                      </ol><font size="2"><font size="3"><b><font color="#0000FF"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br /></font></b></font></font>
+                    </div><font size="2"><br />
+                    <span class="diffFormatting" title="Formatting Changed: Italic, Italic">____________________________</span><br />
+                    <br /></font>
+                    <div align="left">
+                      <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font color="#0000FF"><b><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Raids Faqs:</span></b></font><br /></font>
+                      <ul>
+                        <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                        <li>
+                          <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><font color="#FF0000"><b><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Questions</span></b></font><span class="diffFormatting" title="Formatting Changed: Italic, Italic">:</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                          <ol>
+                            <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                            <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Answers</span></font></font></li>
+                          </ol>
+                        </li>
+                      </ul><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ul></ul><font size="2"><br /></font>
+                      <ol></ol><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ul>
+                        <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                        <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><b><font color="#FF0000" size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">We killed the raid boss, and the boss dropped 4 items and about 20 people participated in the raid. Who should get items?</span></font></b></font></li>
+                      </ul><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <div style="margin-left: 2em">
+                        <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                        <ol>
+                          <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                          <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">The best way to distribute the items among the players is by using Fireworks to get random numbers; the player with the highest number will get the bided item. Note that this way is sometimes unfair, since a player that didn&#39;t do much can get a drop. So the best way is doing it with the next method.</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                          <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">For Clans: You can use a</span> <a href="/page/raid+point+system" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">raid point system</span></a><span class="diffFormatting" title="Formatting Changed: Italic, Italic">, and let the leader give items to the players that need them. See</span> <a href="/page/Raid+point+system" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Raid point system</span></a><span class="diffFormatting" title="Formatting Changed: Italic, Italic">.</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                          <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">The player that&#39;s tanking will be priority when selecting the items.</span></font> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                          <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">If the raid is being completed by 2 or more clans, use the Fireworks first; then distribute the items to the members using the</span> <a href="/page/Raid+Point+System" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Raid point system</span></a><span class="diffFormatting" title="Formatting Changed: Italic, Italic">.</span></font></font></li>
+                        </ol>
+                      </div><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ul></ul><font size="2"><br /></font>
+                      <ul>
+                        <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                        <li>
+                          <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><b><font color="#FF0000" size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Can I solo a raid boss?</span></font></b> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                          <ol>
+                            <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                            <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Yes, 2 of the high level</span> <a href="/page/bosses" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">bosses</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic">can be soloed if you have the right equipment. Also the low level dungeon</span> <a href="/page/bosses" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">bosses</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic">count as raid</span> <a href="/page/bosses" target="_self"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">bosses</span></a> <span class="diffFormatting" title="Formatting Changed: Italic, Italic">if you are near their level, so you can solo those with enought level.</span></font></font></li>
+                          </ol>
+                        </li>
+                      </ul><font size="2"><b><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br /></font></b> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ul>
+                        <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                        <li>
+                          <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><b><font color="#FF0000" size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">The boss didn&#39;t spawn, what happened?</span></font></b> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                          <ol>
+                            <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                            <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">The spawn time of each raid boss is different; some of them only spawn 2 times a day. Check their guides for more info.</span></font></font></li>
+                          </ol>
+                        </li>
+                      </ul><font size="2"><b><font color="#FF0000" size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><br /></font></b> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ul>
+                        <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                        <li>
+                          <font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><b><font color="#FF0000" size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">I have more questions, were do I ask them?</span></font></b> <span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                          <ol>
+                            <li style="list-style: none"><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font></li>
+                            <li><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic">Just start a new Thread with the question, and we will answer it at soon as possible.</span></font><br /></font></li>
+                          </ol>
+                        </li>
+                      </ul><font size="2"><span class="diffFormatting" title="Formatting Changed: Italic, Italic"></span></font>
+                      <ol></ol>
+                    </div>
+                  </div>
+                </div><font size="2"><br /></font>
+              </div><font size="2"><br class="clear" />
+              <br class="clear" /></font>
+            </div><font size="2"></font>
+          </div>
+        </div>
+        <div id="leftColumn">
+          <font size="2"></font>
+          <div id="siteSearch">
+            <font size="2"></font>
+            <form method="get" action="/pageSearch" onsubmit="if(this.contains.value=='Search this wiki') this.contains.value = '';">
+              <font size="2"><input type="text" class="text" name="contains" maxlength="99" value="Search this wiki" onfocus="if(this.value=='Search this wiki') this.value = '';" /><input type="submit" name="submit" class="submit" title="submit" value=" " /></font>
+            </form>
+          </div><font size="2"><noscript><br />
+          <div class="browserWarning small">
+            <font size="2"><font size="2">JavaScript must be enabled in order for you to contribute to this wiki.<br />
+            To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.</font></font>
+          </div></noscript></font>
+          <div id="drillDownSiteNavigation" class="panel">
+            <font size="2"></font>
+            <div class="panelHeader close">
+              <font size="2"></font>
+              <div title="expand | collapse this panel" class="panelControl">
+                <font size="2"></font>
+              </div><font size="2">Wiki pages</font>
+            </div>
+            <div class="panelContent">
+              <font size="2"></font>
+              <div id="leftDrillDownSiteNavigation">
+                <font size="2"></font>
+                <div id="treeNavScroller">
+                  <font size="2"></font>
+                  <div id="leftNavTree" class="treeList">
+                    <font size="2"></font>
+                    <ul id="rootUl">
+                      <li>
+                        <a href="/" id="navHome" class="root" name="navHome"><font size="2">Home</font></a>
+                        <ul>
+                          <li><a href="/page/Sword+of+the+New+World+Maps+and+Area+Info" rel="4"><font size="2">Sword of the New World Maps and Area Info</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Classes" rel="6"><font size="2">Sword of the New World Classes</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Crafting" rel="3"><font size="2">Sword of the New World Crafting</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Items" rel="7"><font size="2">Sword of the New World Items</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Guides" rel="5"><font size="2">Sword of the New World Guides</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Monsters" rel="6"><font size="2">Sword of the New World Monsters</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Quests" rel="38"><font size="2">Sword of the New World Quests</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+UPCs" rel="2"><font size="2">Sword of the New World UPCs</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Terminology"><font size="2">Sword of the New World Terminology</font></a></li>
+                          <li><a href="/page/Family+Level+-+Barracks"><font size="2">Family Level - Barracks</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Character+Attributes"><font size="2">Sword of the New World Character Attributes</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Soundtrack"><font size="2">Sword of the New World Soundtrack</font></a></li>
+                          <li><a href="/page/Sword+of+the+New+World+Instruction+Manual"><font size="2">Sword of the New World Instruction Manual</font></a></li>
+                          <li>
+                            <a href="/page/Raids" rel="10" class="current"><font size="2">Raids</font></a>
+                            <ul>
+                              <li><a href="/page/Raid+Point+System"><font size="2">Raid Point System</font></a></li>
+                              <li><a href="/page/Gerero"><font size="2">Gerero</font></a></li>
+                              <li><a href="/page/Gate+of+Hell"><font size="2">Gate of Hell</font></a></li>
+                              <li><a href="/page/Gate+of+Lightning"><font size="2">Gate of Lightning</font></a></li>
+                              <li><a href="/page/Gate+of+Flame"><font size="2">Gate of Flame</font></a></li>
+                              <li><a href="/page/Diablo"><font size="2">Diablo</font></a></li>
+                              <li><a href="/page/Decarabia"><font size="2">Decarabia</font></a></li>
+                              <li><a href="/page/Queen+Eater"><font size="2">Queen Eater</font></a></li>
+                              <li><a href="/page/Vergo+the+Cursed"><font size="2">Vergo the Cursed</font></a></li>
+                              <li><a href="/page/Hell+Breaker"><font size="2">Hell Breaker</font></a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="panelBase">
+                <font size="2"></font>
+                <div id="navigationGrippy" title="drag to resize">
+                  <font size="2"></font>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="newNavItem" style="display:none;">
+            <a id="newNavItemLink" name="newNavItemLink"><font size="2">new page</font></a>
+          </div>
+          <div id="uncategorizedItem" style="display:none;">
+            <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink"><font size="2">(Uncategorized)</font></a>
+          </div><font size="2">
+          <script type="text/javascript">
+          //<![CDATA[
+
+          wetpaintLoad('scroller');
+          //]]>
+          </script></font>
+          <div id="topContributors" class="panel">
+            <font size="2"></font>
+            <div class="panelHeader open">
+              <font size="2"></font>
+              <div title="expand | collapse this panel" class="panelControl">
+                <font size="2"></font>
+              </div><font size="2">Top Contributors</font>
+            </div>
+            <div class="panelContent" style="display:none;">
+              <font size="2"></font>
+              <div id="tcLoading" style="width:140px; margin:auto">
+                <font size="2">Loading...</font>
+              </div>
+            </div>
+          </div>
+          <div class="ads adsleft">
+            <font size="2">
+            <script type="text/javascript">
+            //<![CDATA[
+
+
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+            //]]>
+            </script></font>
+          </div><font size="2"></font>
+        </div>
+      </div>
+    </div>
+    <div class="clear">
+      <font size="2"></font>
+    </div>
+    <div id="footer">
+      <font size="2"></font>
+      <div id="createdWithContent">
+        <font size="2"><img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint wiki" width="123" height="77" /></font>
+        <div style="text-align:center;padding-bottom:.5em">
+          <font size="2">start a wiki</font>
+        </div>
+      </div>
+      <ul>
+        <li class="first"><font size="2"><span><a href="/contact">Contact Wetpaint</a></span></font></li>
+        <li><font size="2"><span>Help</span></font></li>
+        <li><font size="2"><span><a href="/sitemap">Sitemap</a></span></font></li>
+        <li><font size="2"><span>Feedback</span></font></li>
+        <li><font size="2"><span><a href="/privacy">Privacy</a></span></font></li>
+        <li><font size="2"><span><a href="/terms">Terms of Use</a></span></font></li>
+      </ul>
+      <div id="promotedFooter">
+        <font size="2"></font>
+        <ul>
+          <li class="first footerText"><font size="2"><span>Other Sites:&nbsp;</span></font></li>
+          <li class="first"><font size="2"><span>Tom&#039;s Wiki</span></font></li>
+          <li><font size="2"><span>Cancer</span></font></li>
+          <li><font size="2"><span>Free Rider</span></font></li>
+          <li><font size="2"><span>Gorillaz Wiki</span></font></li>
+          <li><font size="2"><span>Xbox 360.</span></font></li>
+          <li class="first promotedViewMore"><font size="2"><span>View more Wikis.</span></font></li>
+        </ul>
+      </div>
+    </div><font size="2"></font>
+  </div><font size="2">
+  <script type="text/javascript">
+  //<![CDATA[
+
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script language="JavaScript">
+  <![CDATA[
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20080513205753" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='web2';s_w.channel='pageDiff';s_w.pageType='pageDiff';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(9313/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='pageDiff';s_w.eVar11='registered';s_w.eVar12=(inits['SITES_COUNT']) ? inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(inits['AB_TEST'] == 0) ? 'na' : (inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  //]]>
+  </script></font>
+</body>
+</html>

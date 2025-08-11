@@ -1,0 +1,1335 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Discussion Forum - Wiki of the New World</title>
+  <meta name="description" content="The Best Source for anything related to Sword of the New World Granado Espada. You&#039;ll find the best information gathered by players and confirmed by people that play the game to the max. - Discussion Forum">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css">
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css">
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',"DISPLAY_TYPE" : 'discussionForum',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js" type="text/javascript"></script>
+  <script language="JavaScript">
+        var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense'};
+        GS_googleAddAdSenseService(wp_ads.serviceId);
+        GS_googleEnableAllServices();
+  </script>
+  <script language="JavaScript">
+        wp_ads.noAdSense = '';
+        wp_ads.top = 'Top';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+
+        wp_ads.content = 'Content' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+        wp_ads.left = 'Left' + wp_ads.noAdSense;
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+        wp_ads.tracking = 'Tracking';
+        GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+
+        
+                GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+        
+        GA_googleAddAdSensePageAttr("google_ad_type","text");
+
+        
+        GA_googleAddAttr("Pageview","Forum");
+        GA_googleAddAttr("Permission","Registered");
+        GA_googleAddAttr("Screened","No");
+        GA_googleAddAttr("Topic","Games");
+        GA_googleAddAttr("WikiName","sotnw");
+
+        
+        var google_color_border = '';
+        var google_color_bg = '';
+        var google_color_text = '';
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+        google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+        GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+  </script>
+  <script language="JavaScript">
+        
+        GA_googleFetchAds();
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="adsTop">
+    <div class="ads adstop">
+      <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+      </script>
+    </div>
+  </div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in to Wetpaint</a><span class="logo">&nbsp;</span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/thread">Discussion Forum</a></li>
+          <li class="gn"><a href="/whatsnew">What's New</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/todos/updated">To-Dos</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <span><button id="action_join?from=joinButton" class="submit action secondary wetpaintAnnounce"><span><span>Join This Site</span></span></button></span> <span>Already a member?<br>
+            <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;">Sign in</a></span>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <h1>Discussion Forum</h1>
+                </div>
+                <div class="tabNavigation">
+                  <ul>
+                    <li class='selected'>Most Recent</li>
+                    <li><a href="/thread?sort=replies">Most Active</a></li>
+                    <li><a href="/tagGroup">Keyword Tag Groups</a></li>
+                  </ul>
+                  <div id="threadSearch" class="searchForm">
+                    <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                      <input type="hidden" name="searchType" value="threads"> <input type="text" class="text" name="searchQuery" value="Search threads" onfocus="if( this.value == 'Search threads' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+                    </form>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+                <div id="threadList" class="pageSection pageSectionOutOfPage">
+                  <div class="pageSectionHeader pageLink">
+                    <span class="controlsNode" id="controlsNode_0"></span>
+                    <ul class="WPC-toolsMenu">
+                      <li><span class="controlsNode" id="controlsNode_0"><a href="#addThread" class="WPC-tool WPC-tool-addThread action" id="action_openThreadForm?from=addThread" onclick="return false;">Post a new thread</a></span></li>
+                    </ul>
+                    <div class="pageSectionHeaderContainer">
+                      Use the Discussion Forum to participate in and track threads of interest. (<span class="WPC-moreHelp">help</span>)
+                    </div><a name="replyToThread"></a>
+                    <div id="threadFormDiv" style="display:none">
+                      <form method="post" name="threadFormElement" id="threadFormElement" action="#replyToThread">
+                        <h4><span id="threadFormTitleThread" style="display:none;">Start a New Thread as</span> <span id="threadFormTitleReply" style="display:none;">Reply as</span> Anonymous&nbsp; (<a href="#GetCredit" class="WPC-action" id="WPC-action_informJoin?contentKey=GetThreadCredit" style="font-weight: normal;top:0;">Get credit for your thread</a>)</h4>
+                        <table class="threadFormTable">
+                          <tr>
+                            <td class="labelCell"><label for="threadFormSubject">Subject:</label></td>
+                            <td><input type="text" class="text" name="threadFormSubject" id="threadFormSubject" maxlength="70" value="" autocomplete="off"> <span id="subjectError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span></td>
+                          </tr>
+                          <tr>
+                            <td class="labelCell"><label for="threadFormBody">Message:</label></td>
+                            <td>
+                            <textarea name="threadFormBody" rows="4" id="threadFormBody" autocomplete="off"></textarea><br>
+                            <span id="bodyError" class="error" style="display:none;">Please enter some text (at least 3 characters).</span> <span id="bodyTooLongError" class="error"></span></td>
+                          </tr>
+                          <tr id="quoteRow" style="display:none;">
+                            <td class="labelCell"><span id="quoteLabel"><label for="threadFormQuote">Quote:</label></span></td>
+                            <td><span id="quoteContent">
+                            <textarea name="threadFormQuote" cols="50" rows="4" id="threadFormQuote" autocomplete="off"></textarea></span></td>
+                          </tr>
+                          <tr id="tagRow" style="display:none;">
+                            <td class="labelCell">Keyword tags:</td>
+                            <td><input type="text" class="text" name="threadFormTag" id="threadFormTag" maxlength="255" value=""> <span id="tagError" class="error" style="display:none;">One or more of your tags have exceeded the 30 character limit.</span></td>
+                          </tr>
+                        </table>
+                        <div id="threadNotification" style="display:none;"></div><span class="controlsNode"><input type="submit" class="submit" name="submit" value="Post" id="threadFormSubmitButton"><button class="cancel" id="closeThreadButton" style="display:none" onclick="return false;"><span class="controlsNode"><span class="controlsNode">Cancel</span></span></button></span>
+                      </form>
+                      <div id="threadFormSubmitButtonThrobText" style="display:none;">
+                        Posting...
+                      </div>
+                      <div id="editLengthWarn" style="display:none;">
+                        Note: You can enter up to [REMCHARS] additional characters.<br>
+                        Did you know you can edit the content of this page by clicking EasyEdit?
+                      </div>
+                    </div>
+                    <script src="http://static.wetpaint.com/scripts/wpjsPage/threadForm/p.js" type="text/javascript"></script>
+                  </div>
+                  <div class="pagingWrapper">
+                    <div class="pagingActionWrapper">
+                      <span class="pagingAction"></span>
+                      <form action="/thread" method="get">
+                        <span class="pagingAction"><input type="hidden" name="offset" value="0"> Showing&nbsp;81&nbsp;-&nbsp;100&nbsp;of&nbsp;526 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit()" style="font-size:80%">
+                          <option value="10">
+                            10
+                          </option>
+                          <option value="20" selected>
+                            20
+                          </option>
+                          <option value="50">
+                            50
+                          </option>
+                        </select> threads&nbsp;at a time</span>
+                      </form>
+                    </div>
+                    <div class="paging">
+                      <a href="/thread?offset=60&maxResults=20">Previous</a> | <a href="/thread?offset=0&maxResults=20">1</a>&nbsp;<a href="/thread?offset=20&maxResults=20">2</a>&nbsp;<a href="/thread?offset=40&maxResults=20">3</a>&nbsp;<a href="/thread?offset=60&maxResults=20">4</a>&nbsp;5&nbsp;<a href="/thread?offset=100&maxResults=20">6</a>&nbsp;<a href="/thread?offset=120&maxResults=20">7</a>&nbsp;<a href="/thread?offset=140&maxResults=20">8</a>&nbsp;<a href="/thread?offset=160&maxResults=20">9</a>&nbsp; | <a href="/thread?offset=100&maxResults=20">Next</a> &gt; <a href="/thread?offset=520&maxResults=20">Last</a>
+                    </div>
+                  </div>
+                  <div class="tableList">
+                    <table>
+                      <tr class="header">
+                        <th><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle" href="#toggle"></a></th>
+                        <th>Started&nbsp;By</th>
+                        <th>Thread Subject</th>
+                        <th>Location</th>
+                        <th>Replies</th>
+                        <th class="farRightCell">Last Post</th>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=1" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2270101/vikis+quest"><b>vikis quest</b></a></td>
+                        <td><a href="/page/El+Canon+de+Diabolica" class="WPC-tool WPC-tool-content WPC-indicate">El Canon de Diabolica</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 15 2009, 4:05 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA1" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB1" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 15 2009, 4:05 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2270101" onclick="application.toggleWatchThread(this.id, 2270101, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              where is the scare crow?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2270101&post=14882837" style="display:none;"><span id="agreeCount?thread=2270101&post=14882837"></span> &nbsp;out of <span id="totalCount?thread=2270101&post=14882837"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2270101&post=14882837">Do you find this valuable?</span></i> <span id="voteHolder?thread=2270101&post=14882837"><a id="action_rateThread?thread=2270101&post=14882837&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2270101&post=14882837&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2270101" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2270101/vikis+quest?offset=0&action=openThreadForm?postId=14882837&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=2" href="#toggle"></a></td>
+                        <td><a href="/account/Rulz" id="action_accountMenu?account=Rulz&subject=Andres%27s+Pose+Guide+No.+10&from=threadAccount2147301&threadId=2147301" class="action" onclick="return false">Rulz</a></td>
+                        <td><a href="/thread/2147301/Andres%27s+Pose+Guide+No.+10"><b>Andres&#039;s Pose Guide No. 10</b></a></td>
+                        <td><a href="/page/Pose+Guides" class="WPC-tool WPC-tool-content WPC-indicate">Pose Guides</a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 14 2009, 2:09 PM EST</span> by <a href="/account/Montageleim" id="action_accountMenu?account=Montageleim&subject=Andres%27s+Pose+Guide+No.+10&from=threadFirstAccount2147301&threadId=2147301" class="action" onclick="return false">Montageleim</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA2" style="display:none">
+                            <a href="/account/Rulz" id="action_accountMenu?account=Rulz&subject=Andres%27s+Pose+Guide+No.+10&from=threadImg2147301&threadId=2147301" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/8RzOd98LXAZZWtYgnDq2Ig8938/GW050" alt="Rulz"></a>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB2" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Dec 5 2008, 11:37 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2147301" onclick="application.toggleWatchThread(this.id, 2147301, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              I got this pose guide when i was Veteran, and when i completed all the Andre&#39;s quest line
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2147301&post=13863417"><span id="agreeCount?thread=2147301&post=13863417">2</span> &nbsp;out of <span id="totalCount?thread=2147301&post=13863417">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2147301&post=13863417" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2147301&post=13863417">Do you? <a id="action_rateThread?thread=2147301&post=13863417&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2147301&post=13863417&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2147301" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2147301/Andres%27s+Pose+Guide+No.+10?offset=0&action=openThreadForm?postId=14861074&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply2147301').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2147301" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/Montageleim" id="action_accountMenu?account=Montageleim&subject=Andres%27s+Pose+Guide+No.+10&from=threadImg2147301&threadId=2147301" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/-oWaFIUyNG3zWCrI96S2vQ3627/GW050" alt="Montageleim"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2147301/Andres%27s+Pose+Guide+No.+10?offset=0#post14861074"><b>RE: Andres&#039;s Pose Guide No. 10</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Montageleim" id="action_accountMenu?account=Montageleim&subject=Andres%27s+Pose+Guide+No.+10&from=threadLastAccount2147301&threadId=2147301" class="action" onclick="return false">Montageleim</a>, Jan 14 2009, 2:09 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          This is pose guide #10.<br>
+                                          <br>
+                                          Bowing Head<br>
+                                          http://s11.directupload.net/file/d/1674/msb979ot_jpg.htm<br>
+                                          Finding Fault<br>
+                                          http://s11.directupload.net/file/d/1674/ac6bexbf_jpg.htm<br>
+                                          Sulky<br>
+                                          http://s11.directupload.net/file/d/1674/siu2idi3_jpg.htm<br>
+                                          Surprised<br>
+                                          http://s11b.directupload.net/file/d/1674/cde26rsl_jpg.htm<br>
+                                          Very Surprised<br>
+                                          http://s10b.directupload.net/file/d/1674/85qfrwz9_jpg.htm<br>
+                                          Holding Hands at the Back<br>
+                                          http://s11b.directupload.net/file/d/1674/obv6koec_jpg.htm<br>
+                                          Disk<br>
+                                          http://s10.directupload.net/file/d/1674/3lk7yzik_jpg.htm
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2147301&post=14861074"><span id="agreeCount?thread=2147301&post=14861074">2</span> &nbsp;out of <span id="totalCount?thread=2147301&post=14861074">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2147301&post=14861074" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2147301&post=14861074">Do you? <a id="action_rateThread?thread=2147301&post=14861074&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2147301&post=14861074&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=3" href="#toggle"></a></td>
+                        <td><a href="/account/warrenac" id="action_accountMenu?account=warrenac&subject=Gertrude+%28Jean-pierre%29+quests+start+earlier&from=threadAccount1729748&threadId=1729748" class="action" onclick="return false">warrenac</a></td>
+                        <td><a href="/thread/1729748/Gertrude+%28Jean-pierre%29+quests+start+earlier"><b>Gertrude (Jean-pierre) quests start earlier</b></a></td>
+                        <td><a href="/page/Quests+-+Level+60" class="WPC-tool WPC-tool-content WPC-indicate">Quests - Level 60</a></td>
+                        <td align="center">5</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 14 2009, 3:08 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA3" style="display:none">
+                            <a href="/account/warrenac" id="action_accountMenu?account=warrenac&subject=Gertrude+%28Jean-pierre%29+quests+start+earlier&from=threadImg1729748&threadId=1729748" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB3" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Aug 4 2008, 2:06 AM EDT&nbsp; <a href="#watch" rel='watch' id="wc1729748" onclick="application.toggleWatchThread(this.id, 1729748, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              I was able to start the quests way before level 60 (definitely before level 57 when I got the key to the Grand Library).
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1729748&post=11236084"><span id="agreeCount?thread=1729748&post=11236084">7</span> &nbsp;out of <span id="totalCount?thread=1729748&post=11236084">18</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1729748&post=11236084" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1729748&post=11236084">Do you? <a id="action_rateThread?thread=1729748&post=11236084&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1729748&post=11236084&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=1729748" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1729748/Gertrude+%28Jean-pierre%29+quests+start+earlier?offset=0&action=openThreadForm?postId=14854616&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1729748').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1729748" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1729748/Gertrude+%28Jean-pierre%29+quests+start+earlier?offset=0#post14854616"><b>RE: Gertrude (Jean-pierre) quests start earlier</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Anonymous, Jan 14 2009, 3:08 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          It happened to me too.<br>
+                                          <br>
+                                          After I click on Claude and close his dialog box a couple times, the quest came up.
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1729748&post=14854616"><span id="agreeCount?thread=1729748&post=14854616">1</span> &nbsp;out of <span id="totalCount?thread=1729748&post=14854616">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1729748&post=14854616" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1729748&post=14854616">Do you? <a id="action_rateThread?thread=1729748&post=14854616&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1729748&post=14854616&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=4" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2260065/NOT+USEFUL"><b>NOT USEFUL</b></a></td>
+                        <td><a href="/page/Golden+Well+Guide" class="WPC-tool WPC-tool-content WPC-indicate">Golden Well Guide</a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 13 2009, 12:32 PM EST</span> by <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=NOT+USEFUL&from=threadFirstAccount2260065&threadId=2260065" class="action" onclick="return false">blob123</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA4" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB4" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 12 2009, 5:44 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2260065" onclick="application.toggleWatchThread(this.id, 2260065, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              its really not useful or its because i was extremely unlucky. I used over 5mil on the well and i didnt not earn my money back. even after opening boxes
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2260065&post=14811655"><span id="agreeCount?thread=2260065&post=14811655">1</span> &nbsp;out of <span id="totalCount?thread=2260065&post=14811655">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2260065&post=14811655" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2260065&post=14811655">Do you? <a id="action_rateThread?thread=2260065&post=14811655&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2260065&post=14811655&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2260065" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2260065/NOT+USEFUL?offset=0&action=openThreadForm?postId=14831593&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply2260065').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2260065" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=NOT+USEFUL&from=threadImg2260065&threadId=2260065" class="action" onclick="return false"></a>
+                                        <div title="no profile image available" class="avatarMissing"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2260065/NOT+USEFUL?offset=0#post14831593"><b>RE: NOT USEFUL</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/blob123" id="action_accountMenu?account=blob123&subject=NOT+USEFUL&from=threadLastAccount2260065&threadId=2260065" class="action" onclick="return false">blob123</a>, Jan 13 2009, 12:32 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          ho... badly
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2260065&post=14831593"><span id="agreeCount?thread=2260065&post=14831593">1</span> &nbsp;out of <span id="totalCount?thread=2260065&post=14831593">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2260065&post=14831593" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2260065&post=14831593">Do you? <a id="action_rateThread?thread=2260065&post=14831593&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2260065&post=14831593&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=5" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/photo/1920524/thread/2262402/Skill+description"><b>Skill description</b></a></td>
+                        <td><a href="/photo/1920524/Detection" class="WPC-tool WPC-tool-photo WPC-indicate">Detection</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 13 2009, 9:23 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA5" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB5" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 13 2009, 9:23 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2262402" onclick="application.toggleWatchThread(this.id, 2262402, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              The description for this stance says it reveals invisible characters and locates hidden objects. My question is What kind of objects does it find and where you can find these objects ?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2262402&post=14829232" style="display:none;"><span id="agreeCount?thread=2262402&post=14829232"></span> &nbsp;out of <span id="totalCount?thread=2262402&post=14829232"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2262402&post=14829232">Do you find this valuable?</span></i> <span id="voteHolder?thread=2262402&post=14829232"><a id="action_rateThread?thread=2262402&post=14829232&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2262402&post=14829232&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Detection" title="Detection" class="pageTag">Detection</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=2262402" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/photo/1920524/thread/2262402/Skill+description?offset=0&action=openThreadForm?postId=14829232&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=6" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2262083/Wow"><b>Wow</b></a></td>
+                        <td><a href="/page/Ania" class="WPC-tool WPC-tool-content WPC-indicate">Ania</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 13 2009, 5:28 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA6" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB6" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 13 2009, 5:28 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2262083" onclick="application.toggleWatchThread(this.id, 2262083, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Lol i hope 3.0 comes quick, i wanna get her , hope she isnt promo tho...Looks cool,hmmm mayb her costume would be even BETTER =DDDD
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2262083&post=14827765"><span id="agreeCount?thread=2262083&post=14827765">2</span> &nbsp;out of <span id="totalCount?thread=2262083&post=14827765">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2262083&post=14827765" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2262083&post=14827765">Do you? <a id="action_rateThread?thread=2262083&post=14827765&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2262083&post=14827765&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2262083" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2262083/Wow?offset=0&action=openThreadForm?postId=14827765&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=7" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2261903/Tombstone"><b>Tombstone</b></a></td>
+                        <td><a href="/page/Baron+mode+-+items" class="WPC-tool WPC-tool-content WPC-indicate">Baron mode - items</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 13 2009, 2:25 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA7" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB7" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 13 2009, 2:25 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2261903" onclick="application.toggleWatchThread(this.id, 2261903, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Isnt the Tombstone useless?<br>
+                              And in non-baron servers the tombstone and the rest are practicly useless right?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2261903&post=14827164"><span id="agreeCount?thread=2261903&post=14827164">1</span> &nbsp;out of <span id="totalCount?thread=2261903&post=14827164">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2261903&post=14827164" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2261903&post=14827164">Do you? <a id="action_rateThread?thread=2261903&post=14827164&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2261903&post=14827164&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2261903" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2261903/Tombstone?offset=0&action=openThreadForm?postId=14827164&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=8" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2259898/No+love+for+gert"><b>No love for gert</b></a></td>
+                        <td><a href="/page/Gertrude+Peterson" class="WPC-tool WPC-tool-content WPC-indicate">Gertrude Peterson</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 12 2009, 5:09 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA8" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB8" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 12 2009, 5:09 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2259898" onclick="application.toggleWatchThread(this.id, 2259898, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              highly underrated MA, decent con and if u put vet point on agi he&#39;s a decent tank (for a MA)
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2259898&post=14810421"><span id="agreeCount?thread=2259898&post=14810421">1</span> &nbsp;out of <span id="totalCount?thread=2259898&post=14810421">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2259898&post=14810421" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2259898&post=14810421">Do you? <a id="action_rateThread?thread=2259898&post=14810421&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2259898&post=14810421&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2259898" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2259898/No+love+for+gert?offset=0&action=openThreadForm?postId=14810421&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=9" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2257959/can+he+attack+normal+with+his+Vet+stance%3F"><b>can he attack normal with his Vet stance?</b></a></td>
+                        <td><a href="/page/Jose+Cortasar" class="WPC-tool WPC-tool-content WPC-indicate">Jose Cortasar</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 12 2009, 1:27 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA9" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB9" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 12 2009, 1:27 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2257959" onclick="application.toggleWatchThread(this.id, 2257959, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Vet stance is auto-attack, but still needs to step back if mobs are to close.<br>
+                              His Vet stance skills comprise of DeBuffers.<br>
+                              <br>
+                              Jose is not a killer remember!~ He is used to knockdown the opponent from a long range.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2257959&post=14800706"><span id="agreeCount?thread=2257959&post=14800706">3</span> &nbsp;out of <span id="totalCount?thread=2257959&post=14800706">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2257959&post=14800706" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2257959&post=14800706">Do you? <a id="action_rateThread?thread=2257959&post=14800706&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2257959&post=14800706&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2257959" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2257959/can+he+attack+normal+with+his+Vet+stance%3F?offset=0&action=openThreadForm?postId=14800706&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=10" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2256227/O.o"><b>O.o</b></a></td>
+                        <td><a href="/page/Claude+Baudez" class="WPC-tool WPC-tool-content WPC-indicate">Claude Baudez</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 11 2009, 5:36 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA10" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB10" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 11 2009, 5:36 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2256227" onclick="application.toggleWatchThread(this.id, 2256227, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              hope its worth it lol
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2256227&post=14786145"><span id="agreeCount?thread=2256227&post=14786145">0</span> &nbsp;out of <span id="totalCount?thread=2256227&post=14786145">3</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2256227&post=14786145" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2256227&post=14786145">Do you? <a id="action_rateThread?thread=2256227&post=14786145&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2256227&post=14786145&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2256227" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2256227/O.o?offset=0&action=openThreadForm?postId=14786145&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=11" href="#toggle"></a></td>
+                        <td><a href="/account/blob123" id="action_accountMenu?account=blob123&subject=viki+lvl+58+for+sale&from=threadAccount2255367&threadId=2255367" class="action" onclick="return false">blob123</a></td>
+                        <td><a href="/thread/2255367/viki+lvl+58+for+sale"><b>viki lvl 58 for sale</b></a></td>
+                        <td><a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 11 2009, 2:00 PM EST</span> by <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=viki+lvl+58+for+sale&from=threadFirstAccount2255367&threadId=2255367" class="action" onclick="return false">blob123</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA11" style="display:none">
+                            <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=viki+lvl+58+for+sale&from=threadImg2255367&threadId=2255367" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB11" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 11 2009, 2:00 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2255367" onclick="application.toggleWatchThread(this.id, 2255367, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              as i said i sell a viki in lvl 58 (u merc) and i really want to sell him fast, fammily name: gracius on orpesia!
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2255367&post=14777286" style="display:none;"><span id="agreeCount?thread=2255367&post=14777286"></span> &nbsp;out of <span id="totalCount?thread=2255367&post=14777286"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2255367&post=14777286">Do you find this valuable?</span></i> <span id="voteHolder?thread=2255367&post=14777286"><a id="action_rateThread?thread=2255367&post=14777286&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2255367&post=14777286&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2255367" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2255367/viki+lvl+58+for+sale?offset=0&action=openThreadForm?postId=14777286&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=12" href="#toggle"></a></td>
+                        <td><a href="/account/blob123" id="action_accountMenu?account=blob123&subject=viki+sale&from=threadAccount2254976&threadId=2254976" class="action" onclick="return false">blob123</a></td>
+                        <td><a href="/thread/2254976/viki+sale"><b>viki sale</b></a></td>
+                        <td><a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 11 2009, 12:19 PM EST</span> by <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=viki+sale&from=threadFirstAccount2254976&threadId=2254976" class="action" onclick="return false">blob123</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA12" style="display:none">
+                            <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=viki+sale&from=threadImg2254976&threadId=2254976" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB12" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 11 2009, 12:19 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2254976" onclick="application.toggleWatchThread(this.id, 2254976, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              i have a viki lvl 58 on orpesia.<br>
+                              i want to sell him.<br>
+                              pls offer a price, my name is gracius (in the game) and i wont buy a mercenay warrant!!!!!!!!!! pls vote!
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2254976&post=14774121" style="display:none;"><span id="agreeCount?thread=2254976&post=14774121"></span> &nbsp;out of <span id="totalCount?thread=2254976&post=14774121"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2254976&post=14774121">Do you find this valuable?</span></i> <span id="voteHolder?thread=2254976&post=14774121"><a id="action_rateThread?thread=2254976&post=14774121&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2254976&post=14774121&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2254976" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2254976/viki+sale?offset=0&action=openThreadForm?postId=14774121&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=13" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2253646/Treasure+Golem+lvl+50"><b>Treasure Golem lvl 50</b></a></td>
+                        <td><a href="/page/The+Tetra+Ruins%2C+Antiquities+Chamber" class="WPC-tool WPC-tool-content WPC-indicate">The Tetra Ruins, Antiquities Chamber</a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 11 2009, 12:03 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA13" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB13" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 11 2009, 12:00 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2253646" onclick="application.toggleWatchThread(this.id, 2253646, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              I thought the treasure golem using a key yesterday and it was Lvl 50. not 40.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2253646&post=14764796" style="display:none;"><span id="agreeCount?thread=2253646&post=14764796"></span> &nbsp;out of <span id="totalCount?thread=2253646&post=14764796"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2253646&post=14764796">Do you find this valuable?</span></i> <span id="voteHolder?thread=2253646&post=14764796"><a id="action_rateThread?thread=2253646&post=14764796&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2253646&post=14764796&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2253646" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2253646/Treasure+Golem+lvl+50?offset=0&action=openThreadForm?postId=14764860&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply2253646').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2253646" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2253646/Treasure+Golem+lvl+50?offset=0#post14764860"><b>RE: Treasure Golem lvl 50</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Anonymous, Jan 11 2009, 12:03 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          Cause if you use a key the golem can appear in a different lvl and u get more nice drops :)
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2253646&post=14764860" style="display:none;"><span id="agreeCount?thread=2253646&post=14764860"></span> &nbsp;out of <span id="totalCount?thread=2253646&post=14764860"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2253646&post=14764860">Do you find this valuable?</span></i> <span id="voteHolder?thread=2253646&post=14764860"><a id="action_rateThread?thread=2253646&post=14764860&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2253646&post=14764860&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=14" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2251892/Question+about+Tactic+and+Combat+Manuals"><b>Question about Tactic and Combat Manuals</b></a></td>
+                        <td><a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a></td>
+                        <td align="center">1</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 10 2009, 6:08 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA14" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB14" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 10 2009, 4:07 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2251892" onclick="application.toggleWatchThread(this.id, 2251892, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              If they say Veteran, does that meanit only works if your a veteran, same for expert and etc?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2251892&post=14746832" style="display:none;"><span id="agreeCount?thread=2251892&post=14746832"></span> &nbsp;out of <span id="totalCount?thread=2251892&post=14746832"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2251892&post=14746832">Do you find this valuable?</span></i> <span id="voteHolder?thread=2251892&post=14746832"><a id="action_rateThread?thread=2251892&post=14746832&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2251892&post=14746832&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2251892" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2251892/Question+about+Tactic+and+Combat+Manuals?offset=0&action=openThreadForm?postId=14751108&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply2251892').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2251892" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2251892/Question+about+Tactic+and+Combat+Manuals?offset=0#post14751108"><b>RE: Question about Tactic and Combat Manuals</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Anonymous, Jan 10 2009, 6:08 PM EST</span>
+                                        <div style="margin-top:10px;">
+                                          nope they work for any level.
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2251892&post=14751108" style="display:none;"><span id="agreeCount?thread=2251892&post=14751108"></span> &nbsp;out of <span id="totalCount?thread=2251892&post=14751108"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2251892&post=14751108">Do you find this valuable?</span></i> <span id="voteHolder?thread=2251892&post=14751108"><a id="action_rateThread?thread=2251892&post=14751108&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2251892&post=14751108&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=15" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/1894750/20+Accelerators"><b>20 Accelerators</b></a></td>
+                        <td><a href="/page/Vincent+Rio" class="WPC-tool WPC-tool-content WPC-indicate">Vincent Rio</a></td>
+                        <td align="center">2</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 10 2009, 3:33 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA15" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB15" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Sep 23 2008, 11:11 AM EDT&nbsp; <a href="#watch" rel='watch' id="wc1894750" onclick="application.toggleWatchThread(this.id, 1894750, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Is there any possibility of getting 20 Accelerators in the game, without having to donate for them?
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=1894750&post=12256632"><span id="agreeCount?thread=1894750&post=12256632">3</span> &nbsp;out of <span id="totalCount?thread=1894750&post=12256632">9</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1894750&post=12256632" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1894750&post=12256632">Do you? <a id="action_rateThread?thread=1894750&post=12256632&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1894750&post=12256632&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=1894750" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/1894750/20+Accelerators?offset=0&action=openThreadForm?postId=14732773&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply1894750').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply1894750" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                                      </td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/1894750/20+Accelerators?offset=0#post14732773"><b>RE: 20 Accelerators</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;Anonymous, Jan 10 2009, 3:33 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          Buy from MM
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=1894750&post=14732773"><span id="agreeCount?thread=1894750&post=14732773">2</span> &nbsp;out of <span id="totalCount?thread=1894750&post=14732773">2</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=1894750&post=14732773" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=1894750&post=14732773">Do you? <a id="action_rateThread?thread=1894750&post=14732773&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=1894750&post=14732773&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=16" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2245926/How+do+i+get+Claire"><b>How do i get Claire</b></a></td>
+                        <td><a href="/page/Claire" class="WPC-tool WPC-tool-content WPC-indicate">Claire</a></td>
+                        <td align="center">2</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 10 2009, 1:23 AM EST</span> by <a href="/account/Gorlen" id="action_accountMenu?account=Gorlen&subject=How+do+i+get+Claire&from=threadFirstAccount2245926&threadId=2245926" class="action" onclick="return false">Gorlen</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA16" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB16" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 9 2009, 3:37 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2245926" onclick="application.toggleWatchThread(this.id, 2245926, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Hello guys<br>
+                              <br>
+                              Well she didn&#39;t ask me any sword from Jose!!!she only says something about Tata, Olala and some other craps which i have to choose one of them. Even if i choose...nothing happend -.-
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2245926&post=14704053"><span id="agreeCount?thread=2245926&post=14704053">0</span> &nbsp;out of <span id="totalCount?thread=2245926&post=14704053">4</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2245926&post=14704053" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2245926&post=14704053">Do you? <a id="action_rateThread?thread=2245926&post=14704053&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2245926&post=14704053&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2245926" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2245926/How+do+i+get+Claire?offset=0&action=openThreadForm?postId=14731294&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul><a href="#lastReply" onclick="document.getElementById('threadLastReply2245926').style.display='block';this.style.display='none';return false;">Show Last Reply</a>
+                              <div style="margin-top:10px;">
+                                <div id="threadLastReply2245926" style="display:none;padding-top:10px;">
+                                  <table>
+                                    <tr>
+                                      <td><a href="/account/Gorlen" id="action_accountMenu?account=Gorlen&subject=How+do+i+get+Claire&from=threadImg2245926&threadId=2245926" class="action" onclick="return false"><img class="imageSm" src="http://image.wetpaint.com/image/1/LxX48FviX4M3_A_8cAWhcA25923/GW050" alt="Gorlen"></a></td>
+                                      <td width="100%">
+                                        <b>Last Reply:</b><br>
+                                        <a href="/thread/2245926/How+do+i+get+Claire?offset=0#post14731294"><b>RE: How do i get Claire</b></a><br>
+                                        <span style="white-space:nowrap;font-size:90%;">By:&nbsp;<a href="/account/Gorlen" id="action_accountMenu?account=Gorlen&subject=How+do+i+get+Claire&from=threadLastAccount2245926&threadId=2245926" class="action" onclick="return false">Gorlen</a>, Jan 10 2009, 1:23 AM EST</span>
+                                        <div style="margin-top:10px;">
+                                          the next patch claire will be released. right now she is just there.... taunting us with her loli looks......
+                                        </div>
+                                        <div style="margin-top:10px;">
+                                          <span class="threadRater"><i><span id="voteCountHolder?thread=2245926&post=14731294" style="display:none;"><span id="agreeCount?thread=2245926&post=14731294"></span> &nbsp;out of <span id="totalCount?thread=2245926&post=14731294"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2245926&post=14731294">Do you find this valuable?</span></i> <span id="voteHolder?thread=2245926&post=14731294"><a id="action_rateThread?thread=2245926&post=14731294&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2245926&post=14731294&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=17" href="#toggle"></a></td>
+                        <td><a href="/account/blob123" id="action_accountMenu?account=blob123&subject=buy+catherine+%3A%29&from=threadAccount2245955&threadId=2245955" class="action" onclick="return false">blob123</a></td>
+                        <td><a href="/thread/2245955/buy+catherine+%3A%29"><b>buy catherine :)</b></a></td>
+                        <td><a href="/thread" class="WPC-tool WPC-tool-forum WPC-indicate">Discussion Forum</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 9 2009, 3:59 AM EST</span> by <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=buy+catherine+%3A%29&from=threadFirstAccount2245955&threadId=2245955" class="action" onclick="return false">blob123</a></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA17" style="display:none">
+                            <a href="/account/blob123" id="action_accountMenu?account=blob123&subject=buy+catherine+%3A%29&from=threadImg2245955&threadId=2245955" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB17" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 9 2009, 3:59 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2245955" onclick="application.toggleWatchThread(this.id, 2245955, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              i need plvl and more then it i want to buy catherine in cheap price!
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2245955&post=14704148" style="display:none;"><span id="agreeCount?thread=2245955&post=14704148"></span> &nbsp;out of <span id="totalCount?thread=2245955&post=14704148"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2245955&post=14704148">Do you find this valuable?</span></i> <span id="voteHolder?thread=2245955&post=14704148"><a id="action_rateThread?thread=2245955&post=14704148&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2245955&post=14704148&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2245955" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2245955/buy+catherine+%3A%29?offset=0&action=openThreadForm?postId=14704148&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=18" href="#toggle"></a></td>
+                        <td><a href="/account/PirateZCounsil" id="action_accountMenu?account=PirateZCounsil&subject=Meaning+of+Sotnw+terms+%28things+we+didnt+know+before%29&from=threadAccount2245404&threadId=2245404" class="action" onclick="return false">PirateZCounsil</a></td>
+                        <td><a href="/thread/2245404/Meaning+of+Sotnw+terms+%28things+we+didnt+know+before%29"><b>Meaning of Sotnw terms (things we didnt know before)</b></a></td>
+                        <td><a href="/page/Wiki+Of+The+New+World" class="WPC-tool WPC-tool-content WPC-indicate">Wiki Of The New World</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 8 2009, 10:47 PM EST</span> by <a href="/account/PirateZCounsil" id="action_accountMenu?account=PirateZCounsil&subject=Meaning+of+Sotnw+terms+%28things+we+didnt+know+before%29&from=threadFirstAccount2245404&threadId=2245404" class="action" onclick="return false">PirateZCounsil</a></td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA18" style="display:none">
+                            <a href="/account/PirateZCounsil" id="action_accountMenu?account=PirateZCounsil&subject=Meaning+of+Sotnw+terms+%28things+we+didnt+know+before%29&from=threadImg2245404&threadId=2245404" class="action" onclick="return false"></a>
+                            <div title="no profile image available" class="avatarMissing"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB18" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 8 2009, 10:47 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2245404" onclick="application.toggleWatchThread(this.id, 2245404, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              Did you know----<br>
+                              Assize is a term that can sometimes mean Court room?<br>
+                              Gehenna is a Jewish equivalent of hell?<br>
+                              <br>
+                              What else dont we know? lets uncover more secrets.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2245404&post=14701154"><span id="agreeCount?thread=2245404&post=14701154">1</span> &nbsp;out of <span id="totalCount?thread=2245404&post=14701154">1</span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2245404&post=14701154" style="display:none;">Do you find this valuable?</span></i> <span id="voteHolder?thread=2245404&post=14701154">Do you? <a id="action_rateThread?thread=2245404&post=14701154&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2245404&post=14701154&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList"><a href="/tag/Secrets+Meanings" title="Secrets Meanings" class="pageTag">Secrets Meanings</a></span> (<a href="#tags" id="WPC-action_editTags?threadID=2245404" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2245404/Meaning+of+Sotnw+terms+%28things+we+didnt+know+before%29?offset=0&action=openThreadForm?postId=14701154&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=19" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2242167/sGE+servers..."><b>sGE servers...</b></a></td>
+                        <td><a href="/page/Everybody+likes+Trivia" class="WPC-tool WPC-tool-content WPC-indicate">Everybody likes Trivia</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 8 2009, 1:48 AM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA19" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB19" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 8 2009, 1:48 AM EST&nbsp; <a href="#watch" rel='watch' id="wc2242167" onclick="application.toggleWatchThread(this.id, 2242167, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              The 5 artists named after the previous 5 sGE servers are all Baroque artists. Two servers remained after a merge, named "Bach" and "Rembrandt." About a month later, another server was added, named "Giovanni."<br>
+                              <br>
+                              These 3 servers are named, again, after Baroque artists, the composers Johann Sebastian Bach and Giovanni Battista Pergolesi, and the painter Rembrandt Harmenszoon van Rijn. Incidentally, both servers named after the composers (Bach and Giovanni) are both PK servers, and the server named after the painter (Rembrandt) is a non-PK server.
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2242167&post=14680931" style="display:none;"><span id="agreeCount?thread=2242167&post=14680931"></span> &nbsp;out of <span id="totalCount?thread=2242167&post=14680931"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2242167&post=14680931">Do you find this valuable?</span></i> <span id="voteHolder?thread=2242167&post=14680931"><a id="action_rateThread?thread=2242167&post=14680931&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2242167&post=14680931&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2242167" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2242167/sGE+servers...?offset=0&action=openThreadForm?postId=14680931&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="altRow">
+                        <td><a class="expandToggle expandToggleCollapsed action" id="action_expandToggle?item=20" href="#toggle"></a></td>
+                        <td>Anonymous</td>
+                        <td><a href="/thread/2239411/known+crafting+material+drops"><b>known crafting material drops</b></a></td>
+                        <td><a href="/page/Via+Fluvial" class="WPC-tool WPC-tool-content WPC-indicate">Via Fluvial</a></td>
+                        <td align="center">0</td>
+                        <td class="farRightCell"><span style="white-space:nowrap">Jan 7 2009, 12:47 PM EST</span> by Anonymous</td>
+                      </tr>
+                      <tr class="altRow">
+                        <td></td>
+                        <td>
+                          <div class="historyRevision" id="expandToggleItemA20" style="display:none">
+                            <div title="Posted Anonymously" class="avatarAnonymous"></div>
+                          </div>
+                        </td>
+                        <td colspan="4" class="colspan farRightCell">
+                          <div class="historyRevision" id="expandToggleItemB20" style="display:none">
+                            <span style="white-space:nowrap;font-size:90%;">Thread started:&nbsp;Jan 7 2009, 12:47 PM EST&nbsp; <a href="#watch" rel='watch' id="wc2239411" onclick="application.toggleWatchThread(this.id, 2239411, '/wiki/sotnw', true); return false;">Watch</a></span>
+                            <div style="margin-top:10px;">
+                              here u can find also Rare Book of Magic (semi-rare)
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="threadRater"><i><span id="voteCountHolder?thread=2239411&post=14661054" style="display:none;"><span id="agreeCount?thread=2239411&post=14661054"></span> &nbsp;out of <span id="totalCount?thread=2239411&post=14661054"></span>&nbsp;found this valuable.</span> <span id="noVoteMessage?thread=2239411&post=14661054">Do you find this valuable?</span></i> <span id="voteHolder?thread=2239411&post=14661054"><a id="action_rateThread?thread=2239411&post=14661054&vote=agree" class="agree action" href="#Agree" onclick="return false;" title="yes">&nbsp;</a> <a id="action_rateThread?thread=2239411&post=14661054&vote=disagree" class="disagree action" href="#Disagree" onclick="return false;" title="no">&nbsp;</a></span></span>
+                              <div class="threadTags">
+                                <div class="WPC-tagModule">
+                                  <span class="WPC-tagLabel">Keyword tags:</span> <span class="WPC-tagList">None</span> (<a href="#tags" id="WPC-action_editTags?threadID=2239411" class="WPC-action">edit keyword tags</a>)
+                                </div>
+                              </div>
+                            </div>
+                            <div style="margin-top:10px;">
+                              <span class="controlsNode"></span>
+                              <ul class="WPC-toolsMenu">
+                                <li><span class="controlsNode"><a href="/thread/2239411/known+crafting+material+drops?offset=0&action=openThreadForm?postId=14661054&isWatching=false" class="WPC-tool WPC-tool-replyThread">Post reply</a></span></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="pagingWrapper">
+                    <div class="paging">
+                      <a href="/thread?offset=60&maxResults=20">Previous</a> | <a href="/thread?offset=0&maxResults=20">1</a>&nbsp;<a href="/thread?offset=20&maxResults=20">2</a>&nbsp;<a href="/thread?offset=40&maxResults=20">3</a>&nbsp;<a href="/thread?offset=60&maxResults=20">4</a>&nbsp;5&nbsp;<a href="/thread?offset=100&maxResults=20">6</a>&nbsp;<a href="/thread?offset=120&maxResults=20">7</a>&nbsp;<a href="/thread?offset=140&maxResults=20">8</a>&nbsp;<a href="/thread?offset=160&maxResults=20">9</a>&nbsp; | <a href="/thread?offset=100&maxResults=20">Next</a> &gt; <a href="/thread?offset=520&maxResults=20">Last</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div><noscript><br>
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br>
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelHeader close">
+                <div title="expand | collapse this panel" class="panelControl"></div>Site pages
+              </div>
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="10">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li><a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a></li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="43">Quests</a></li>
+                            <li><a href="/page/Raids" rel="15">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="2">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            wetpaintLoad('scroller');
+            </script>
+            <div id="topContributors" class="panel">
+              <div class="panelHeader open">
+                <div title="expand | collapse this panel" class="panelControl"></div>Top Contributors
+              </div>
+              <div class="panelContent" style="display:none;">
+                <div id="tcLoading" style="width:140px; margin:auto">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent">
+          <img src="http://static.wetpaint.com/img/bg/1.png" alt="Create your own free Wetpaint site" width="123" height="77">
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a href="/contact">Contact Wetpaint</a></span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a href="/privacy">Privacy</a></span></li>
+          <li><span><a href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Spore</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>Free Rider</span></li>
+            <li><span>Kitchen and Bath</span></li>
+            <li><span>Xbox 360.</span></li>
+            <li class="first promotedViewMore"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script language="JavaScript">
+
+
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090122154811" type="text/javascript"><\/scr' + 'ipt>');
+  </script> 
+  <script type="text/javascript">
+
+  var s_account='wetpaintglobal,wetpaintuser';
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js"></script> 
+  <script type="text/javascript">
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b16';s_w.channel='discussionForum';s_w.pageType='discussionForum';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(66/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5='anonymous';s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10='discussionForum';s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar14=(global_inits['AB_TEST'] == 0) ? 'na' : (global_inits['AB_TEST'] == 1) ? 'joinNag' : 'noJoinNag';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  </script> 
+  <script type="text/javascript">
+
+
+        if (document.getElementById('crossSiteAdsPanel')) {
+                document.write('<scr' + 'ipt src="http://static.wetpaint.com/scripts/wpjsPanel/crossSiteAds/p.js" type="text/javascript"><\/scr' + 'ipt>');
+        }
+  </script> 
+  <script type="text/javascript">
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  </script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    </script>
+  </div>
+</body>
+</html>

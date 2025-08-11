@@ -1,0 +1,899 @@
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Dr Torsche&#039;s Mansion, Grand Library - History Page - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Dr Torsche&#039;s Mansion, Grand Library - History Page" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="stylesheet" media="screen" type="text/css" href="http://static.wetpaint.com/scripts/CSSApplication/wpc.css?v=20090831145704" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/family/f.css?20090831145704" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/skin/peach/s.css?20090831145704" />
+  <link rel="stylesheet" media="screen, projection, tv" type="text/css" href="http://static.wetpaint.com/scripts/wpcss/core/c.css?20090831145704" />
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wetpaint.com/scripts/wpcss/print/p.css?20090831145704"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wetpaint.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'peach',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'registered',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : 'Dr Torsche\'s Mansion, Grand Library',"PAGE_URI" : '/page/Dr+Torsche%27s+Mansion%2C+Grand+Library',"IMAGE_SERVER_URI" : 'http://image.wetpaint.com',"STATIC_SERVER_URI" : 'http://static.wetpaint.com',"WIDGET_SERVER_URI" : 'http://widget.wetpaintserv.us',"TOGO_SERVER_URI" : 'http://attached-wapi.wetpaint.com',"FACEBOOK_API_KEY" : '2d1eb4e17fac67b271042da4fd42a3e1',"FACEBOOK_FEED_TEMPLATE" : '78947714267',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : 'pageHistory',"IS_READONLY" : false,"ACTION" : '',"WPC_ACTION" : '',"BREADCRUMBS" : ['Wiki Of The New World','Maps and Area Info','Dungeons','Dr Torsche\'s Mansion (Dungeon)','Dr Torsche\'s Mansion, Grand Library']};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://static.wetpaint.com/scripts/wpjs/www.js?v=20090831145704" type="text/javascript"></script>
+  <script language="JavaScript">
+  <![CDATA[
+        document.write('<scr' + 'ipt id="wptrkElem" src="http://www.wetpaint.com/scripts/wptrk?sn=sotnw&v=20090831145704" type="text/javascript"><\/scr' + 'ipt>');
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                var wp_ads = {serviceId:'ca-pub-5526064907005908',noAdSense:'_NoAdsense',flagged:''};
+                GS_googleAddAdSenseService(wp_ads.serviceId);
+                GS_googleEnableAllServices();
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                wp_ads.noAdSense = '';
+                wp_ads.top = 'Top' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.top);
+                GA_googleAddAdSenseSlotAttr(wp_ads.top, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+
+                wp_ads.topPromo = 'TopPromo' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.topPromo);
+                GA_googleAddAdSenseSlotAttr(wp_ads.topPromo, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.inContent = 'InContent' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.inContent);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.content = 'Content' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.content);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.left = 'Left' + wp_ads.noAdSense + wp_ads.flagged;
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.left);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_ad_channel","1000006000,1000001000,1000004000,1000004001,1000000107,1000001007,1000004008");
+        
+                wp_ads.tracking = 'Tracking';
+                GA_googleAddSlot(wp_ads.serviceId, wp_ads.tracking);
+        
+                
+                        GA_googleAddAdSensePageAttr("google_hints","games, online gaming, free games, online game, video game, pogo game, flash game, card game, fun game, math game,  ");
+                
+                GA_googleAddAdSensePageAttr("google_ad_type","text");
+        
+                
+                GA_googleAddAttr("Pageview","PHistory");
+                GA_googleAddAttr("Permission","Registered");
+                GA_googleAddAttr("Screened","No");
+                GA_googleAddAttr("Topic","Games");
+                GA_googleAddAttr("WikiName","sotnw");
+                GA_googleAddAttr("UserRole","Anonymous");
+                
+                (function() {
+            
+            var wpptrk = 'wpptrk',
+                returnVisitor = String(Boolean(global_inits['GPVC'] > 10)),
+                isUser = String(Boolean(false || global_inits['IS_USER']));
+            GA_googleAddAttr("ReturnVisitor",returnVisitor);
+            GA_googleAddAttr("IsWPUser",isUser);                        
+        })(WPC.CookieUtility.getCookieKeyValue);
+
+                                
+                GA_googleAddAttr('AgeGroup','');
+                GA_googleAddAttr('Gender','');
+        
+                
+                var google_color_border = '';
+                var google_color_bg = '';
+                var google_color_text = '';
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.content, "google_color_text", google_color_text);
+                
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.inContent, "google_color_text", google_color_text);
+                
+                google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_text = "666666";
+
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_border", google_color_border);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_bg", google_color_bg);
+                GA_googleAddAdSenseSlotAttr(wp_ads.left, "google_color_text", google_color_text);
+                
+  ]]>
+  </script>
+  <script language="JavaScript">
+  <![CDATA[
+                
+                GA_googleFetchAds();
+  ]]>
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="allcontent">
+    <a name="top" id="top"></a>
+    <div id="allcontentInner" class="WPC-content">
+      <div id="userHeader">
+        <div id="userBrand">
+          <div id="userActions">
+            <ul>
+              <li class="first wetpaintBranding">A Wetpaint&nbsp;Site</li>
+            </ul>
+          </div>
+          <div id="userCredentials">
+            <ul class="uninitted off">
+              <li class="first" id="credentials_login"><a style="float:left" href="#signin" id="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=header&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in&nbsp;<span class="wetpaintBranding">to Wetpaint</span></a> <span class="logo wetpaintBranding">&nbsp;</span><span style="clear:left"></span></li>
+              <li class="clear"></li>
+            </ul>
+          </div>
+          <div id="userUnsupportedBrowser" style="display: none;">
+            <img src="/img/3rdparty/ie_logo.png?v=20090831145704" alt="IE Logo" width="17" height="18" /><span>Internet Explorer 6.0 is not supported. Please try IE 8 or Firefox.</span>
+          </div>
+        </div>
+      </div>
+      <div id="siteHeader">
+        <h1 id="WPC-title"><a href="/"><img src="http://image.wetpaint.com/image/3/FZiU3a503NgavW7AoQlmyA156318" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage" name="headerImage" /></a></h1>
+      </div>
+      <div id="gNav">
+        <ul id="gnCategory">
+          <li class="gn first"><a href="/">Home</a></li>
+          <li class="gn"><a href="/forum">Discussions</a></li>
+          <li class="gn"><a href="/photos">Photos</a></li>
+          <li class="gn"><a href="/videos">Videos</a></li>
+          <li class="gn"><a href="/news">News</a></li>
+          <li class="gn"><a href="/whatsnew">Updates</a></li>
+          <li class="gn"><a href="/droplets">Droplets</a></li>
+          <li class="gn"><a href="/accountSearch/all">Members</a></li>
+          <li class="gn"><a href="/invitation">Invite</a></li>
+        </ul><span class="gnEdge"><span class="gnE5"></span> <span class="gnE4"></span> <span class="gnE3"></span> <span class="gnE2"></span> <span class="gnE1"></span></span>
+        <div id="gnJoin">
+          <div class="content">
+            <div class="alreadyMember">
+              Have a Wetpaint account? <a href="#signin" id="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin" class="WPC-action" onclick="return false;" name="WPC-action_login?from=userToolbox&nextAction=informJoin%3FcontentKey%3DConfirmJoin">Sign in</a>
+            </div>
+            <div class="joinButtons">
+              <a class="WPC-action hidden fbconnect_login_button" id="WPC-action_pre-login-facebook?1252039536743" name="WPC-action_pre-login-facebook?1252039536743"><img src="/img/3rdparty/facebook_medium.png?v=20090831145704" alt="Facebook Connect" width="89px" height="21px" /></a> <span class="join-button"><button id="WPC-action_join?from=joinButton&treatment=SIGNUP" class="WPC-action" style="border:0;"><span class="join-button"><span class="join-button"></span></span></button></span>
+            </div>
+          </div>
+        </div><span class="gnEdge gnEdgeAlt"><span class="gnE1"></span> <span class="gnE2"></span> <span class="gnE3"></span> <span class="gnE4"></span> <span class="gnE5"></span> <span class="gnE6"></span> <span class="gnE7"></span> <span class="gnE8"></span> <span class="gnE9"></span> <span class="gnE10"></span> <span class="gnE11"></span> <span class="gnE12"></span> <span class="gnE13"></span> <span class="gnE14"></span> <span class="gnE15"></span> <span class="gnE16"></span> <span class="gnE17"></span> <span class="gnE18"></span> <span class="gnE19"></span> <span class="gnE20"></span></span>
+        <div class="clear"></div>
+      </div>
+      <div id="adsTop">
+        <div class="ads adstop">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+          //]]>
+          </script>
+        </div>
+        <div class="ads adstopPromo">
+          <script type="text/javascript">
+          //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+          //]]>
+          </script>
+        </div>
+      </div>
+      <div id="outer">
+        <div id="pageContainer">
+          <div id="mainColumn">
+            <div id="pageContent">
+              <div id="pageContentInner">
+                <div id="contentTitle">
+                  <h1><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library">Dr Torsche&#039;s Mansion, Grand Library</a></h1>
+                </div>
+                <div class="tabNavigation">
+                  <ul>
+                    <li class="selected">Page Versions</li>
+                    <li><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/todos/updated">To-Dos</a></li>
+                  </ul>
+                  <div class="clear"></div>
+                </div>
+                <div class="clear"></div><span class="revisionsKey">Key:&nbsp;&nbsp;<span class="diffAdd">additions</span>&nbsp;&nbsp;&nbsp;<span class="diffRemove">deletions</span></span>
+                <div id="compareVersionError" class="error" style="display:none">
+                  Please select two page versions to compare - check the checkbox to the right of each version.
+                </div>
+                <div id="history">
+                  <div class="pagingWrapper">
+                    <div class="pagingActionWrapper">
+                      <span class="pagingAction"></span>
+                      <form action="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/history;jsessionid=0F83F479C336D576D86972DC9C25C6F2" method="get">
+                        <span class="pagingAction"><input type="hidden" name="offset" value="0" /> Showing&nbsp;1&nbsp;-&nbsp;20&nbsp;of&nbsp;21 &nbsp;|&nbsp; Show&nbsp;<select name="maxResults" onchange="this.form.submit()" style="font-size:80%">
+                          <option value="10">
+                            10
+                          </option>
+                          <option value="20" selected="selected">
+                            20
+                          </option>
+                          <option value="50">
+                            50
+                          </option>
+                        </select> pages&nbsp;at a time</span>
+                      </form>
+                    </div>
+                    <div class="paging">
+                      1&nbsp;<a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/history;jsessionid=0F83F479C336D576D86972DC9C25C6F2?offset=20&maxResults=20">2</a>&nbsp; | <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/history;jsessionid=0F83F479C336D576D86972DC9C25C6F2?offset=20&maxResults=20">Next</a>
+                    </div>
+                  </div>
+                  <form id="historyCheckboxForm" onsubmit="return false" name="historyCheckboxForm">
+                    <div class="tableList">
+                      <table>
+                        <tr class="header">
+                          <th><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?parentNodeId=history" href="#toggle" name="WPC-action_expandToggle?parentNodeId=history"></a></th>
+                          <th>Date/Time</th>
+                          <th>Made&nbsp;By</th>
+                          <th>Edit Note</th>
+                          <th>Type</th>
+                          <th>Scope</th>
+                          <th class="header compareCell farRightCell"><button id="WPC-action_compareRevisions" class="compareButton WPC-action" onclick="return false">Compare</button></th>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleExpanded WPC-action" id="WPC-action_expandToggle?item=1" href="#toggle" name="WPC-action_expandToggle?item=1"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library">Jul 2 2009, 5:35 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/wtfprotein" id="WPC-action_accountMenu?account=wtfprotein&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status1&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=wtfprotein&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status1&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">wtfprotein</a></td>
+                          <td>
+                            <div class="historyComment">
+                              SOTNW Name for the Hollow Footman&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">2 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox21" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA1" style="display: ;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffAdd">/ Sentinel</span> Classification: Lifeless Armor: Hard Armor Element: No Attribute Size: Small Level: 58 Max HP: 889 ATK Rating: 29 Fire RES: 0 ATK: 437 Ice RES: 0 DEF Rating: 29 Lightning RES: 0 DEF: 62 Mental RES: 0 Strange Item: Strange Tube Name: Haunted Desk Classification: Lifeless Armor: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/20,21">View changes from previous version.</a> (Word count: 755)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=2" href="#toggle" name="WPC-action_expandToggle?item=2"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/20">Apr 30 2009, 1:50 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status2&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status2&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">whodisnoob</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">4 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox20" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA2" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;OtiteGold PieceTough Cotton Yarn (Rare)Soft Cotton Yarn (Rare)A Patch of Dress (from Sasha)A Patch of Maid Dress (from Helena)Refined Aidanium (from Haunted Desk, Haunted Book)Refined Quartz (from Sasha)<span class="diffAdd">Piece of Emerald (rare)</span>Special Zone Specific Drops:Broom (level 60 unique polearm, from Helena) &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/19,20">View changes from previous version.</a> (Word count: 754)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=3" href="#toggle" name="WPC-action_expandToggle?item=3"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/19">Mar 14 2009, 4:21 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/whodisnoob" id="WPC-action_accountMenu?account=whodisnoob&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status3&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=whodisnoob&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status3&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">whodisnoob</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 word added</span><br />
+                          <span class="nowrap">1 word deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox19" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA3" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Polish:Initiate(1)</span><span class="diffAdd">Polish:Disciple(1)</span>Common rewards: Amber, 11 Family Reputation points.Creature List:Name: (Elite) Sasha Classification: Lifeless Armor: Light Armor Element: No Attribute Size: Medium (Small) Level: 58 Max HP: 889 (3416) ATK Rating: 29 Fire RES: 0 ATK: 282 (346) Ice RES: 0 DEF Rating: 29 Lightning RES: 0 DEF: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/18,19">View changes from previous version.</a> (Word count: 750)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=4" href="#toggle" name="WPC-action_expandToggle?item=4"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/18">Aug 4 2008, 1:49 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/warrenac" id="WPC-action_accountMenu?account=warrenac&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status4&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=warrenac&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status4&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">warrenac</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Added kills for Hollow Footman, polish for victor&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">6 words added</span><br />
+                          <span class="nowrap">4 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox18" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA4" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">kills, also gives Polish:Initiate(1)</span><span class="diffRemove">Comon</span><span class="diffAdd">Common</span> rewards: Amber, 11 Family Reputation points.Creature List:Name: (Elite) Sasha Classification: Lifeless Armor: Light Armor Element: No Attribute Size: Medium (Small) Level: 58 Max HP: 889 (3416) ATK Rating: 29 Fire RES: 0 ATK: 282 (346) Ice RES: 0 DEF Rating: 29 &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/17,18">View changes from previous version.</a> (Word count: 750)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=5" href="#toggle" name="WPC-action_expandToggle?item=5"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/17">Jun 15 2008, 11:28 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/sacauntos" id="WPC-action_accountMenu?account=sacauntos&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status5&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=sacauntos&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status5&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">sacauntos</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">2 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox17" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA5" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; Drops:Piece of OtiteGold PieceTough Cotton Yarn <span class="diffAdd">(Rare)</span>Soft Cotton Yarn <span class="diffAdd">(Rare)</span>A Patch of Dress (from Sasha)A Patch of Maid Dress (from Helena)Refined Aidanium (from Haunted Desk, Haunted Book)Refined Quartz (from Sasha)Special Zone Specific Drops:Broom (level 60 unique polearm, from Helena) &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/16,17">View changes from previous version.</a> (Word count: 746)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=6" href="#toggle" name="WPC-action_expandToggle?item=6"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/16">Jun 12 2008, 2:45 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/friedrice8791" id="WPC-action_accountMenu?account=friedrice8791&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status6&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=friedrice8791&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status6&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">friedrice8791</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">9 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox16" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA6" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;Known Crafting Material Drops:<span class="diffAdd">Piece of</span> OtiteGold PieceTough Cotton YarnSoft Cotton YarnA Patch of Dress (from Sasha)A Patch of Maid Dress (from Helena)Refined Aidanium (from Haunted Desk, Haunted Book)Refined Quartz (from Sasha)Special Zone Specific Drops:<span class="diffAdd">Broom (level 60 unique polearm, from Helena)</span> &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/15,16">View changes from previous version.</a> (Word count: 744)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=7" href="#toggle" name="WPC-action_expandToggle?item=7"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/15">May 21 2008, 1:39 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/kvait" id="WPC-action_accountMenu?account=kvait&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status7&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=kvait&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status7&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">kvait</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">8 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox15" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA7" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; 30 DEF: 69 Mental RES: 30Notes: Zone Boss!Known Crafting Material Drops:Otite<span class="diffAdd">Gold Piece</span><span class="diffAdd">Tough Cotton Yarn</span><span class="diffAdd">Soft Cotton Yarn</span>A Patch of Dress (from Sasha)A Patch of Maid Dress (from Helena)Refined Aidanium (from Haunted Desk, Haunted Book)Refined Quartz (from Sasha)Special Zone Specific Drops: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/14,15">View changes from previous version.</a> (Word count: 735)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=8" href="#toggle" name="WPC-action_expandToggle?item=8"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/14">May 21 2008, 1:37 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/kvait" id="WPC-action_accountMenu?account=kvait&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status8&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=kvait&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status8&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">kvait</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">4 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox14" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA8" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; Ice RES: 30 DEF Rating: 33 Lightning RES: 30 DEF: 69 Mental RES: 30Notes: Zone Boss!Known Crafting Material Drops:OtiteA Patch of Dress (from Sasha)A Patch of Maid Dress (from Helena)Refined Aidanium (from Haunted Desk, Haunted Book)<span class="diffAdd">Refined Quartz (from Sasha)</span>Special Zone Specific Drops: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/13,14">View changes from previous version.</a> (Word count: 727)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=9" href="#toggle" name="WPC-action_expandToggle?item=9"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/13">May 8 2008, 5:19 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status9&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status9&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox13" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA9" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;There were only format changes (bold, italics, etc.) in this version. <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/12,13">See this version for details.</a> (Word count: 723)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=10" href="#toggle" name="WPC-action_expandToggle?item=10"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/12">May 6 2008, 6:08 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/de_Berke" id="WPC-action_accountMenu?account=de_Berke&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status10&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=de_Berke&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status10&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">de_Berke</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Added zone locations for laboratory &amp; butler at top of page under zone features&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">8 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox12" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA10" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Dr. Torche&#39;s Laboratory: F4</span><span class="diffAdd">Kaimen the Butler: G5/G6</span> Connected Zones: Lvl 55-58 - Dr Torsche&#39;s Mansion, Reception HallBoss - Dr Torche&#39;s Mansion, LaboratoryExploration Memorial Quests:Sasha (Repeatable) 100 kills, 56+ lvlHelena (Repeatable) 250 kills, 57+ lvlFreezing Helena (Non-repeatable) 50 kills, 57+ lvlFiery Helena &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/11,12">View changes from previous version.</a> (Word count: 723)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=11" href="#toggle" name="WPC-action_expandToggle?item=11"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/11">Apr 12 2008, 5:46 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status11&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=WeazerDevil&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status11&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">WeazerDevil</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Updated links&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">2 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox11" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA11" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Boss -</span> Dr Torche&#39;s Mansion, LaboratoryExploration Memorial Quests:Sasha (Repeatable) 100 kills, 56+ lvlHelena (Repeatable) 250 kills, 57+ lvlFreezing Helena (Non-repeatable) 50 kills, 57+ lvlFiery Helena (Non-repeatable) 50 kills, 57+ lvlElectric Helena (Non-repeatable) 50 kills, 57+ lvlHaunted Book (Non-repeatable) 100 kills, 58+ lvlHaunted &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/10,11">View changes from previous version.</a> (Word count: 713)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=12" href="#toggle" name="WPC-action_expandToggle?item=12"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/10">Apr 12 2008, 5:39 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/WeazerDevil" id="WPC-action_accountMenu?account=WeazerDevil&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status12&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=WeazerDevil&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status12&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">WeazerDevil</a></td>
+                          <td>
+                            <div class="historyComment">
+                              Updated map&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 image added</span><br />
+                          <span class="nowrap">1 image deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox10" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA12" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;There were only format changes (bold, italics, etc.) in this version. <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/9,10">See this version for details.</a> (Word count: 712)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=13" href="#toggle" name="WPC-action_expandToggle?item=13"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/9">Apr 1 2008, 9:51 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status13&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status13&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">7 words added</span><br />
+                          <span class="nowrap">210 words deleted</span><br />
+                          <span class="nowrap">7 images added</span><br />
+                          <span class="nowrap">6 images deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox9" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA13" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Notes: &lt;Delete line if none, but add important creature specific information here. Such as counts as flying, can hit levitating characters, can see through invisible stalker, etc.&gt;</span>Name: Haunted DeskClassification: LifelessArmor: Light ArmorElement: No AttributeSize: SmallLevel: 60Max HP: 940ATK Rating: 30Fire RES: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/8,9">View changes from previous version.</a> (Word count: 712)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=14" href="#toggle" name="WPC-action_expandToggle?item=14"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/8">Apr 1 2008, 9:26 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status14&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status14&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">8 words deleted</span><br />
+                          <span class="nowrap">1 image added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox8" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA14" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp; <span class="diffRemove">&lt;Image of Map, with text-wrapping set to none&gt;</span>Connected Zones: Lvl 55-58 - Dr Torsche&#39;s Mansion, Reception HallDr Torche&#39;s Mansion, LaboratoryExploration Memorial Quests:Sasha (Repeatable) 100 kills, 56+ lvlHelena (Repeatable) 250 kills, 57+ lvlFreezing Helena (Non-repeatable) 50 kills, 57+ lvlFiery Helena (Non-repeatable) &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/7,8">View changes from previous version.</a> (Word count: 917)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=15" href="#toggle" name="WPC-action_expandToggle?item=15"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/7">Mar 23 2008, 12:55 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status15&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status15&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">102 words added</span><br />
+                          <span class="nowrap">37 words deleted</span><br />
+                          <span class="nowrap">1 image added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox7" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA15" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">&lt;Any additional information regarding this particular map, such as Tree Stumps of Death, Hedge Stone Location, Channel 1 Only objects&gt;</span> &lt;Image of Map, with text-wrapping set to none&gt;Connected Zones: Lvl 55-58 - Dr Torsche&#39;s Mansion, Reception HallDr Torche&#39;s Mansion, Laboratory<span class="diffRemove">&lt;Any additional Map names/zones connected to this map&gt;</span> &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/6,7">View changes from previous version.</a> (Word count: 926)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=16" href="#toggle" name="WPC-action_expandToggle?item=16"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/6">Mar 23 2008, 12:26 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status16&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status16&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">24 words added</span><br />
+                          <span class="nowrap">25 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox6" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA16" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Walter - 700 kills</span>Hollow Footman - &lt;amount needed&gt; killsLloyd - <span class="diffRemove">&lt;amount needed&gt;</span><span class="diffAdd">150</span> killsSasha - <span class="diffRemove">&lt;amount needed&gt;</span><span class="diffAdd">150</span> killsHelena - <span class="diffRemove">&lt;amount needed&gt;</span><span class="diffAdd">500</span> kills<span class="diffRemove">&lt;name of</span><span class="diffAdd">Victor</span> <span class="diffRemove">creature&gt;</span> - <span class="diffRemove">&lt;amount needed&gt;</span><span class="diffAdd">10</span> killsComon rewards: Amber, <span class="diffAdd">11</span> Family Reputation points.Creature List:Name: (Elite) SashaClassification: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/5,6">View changes from previous version.</a> (Word count: 862)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=17" href="#toggle" name="WPC-action_expandToggle?item=17"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/5">Mar 20 2008, 5:39 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status17&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status17&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">31 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox5" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA17" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Strange Gear (from Haunted Candles, Haunted Desk) &lt;requires specification&gt;</span><span class="diffRemove">Strange Hinge (from Haunted Desk) &lt;requires specification&gt;</span><span class="diffRemove">Strange Clock (from Haunted Book) &lt;requires specification&gt;</span>A Patch of Dress (from Sasha)A Patch of Maid Dress (from Helena)&lt;Add known crafting material drops here, be &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/4,5">View changes from previous version.</a> (Word count: 864)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=18" href="#toggle" name="WPC-action_expandToggle?item=18"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/4">Mar 20 2008, 12:43 PM EDT</a></td>
+                          <td class="nowrap"><a href="/account/Lothmak" id="WPC-action_accountMenu?account=Lothmak&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status18&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=Lothmak&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status18&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">Lothmak</a></td>
+                          <td>
+                            <div class="historyComment">
+                              semi copletd the to do, lloyd is missing&nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">18 words added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox4" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA18" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Strange Item: Strange Gear - Hinge</span>Notes: &lt;Delete line if none, but add important creature specific information here. Such as counts as flying, can hit levitating characters, can see through invisible stalker, etc.&gt;Name: Haunted BookClassification: LifelessArmor: Light ArmorElement: No AttributeSize: SmallLevel: 60Max HP: &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/3,4">View changes from previous version.</a> (Word count: 895)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=19" href="#toggle" name="WPC-action_expandToggle?item=19"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/3">Mar 20 2008, 8:10 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status19&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status19&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">1 word added</span><br />
+                          <span class="nowrap">14 words deleted</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox3" /></td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA19" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffRemove">Hengestone Location: &lt;Cords if present or delete line&gt;</span>Tree Stump Location: &lt;Cords if present or delete line&gt;&lt;Any additional information regarding this particular map, such as Tree Stumps of Death, Hedge Stone Location, Channel 1 Only objects&gt; &lt;Image of Map, with text-wrapping set to none&gt;Connected Zones: Lvl 55-58 - &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/2,3">View changes from previous version.</a> (Word count: 878)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr class="unselected altRow">
+                          <td><a class="expandToggle expandToggleCollapsed WPC-action" id="WPC-action_expandToggle?item=20" href="#toggle" name="WPC-action_expandToggle?item=20"></a></td>
+                          <td class="nowrap"><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/revision/2">Mar 20 2008, 8:06 AM EDT</a></td>
+                          <td class="nowrap"><a href="/account/pycajika" id="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status20&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library" class="WPC-action" onclick="return false" name="WPC-action_accountMenu?account=pycajika&subject=Dr+Torsche%27s+Mansion%2C+Grand+Library&from=status20&pageName=Dr+Torsche%27s+Mansion%2C+Grand+Library">pycajika</a></td>
+                          <td>
+                            <div class="historyComment">
+                              &nbsp;
+                            </div>
+                          </td>
+                          <td>edit</td>
+                          <td class="scopeCell"><span class="nowrap">539 words added</span><br />
+                          <span class="nowrap">181 words deleted</span><br />
+                          <span class="nowrap">9 images added</span><br /></td>
+                          <td class="compareCell"><input type="checkbox" class="checkbox" id="historyCheckbox2" /></td>
+                        </tr>
+                        <tr class="altRow">
+                          <td colspan="7" class="colspan">
+                            <div class="historyRevision" id="expandToggleItemA20" style="display: none;">
+                              <div class="historyRevisionAbstract">
+                                <b>Change:</b>&nbsp;<span class="diffAdd">Notes: &lt;Delete line if none, but add important creature specific information here. Such as counts as flying, can hit levitating characters, can see through</span> <span class="diffAdd">invisible stalker, etc.&gt;</span>Name: <span class="diffAdd">Electric</span> <span class="diffAdd">Helena</span>Classification: <span class="diffAdd">Lifeless</span>Armor: <span class="diffAdd">Soft Armor</span>Element: <span class="diffRemove">No Attribute</span><span class="diffAdd">Lightning</span>Size: <span class="diffAdd">Medium</span>Level: <span class="diffAdd">59</span>Max HP: <span class="diffAdd">908</span>ATK Rating: <span class="diffAdd">29</span>Fire &nbsp; <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/diff/1,2">View changes from previous version.</a> (Word count: 890)
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                  </form>
+                  <div class="pagingWrapper">
+                    <div class="paging">
+                      1&nbsp;<a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/history;jsessionid=0F83F479C336D576D86972DC9C25C6F2?offset=20&maxResults=20">2</a>&nbsp; | <a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library/history;jsessionid=0F83F479C336D576D86972DC9C25C6F2?offset=20&maxResults=20">Next</a>
+                    </div>
+                  </div>
+                </div><br />
+                <br />
+                <script src="http://static.wetpaint.com/scripts/wpjsPage/pagehistory/p.js?v=20090831145704" type="text/javascript"></script>
+              </div>
+            </div>
+          </div>
+          <div id="leftColumn">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything" /><input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;" /><input type="submit" class="submit" value="" />
+              </form>
+            </div><noscript><br />
+            <div class="browserWarning small">
+              JavaScript must be enabled in order for you to contribute to this site.<br />
+              To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+            </div></noscript>
+            <div id="drillDownSiteNavigation" class="panel">
+              <div class="panelContent">
+                <div id="leftDrillDownSiteNavigation">
+                  <div id="treeNavScroller">
+                    <div id="leftNavTree" class="treeList">
+                      <ul id="rootUl">
+                        <li>
+                          <a href="/" id="navHome" class="root" name="navHome">Home</a>
+                          <ul>
+                            <li><a href="/page/AM+Events+%26+Mass+PVP" rel="4">AM Events &amp; Mass PVP</a></li>
+                            <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="4">Crafting/Enchanting/Refining</a></li>
+                            <li><a href="/page/Family+Level+-+Barracks">Family Level - Barracks</a></li>
+                            <li><a href="/page/Guides" rel="5">Guides</a></li>
+                            <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                            <li><a href="/page/Instruction+Manual">Instruction Manual</a></li>
+                            <li><a href="/page/Jobs%2FClasses" rel="7">Jobs/Classes</a></li>
+                            <li>
+                              <a href="/page/Maps+and+Area+Info" rel="4">Maps and Area Info</a>
+                              <ul>
+                                <li><a href="/page/World+Map">World Map</a></li>
+                                <li><a href="/page/Cities" rel="7">Cities</a></li>
+                                <li><a href="/page/Zones" rel="45">Zones</a></li>
+                                <li>
+                                  <a href="/page/Dungeons" rel="11">Dungeons</a>
+                                  <ul>
+                                    <li><a href="/page/Al+Quelt+Moreza+%28Dungeon%29" rel="5">Al Quelt Moreza (Dungeon)</a></li>
+                                    <li><a href="/page/Bahamar+Caves+%28Dungeon%29" rel="2">Bahamar Caves (Dungeon)</a></li>
+                                    <li><a href="/page/Capybara+Plantation+%28Dungeon%29" rel="3">Capybara Plantation (Dungeon)</a></li>
+                                    <li>
+                                      <a href="/page/Dr+Torsche%27s+Mansion+%28Dungeon%29" rel="5">Dr Torsche&#039;s Mansion (Dungeon)</a>
+                                      <ul>
+                                        <li><a href="/page/Dr+Torche%27s+Mansion%2C+Reception+Hall">Dr Torche&#039;s Mansion, Reception Hall</a></li>
+                                        <li><a href="/page/Dr+Torsche%27s+Mansion%2C+Savage+Garden">Dr Torsche&#039;s Mansion, Savage Garden</a></li>
+                                        <li><a href="/page/Dr+Torsche%27s+Mansion%2C+Grand+Library" class="current">Dr Torsche&#039;s Mansion, Grand Library</a></li>
+                                        <li><a href="/page/Dr+Torche%27s+Mansion%2C+Laboratory">Dr Torche&#039;s Mansion, Laboratory</a></li>
+                                        <li><a href="/page/Dr+Torche%27s+Mansion%2C+The+Forgotten+Area">Dr Torche&#039;s Mansion, The Forgotten Area</a></li>
+                                      </ul>
+                                    </li>
+                                    <li><a href="/page/Porto+Bello+%28Dungeon%29" rel="6">Porto Bello (Dungeon)</a></li>
+                                    <li><a href="/page/Prison+de+Joaquin+%28Dungeon%29" rel="7">Prison de Joaquin (Dungeon)</a></li>
+                                    <li><a href="/page/Rion+Dungeon+%28Dungeon%29" rel="2">Rion Dungeon (Dungeon)</a></li>
+                                    <li><a href="/page/Glacial+Fortress+%28Dungeon%29" rel="6">Glacial Fortress (Dungeon)</a></li>
+                                    <li><a href="/page/The+Skeleton+Dungeon+%28Dungeon%29" rel="6">The Skeleton Dungeon (Dungeon)</a></li>
+                                    <li><a href="/page/The+Tetra+Ruins+%28Dungeon%29" rel="6">The Tetra Ruins (Dungeon)</a></li>
+                                    <li><a href="/page/Titan%27s+Remorse+%28Dungeon%29">Titan&#039;s Remorse (Dungeon)</a></li>
+                                  </ul>
+                                </li>
+                              </ul>
+                            </li>
+                            <li><a href="/page/Monsters" rel="9">Monsters</a></li>
+                            <li><a href="/page/Quests" rel="45">Quests</a></li>
+                            <li><a href="/page/Raids" rel="16">Raids</a></li>
+                            <li><a href="/page/Pets">Pets</a></li>
+                            <li><a href="/page/UPCs" rel="3">UPCs</a></li>
+                            <li><a href="/page/Sword%27s+Fun+Facts" rel="7">Sword&#039;s Fun Facts</a></li>
+                            <li><a href="/page/Terminology">Terminology</a></li>
+                            <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                            <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="panelBase">
+                  <div id="navigationGrippy" title="drag to resize"></div>
+                </div>
+              </div>
+            </div>
+            <div id="newNavItem" style="display:none;">
+              <a id="newNavItemLink" name="newNavItemLink">new page</a>
+            </div>
+            <div id="uncategorizedItem" style="display:none;">
+              <a class="uncategorized" id="uncategorizedItemLink" name="uncategorizedItemLink">(Uncategorized)</a>
+            </div>
+            <script type="text/javascript">
+            //<![CDATA[
+            wetpaintLoad('scroller');
+            //]]>
+            </script>
+            <div class="ads adsleft">
+              <script type="text/javascript">
+              //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+              //]]>
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div id="footer">
+        <div id="createdWithContent" class="wetpaintBranding">
+          <img src="http://static.wetpaint.com/img/bg/1.png?v=20090831145704" alt="Create your own free Wetpaint site" width="123" height="77" />
+          <div style="text-align:center;padding-bottom:.5em">
+            start a free website
+          </div>
+        </div>
+        <ul>
+          <li class="first"><span><a rel="nofollow" href="/contact">Contact Wetpaint</a></span></li>
+          <li class="wetpaintBranding"><span>Wetpaint Blog</span></li>
+          <li><span>Help</span></li>
+          <li><span><a href="/sitemap">Sitemap</a></span></li>
+          <li><span>Feedback</span></li>
+          <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+          <li><span><a rel="nofollow" href="/terms">Terms of Use</a></span></li>
+        </ul>
+        <div id="promotedFooter">
+          <ul>
+            <li class="first footerText"><span>Other Sites:&nbsp;</span></li>
+            <li class="first"><span>Scribblenauts</span></li>
+            <li><span>Fracture Game Community</span></li>
+            <li><span>Little Big Planet</span></li>
+            <li><span>GunZ Wiki</span></li>
+            <li><span>Free Rider.</span></li>
+            <li class="first promotedViewMore wetpaintBranding"><span>View more Wetpaint sites.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  wetpaintLoad('application');
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  var s_account='wetpaintglobal,wetpaintmanaged';
+  //]]>
+  </script> 
+  <script type="text/javascript" id="trackScript" src="http://static.wetpaint.com/scripts/wpjsPage/s_w_code/x.js?v=20090831145704"></script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+  if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='sotnw - ' + document.title.split('-')[0];s_w.server='b17';s_w.channel='pageHistory';s_w.prop1='sotnw';s_w.prop2='2007-6-11';s_w.prop3='Games';s_w.prop4=location.hostname;s_w.prop8=(Math.round(398/100)*100/1000);s_w.prop8=(s_w.prop8<=8)?s_w.prop8.toString():"8+";s_w.prop10='Not Ad-free';s_w.prop11='anonymous';s_w.eVar1='sotnw';s_w.eVar2='2007-6-11';s_w.eVar3='Games';s_w.eVar4=location.hostname;s_w.eVar5=s_w.prop11;s_w.eVar6='';s_w.eVar7='anonymous';s_w.eVar9=(function(){var s='365+0d';return (s.indexOf('+')!=-1) ? s.substring(0,s.indexOf('+')) : s; })(); s_w.eVar10=s_w.channel;s_w.eVar11='registered';s_w.eVar12=(global_inits['SITES_COUNT']) ? global_inits['SITES_COUNT'] : "";s_w.eVar13='cyo';s_w.eVar15=s_w.prop10;var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}
+  //]]>
+  </script> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+  _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Gaming, Technology"}
+  //]]>
+  </script> <noscript></noscript> 
+  <script type="text/javascript">
+  //<![CDATA[
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: document.title },
+                        addthis_config = {
+                                services_compact : 'delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, email, slashdot, digg, buzz, reddit',
+                                ui_cobrand : 'Wetpaint'
+                                //ui_delay: 300 //as of 7/31/09 using this nulls the url parameter
+                        }
+  //]]>
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script> <noscript></noscript>
+  <div class="ads adstracking">
+    <script type="text/javascript">
+    //<![CDATA[
+                                
+                                if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.tracking);
+    //]]>
+    </script>
+  </div>
+</body>
+</html>

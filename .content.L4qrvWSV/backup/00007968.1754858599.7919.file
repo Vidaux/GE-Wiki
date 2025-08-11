@@ -1,0 +1,901 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Sitemap - Wiki of the New World</title>
+  <meta name="description" content="Wiki of the New World - Sitemap">
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/CSSApplication/wpc.css?v=20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/family/f.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/skin/deepred/s.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="screen, projection, tv">
+  /*<![CDATA[*/ @import "https://web.archive.org/web/20160111204810cs_/http://static.wikifoundry.com/scripts/wpcss/core/c.css?20111214172750"; /*]]>*/
+  </style>
+  <style type="text/css" media="print">
+  /*<![CDATA[*/ @import "http://static.wikifoundry.com/scripts/wpcss/print/p.css"; /*]]>*/
+  </style>
+  <script type="text/javascript">
+  //<![CDATA[
+        var global_inits = {"NAMESPACE" : 'sotnw',"WIKI_DISPLAY_NAME" : 'Wiki of the New World',"WIKI_URL" : 'http://swordofthenewworldwiki.com',"WIKI_URI" : '',"WIKI_BASE_URL" : 'http://static.wikifoundry.com'.replace(/^(http:\/\/)[^\.]+/,'$1sotnw'),"WIKI_HOMEPAGE_NAME" : 'Wiki Of The New World',"WIKI_HOMEPAGE_DISPLAY_NAME" : 'Home',"WIKI_SKIN" : 'deepred',"WIKI_STATUS" : '',"WIKI_IS_SCREENED" : 'false',"WIKI_IS_PRIVATE" : false,"WIKI_PERMS" : 'invited-regcomment',"WIKI_TOPIC" : 'Games',"PAGE_NAME" : '',"PAGE_URI" : '',"IMAGE_SERVER_URI" : 'http://image.wikifoundry.com',"STATIC_SERVER_URI" : 'http://static.wikifoundry.com',"WIDGET_SERVER_URI" : 'http://wikifoundrytools.com',"TOGO_SERVER_URI" : 'http://attached-wapi.wikifoundry.com',"ACCOUNT_URI" : '',"IS_LOGGED_IN" : false,"IS_JOINED_USER" : false,"IS_WETPAINT_USER" : false,"USER_NAME" : '',"IS_UBER_USER" : false,"ACCOUNT_NAME" : '',
+        "DISPLAY_TYPE" : '',"IS_READONLY" : false,"ACTION" : '',"SITES_COUNT" : 1,"WPC_ACTION" : '',"BREADCRUMBS" : []};
+  //]]>
+  </script>
+  <script type="text/javascript">
+  //<![CDATA[
+  window.WPC = {};
+  //]]>
+  </script>
+  <script src="http://dmiqhxtnnyjjh.cloudfront.net/www.js" type="text/javascript"></script>
+  <script type='text/javascript'>
+        var chan = "2934832778+";
+        var useBottom =  false;
+
+        
+                        chan += "2961509974+";
+                
+                chan += "7365032372+";
+        
+                        chan += "2211082779+";
+                chan += "8364087572"; 
+  </script>
+</head>
+<body>
+  <div id="WPC-controlElement" class="WPC"></div>
+  <script type="text/javascript">
+  //<![CDATA[            
+  WPCAPI.importStyleRules();
+  //]]>
+  </script>
+  <div id="controlContent"></div>
+  <div id="incompatibleBrowserMessage" class="browserWarning" style="display:none"></div>
+  <div id="WPC-bodyContentContainer">
+    <div id="allcontent">
+      <a name="top" id="top"></a>
+      <div id="allcontentInner" class="WPC-content">
+        <div id="userHeader">
+          <div id="userBrand">
+            <div id="userActions"></div>
+            <div id="userCredentials">
+              <ul class="uninitted off">
+                <li class="first" id="credentials_login">
+                  <div style="float:right; padding: 0 10px 0 10px">
+                    Sign in&nbsp;to wikis by WikiFoundry
+                  </div>
+                </li>
+                <li class="clear"></li>
+              </ul>
+            </div>
+            <div id="userUnsupportedBrowser" style="display: none;">
+              <img src="http://dmiqhxtnnyjjh.cloudfront.net/img/3rdparty/ie_logo.png" alt="IE Logo" width="17" height="18"><span>This version of Internet Explorer is no longer supported. Please try a current version of IE or Firefox.</span>
+            </div>
+          </div>
+        </div>
+        <div id="siteHeader">
+          <h1 id="WPC-title"><a href="/"><img src="http://image.wikifoundry.com/image/1/5EDENvwCdOsm39gUd0ktXA294074/GW1200H95" alt="Wiki of the New World" title="Wiki of the New World" id="headerImage"></a></h1>
+        </div>
+        <div id="gNav">
+          <ul id="gnMain">
+            <li class="first"><span><a href="/">Home</a></span></li>
+            <li class=""><span><a href="/forum">Discussions</a></span></li>
+            <li class=""><span><a href="/photos">Photos</a></span></li>
+            <li class=""><span><a href="/videos">Videos</a></span></li>
+            <li class=""><span><a href="/whatsnew">Updates</a></span></li>
+            <li class=""><span>Members</span></li>
+          </ul>
+          <div id="gnJoin">
+            <div class="content">
+              <div class="joinButtons">Sign in or <img src="http://static.wikifoundry.com/img/bg/1.png" class="signup-button"></div>
+            </div>
+          </div><br class="clear">
+        </div>
+        <div id="gnPromoLinks">
+          <ul></ul>
+          <div id="gnSearch">
+            <div id="siteSearch" class="searchForm">
+              <form method="get" action="/search" onsubmit="location.href=this.action+'/'+encodeURIComponent(this.elements['searchType'].value)+'/'+encodeURIComponent(this.elements['searchQuery'].value)+'?contains='+encodeURIComponent(this.elements['searchQuery'].value);return false;">
+                <input type="hidden" name="searchType" value="everything"> <input type="text" class="text" name="searchQuery" value="Search this site" onfocus="if( this.value == 'Search this site' ) this.value = ''; return true;"> <input type="submit" class="submit" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="adsTop">
+          <div class="ads adstopPromo">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.topPromo);
+            </script>
+          </div>
+          <div class="ads adstop">
+            <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.top);
+            </script>
+          </div>
+        </div>
+        <div id="outer">
+          <div id="pageContainer">
+            <div id="mainColumn">
+              <div id="pageContent">
+                <div id="pageContentInner">
+                  <div id="contentTitle">
+                    <h1>Sitemap</h1>
+                  </div>
+                  <p>If you're having difficulty finding what you're looking for consult the site map below or try our keyword search at the top left of the page.</p>
+                  <div style="font-weight:bold; font-size:1.2em; margin-bottom:0.2em">
+                    <a href="/" title="Wiki of the New World Home">Wiki of the New World Home</a>
+                  </div>
+                  <ul>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/About+SotNW-Wiki" title="About SotNW-Wiki" style="font-weight:bold">About SotNW-Wiki</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Clan%2FFaction" title="Clan/Faction" style="font-weight:bold">Clan/Faction</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Alliance+War" title="Alliance War">Alliance War</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Clan%2FFaction+Mission" title="Clan/Faction Mission">Clan/Faction Mission</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Colony+War" title="Colony War">Colony War</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Elections" title="Elections">Elections</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Faction+Fight" title="Faction Fight">Faction Fight</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Crafting%2FEnchanting%2FRefining" title="Crafting/Enchanting/Refining" style="font-weight:bold">Crafting/Enchanting/Refining</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Alchemy" title="Alchemy">Alchemy</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Crafting+Items" title="Crafting Items">Crafting Items</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Crafted+Recipe+Items" title="Crafted Recipe Items" style="font-style:italic">Crafted Recipe Items</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Katovic+Item+Production" title="Katovic Item Production" style="font-style:italic">Katovic Item Production</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Manufactured+%2F+Purchased+Crafting+Items" title="Manufactured / Purchased Crafting Items" style="font-style:italic">Manufactured / Purchased Crafting Items</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Ready+to+Use+Crafting+Items" title="Ready to Use Crafting Items" style="font-style:italic">Ready to Use Crafting Items</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Enchanting" title="Enchanting">Enchanting</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Equipment+Sockets" title="Equipment Sockets">Equipment Sockets</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rough+Stones+and+Jewels" title="Rough Stones and Jewels" style="font-style:italic">Rough Stones and Jewels</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Equipment+Upgrade" title="Equipment Upgrade">Equipment Upgrade</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Item+Manufacture" title="Item Manufacture">Item Manufacture</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Mineral+Refining" title="Mineral Refining">Mineral Refining</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Etretanium" title="Etretanium" style="font-style:italic">Etretanium</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Upgrade+new" title="Upgrade new">Upgrade new</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Game+Bosses" title="Game Bosses" style="font-weight:bold">Game Bosses</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Devil" title="Devil">Devil</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Dinosaur" title="Dinosaur">Dinosaur</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Golem" title="Golem">Golem</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Highlevel+Endgame" title="Highlevel Endgame">Highlevel Endgame</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Human" title="Human">Human</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Insect" title="Insect">Insect</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Plant" title="Plant">Plant</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Undead" title="Undead">Undead</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Unknown+game+boss" title="Unknown game boss">Unknown game boss</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Wild+Beast" title="Wild Beast">Wild Beast</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Game+Characters" title="Game Characters" style="font-weight:bold">Game Characters</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Adelina+Esperanza" title="Adelina Esperanza">Adelina Esperanza</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Adriana" title="Adriana">Adriana</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Alejandro" title="Alejandro">Alejandro</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Andre+de+Lou-Oshiba" title="Andre de Lou-Oshiba">Andre de Lou-Oshiba</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Andre+Janzur" title="Andre Janzur">Andre Janzur</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Angie+Shirley" title="Angie Shirley">Angie Shirley</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Ania" title="Ania">Ania</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Asoka" title="Asoka">Asoka</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Auch+Infantry" title="Auch Infantry">Auch Infantry</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Baek+Ho" title="Baek Ho">Baek Ho</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Barrel" title="Barrel">Barrel</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Battlefield+Claude" title="Battlefield Claude">Battlefield Claude</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Battlesmith+Idge" title="Battlesmith Idge">Battlesmith Idge</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Beatrice" title="Beatrice">Beatrice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Brunie+Etienne" title="Brunie Etienne">Brunie Etienne</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Cadet+Adriana" title="Cadet Adriana">Cadet Adriana</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Cadet+Elisa" title="Cadet Elisa">Cadet Elisa</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Calypso" title="Calypso">Calypso</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Captain+Adelina" title="Captain Adelina">Captain Adelina</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Catherine+of+Combat" title="Catherine of Combat">Catherine of Combat</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Catherine+Torsche" title="Catherine Torsche">Catherine Torsche</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Catherines" title="Catherines">Catherines</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Character+Attributes" title="Character Attributes">Character Attributes</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Character+Comparison" title="Character Comparison">Character Comparison</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Character+Promotion" title="Character Promotion">Character Promotion</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Character+Status+List" title="Character Status List">Character Status List</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Character+Trading" title="Character Trading">Character Trading</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Cherlyn" title="Cherlyn">Cherlyn</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Claire" title="Claire">Claire</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Class+Guides" title="Class Guides">Class Guides</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Elementalist+Guide" title="Elementalist Guide" style="font-style:italic">Elementalist Guide</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Fighter+Guide" title="Fighter Guide" style="font-style:italic">Fighter Guide</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Job+Combinations" title="Job Combinations" style="font-style:italic">Job Combinations</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Musketeer+Guide" title="Musketeer Guide" style="font-style:italic">Musketeer Guide</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Scout+Guide" title="Scout Guide" style="font-style:italic">Scout Guide</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/UPC+Guide" title="UPC Guide" style="font-style:italic">UPC Guide</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Wizard+Guide" title="Wizard Guide" style="font-style:italic">Wizard Guide</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Claude+Baudez" title="Claude Baudez">Claude Baudez</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Coimbran+Trooper" title="Coimbran Trooper">Coimbran Trooper</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Cruz" title="Cruz">Cruz</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Daria" title="Daria">Daria</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Eduardo+Gygax" title="Eduardo Gygax">Eduardo Gygax</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Elementalist" title="Elementalist">Elementalist</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Elisa" title="Elisa">Elisa</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Emilia+Giannino" title="Emilia Giannino">Emilia Giannino</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Emilia+the+Sage" title="Emilia the Sage">Emilia the Sage</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Eva+Sharon" title="Eva Sharon">Eva Sharon</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Fighter" title="Fighter">Fighter</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Friede+Beckerath" title="Friede Beckerath">Friede Beckerath</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Garcia+Gygax" title="Garcia Gygax">Garcia Gygax</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Gertrude+Peterson" title="Gertrude Peterson">Gertrude Peterson</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Grace+Bernelli" title="Grace Bernelli">Grace Bernelli</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Gracielo" title="Gracielo">Gracielo</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Grandice" title="Grandice">Grandice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Grenmah" title="Grenmah">Grenmah</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Hellena" title="Hellena">Hellena</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Heyran" title="Heyran">Heyran</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Idge+Imbrulia" title="Idge Imbrulia">Idge Imbrulia</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Illusion" title="Illusion">Illusion</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Inherent+Skill+List" title="Inherent Skill List">Inherent Skill List</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Ion" title="Ion">Ion</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Irawain" title="Irawain">Irawain</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Iron+Chef+Panfilo" title="Iron Chef Panfilo">Iron Chef Panfilo</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/J.D" title="J.D">J.D</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Jack+Shirley" title="Jack Shirley">Jack Shirley</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Jose+Cortasar" title="Jose Cortasar">Jose Cortasar</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Kano" title="Kano">Kano</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Kess+Kielce" title="Kess Kielce">Kess Kielce</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Kurt+Lyndon" title="Kurt Lyndon">Kurt Lyndon</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Lionel" title="Lionel">Lionel</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Lisa+Lynway" title="Lisa Lynway">Lisa Lynway</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Liung" title="Liung">Liung</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Lorch+Feurholden" title="Lorch Feurholden">Lorch Feurholden</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Ludin" title="Ludin">Ludin</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/M%27Boma" title="M&#039;Boma">M&#039;Boma</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Marchetti" title="Marchetti">Marchetti</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Mary" title="Mary">Mary</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Mia+Karjalain" title="Mia Karjalain">Mia Karjalain</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Mifuyu" title="Mifuyu">Mifuyu</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Montoro" title="Montoro">Montoro</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Musketeer" title="Musketeer">Musketeer</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Najib+Sharif" title="Najib Sharif">Najib Sharif</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Nar" title="Nar">Nar</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Natalie" title="Natalie">Natalie</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Nena" title="Nena">Nena</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Olivia" title="Olivia">Olivia</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Panfilo+de+Narvaez" title="Panfilo de Narvaez">Panfilo de Narvaez</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Points+at+Vet+and+Expert" title="Points at Vet and Expert">Points at Vet and Expert</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Queen+of+Pioneer%2C+Grandice" title="Queen of Pioneer, Grandice">Queen of Pioneer, Grandice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rachel+Sheffield" title="Rachel Sheffield">Rachel Sheffield</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Ralph" title="Ralph">Ralph</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Ramiro" title="Ramiro">Ramiro</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rascel" title="Rascel">Rascel</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Raven" title="Raven">Raven</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Reboldeaux+Soldier" title="Reboldeaux Soldier">Reboldeaux Soldier</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Reckless+Emilia" title="Reckless Emilia">Reckless Emilia</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rescue+Knight" title="Rescue Knight">Rescue Knight</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Revised+Character+Combination+Buff" title="Revised Character Combination Buff">Revised Character Combination Buff</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Character+Combination+Buff" title="Character Combination Buff" style="font-style:italic">Character Combination Buff</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Romina" title="Romina">Romina</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rosablanca" title="Rosablanca">Rosablanca</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rose%2C+The+Spirit" title="Rose, The Spirit">Rose, The Spirit</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Roth" title="Roth">Roth</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Scout" title="Scout">Scout</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Selane" title="Selane">Selane</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Selva+Norte" title="Selva Norte">Selva Norte</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sierra+Rose" title="Sierra Rose">Sierra Rose</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sir+Lyndon" title="Sir Lyndon">Sir Lyndon</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sirius+Rigel" title="Sirius Rigel">Sirius Rigel</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sniper+Bernelli" title="Sniper Bernelli">Sniper Bernelli</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Snowflake+Cherlyn" title="Snowflake Cherlyn">Snowflake Cherlyn</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Soho" title="Soho">Soho</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Soho+the+Fighter" title="Soho the Fighter">Soho the Fighter</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sorang" title="Sorang">Sorang</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Soso" title="Soso">Soso</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Spy+Olivia" title="Spy Olivia">Spy Olivia</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Tiburon" title="Tiburon">Tiburon</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Tora" title="Tora">Tora</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Valeria" title="Valeria">Valeria</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Valeria+Vendetta" title="Valeria Vendetta">Valeria Vendetta</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Veil" title="Veil">Veil</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Veronif" title="Veronif">Veronif</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Viki" title="Viki">Viki</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Vincent" title="Vincent">Vincent</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Vincent+Rio" title="Vincent Rio">Vincent Rio</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Prelude+Quest" title="Prelude Quest" style="font-style:italic">Prelude Quest</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Wizard" title="Wizard">Wizard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Yeganeh" title="Yeganeh">Yeganeh</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Game+Stances" title="Game Stances" style="font-weight:bold">Game Stances</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Aiming+Shot" title="Aiming Shot">Aiming Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Amicus" title="Amicus">Amicus</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Anathema" title="Anathema">Anathema</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Arbalest" title="Arbalest">Arbalest</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Avant+Garde" title="Avant Garde">Avant Garde</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Avant+Garde+of+Grim" title="Avant Garde of Grim">Avant Garde of Grim</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Back+Guard" title="Back Guard">Back Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Ballista" title="Ballista">Ballista</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Bard" title="Bard">Bard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Bareknuckle+v2" title="Bareknuckle v2">Bareknuckle v2</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Blandir+Cruz" title="Blandir Cruz">Blandir Cruz</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Cauchemar" title="Cauchemar">Cauchemar</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Close+Encounters" title="Close Encounters">Close Encounters</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Combatant" title="Combatant">Combatant</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Construction" title="Construction">Construction</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Defender" title="Defender">Defender</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Defending+Guard" title="Defending Guard">Defending Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Defending+Shot" title="Defending Shot">Defending Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Defensive+Construction" title="Defensive Construction">Defensive Construction</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Demolition+Burst" title="Demolition Burst">Demolition Burst</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Dobalada+Corte" title="Dobalada Corte">Dobalada Corte</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Domination+Fire" title="Domination Fire">Domination Fire</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Domination+Ice" title="Domination Ice">Domination Ice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Domination+Lightning" title="Domination Lightning">Domination Lightning</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Double-Gun+Shot" title="Double-Gun Shot">Double-Gun Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Elemental+Lord" title="Elemental Lord">Elemental Lord</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Epee+Garde" title="Epee Garde">Epee Garde</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Epee+Garde+of+Grim" title="Epee Garde of Grim">Epee Garde of Grim</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Epee+Glacier" title="Epee Glacier">Epee Glacier</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Escrima" title="Escrima">Escrima</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/ESP" title="ESP">ESP</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Evocation+Fire" title="Evocation Fire">Evocation Fire</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Evocation+Ice" title="Evocation Ice">Evocation Ice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Evocation+Lightning" title="Evocation Lightning">Evocation Lightning</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Expert+Stances" title="Expert Stances">Expert Stances</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Abyss" title="Abyss" style="font-style:italic">Abyss</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Arnis" title="Arnis" style="font-style:italic">Arnis</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Augury" title="Augury" style="font-style:italic">Augury</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Augury+%28Hellena%29" title="Augury (Hellena)" style="font-style:italic">Augury (Hellena)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Blitz+Assault" title="Blitz Assault" style="font-style:italic">Blitz Assault</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bloody+Feast" title="Bloody Feast" style="font-style:italic">Bloody Feast</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Croisement" title="Croisement" style="font-style:italic">Croisement</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Crusader" title="Crusader" style="font-style:italic">Crusader</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Cutlass" title="Cutlass" style="font-style:italic">Cutlass</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Darkness" title="Darkness" style="font-style:italic">Darkness</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Death+Chopping" title="Death Chopping" style="font-style:italic">Death Chopping</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Duel+Blaster" title="Duel Blaster" style="font-style:italic">Duel Blaster</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Efreet" title="Efreet" style="font-style:italic">Efreet</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Enhanced+Tactics" title="Enhanced Tactics" style="font-style:italic">Enhanced Tactics</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Equites" title="Equites" style="font-style:italic">Equites</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Flintlock" title="Flintlock" style="font-style:italic">Flintlock</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Frost" title="Frost" style="font-style:italic">Frost</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Furious" title="Furious" style="font-style:italic">Furious</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Gorgeous" title="Gorgeous" style="font-style:italic">Gorgeous</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Hanging+Guard" title="Hanging Guard" style="font-style:italic">Hanging Guard</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Hermetisme" title="Hermetisme" style="font-style:italic">Hermetisme</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Innocentio" title="Innocentio" style="font-style:italic">Innocentio</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Madness" title="Madness" style="font-style:italic">Madness</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Master+Martial+Arts" title="Master Martial Arts" style="font-style:italic">Master Martial Arts</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Occultism" title="Occultism" style="font-style:italic">Occultism</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Peltast" title="Peltast" style="font-style:italic">Peltast</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Phythonis" title="Phythonis" style="font-style:italic">Phythonis</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Prelude" title="Prelude" style="font-style:italic">Prelude</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Punisher" title="Punisher" style="font-style:italic">Punisher</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rapida+Espada" title="Rapida Espada" style="font-style:italic">Rapida Espada</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rapiere" title="Rapiere" style="font-style:italic">Rapiere</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rapiere+of+Grim" title="Rapiere of Grim" style="font-style:italic">Rapiere of Grim</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Secret+of+Moonlight" title="Secret of Moonlight" style="font-style:italic">Secret of Moonlight</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Semilunar" title="Semilunar" style="font-style:italic">Semilunar</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Shadow+Sting" title="Shadow Sting" style="font-style:italic">Shadow Sting</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Shining+Sting" title="Shining Sting" style="font-style:italic">Shining Sting</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Sniper" title="Sniper" style="font-style:italic">Sniper</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Superior+Blaster" title="Superior Blaster" style="font-style:italic">Superior Blaster</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Tempest" title="Tempest" style="font-style:italic">Tempest</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Tested+Burst" title="Tested Burst" style="font-style:italic">Tested Burst</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Tested+Guard" title="Tested Guard" style="font-style:italic">Tested Guard</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Therapy" title="Therapy" style="font-style:italic">Therapy</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Trance+Robo+stance+quest" title="Trance Robo stance quest" style="font-style:italic">Trance Robo stance quest</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Tronada+Cruz" title="Tronada Cruz" style="font-style:italic">Tronada Cruz</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Unlimited+Shot" title="Unlimited Shot" style="font-style:italic">Unlimited Shot</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Wanted+Shot" title="Wanted Shot" style="font-style:italic">Wanted Shot</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Flame+Guard" title="Flame Guard">Flame Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Forgotten+Magic" title="Forgotten Magic">Forgotten Magic</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Freestyle+Shot" title="Freestyle Shot">Freestyle Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Gigantic+Blaster" title="Gigantic Blaster">Gigantic Blaster</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Gigantic+Marksmanship" title="Gigantic Marksmanship">Gigantic Marksmanship</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Grim+Guard" title="Grim Guard">Grim Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Hack+and+Slash" title="Hack and Slash">Hack and Slash</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Heaven+and+Hell" title="Heaven and Hell">Heaven and Hell</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Heaven+or+Hell+of+Grim" title="Heaven or Hell of Grim">Heaven or Hell of Grim</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/High+Guard" title="High Guard">High Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/How+to+get+the+veteran+stance+books" title="How to get the veteran stance books">How to get the veteran stance books</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Hunting+Blaster" title="Hunting Blaster">Hunting Blaster</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Illusionist" title="Illusionist">Illusionist</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Incantation" title="Incantation">Incantation</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Install+Traps" title="Install Traps">Install Traps</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Kneeling+Shot" title="Kneeling Shot">Kneeling Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Levitation" title="Levitation">Levitation</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Low+Guard" title="Low Guard">Low Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Main+Gauche+Garde" title="Main Gauche Garde">Main Gauche Garde</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Main+Gauche+Garde+of+Grim" title="Main Gauche Garde of Grim">Main Gauche Garde of Grim</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Marionette" title="Marionette">Marionette</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Martial+Elements%3A+Earth" title="Martial Elements: Earth">Martial Elements: Earth</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Martial+Elements%3A+Fire" title="Martial Elements: Fire">Martial Elements: Fire</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Martial+Elements%3A+Ice" title="Martial Elements: Ice">Martial Elements: Ice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Martial+Elements%3A+Mind" title="Martial Elements: Mind">Martial Elements: Mind</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Martial+Elements%3A+Wind" title="Martial Elements: Wind">Martial Elements: Wind</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Medic" title="Medic">Medic</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Middle+Guard" title="Middle Guard">Middle Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Middle+Guard+of+Spirit" title="Middle Guard of Spirit">Middle Guard of Spirit</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Mighty+Cruz" title="Mighty Cruz">Mighty Cruz</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Minstrel" title="Minstrel">Minstrel</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Outrage+Shot" title="Outrage Shot">Outrage Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Penetrar+Cruz" title="Penetrar Cruz">Penetrar Cruz</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Plow+Guard" title="Plow Guard">Plow Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Possession+Fire" title="Possession Fire">Possession Fire</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Possession+Ice" title="Possession Ice">Possession Ice</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Possession+Lightning" title="Possession Lightning">Possession Lightning</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Psychokinesis" title="Psychokinesis">Psychokinesis</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Raid+Assault" title="Raid Assault">Raid Assault</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Roof+Guard" title="Roof Guard">Roof Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sabre+Garde" title="Sabre Garde">Sabre Garde</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sabre+Glacier" title="Sabre Glacier">Sabre Glacier</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sagitta" title="Sagitta">Sagitta</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Schiavona" title="Schiavona">Schiavona</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Serenade" title="Serenade">Serenade</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Shotgun+Blaster" title="Shotgun Blaster">Shotgun Blaster</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sidewinder" title="Sidewinder">Sidewinder</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Siege+Burst" title="Siege Burst">Siege Burst</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sight+Shot" title="Sight Shot">Sight Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Standing+Shot" title="Standing Shot">Standing Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Stave+Guard" title="Stave Guard">Stave Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Straight+Shot" title="Straight Shot">Straight Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Tactical+Assistance" title="Tactical Assistance">Tactical Assistance</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Tail+Guard" title="Tail Guard">Tail Guard</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Targan+Shot" title="Targan Shot">Targan Shot</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Testis" title="Testis">Testis</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Twin+Blades" title="Twin Blades">Twin Blades</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Twin+Blades+of+Spirit" title="Twin Blades of Spirit">Twin Blades of Spirit</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/GamersFirst" title="GamersFirst" style="font-weight:bold">GamersFirst</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/In-Game+Events" title="In-Game Events" style="font-weight:bold">In-Game Events</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/2010+Christmas+Event" title="2010 Christmas Event">2010 Christmas Event</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Boss+Events" title="Boss Events">Boss Events</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Find+the+AM" title="Find the AM">Find the AM</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/PVP+Tournaments" title="PVP Tournaments">PVP Tournaments</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Server+Timetable" title="Server Timetable">Server Timetable</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Fire+Isle+Treasure+Hunt" title="Fire Isle Treasure Hunt" style="font-style:italic">Fire Isle Treasure Hunt</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Spring+Fever+Festival" title="Spring Fever Festival">Spring Fever Festival</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/UPC+Day" title="UPC Day">UPC Day</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Instruction+Manual" title="Instruction Manual" style="font-weight:bold">Instruction Manual</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Char+V2" title="Char V2">Char V2</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Command+Shortcut+List" title="Command Shortcut List">Command Shortcut List</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Hints+%2F+Tips" title="Hints / Tips">Hints / Tips</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Active+Character+Leveling+with+Trinity+3+and+Jack%2FAngie" title="Active Character Leveling with Trinity 3 and Jack/Angie" style="font-style:italic">Active Character Leveling with Trinity 3 and Jack/Angie</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/New+Vis+Making+Guide" title="New Vis Making Guide" style="font-style:italic">New Vis Making Guide</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Power+Leveling" title="Power Leveling" style="font-style:italic">Power Leveling</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Private+Store" title="Private Store" style="font-style:italic">Private Store</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/The+Vis+Making+Guide" title="The Vis Making Guide" style="font-style:italic">The Vis Making Guide</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Machinima+Guide+%28Make+a+SoTnW+movie%21%29" title="Machinima Guide (Make a SoTnW movie!)">Machinima Guide (Make a SoTnW movie!)</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Terminology" title="Terminology">Terminology</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Items+%26+Equipment" title="Items &amp; Equipment" style="font-weight:bold">Items &amp; Equipment</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Accessories" title="Accessories">Accessories</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Belts" title="Belts" style="font-style:italic">Belts</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Earrings" title="Earrings" style="font-style:italic">Earrings</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Necklace" title="Necklace" style="font-style:italic">Necklace</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rings" title="Rings" style="font-style:italic">Rings</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Artifacts" title="Artifacts">Artifacts</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Bellem%27s+Box" title="Bellem&#039;s Box">Bellem&#039;s Box</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Cash+Shop+Items" title="Cash Shop Items">Cash Shop Items</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Feso" title="Feso" style="font-style:italic">Feso</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/OoPS+Boxes" title="OoPS Boxes" style="font-style:italic">OoPS Boxes</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Portmanteau+Boxes" title="Portmanteau Boxes" style="font-style:italic">Portmanteau Boxes</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Premium+Mystery+Boxes" title="Premium Mystery Boxes" style="font-style:italic">Premium Mystery Boxes</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Premium+Treasure+Chest+Service" title="Premium Treasure Chest Service" style="font-style:italic">Premium Treasure Chest Service</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Consumption+%2F+Misc+Items" title="Consumption / Misc Items">Consumption / Misc Items</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bullets" title="Bullets" style="font-style:italic">Bullets</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Exp+Cards" title="Exp Cards" style="font-style:italic">Exp Cards</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Food" title="Food" style="font-style:italic">Food</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/HP%2FSP+Potions" title="HP/SP Potions" style="font-style:italic">HP/SP Potions</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Keys" title="Keys" style="font-style:italic">Keys</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Other" title="Other" style="font-style:italic">Other</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Pose+Guides" title="Pose Guides" style="font-style:italic">Pose Guides</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Tools%2FSpecial+Items" title="Tools/Special Items" style="font-style:italic">Tools/Special Items</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Costumes" title="Costumes">Costumes</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Back" title="Back" style="font-style:italic">Back</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Body" title="Body" style="font-style:italic">Body</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Face" title="Face" style="font-style:italic">Face</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Hats" title="Hats" style="font-style:italic">Hats</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Crescemento+Series" title="Crescemento Series">Crescemento Series</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Guide+to+Pioneer+%2F+Ancestral+gear" title="Guide to Pioneer / Ancestral gear">Guide to Pioneer / Ancestral gear</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/High+End+Equipment" title="High End Equipment">High End Equipment</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/92+Veteran+Series" title="92 Veteran Series" style="font-style:italic">92 Veteran Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Angel+Series" title="Angel Series" style="font-style:italic">Angel Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Chess+Series" title="Chess Series" style="font-style:italic">Chess Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Constellation+Series" title="Constellation Series" style="font-style:italic">Constellation Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Deprodime+Series" title="Deprodime Series" style="font-style:italic">Deprodime Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Dragonic+Series" title="Dragonic Series" style="font-style:italic">Dragonic Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Dullahan+Series" title="Dullahan Series" style="font-style:italic">Dullahan Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Elemental+Gate+Series" title="Elemental Gate Series" style="font-style:italic">Elemental Gate Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Elite+Baron+Items+%28Level+92%29" title="Elite Baron Items (Level 92)" style="font-style:italic">Elite Baron Items (Level 92)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Elite+Series" title="Elite Series" style="font-style:italic">Elite Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Golden+Series" title="Golden Series" style="font-style:italic">Golden Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/High+End+Armor" title="High End Armor" style="font-style:italic">High End Armor</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Jewel+Series" title="Jewel Series" style="font-style:italic">Jewel Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Kobold+Series" title="Kobold Series" style="font-style:italic">Kobold Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Level+100+Weapons" title="Level 100 Weapons" style="font-style:italic">Level 100 Weapons</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Prison+Series" title="Prison Series" style="font-style:italic">Prison Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Serpent+Series" title="Serpent Series" style="font-style:italic">Serpent Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Strata+Demon+Series" title="Strata Demon Series" style="font-style:italic">Strata Demon Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Trump+Uniques" title="Trump Uniques" style="font-style:italic">Trump Uniques</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Werebear+Series" title="Werebear Series" style="font-style:italic">Werebear Series</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Werewolf+%26+Ogre+Series" title="Werewolf &amp; Ogre Series" style="font-style:italic">Werewolf &amp; Ogre Series</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Letizia+Shiny+Box" title="Letizia Shiny Box">Letizia Shiny Box</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Weapons" title="Weapons">Weapons</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/UPC-Only+Weapons" title="UPC-Only Weapons" style="font-style:italic">UPC-Only Weapons</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Leveling+Guide" title="Leveling Guide" style="font-weight:bold">Leveling Guide</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Manually+Update+and+Patch+Download" title="Manually Update and Patch Download" style="font-weight:bold">Manually Update and Patch Download</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Maps+and+Area+Info" title="Maps and Area Info" style="font-weight:bold">Maps and Area Info</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Cities" title="Cities">Cities</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/City+Amenities" title="City Amenities" style="font-style:italic">City Amenities</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/City+of+Auch" title="City of Auch" style="font-style:italic">City of Auch</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/El+Dorado" title="El Dorado" style="font-style:italic">El Dorado</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Gigante+Island" title="Gigante Island" style="font-style:italic">Gigante Island</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Los+Toldos" title="Los Toldos" style="font-style:italic">Los Toldos</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/New+Opoluto" title="New Opoluto" style="font-style:italic">New Opoluto</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Port+of+Coimbra" title="Port of Coimbra" style="font-style:italic">Port of Coimbra</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Reboldeaux" title="Reboldeaux" style="font-style:italic">Reboldeaux</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Ustiur+Base+Camp" title="Ustiur Base Camp" style="font-style:italic">Ustiur Base Camp</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Viron+%28Byron%29" title="Viron (Byron)" style="font-style:italic">Viron (Byron)</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Dungeons" title="Dungeons">Dungeons</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Al+Quelt+Moreza+%28Dungeon%29" title="Al Quelt Moreza (Dungeon)" style="font-style:italic">Al Quelt Moreza (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bahamar+Caves+%28Dungeon%29" title="Bahamar Caves (Dungeon)" style="font-style:italic">Bahamar Caves (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Capybara+Plantation+%28Dungeon%29" title="Capybara Plantation (Dungeon)" style="font-style:italic">Capybara Plantation (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Dr+Torsche%27s+Mansion+%28Dungeon%29" title="Dr Torsche&#039;s Mansion (Dungeon)" style="font-style:italic">Dr Torsche&#039;s Mansion (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Glacial+Fortress+%28Dungeon%29" title="Glacial Fortress (Dungeon)" style="font-style:italic">Glacial Fortress (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Oculta+Fortress+%28Dungeon%29" title="Oculta Fortress (Dungeon)" style="font-style:italic">Oculta Fortress (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Porto+Bello+%28Dungeon%29" title="Porto Bello (Dungeon)" style="font-style:italic">Porto Bello (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Prison+de+Joaquin+%28Dungeon%29" title="Prison de Joaquin (Dungeon)" style="font-style:italic">Prison de Joaquin (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rion+Dungeon+%28Dungeon%29" title="Rion Dungeon (Dungeon)" style="font-style:italic">Rion Dungeon (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/The+Skeleton+Dungeon+%28Dungeon%29" title="The Skeleton Dungeon (Dungeon)" style="font-style:italic">The Skeleton Dungeon (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/The+Tetra+Ruins+%28Dungeon%29" title="The Tetra Ruins (Dungeon)" style="font-style:italic">The Tetra Ruins (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Titan%27s+Remorse+%28Dungeon%29" title="Titan&#039;s Remorse (Dungeon)" style="font-style:italic">Titan&#039;s Remorse (Dungeon)</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Underground+Relics" title="Underground Relics" style="font-style:italic">Underground Relics</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/World+Map" title="World Map">World Map</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Zone+Features" title="Zone Features">Zone Features</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Ferruccio+Forges" title="Ferruccio Forges" style="font-style:italic">Ferruccio Forges</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Ferruccio%27s+Boxes" title="Ferruccio&#039;s Boxes" style="font-style:italic">Ferruccio&#039;s Boxes</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Hengestone+Locations" title="Hengestone Locations" style="font-style:italic">Hengestone Locations</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Tree+Stumps+of+Death" title="Tree Stumps of Death" style="font-style:italic">Tree Stumps of Death</a></li>
+                          </ul>
+                        </li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                          <a href="/page/Zones" title="Zones">Zones</a>
+                          <ul>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Abertal" title="Abertal" style="font-style:italic">Abertal</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bahamar%2C+Deep+Swamp" title="Bahamar, Deep Swamp" style="font-style:italic">Bahamar, Deep Swamp</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bahamar%2C+Marsh" title="Bahamar, Marsh" style="font-style:italic">Bahamar, Marsh</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bahamar%2C+Murky+Bayou" title="Bahamar, Murky Bayou" style="font-style:italic">Bahamar, Murky Bayou</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bahamar%2C+Wetlands" title="Bahamar, Wetlands" style="font-style:italic">Bahamar, Wetlands</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Bonavista+River" title="Bonavista River" style="font-style:italic">Bonavista River</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Caebolan" title="Caebolan" style="font-style:italic">Caebolan</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Cathari+Falls" title="Cathari Falls" style="font-style:italic">Cathari Falls</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Colony+Battle+Arena" title="Colony Battle Arena" style="font-style:italic">Colony Battle Arena</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Deprimida+Valley" title="Deprimida Valley" style="font-style:italic">Deprimida Valley</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/El+Canon+de+Diabolica" title="El Canon de Diabolica" style="font-style:italic">El Canon de Diabolica</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/El+Lago+de+Tres+Hermanas" title="El Lago de Tres Hermanas" style="font-style:italic">El Lago de Tres Hermanas</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/El+Ruina+de+Memoria" title="El Ruina de Memoria" style="font-style:italic">El Ruina de Memoria</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/El+Tejado+Verde" title="El Tejado Verde" style="font-style:italic">El Tejado Verde</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Errac+Tierra+Dias" title="Errac Tierra Dias" style="font-style:italic">Errac Tierra Dias</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Errac+Tierra+Noche" title="Errac Tierra Noche" style="font-style:italic">Errac Tierra Noche</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Ferruccio+Wall" title="Ferruccio Wall" style="font-style:italic">Ferruccio Wall</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Ferrucio+Junction" title="Ferrucio Junction" style="font-style:italic">Ferrucio Junction</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Fire+Isle" title="Fire Isle" style="font-style:italic">Fire Isle</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Frozen+Waste" title="Frozen Waste" style="font-style:italic">Frozen Waste</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Gigante+Beach" title="Gigante Beach" style="font-style:italic">Gigante Beach</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Glacial+Fortress%2C+Forecourt" title="Glacial Fortress, Forecourt" style="font-style:italic">Glacial Fortress, Forecourt</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Jezebel+Glen" title="Jezebel Glen" style="font-style:italic">Jezebel Glen</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Joaquin+Crater" title="Joaquin Crater" style="font-style:italic">Joaquin Crater</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Katovic+Snowfield" title="Katovic Snowfield" style="font-style:italic">Katovic Snowfield</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/King%27s+Garden" title="King&#039;s Garden" style="font-style:italic">King&#039;s Garden</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Lago+Celeste" title="Lago Celeste" style="font-style:italic">Lago Celeste</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Land+of+the+Dead" title="Land of the Dead" style="font-style:italic">Land of the Dead</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Old+Port+of+Coimbra" title="Old Port of Coimbra" style="font-style:italic">Old Port of Coimbra</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Porto+Bello%2C+Deserted+Quay" title="Porto Bello, Deserted Quay" style="font-style:italic">Porto Bello, Deserted Quay</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Porto+Bello%2C+Desolate+Cliff" title="Porto Bello, Desolate Cliff" style="font-style:italic">Porto Bello, Desolate Cliff</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Pradera+de+Ceniza" title="Pradera de Ceniza" style="font-style:italic">Pradera de Ceniza</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Reboldeaux%2C+Stone+Pit" title="Reboldeaux, Stone Pit" style="font-style:italic">Reboldeaux, Stone Pit</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rio+Albi" title="Rio Albi" style="font-style:italic">Rio Albi</a></li>
+                            <li style="margin-bottom:0.2em; margin-top:0.1em;"><a href="/page/Rion+Prairie" title="Rion Prairie" style="font-style:italic">Rion Prairie</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Miscellaneous" title="Miscellaneous" style="font-weight:bold">Miscellaneous</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/NEWEST+UPDATES" title="NEWEST UPDATES" style="font-weight:bold">NEWEST UPDATES</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/News+Archive" title="News Archive" style="font-weight:bold">News Archive</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Patch+v5.0+Changes" title="Patch v5.0 Changes">Patch v5.0 Changes</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Pets" title="Pets" style="font-weight:bold">Pets</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Beginner+Pet+Coco" title="Beginner Pet Coco">Beginner Pet Coco</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Cash+Shop+Pets" title="Cash Shop Pets">Cash Shop Pets</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Elephant+Pet" title="Elephant Pet">Elephant Pet</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Loot+%2B+Exp+Pets" title="Loot + Exp Pets">Loot + Exp Pets</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rudolph" title="Rudolph">Rudolph</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/The+Black+Dragon+Pet" title="The Black Dragon Pet">The Black Dragon Pet</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Tiger+Pets" title="Tiger Pets">Tiger Pets</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/PvP" title="PvP" style="font-weight:bold">PvP</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Baron+mode+-+items" title="Baron mode - items">Baron mode - items</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Dueling+%26+PvP+Rooms" title="Dueling &amp; PvP Rooms">Dueling &amp; PvP Rooms</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Quests" title="Quests" style="font-weight:bold">Quests</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Armonia+Holy+City+Questline" title="Armonia Holy City Questline">Armonia Holy City Questline</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Bahamar+Expedition" title="Bahamar Expedition">Bahamar Expedition</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Kielce+Questline" title="Kielce Questline">Kielce Questline</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Kielce%27s+Friendship+Questline" title="Kielce&#039;s Friendship Questline">Kielce&#039;s Friendship Questline</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Other+Quest" title="Other Quest">Other Quest</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Pioneering+Quests" title="Pioneering Quests">Pioneering Quests</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Quest%3A+Walkthrough" title="Quest: Walkthrough">Quest: Walkthrough</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Repeatable+Quest" title="Repeatable Quest">Repeatable Quest</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Return+of+the+heroes" title="Return of the heroes">Return of the heroes</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Viron+Clocktower" title="Viron Clocktower">Viron Clocktower</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Viron+Quests" title="Viron Quests">Viron Quests</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Raids" title="Raids" style="font-weight:bold">Raids</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Boss-Only+Raids" title="Boss-Only Raids">Boss-Only Raids</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Instanced+Raids" title="Instanced Raids">Instanced Raids</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Mission+Lobbies" title="Mission Lobbies">Mission Lobbies</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/PvP+Enabled+Raids" title="PvP Enabled Raids">PvP Enabled Raids</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Raid+Point+System" title="Raid Point System">Raid Point System</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Raids+v2" title="Raids v2">Raids v2</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Zone%2FArea+Raids" title="Zone/Area Raids">Zone/Area Raids</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/SotNW-Wiki+Directory" title="SotNW-Wiki Directory" style="font-weight:bold">SotNW-Wiki Directory</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Sword+of+the+New+World+Soundtrack" title="Sword of the New World Soundtrack" style="font-weight:bold">Sword of the New World Soundtrack</a></li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/Sword%27s+Fun+Facts" title="Sword&#039;s Fun Facts" style="font-weight:bold">Sword&#039;s Fun Facts</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Andre" title="Andre">Andre</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Everybody+likes+Trivia" title="Everybody likes Trivia">Everybody likes Trivia</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Master+Fritz+has+an+identity+crisis." title="Master Fritz has an identity crisis.">Master Fritz has an identity crisis.</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Mboma" title="Mboma">Mboma</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Murphy%27s+Laws+of+the+New+World" title="Murphy&#039;s Laws of the New World">Murphy&#039;s Laws of the New World</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Rafflesia" title="Rafflesia">Rafflesia</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Real+Baek+Ho" title="Real Baek Ho">Real Baek Ho</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Talt" title="Talt">Talt</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;">
+                      <a href="/page/The+Barracks" title="The Barracks" style="font-weight:bold">The Barracks</a>
+                      <ul>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Experience" title="Experience">Experience</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Family+Attribute" title="Family Attribute">Family Attribute</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Family+Level" title="Family Level">Family Level</a></li>
+                        <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Family+Reputation" title="Family Reputation">Family Reputation</a></li>
+                      </ul>
+                    </li>
+                    <li style="margin-bottom:0.3em; margin-top:0.2em;"><a href="/page/Wiki+needs+you" title="Wiki needs you" style="font-weight:bold">Wiki needs you</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div id="leftColumn">
+              <noscript><br>
+              <div class="browserWarning small">
+                JavaScript must be enabled in order for you to contribute to this site.<br>
+                To start contributing, enable JavaScript by changing your browser options, then&nbsp;<a href="javascript:location.replace(location.href)">try again</a>.
+              </div></noscript>
+              <div id="drillDownSiteNavigation" class="panel">
+                <div class="panelContent">
+                  <div id="leftDrillDownSiteNavigation">
+                    <div id="treeNavScroller">
+                      <div id="leftNavTree" class="treeList">
+                        <ul id="rootUl">
+                          <li>
+                            <a href="/" id="navHome" class="root">Home</a>
+                            <ul>
+                              <li><a href="/page/About+SotNW-Wiki">About SotNW-Wiki</a></li>
+                              <li><a href="/page/SotNW-Wiki+Directory">SotNW-Wiki Directory</a></li>
+                              <li><a href="/page/NEWEST+UPDATES">NEWEST UPDATES</a></li>
+                              <li><a href="/page/Quests" rel="11">Quests</a></li>
+                              <li><a href="/page/Game+Characters" rel="119">Game Characters</a></li>
+                              <li><a href="/page/Game+Stances" rel="93">Game Stances</a></li>
+                              <li><a href="/page/Maps+and+Area+Info" rel="5">Maps and Area Info</a></li>
+                              <li><a href="/page/Game+Bosses" rel="10">Game Bosses</a></li>
+                              <li><a href="/page/Raids" rel="7">Raids</a></li>
+                              <li><a href="/page/Clan%2FFaction" rel="5">Clan/Faction</a></li>
+                              <li><a href="/page/PvP" rel="2">PvP</a></li>
+                              <li><a href="/page/Crafting%2FEnchanting%2FRefining" rel="8">Crafting/Enchanting/Refining</a></li>
+                              <li><a href="/page/Items+%26+Equipment" rel="11">Items &amp; Equipment</a></li>
+                              <li><a href="/page/In-Game+Events" rel="7">In-Game Events</a></li>
+                              <li><a href="/page/The+Barracks" rel="4">The Barracks</a></li>
+                              <li><a href="/page/Pets" rel="7">Pets</a></li>
+                              <li><a href="/page/Instruction+Manual" rel="5">Instruction Manual</a></li>
+                              <li><a href="/page/Sword+of+the+New+World+Soundtrack">Sword of the New World Soundtrack</a></li>
+                              <li><a href="/page/Sword%27s+Fun+Facts" rel="8">Sword&#039;s Fun Facts</a></li>
+                              <li><a href="/page/News+Archive" rel="1">News Archive</a></li>
+                              <li><a href="/page/Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="/page/Manually+Update+and+Patch+Download">Manually Update and Patch Download</a></li>
+                              <li><a href="/page/GamersFirst">GamersFirst</a></li>
+                              <li><a href="/page/Leveling+Guide">Leveling Guide</a></li>
+                              <li><a href="/page/Wiki+needs+you">Wiki needs you</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panelBase">
+                    <div id="navigationGrippy" title="drag to resize"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="newNavItem" style="display:none;">
+                <a id="newNavItemLink">new page</a>
+              </div>
+              <div id="uncategorizedItem" style="display:none;">
+                <a class="uncategorized" id="uncategorizedItemLink">(Uncategorized)</a>
+              </div>
+              <script type="text/javascript">
+              wetpaintLoad('scroller');
+              </script> 
+              <script type='text/javascript'>
+
+
+
+                chan += "+2122185573";
+              chan += "+7165357175"; 
+              </script>
+              <center>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px; margin-top: 15px;" data-ad-client="ca-pub-8928680931862603" data-color-border="#FFFFFF" data-ad-slot="6118958377"></ins> 
+                <script>
+
+
+                (adsbygoogle = window.adsbygoogle || []).push({ params: { google_ad_channel: chan }});
+                </script>
+              </center>
+              <div class="ads adsleft">
+                <script type="text/javascript">
+                        
+                        if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.left);
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+          <div id="createdWithContent">
+            <div style="text-align:center;padding-bottom:.5em">
+              start a free website
+            </div>
+          </div>
+          <ul>
+            <li class="first footerText"><span>WikiFoundry</span></li>
+            <li><span><a rel="nofollow" href="/contact">Contact Us</a></span></li>
+            <li><span>Help</span></li>
+            <li><span><a href="/sitemap">Sitemap</a></span></li>
+            <li><span><a rel="nofollow" href="/privacy">Privacy</a></span></li>
+            <li><span><a rel="nofollow" href="/terms">Terms of Service</a></span></li>
+            <li><span>Twitter</span></li>
+            <li><span>Facebook</span></li>
+          </ul>
+          <div id="promotedFooter"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  wetpaintLoad('application');
+  </script> 
+  <script type="text/javascript">
+
+
+                var addthis_share = { url: (location.href.replace(location.search,'')+'?zone=addthis'), title: WPC.StringUtility.encodeHTML(document.title) }
+                var     addthis_config = {
+                                services_compact : 'email, delicious, stumbleupon, facebook, twitter, myspace, favorites, google, live, yahoobkm, more',
+                                services_exclude : 'print, slashdot, digg, buzz, reddit',
+                                ui_delay: 300,
+                                ui_cobrand : '',
+                                data_track_clickback: true
+                        }
+  </script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wetpaint1"></script>
+</body>
+</html>
